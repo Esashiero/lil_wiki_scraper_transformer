@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backups
+*.bak
+*~
+
+# Local project output
+/Events/
+*.json
+
+# Ignore the "gitignore" folder itself
+gitignore/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Termux / editor stuff
+*.swp
+*.swo
