@@ -15,10 +15,10 @@ from transformer import transform_event_html_to_json
 # The category is used as a fallback if a more specific one isn't found.
 SEED_URLS = {
    # 'Main_Events': 'https://lessonsinlove.wiki/index.php?title=Main_Events',
-    'Character_Events': 'https://lessonsinlove.wiki/index.php?title=Character_Events_(Side)',
+   # 'Character_Events': 'https://lessonsinlove.wiki/index.php?title=Character_Events_(Side)',
     # You can add the other character pages here; they will all be sorted correctly
     # 'Character_Events_F2': 'https://lessonsinlove.wiki/index.php?title=Character_Events_(Floor_Two)',
-    # 'Character_Events_F1': 'https://lessonsinlove.wiki/index.php?title=Character_Events_(Floor_One)',
+    'Character_Events_F1': 'https://lessonsinlove.wiki/index.php?title=Character_Events_(Floor_One)',
 }
 
 OUTPUT_BASE_DIR = 'output'
@@ -26,9 +26,10 @@ MAX_WORKERS = 10
 
 # --- Helper Functions ---
 
+# In crawler.py, replace the existing get_event_urls function with this one.
+
 def get_event_urls(list_page_url: str) -> set[str]:
     """Scrapes a list page to find all unique, clean event URLs."""
-    # This function remains largely the same and is effective.
     print(f"Discovering event URLs from: {list_page_url}")
     urls = set()
     try:
@@ -37,11 +38,19 @@ def get_event_urls(list_page_url: str) -> set[str]:
         soup = BeautifulSoup(response.text, 'html.parser')
         content_area = soup.find(id='mw-content-text')
         if not content_area: return set()
+        
         for link in content_area.find_all('a', href=True):
             clean_url, _ = urldefrag(link['href'])
             full_url = urljoin(list_page_url, clean_url)
-            if 'index.php?title=' in full_url and 'action=edit' not in full_url and 'Category:' not in full_url:
+            
+            # --- UPDATED FILTER LOGIC ---
+            # Exclude non-event pages more robustly
+            if ('index.php?title=' in full_url and 
+                'action=edit' not in full_url and 
+                'Category:' not in full_url and
+                'Template:' not in full_url): # <-- This is the new condition
                 urls.add(full_url)
+                
         print(f"Found {len(urls)} unique event URLs.")
         return urls
     except requests.exceptions.RequestException as e:
