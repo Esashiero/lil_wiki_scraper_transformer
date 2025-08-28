@@ -34,7 +34,7 @@ def process_and_discover(url: str, title_hint: str) -> dict:
     Returns a dictionary with processed data and discovered links.
     """
     try:
-        time.sleep(0.1) # Be gentle on the server
+        time.sleep(1) # Be gentle on the server
         response = requests.get(url, timeout=20)
         response.raise_for_status()
         
@@ -50,7 +50,7 @@ def process_and_discover(url: str, title_hint: str) -> dict:
         category_folder = "Main_Events"
         output_dir = os.path.join(OUTPUT_BASE_DIR, category_folder)
         os.makedirs(output_dir, exist_ok=True)
-        
+
         output_filename = f"{sanitize_filename(event_title)}.json"
         output_path = os.path.join(output_dir, output_filename)
         
@@ -93,7 +93,7 @@ def main():
     
     to_visit = deque([seed_event_title])
     visited_titles = set()
-    
+
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         while to_visit:
             futures = {}
@@ -102,7 +102,7 @@ def main():
                 current_title = to_visit.popleft()
                 if not current_title or current_title in visited_titles:
                     continue
-                
+
                 visited_titles.add(current_title)
                 url = title_to_url(current_title)
                 future = executor.submit(process_and_discover, url, current_title)
@@ -123,7 +123,7 @@ def main():
                     print(f"[SKIP] Already exists: {result.get('title')}")
                 elif status == "error":
                     print(f"[ERROR] Failed to process '{result.get('title')}'. Reason: {result.get('reason')}")
-                
+
                 # Add newly discovered events to the queue for the next batch
                 for key in ["prev_event", "next_event"]:
                     discovered_title = result.get(key)

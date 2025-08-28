@@ -2,6 +2,7 @@ import os
 import json
 from dataclasses import dataclass, fields
 from typing import List, Dict, Any, Optional
+from thefuzz import process as fuzz_process
 
 # --- Configuration ---
 MAIN_EVENTS_DIR = os.path.join('output', 'Main_Events')
@@ -96,8 +97,15 @@ def main():
                 break
 
             current_event = events_by_title.get(next_title)
-            if not current_event:
-                print(f"  -> Chain broken: Event '{current_chain[-1].event_title}' points to '{next_title}', which was not found.")
+
+            # If direct match fails, try fuzzy matching for typos
+            if not current_event and next_title:
+                best_match = fuzz_process.extractOne(next_title, all_main_event_titles)
+                if best_match and best_match[1] > 90: # Using a 90% confidence threshold
+                    print(f"  -> Fuzzy-matched '{next_title}' to '{best_match[0]}' (Confidence: {best_match[1]}%)")
+                    current_event = events_by_title.get(best_match[0])
+                else:
+                    print(f"  -> Chain broken: Event '{current_chain[-1].event_title}' points to '{next_title}', which was not found.")
 
         full_timeline.extend(current_chain)
 
