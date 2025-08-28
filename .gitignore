@@ -9,6 +9,7 @@ __pycache__/
 
 # Ignore the "gitignore" folder itself
 gitignore/
+output/
 
 # OS cruft
 .DS_Store
