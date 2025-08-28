@@ -33,9 +33,7 @@
     "technical_information": {
         "event_references": {
             "event_default_name": "Something Everyone Knows and Ignores",
-            "event_script_names": [
-                "kindergartenclass"
-            ],
+            "event_script_names": "kindergartenclass",
             "event_missed_name": "LET ME OUT"
         },
         "backgrounds": [
@@ -47,10 +45,6 @@
         "changelog": [
             "This Event was added in Update .18p2."
         ]
-    },
-    "navigation": {
-        "previous_event": null,
-        "next_event": null
     },
     "secret_information": {
         "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
@@ -110,5 +104,9 @@
                 "appearance": "12. ???? :)"
             }
         ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
     }
 }

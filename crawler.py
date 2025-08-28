@@ -29,37 +29,56 @@ MAX_WORKERS = 10
 def get_all_event_urls_from_category(start_url: str) -> set[str]:
     """
     Scrapes a category page and all its subsequent pages ("next page") to find
-    all unique event URLs within the div.mw-category container.
+    all unique event URLs. This version is more robust.
     """
     urls = set()
     current_page_url = start_url
-    is_first_page = True
+    page_count = 0
 
     while current_page_url:
-        # Only print the starting URL, not every paginated one, to reduce noise.
-        if is_first_page:
-            print(f"  Discovering URLs from: {current_page_url}")
-            is_first_page = False
-        
+        page_count += 1
+        print(f"  Scraping category page {page_count}: {current_page_url}")
+
         try:
             response = requests.get(current_page_url)
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
 
-            category_container = soup.find('div', class_='mw-category')
-            if category_container:
-                links = category_container.find_all('a', href=True)
-                for link in links:
-                    full_url = urljoin(current_page_url, link['href'])
-                    title_part = full_url.split('title=', 1)[-1]
-                    if 'action=edit' not in full_url and 'Category:' not in title_part:
-                        urls.add(urldefrag(full_url)[0])
+            # MediaWiki category pages place the list of pages and pagination links within this div.
+            content_div = soup.find('div', id='mw-pages')
+            if not content_div:
+                # Fallback to the original container if mw-pages is not found
+                content_div = soup.find('div', class_='mw-category-generated')
+                if not content_div:
+                    print(f"  [WARNING] Could not find a suitable content container on {current_page_url}. Stopping scrape for this category.")
+                    break
 
-            next_page_link = soup.find('a', string='next page')
-            if next_page_link:
+            # Find all links within this container.
+            links = content_div.find_all('a', href=True)
+            found_on_page = 0
+            for link in links:
+                full_url = urljoin(current_page_url, link['href'])
+                
+                # Filter out non-event links like 'next page', 'edit', or sub-categories.
+                if '/index.php?title=' in full_url and 'action=edit' not in full_url:
+                    title_part = full_url.split('title=', 1)[-1]
+                    if 'Category:' not in title_part:
+                        clean_url = urldefrag(full_url)[0]
+                        if clean_url not in urls:
+                            urls.add(clean_url)
+                            found_on_page += 1
+            
+            if found_on_page > 0:
+                print(f"    -> Found {found_on_page} new event URLs.")
+
+            # Find the 'next page' link specifically within the same content div.
+            next_page_link = content_div.find('a', string='next page')
+            
+            if next_page_link and next_page_link.get('href'):
+                # The href is relative, so we join it with the base start_url.
                 current_page_url = urljoin(start_url, next_page_link['href'])
             else:
-                current_page_url = None
+                current_page_url = None # End of pagination
 
         except requests.exceptions.RequestException as e:
             print(f"  [ERROR] An error occurred while fetching {current_page_url}: {e}")

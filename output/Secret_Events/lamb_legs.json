@@ -23,9 +23,7 @@
     "technical_information": {
         "event_references": {
             "event_default_name": "Lamb Legs",
-            "event_script_names": [
-                "specialbonusamiscene"
-            ],
+            "event_script_names": "specialbonusamiscene",
             "event_missed_name": "Ground Into Nothing"
         },
         "backgrounds": [
@@ -38,12 +36,12 @@
             "This Event was added in Update 0.23p2."
         ]
     },
-    "navigation": {
-        "previous_event": null,
-        "next_event": null
-    },
     "secret_information": {
         "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
         "translations": []
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
     }
 }

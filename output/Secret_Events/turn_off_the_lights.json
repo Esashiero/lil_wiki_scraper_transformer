@@ -27,9 +27,7 @@
     "technical_information": {
         "event_references": {
             "event_default_name": "Turn Off The Lights",
-            "event_script_names": [
-                "specialclassroom"
-            ],
+            "event_script_names": "specialclassroom",
             "event_missed_name": "List the Things You Love"
         },
         "backgrounds": [
@@ -42,10 +40,6 @@
         "changelog": [
             "This Event was added in Update 0.6."
         ]
-    },
-    "navigation": {
-        "previous_event": null,
-        "next_event": null
     },
     "secret_information": {
         "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
@@ -117,5 +111,9 @@
                 "appearance": "Written on the board in 6. ???? :)"
             }
         ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
     }
 }

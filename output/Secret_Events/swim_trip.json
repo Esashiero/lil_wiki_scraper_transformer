@@ -28,9 +28,7 @@
     "technical_information": {
         "event_references": {
             "event_default_name": "Swim Trip",
-            "event_script_names": [
-                "swimming"
-            ],
+            "event_script_names": "swimming",
             "event_missed_name": "You Don't Love Me, Do You?"
         },
         "backgrounds": [
@@ -43,12 +41,12 @@
             "This Event was added in Update 0.3."
         ]
     },
-    "navigation": {
-        "previous_event": null,
-        "next_event": null
-    },
     "secret_information": {
         "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
         "translations": []
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
     }
 }
