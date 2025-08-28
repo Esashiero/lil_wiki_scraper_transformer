@@ -1,0 +1,31 @@
+{
+    "event_id": "events",
+    "event_title": "Events",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Events",
+    "event_type": null,
+    "primary_character": null,
+    "chapter": null,
+    "interactivity": {
+        "requirements": null,
+        "to_get_this_event": null,
+        "to_miss_this_event": null,
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [],
+        "synopsis": null,
+        "participating_characters": [],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {},
+        "backgrounds": [],
+        "music_tracks": [],
+        "changelog": []
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    }
+}

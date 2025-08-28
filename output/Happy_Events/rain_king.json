@@ -1,0 +1,97 @@
+{
+    "event_id": "rain_king",
+    "event_title": "Rain King",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Rain_King",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "Eighteenth",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Enter the password to Ami's laptop during Times New Roman . This event belongs to a chain started from Eggside Octopus .",
+        "to_miss_this_event": "Fail to enter the password to Ami's laptop before finishing Times New Roman . Replaced by Drought God",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Bus Stop",
+            "Class",
+            "Kumon-Mi High - Classroom",
+            "Sensei's House - Sensei's Bedroom",
+            "Yuu's House - Yuu's Bedroom"
+        ],
+        "synopsis": "Having accessed her laptop, Ami speaks to Sensei about various things, some of which resemble experiences he's had before. The topics include the following: After a trip to an unfamiliar home, Ami tells Sensei to not try and escape his home , assuring him he'll be safe if he remains trapped.",
+        "participating_characters": [
+            "Sekai Arakawa",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Rain King",
+            "event_script_names": "rainking",
+            "event_missed_name": "Drought God"
+        },
+        "backgrounds": [
+            "rainking",
+            "itneverends"
+        ],
+        "music_tracks": [
+            "snowchildren.mp3",
+            "lessons.mp3",
+            "normalday.mp3",
+            "strawberry.mp3",
+            "amiamiami.mp3",
+            "crazy1.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.35."
+        ]
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": [
+            {
+                "value": "疲れた。︀ (tsukareta)",
+                "type": "Japanese (Romanji)",
+                "translation": "I'm tired",
+                "appearance": "Rain King"
+            },
+            {
+                "value": "雨 は 止まない。︀ (ame wa yamanai)",
+                "type": "Japanese (Romanji)",
+                "translation": "The rain never stops.",
+                "appearance": "Rain King"
+            },
+            {
+                "value": "痛み は 止まない。︀ (Itami wa yamanai)",
+                "type": "Japanese (Romanji)",
+                "translation": "The pain never stops.",
+                "appearance": "Rain King"
+            },
+            {
+                "value": "自分 は 鏡 だよ。︀ (jibun wa kagami dayo)",
+                "type": "Japanese (Romanji)",
+                "translation": "I am a mirror.",
+                "appearance": "Rain King"
+            },
+            {
+                "value": "ね。︀。︀。︀ (ne...)",
+                "type": "Japanese (Romanji)",
+                "translation": "am i okay",
+                "appearance": "Rain King"
+            },
+            {
+                "value": "壊して くれ。︀ (kowashite kure)",
+                "type": "Japanese (Romanji)",
+                "translation": "Please, destroy me.",
+                "appearance": "Rain King"
+            }
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    }
+}

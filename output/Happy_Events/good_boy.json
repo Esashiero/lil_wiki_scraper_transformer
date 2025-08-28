@@ -1,0 +1,47 @@
+{
+    "event_id": "good_boy",
+    "event_title": "Good Boy",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Good_Boy",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "Thirteenth",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" The Place She Falls Asleep At Night \" from Sara Sakakibara",
+        "to_get_this_event": "Choose \"Wait until morning\" during an afternoon after seeing The Place She Falls Asleep At Night .",
+        "to_miss_this_event": "Not having a relationship with Sara before The Place She Falls Asleep At Night . Replaced by Bad Boy .",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            ""
+        ],
+        "synopsis": "",
+        "participating_characters": [],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Good Boy",
+            "event_script_names": "goodboy",
+            "event_missed_name": "Bad Boy"
+        },
+        "backgrounds": [
+            "goodboy"
+        ],
+        "music_tracks": [
+            ""
+        ],
+        "changelog": [
+            "This Event was added in Update 0.21p2."
+        ]
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": []
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "event_id": "how_i_feel",
+    "event_title": "How I Feel",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=How_I_Feel",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "Fourth",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Side Event \" from Chika Chosokabe",
+        "to_get_this_event": "Visit the Shrine on any weekend afternoon after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Yes",
+                "effect": "The event ends with a closeup of 61 in the machine."
+            },
+            {
+                "context": null,
+                "option": "No",
+                "effect": "The event ends with 61 upset with Sensei."
+            }
+        ],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            ""
+        ],
+        "synopsis": "There is a room with a machine and two large crosses. Although God matters most, he's dead now, which is a tragedy — who else will we pray to, even though we lie to him? A pair of angels say that we lie to make things easier and that rules are bad. One says to \"throw yourself into the wishing well\". The angels' voice reminds Sensei of a \"long lost friend\" whose name begins with the letter T. 61 6d 20 69 20 6f 6b 61 79 is in the machine, and the angels call her \"a normal teenage girl\". The angels say that Sensei is there for forgiveness because he has sinned, and call for him to be fed to 望む. They begin making horrible heavenly noises. 61 tells Sensei not to worry about her, because \"あなたなしで\" she goes through much worse. The angels say that Sensei desires her — 61 asks if that is true. Sensei tries to respond, but his mouth is full of blood. It liquefies his teeth, causing everything to spill out once he opens his mouth. He tries to move but realizes he's been strapped to a chair once again . Sensei remembers that everything is a game and talks to 61 back in the room with clocks . He agrees that they've been through \"everything\" together and that there might not be anything more to experience. When he says that he's not \"the programmer\", 61 says that he's talking about God. 61 says that Sensei is beginning to sound like \"her\", by whom she means \"the other me\". Sensei is envious of her for having another version of herself with a hexadecimal name, and she \"does magic\". She tells 73 65 6b 61 69 that magic comes from praying, which can be to whoever you want. Sensei is then back in the chair, and the angels summon their \"father\" before Sensei can escape. Hope appears, and says that he is everyone's father, but does not answer a question about whether he is god. 61 tells Hope that Sensei is \"the one I told you about\", being from the same place as her. Hope asks if he'd like to say goodbye to the girl before he goes home leaves, and takes his angels \"back to the bottom of everything\". Sensei then decides whether or not to approach the machine.",
+        "participating_characters": [
+            "Sensei",
+            "Angels",
+            "Hope",
+            "61"
+        ],
+        "trivia": [
+            "The Angels will list different sins depending on Sensei's relationship with Ami ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "How I Feel",
+            "event_script_names": "howifeel",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "howifeel"
+        ],
+        "music_tracks": [
+            "hope.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.4."
+        ]
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": [
+            {
+                "value": "こんにちは",
+                "type": "Japanese",
+                "translation": "Hello",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "普通の女子高生。",
+                "type": "Japanese",
+                "translation": "An ordinary high school girl.",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "Feed him to 望む!",
+                "type": "English, Japanese",
+                "translation": "Feed him to Hope(Nozomu)!",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "あなたなしで毎日。。。",
+                "type": "Japanese",
+                "translation": "Without you every day is...",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "笑笑笑笑笑笑笑笑笑笑笑笑笑笑笑笑",
+                "type": "Japanese",
+                "translation": "Loooooooooooooool",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "あああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ",
+                "type": "Japanese",
+                "translation": "Ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "61 6d 20 69 20 6f 6b 61 79",
+                "type": "Hexadecimal",
+                "translation": "am i okay",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "62 75 74 20 69 20 68 61 76 65 20 77 61 69 74 65 64 20 73 6f 20 6c 6f 6e 67",
+                "type": "Hexadecimal",
+                "translation": "but i have waited so long",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "77 68 79 20 61 72 65 20 79 6f 75 20 64 6f 69 6e 67 20 74 68 69 73 20 74 6f 20 6d 65",
+                "type": "Hexadecimal",
+                "translation": "why are you doing this to me",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "6a 75 73 74 20 66 75 63 6b 20 6d 65",
+                "type": "Hexadecimal",
+                "translation": "just fuck me",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "69 20 6d 69 73 73 20 69 74",
+                "type": "Hexadecimal",
+                "translation": "i miss it",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "69 20 77 61 6e 74 20 74 6f 20 66 65 65 6c 20 79 6f 75 20 69 6e 73 69 64 65",
+                "type": "Hexadecimal",
+                "translation": "i want to feel you inside",
+                "appearance": "4. ???? :)"
+            },
+            {
+                "value": "69 20 77 61 6e 74 20 74 6f 20 72 65 6d 65 6d 62 65 72",
+                "type": "Hexadecimal",
+                "translation": "i want to remember",
+                "appearance": "4. ???? :)"
+            }
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    }
+}

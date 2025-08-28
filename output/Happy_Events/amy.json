@@ -1,0 +1,61 @@
+{
+    "event_id": "amy",
+    "event_title": "Amy",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Amy",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "Seventeenth",
+    "interactivity": {
+        "requirements": "Sunday You must have seen or permanently missed the following Events: Seen \" Eternity Until \" from Nao-chan",
+        "to_get_this_event": "Visit Chika at the Shopping Mall after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "The Great Pareidolia Mall"
+        ],
+        "synopsis": "Having attempted to go to the mall , Sensei is confused when he's suddenly transported to somewhere else entirely. He's soon approached by a girl named Amy , and she takes him on a tour of the mall they've found themselves in. After stumbling around for a long time, Sensei eventually decides to return home, much to Amy's disappointment. She at first tries to dissuade him, but when he remains adamant on his decision, she relents, asking him to at least promise he'll love \"his side\" of the world as much as he can. Amy leads Sensei to one of the rooms they passed earlier, pushing him into a strange hole in the world. Snapping out of his trance, Sensei finds himself back on \"his side\", with Ami in front of him, concerned as he's been standing in place for a long time. Wordlessly, he tackles Ami, bringing her into a hug.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "While Sensei and Amy explore the mall, the song \"secondmall.mp3\" plays in the background. Overlaid on this track is a series of TTS message. A transcript of these can be found below: \"Attention shoppers, there is no exit. We are sorry. Please remain here forever. There is no reason to leave in the first place.\" \"Himawari-co is pleased to present its brand-new product this weekend in the east wing. Regain your memories with little more than a flash. All it takes to move forward is a visit to the nearest kiosk. Returns and exchanges are unavailable.\" \"If you are lost, please find the nearest directory, but be careful not to touch it with your bare skin. Doing so may result in loss of consciousness, nausea, or worse.\" \"The Great Pareidolia Mall welcomes all customers regardless of race, ethnicity, or sexual orientation. Join us 3 weeks ago for an exclusive look at the all-new emerald tier.\" \"A happy face makes a happy place. Please remember to smile.\"",
+            "\"Attention shoppers, there is no exit. We are sorry. Please remain here forever. There is no reason to leave in the first place.\"",
+            "\"Himawari-co is pleased to present its brand-new product this weekend in the east wing. Regain your memories with little more than a flash. All it takes to move forward is a visit to the nearest kiosk. Returns and exchanges are unavailable.\"",
+            "\"If you are lost, please find the nearest directory, but be careful not to touch it with your bare skin. Doing so may result in loss of consciousness, nausea, or worse.\"",
+            "\"The Great Pareidolia Mall welcomes all customers regardless of race, ethnicity, or sexual orientation. Join us 3 weeks ago for an exclusive look at the all-new emerald tier.\"",
+            "\"A happy face makes a happy place. Please remember to smile.\"",
+            "Following completion of this event, a new outfit for Ami is available in her character profile."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Amy",
+            "event_script_names": "amyevent",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "gpm",
+            "amy"
+        ],
+        "music_tracks": [
+            "firstsecondmall.mp3",
+            "secondmall.mp3",
+            "mall.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.32."
+        ]
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": []
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    }
+}

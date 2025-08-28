@@ -1,0 +1,112 @@
+{
+    "event_id": "something_everyone_knows_and_ignores",
+    "event_title": "Something Everyone Knows and Ignores",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Something_Everyone_Knows_and_Ignores",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "Twelfth",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Swallow a spider during Word of the Day .",
+        "to_miss_this_event": "Complete Word of the Day before swallowing a spider. Replaced by LET ME OUT .",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Class"
+        ],
+        "synopsis": "The class' teacher begins her lesson, asking the class about happiness, and what sorts of things make them happy. Ami is first to answer, naming snacks made by her father as something that makes her happy. Maya speaks up, trying to express some complexity on the issue, but the teacher ignores her and continues with her lesson. Summoning a series of items in front of everyone, she asks the class to see if they can come up with ways to be happy with them. Ami's at a loss for what to do, but with some encouragement from the teacher, decides to try her best. Meanwhile, Sensei , having remained silent so far, is similarly confused. The teacher offers to help him personally, hopping in front of him to assist. Now uncomfortable, Sensei asks to go home, but the teacher encourages him to stay and keep doing his best. The narrator chimes in, finishing the teacher's lessons: Some people are desperate to be happy, and some people simply aren't meant to be happy. Therefore, it's better to smile regardless -- It's better to construct elaborate facades of happiness for yourself and lock away how you truly feel because otherwise people would find you uncomfortable to be around. Outside the classroom, Sensei applies what he learned in class. All the while, Ami stares vacantly at him.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "61"
+        ],
+        "trivia": [
+            "The flashing letters at the start of the event spell out the phrase \"LET ME OUT\" assuming the image of Jesus of Nazareth is a stand-in for the letter T.",
+            "The flag that checks if the player has seen this event is unique in that, in addition to the usual flag, there exists one which persists across different save files.",
+            "At the end of the event, a reversed, sped-up message plays. A transcription of this message can be found below: \"Gouge out my eyes and replace them with colorless ones. Seal away the light so it does not disintegrate your skin. The windows are boarded -- Nothing can reach us here. And even if it could, I would keep my eyes closed. All I want is to be with you. All I want is to come back. I can still feel you every single day. I can still see you. What is this hell?\"",
+            "\"Gouge out my eyes and replace them with colorless ones. Seal away the light so it does not disintegrate your skin. The windows are boarded -- Nothing can reach us here. And even if it could, I would keep my eyes closed. All I want is to be with you. All I want is to come back. I can still feel you every single day. I can still see you. What is this hell?\""
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Something Everyone Knows and Ignores",
+            "event_script_names": "kindergartenclass",
+            "event_missed_name": "LET ME OUT"
+        },
+        "backgrounds": [
+            "lessonone"
+        ],
+        "music_tracks": [
+            ""
+        ],
+        "changelog": [
+            "This Event was added in Update .18p2."
+        ]
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": [
+            {
+                "value": "dof pz tpul zohwlk kpmmlyluasf?",
+                "type": "Caesar cipher, left-shift 7",
+                "translation": "why is mine shaped differently?",
+                "appearance": "12. ???? :)"
+            },
+            {
+                "value": "p kvua buklyzahuk.",
+                "type": "Caesar cipher, left-shift 7",
+                "translation": "i dont understand.",
+                "appearance": "12. ???? :)"
+            },
+            {
+                "value": "tf ivkf mllsz zayhunl.",
+                "type": "Caesar cipher, left-shift 7",
+                "translation": "my body feels strange.",
+                "appearance": "12. ???? :)"
+            },
+            {
+                "value": "pt zjhylk.",
+                "type": "Caesar cipher, left-shift 7",
+                "translation": "im scared.",
+                "appearance": "12. ???? :)"
+            },
+            {
+                "value": "79 6f 75 20 64 6f 6e 74 20 62 65 6c 6f 6e 67 20 68 65 72 65 20 6f 75 74 20 67 65 74 20 6f 75 74 20 67 65 74 20 6f 75 74",
+                "type": "Hexadecimal (covering Wizard!Maya's face)",
+                "translation": "you dont belong here out get out get out",
+                "appearance": "12. ???? :)"
+            },
+            {
+                "value": "jhu p nv ovtl?",
+                "type": "Caesar cipher, left-shift 7",
+                "translation": "can i go home?",
+                "appearance": "12. ???? :)"
+            },
+            {
+                "value": "doha ht p zbwwvzlk av kv?",
+                "type": "Caesar cipher, left-shift 7",
+                "translation": "what am i supposed to do?",
+                "appearance": "12. ???? :)"
+            },
+            {
+                "value": "p qbza dhua aopz av zavw.",
+                "type": "Caesar cipher, left-shift 7",
+                "translation": "i just want this to stop.",
+                "appearance": "12. ???? :)"
+            },
+            {
+                "value": "61 6d 20 69 20 6f 6b 61 79",
+                "type": "Hexadecimal",
+                "translation": "am i okay",
+                "appearance": "12. ???? :)"
+            }
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    }
+}

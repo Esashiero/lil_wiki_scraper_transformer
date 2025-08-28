@@ -2,6 +2,8 @@ import requests
 import os
 import re
 import json
+import time
+import argparse
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urldefrag, unquote
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -13,7 +15,7 @@ from transformer import transform_event_html_to_json
 SEED_URLS = {
     'DIRECT_CATEGORIES': {
         'Main_Events': 'https://lessonsinlove.wiki/index.php?title=Category:Main_Events',
-        'Secret_Events': 'https://lessonsinlove.wiki/index.php?title=Category:Happy_events'
+        'Happy_Events': 'https://lessonsinlove.wiki/index.php?title=Category:Happy_events'
     },
     'INDEX_CATEGORIES': {
         'Side_Characters': 'https://lessonsinlove.wiki/index.php?title=Category:Side_character_events',
@@ -40,7 +42,8 @@ def get_all_event_urls_from_category(start_url: str) -> set[str]:
         print(f"  Scraping category page {page_count}: {current_page_url}")
 
         try:
-            response = requests.get(current_page_url)
+            time.sleep(1)
+            response = requests.get(current_page_url, timeout=15)
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -118,6 +121,7 @@ def sanitize_filename(name: str) -> str:
 
 def process_url(url: str, category_folder: str):
     try:
+        time.sleep(1)
         response = requests.get(url, timeout=15)
         response.raise_for_status()
         event_data = transform_event_html_to_json(response.text)
@@ -152,54 +156,81 @@ def process_url(url: str, category_folder: str):
 # --- MAIN FUNCTION (Updated with new logging) ---
 
 def main():
-    """Main execution function with summary logging."""
+    """Main execution function with summary logging and category filtering."""
+    parser = argparse.ArgumentParser(description="Crawl the Lessons in Love wiki for event data.")
+    parser.add_argument(
+        '--category', 
+        type=str, 
+        help='A specific category to crawl (e.g., "Main_Events", "Happy_Events", "Side_Characters"). If not provided, all categories will be crawled.'
+    )
+    args = parser.parse_args()
+
     print("Starting the Lessons in Love Wiki Crawler...")
     if not os.path.exists(OUTPUT_BASE_DIR):
         os.makedirs(OUTPUT_BASE_DIR)
         
     final_url_map = {}
-
-    print("\n--- Phase 1: Discovering Event URLs ---")
     
-    # Process DIRECT categories (Main, Secret, etc.)
-    for category_name, start_url in SEED_URLS['DIRECT_CATEGORIES'].items():
-        event_urls = get_all_event_urls_from_category(start_url)
-        print(f"--> Found {len(event_urls)} URLs for category '{category_name}'.")
-        for url in event_urls:
-            if url not in final_url_map:
-                final_url_map[url] = category_name
-
-    # Process INDEX categories (all Character Events)
-    for index_name, index_url in SEED_URLS['INDEX_CATEGORIES'].items():
-        print(f"\nProcessing Index: {index_name}")
-        char_category_urls = get_character_category_urls(index_url)
-        print(f"Found {len(char_category_urls)} sub-categories. Discovering events for each...")
-        for char_url in sorted(list(char_category_urls)): # Sorting for consistent order
-            # Extract a clean name for logging
-            char_name = unquote(char_url.split('Category:')[1].replace('_events', ''))
-            event_urls = get_all_event_urls_from_category(char_url)
-            print(f"  --> Found {len(event_urls)} URLs for '{char_name}'.")
+    # --- URL Discovery Phase ---
+    print("\n--- Phase 1: Discovering Event URLs ---")
+    if args.category:
+        print(f"Targeting specific category: {args.category}")
+        # Check all known SEED_URLS types
+        all_categories = {**SEED_URLS['DIRECT_CATEGORIES'], **SEED_URLS['INDEX_CATEGORIES']}
+        if args.category in all_categories:
+            start_url = all_categories[args.category]
+            event_urls = get_all_event_urls_from_category(start_url)
+            print(f"--> Found {len(event_urls)} URLs for category '{args.category}'.")
+            for url in event_urls:
+                final_url_map[url] = args.category
+        else:
+            print(f"[ERROR] Category '{args.category}' not found in SEED_URLS.")
+            return
+    else:
+        print("Processing all categories...")
+        # Process DIRECT categories (Main, Secret, etc.)
+        for category_name, start_url in SEED_URLS['DIRECT_CATEGORIES'].items():
+            event_urls = get_all_event_urls_from_category(start_url)
+            print(f"--> Found {len(event_urls)} URLs for category '{category_name}'.")
             for url in event_urls:
                 if url not in final_url_map:
-                    final_url_map[url] = 'Character_Events'
+                    final_url_map[url] = category_name
 
+        # Process INDEX categories (all Character Events)
+        for index_name, index_url in SEED_URLS['INDEX_CATEGORIES'].items():
+            print(f"\nProcessing Index: {index_name}")
+            char_category_urls = get_character_category_urls(index_url)
+            print(f"Found {len(char_category_urls)} sub-categories. Discovering events for each...")
+            for char_url in sorted(list(char_category_urls)): # Sorting for consistent order
+                char_name = unquote(char_url.split('Category:')[1].replace('_events', ''))
+                event_urls = get_all_event_urls_from_category(char_url)
+                print(f"  --> Found {len(event_urls)} URLs for '{char_name}'.")
+                for url in event_urls:
+                    if url not in final_url_map:
+                        final_url_map[url] = 'Character_Events'
+
+    # --- Processing Phase ---
     total_urls = len(final_url_map)
     print(f"\n--- Phase 2: Processing and Saving {total_urls} Total Unique Events ---")
-    if not total_urls: return
+    if not total_urls:
+        print("No URLs discovered. Exiting.")
+        return
 
     success_count, skip_count, error_count = 0, 0, 0
-
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        future_to_url = {executor.submit(process_url, url, category): url for url, category in final_url_map.items()}
+        future_to_url = {executor.submit(process_url, url, category): (url, category) for url, category in final_url_map.items()}
         for future in as_completed(future_to_url):
-            result = future.result()
-            if result.startswith("[SUCCESS]"):
-                success_count += 1
-            elif result.startswith("[SKIP]"):
-                skip_count += 1
-            else:
+            url, category = future_to_url[future]
+            try:
+                result = future.result()
+                if "[SUCCESS]" in result: success_count += 1
+                elif "[SKIP]" in result: skip_count += 1
+                else:
+                    error_count += 1
+                    print(result)
+            except Exception as exc:
                 error_count += 1
-                print(result) # Only print warnings and errors
+                print(f'[ERROR] Processing {url} in category {category} generated an exception: {exc}')
 
     print("\n--- Crawling Process Complete ---")
     print(f"Successfully created: {success_count} files.")

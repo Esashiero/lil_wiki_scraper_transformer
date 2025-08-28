@@ -1,0 +1,119 @@
+{
+    "event_id": "turn_off_the_lights",
+    "event_title": "Turn Off The Lights",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Turn_Off_The_Lights",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "Sixth",
+    "interactivity": {
+        "requirements": "Saturday or Sunday You must have seen or permanently missed the following Events: Seen \" Important Things \" from Ami Arakawa",
+        "to_get_this_event": "Invite over \"Maya\" after all Requirements have been fulfilled.",
+        "to_miss_this_event": "Choose \"...\" in No One Can See Us . Replaced by List the Things You Love .",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Special Classroom"
+        ],
+        "synopsis": "There is a classroom, somewhere beneath Heaven, that smells of dirty laundry and where no light can reach. Sensei tries to move around, but finds that he has become a shadow, and is unable to do anything at all. In front of him, a familiar girl appears, speaking to him in a language he can't understand. Sensei wishes she'd turn around and face him, so he can properly identify her as the real Maya, or the version of her with static in her eyes -- It's this second version that often terrifies him, as the static is filled with memories of thousands of lives the two have yet to live together. The girl tells him to step closer if he wishes to speak \"in his own language\". Sensei clicks his heel and is teleported to her side. The girl, seemingly Maya, degrades him for all the horrible things he's done, being disgusted that she has to associate with him, and suggesting he should be castrated for his crimes. As the girl turns around, it's revealed to be 61 6d 20 69 20 6f 6b 61 79 , the sight of whom reminds Sensei of the Room with Clocks and turns his teeth to liquid. Trying to ease his increasing discomfort, 61 offers Sensei some help to relieve his stress, recounting to him the story of the world's creation . However, Sensei struggles to understand most of the words she says to him, only coming to his senses after 61 offers help once again. She reminds him that the Angels don't approve of his actions , and that he should treat her better since she's an honorary angel as well. She suddenly disappears and demands he \"turn off the lights\", asking him to list the things he loves. After being bombarded by loud sounds and bright lights, she appears again and tells him to put her out of her misery.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "61"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Turn Off The Lights",
+            "event_script_names": "specialclassroom",
+            "event_missed_name": "List the Things You Love"
+        },
+        "backgrounds": [
+            "specialclassroom",
+            "break"
+        ],
+        "music_tracks": [
+            "holyplace.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.6."
+        ]
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": [
+            {
+                "value": "あなたは誰?",
+                "type": "Japanese",
+                "translation": "Who are you ?",
+                "appearance": "6. ???? :)"
+            },
+            {
+                "value": "だれ です か？",
+                "type": "Japanese",
+                "translation": "who？",
+                "appearance": "6. ???? :)"
+            },
+            {
+                "value": "What is wrong, 世界?",
+                "type": "English, Japanese",
+                "translation": "What is wrong, world?",
+                "appearance": "6. ???? :)"
+            },
+            {
+                "value": "69 20 73 65 65 20 6d 6f 72 65 20 69 6e 20 74 68 65 20 64 61 72 6b",
+                "type": "Hexadecimal",
+                "translation": "i see more in the dark",
+                "appearance": "Written on the board in 6. ???? :)"
+            },
+            {
+                "value": "62 75 74 20 69 20 73 74 69 6c 6c 20 63 61 6e 27 74 20 73 65 65 20 79 6f 75",
+                "type": "Hexadecimal",
+                "translation": "but i still can't see you",
+                "appearance": "Written on the board in 6. ???? :)"
+            },
+            {
+                "value": "72 65 6d 65 6d 62 65 72 20 74 68 69 73 20 70 6c 61 63 65",
+                "type": "Hexadecimal",
+                "translation": "remember this place",
+                "appearance": "Written on the board in 6. ???? :)"
+            },
+            {
+                "value": "69 66 20 69 74 27 73 20 74 68 65 20 6c 61 73 74 20 74 68 69 6e 67 20 79 6f 75 20 64 6f 20",
+                "type": "Hexadecimal",
+                "translation": "if it's the last thing you do",
+                "appearance": "Written on the board in 6. ???? :)"
+            },
+            {
+                "value": "73 6f 20 6d 61 6e 79",
+                "type": "Hexadecimal",
+                "translation": "so many",
+                "appearance": "Written on the board in 6. ???? :)"
+            },
+            {
+                "value": "77 6f 6e 64 65 72 66 75 6c 20 74 68 69 6e 67 73",
+                "type": "Hexadecimal",
+                "translation": "wonderful things",
+                "appearance": "Written on the board in 6. ???? :)"
+            },
+            {
+                "value": "63 75 64 64 6c 65 64 20 75 70",
+                "type": "Hexadecimal",
+                "translation": "cuddled up",
+                "appearance": "Written on the board in 6. ???? :)"
+            },
+            {
+                "value": "62 65 73 69 64 65 20 79 6f 75",
+                "type": "Hexadecimal",
+                "translation": "beside you",
+                "appearance": "Written on the board in 6. ???? :)"
+            }
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "event_id": "lamb_legs",
+    "event_title": "Lamb Legs",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Lamb_Legs",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "Fourteenth",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Win the lottery during A Life of Prizes . Autoplays after \" A Life of Prizes \" . This event belongs to an event chain started from \" Wither \" .",
+        "to_miss_this_event": "Finish A Life of Prizes without triggering it. Replaced by Ground Into Nothing .",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            ""
+        ],
+        "synopsis": "",
+        "participating_characters": [],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Lamb Legs",
+            "event_script_names": "specialbonusamiscene",
+            "event_missed_name": "Ground Into Nothing"
+        },
+        "backgrounds": [
+            "amibonusround"
+        ],
+        "music_tracks": [
+            ""
+        ],
+        "changelog": [
+            "This Event was added in Update 0.23p2."
+        ]
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": []
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    }
+}
