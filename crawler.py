@@ -13,7 +13,7 @@ from transformer import transform_event_html_to_json
 SEED_URLS = {
     'DIRECT_CATEGORIES': {
         'Main_Events': 'https://lessonsinlove.wiki/index.php?title=Category:Main_Events',
-        'Secret_Events': 'https://lessonsinlove.wiki/index.php?title=Category:Secret_Events'
+        'Secret_Events': 'https://lessonsinlove.wiki/index.php?title=Category:Happy_events'
     },
     'INDEX_CATEGORIES': {
         'Side_Characters': 'https://lessonsinlove.wiki/index.php?title=Category:Side_character_events',
