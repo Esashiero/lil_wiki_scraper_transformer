@@ -50,7 +50,7 @@ def load_main_events(directory: str) -> List[Event]:
     return event_objects
 
 def main():
-    """Main execution function with corrected logic."""
+    """Main execution function with logic to handle multiple independent event chains."""
     main_events = load_main_events(MAIN_EVENTS_DIR)
     if not main_events:
         return
@@ -58,57 +58,65 @@ def main():
     events_by_title = {event.event_title: event for event in main_events}
     all_main_event_titles = set(events_by_title.keys())
 
-    # --- NEW AND ROBUST LOGIC TO FIND THE STARTING EVENT ---
-    start_event = None
+    # --- Find all starting points ---
+    starting_events = []
     for event in main_events:
         prev_event_title = event.navigation.get('previous_event')
-        # The start event is the one whose predecessor is NOT another main event.
         if prev_event_title not in all_main_event_titles:
-            start_event = event
-            break
+            starting_events.append(event)
 
-    if not start_event:
-        print("[ERROR] Critical failure: Could not determine the starting event.")
-        print("No event was found whose 'previous_event' points to something outside the main event list.")
+    if not starting_events:
+        print("[ERROR] Critical failure: Could not determine any starting event.")
         return
 
-    print(f"Correctly identified starting event: '{start_event.event_title}'")
+    print(f"Found {len(starting_events)} potential starting points for event chains.")
 
-    # --- Build the timeline by following the 'next_event' chain ---
-    timeline = []
-    current_event = start_event
+    # --- Build all timelines from all starting points ---
+    full_timeline = []
     processed_titles = set()
+    chain_count = 0
 
-    while current_event and current_event.event_title not in processed_titles:
-        timeline.append(current_event)
-        processed_titles.add(current_event.event_title)
+    for start_event in starting_events:
+        if start_event.event_title in processed_titles:
+            continue # This event was already part of another chain
 
-        next_title = current_event.navigation.get('next_event')
+        chain_count += 1
+        current_chain = []
+        current_event = start_event
 
-        if not next_title:
-            print("Reached the logical end of the known main story chain.")
-            break
+        print(f"\nBuilding chain #{chain_count} starting with: '{start_event.event_title}'")
 
-        current_event = events_by_title.get(next_title)
+        while current_event and current_event.event_title not in processed_titles:
+            current_chain.append(current_event)
+            processed_titles.add(current_event.event_title)
 
-        if not current_event:
-            print(f"[INFO] The chain ends here. Event '{timeline[-1].event_title}' points to a next event named '{next_title}', which could not be found in the loaded files. This is expected if it's a new/unreleased event.")
+            next_title = current_event.navigation.get('next_event')
+            if not next_title:
+                print("  -> Chain reached a logical end (no 'next_event').")
+                break
+
+            current_event = events_by_title.get(next_title)
+            if not current_event:
+                print(f"  -> Chain broken: Event '{current_chain[-1].event_title}' points to '{next_title}', which was not found.")
+
+        full_timeline.extend(current_chain)
 
     # --- Final Validation ---
-    placed_count = len(timeline)
+    placed_count = len(full_timeline)
     total_count = len(main_events)
-    print(f"\nTimeline construction complete. Placed {placed_count} out of {total_count} events in the chain.")
+    print(f"\nTimeline construction complete. Placed {placed_count} out of {total_count} events across {chain_count} chains.")
 
     if placed_count < total_count:
         missed_events = all_main_event_titles - processed_titles
-        print(f"[WARNING] {len(missed_events)} events were loaded but not placed in the timeline. This may indicate a broken link in the wiki data or orphan events.")
-        # print(f"Orphaned Events: {list(missed_events)}") # Uncomment for debugging if needed
+        print(f"[WARNING] {len(missed_events)} events were loaded but not placed in any timeline. This may indicate orphan events or broken links within a chain.")
+        # To see the specific events, uncomment the following line:
+        # print(f"  -> Orphaned Events: {sorted(list(missed_events))}")
 
-    # Assign the final timeline index to each event
-    for i, event in enumerate(timeline):
+    # Assign the final timeline index to each event in the final combined order
+    for i, event in enumerate(full_timeline):
         event.timeline_index = i
 
-    output_data = [event.__dict__ for event in timeline]
+    output_data = [event.__dict__ for event in full_timeline]
 
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=4)

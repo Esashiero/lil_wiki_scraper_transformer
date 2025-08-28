@@ -2,6 +2,8 @@ import requests
 import os
 import re
 import json
+import time
+import argparse
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urldefrag, unquote
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -13,7 +15,7 @@ from transformer import transform_event_html_to_json
 SEED_URLS = {
     'DIRECT_CATEGORIES': {
         'Main_Events': 'https://lessonsinlove.wiki/index.php?title=Category:Main_Events',
-        'Secret_Events': 'https://lessonsinlove.wiki/index.php?title=Category:Secret_Events'
+        'Happy_Events': 'https://lessonsinlove.wiki/index.php?title=Category:Happy_events'
     },
     'INDEX_CATEGORIES': {
         'Side_Characters': 'https://lessonsinlove.wiki/index.php?title=Category:Side_character_events',
@@ -29,37 +31,57 @@ MAX_WORKERS = 10
 def get_all_event_urls_from_category(start_url: str) -> set[str]:
     """
     Scrapes a category page and all its subsequent pages ("next page") to find
-    all unique event URLs within the div.mw-category container.
+    all unique event URLs. This version is more robust.
     """
     urls = set()
     current_page_url = start_url
-    is_first_page = True
+    page_count = 0
 
     while current_page_url:
-        # Only print the starting URL, not every paginated one, to reduce noise.
-        if is_first_page:
-            print(f"  Discovering URLs from: {current_page_url}")
-            is_first_page = False
-        
+        page_count += 1
+        print(f"  Scraping category page {page_count}: {current_page_url}")
+
         try:
-            response = requests.get(current_page_url)
+            time.sleep(1)
+            response = requests.get(current_page_url, timeout=15)
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
 
-            category_container = soup.find('div', class_='mw-category')
-            if category_container:
-                links = category_container.find_all('a', href=True)
-                for link in links:
-                    full_url = urljoin(current_page_url, link['href'])
-                    title_part = full_url.split('title=', 1)[-1]
-                    if 'action=edit' not in full_url and 'Category:' not in title_part:
-                        urls.add(urldefrag(full_url)[0])
+            # MediaWiki category pages place the list of pages and pagination links within this div.
+            content_div = soup.find('div', id='mw-pages')
+            if not content_div:
+                # Fallback to the original container if mw-pages is not found
+                content_div = soup.find('div', class_='mw-category-generated')
+                if not content_div:
+                    print(f"  [WARNING] Could not find a suitable content container on {current_page_url}. Stopping scrape for this category.")
+                    break
 
-            next_page_link = soup.find('a', string='next page')
-            if next_page_link:
+            # Find all links within this container.
+            links = content_div.find_all('a', href=True)
+            found_on_page = 0
+            for link in links:
+                full_url = urljoin(current_page_url, link['href'])
+
+                # Filter out non-event links like 'next page', 'edit', or sub-categories.
+                if '/index.php?title=' in full_url and 'action=edit' not in full_url:
+                    title_part = full_url.split('title=', 1)[-1]
+                    if 'Category:' not in title_part:
+                        clean_url = urldefrag(full_url)[0]
+                        if clean_url not in urls:
+                            urls.add(clean_url)
+                            found_on_page += 1
+
+            if found_on_page > 0:
+                print(f"    -> Found {found_on_page} new event URLs.")
+
+            # Find the 'next page' link specifically within the same content div.
+            next_page_link = content_div.find('a', string='next page')
+
+            if next_page_link and next_page_link.get('href'):
+                # The href is relative, so we join it with the base start_url.
                 current_page_url = urljoin(start_url, next_page_link['href'])
             else:
-                current_page_url = None
+                current_page_url = None # End of pagination
 
         except requests.exceptions.RequestException as e:
             print(f"  [ERROR] An error occurred while fetching {current_page_url}: {e}")
@@ -99,6 +121,7 @@ def sanitize_filename(name: str) -> str:
 
 def process_url(url: str, category_folder: str):
     try:
+        time.sleep(1)
         response = requests.get(url, timeout=15)
         response.raise_for_status()
         event_data = transform_event_html_to_json(response.text)
@@ -133,54 +156,84 @@ def process_url(url: str, category_folder: str):
 # --- MAIN FUNCTION (Updated with new logging) ---
 
 def main():
-    """Main execution function with summary logging."""
+    """Main execution function with summary logging and category filtering."""
+    parser = argparse.ArgumentParser(description="Crawl the Lessons in Love wiki for event data.")
+    parser.add_argument(
+        '--category',
+        type=str,
+        help='A specific category to crawl (e.g., "Main_Events", "Happy_Events", "Side_Characters"). If not provided, all categories will be crawled.'
+    )
+    args = parser.parse_args()
+
     print("Starting the Lessons in Love Wiki Crawler...")
     if not os.path.exists(OUTPUT_BASE_DIR):
         os.makedirs(OUTPUT_BASE_DIR)
         
     final_url_map = {}
 
+    # --- URL Discovery Phase ---
     print("\n--- Phase 1: Discovering Event URLs ---")
     
-    # Process DIRECT categories (Main, Secret, etc.)
-    for category_name, start_url in SEED_URLS['DIRECT_CATEGORIES'].items():
-        event_urls = get_all_event_urls_from_category(start_url)
-        print(f"--> Found {len(event_urls)} URLs for category '{category_name}'.")
-        for url in event_urls:
-            if url not in final_url_map:
-                final_url_map[url] = category_name
+    categories_to_process = []
+    if args.category:
+        print(f"Targeting specific category: {args.category}")
+        if args.category in SEED_URLS['DIRECT_CATEGORIES'] or args.category in SEED_URLS['INDEX_CATEGORIES']:
+            categories_to_process.append(args.category)
+        else:
+            print(f"[ERROR] Category '{args.category}' not found in SEED_URLS.")
+            return
+    else:
+        print("Processing all categories...")
+        categories_to_process.extend(SEED_URLS['DIRECT_CATEGORIES'].keys())
+        categories_to_process.extend(SEED_URLS['INDEX_CATEGORIES'].keys())
 
-    # Process INDEX categories (all Character Events)
-    for index_name, index_url in SEED_URLS['INDEX_CATEGORIES'].items():
-        print(f"\nProcessing Index: {index_name}")
-        char_category_urls = get_character_category_urls(index_url)
-        print(f"Found {len(char_category_urls)} sub-categories. Discovering events for each...")
-        for char_url in sorted(list(char_category_urls)): # Sorting for consistent order
-            # Extract a clean name for logging
-            char_name = unquote(char_url.split('Category:')[1].replace('_events', ''))
-            event_urls = get_all_event_urls_from_category(char_url)
-            print(f"  --> Found {len(event_urls)} URLs for '{char_name}'.")
+    for category_name in categories_to_process:
+        # Handle DIRECT categories
+        if category_name in SEED_URLS['DIRECT_CATEGORIES']:
+            start_url = SEED_URLS['DIRECT_CATEGORIES'][category_name]
+            event_urls = get_all_event_urls_from_category(start_url)
+            print(f"--> Found {len(event_urls)} URLs for category '{category_name}'.")
             for url in event_urls:
                 if url not in final_url_map:
-                    final_url_map[url] = 'Character_Events'
+                    final_url_map[url] = category_name
 
+        # Handle INDEX categories
+        elif category_name in SEED_URLS['INDEX_CATEGORIES']:
+            index_url = SEED_URLS['INDEX_CATEGORIES'][category_name]
+            print(f"\nProcessing Index: {category_name}")
+            char_category_urls = get_character_category_urls(index_url)
+            print(f"Found {len(char_category_urls)} sub-categories. Discovering events for each...")
+            for char_url in sorted(list(char_category_urls)):
+                char_name_log = unquote(char_url.split('Category:')[1].replace('_events', ''))
+                event_urls = get_all_event_urls_from_category(char_url)
+                print(f"  --> Found {len(event_urls)} URLs for '{char_name_log}'.")
+                for url in event_urls:
+                    if url not in final_url_map:
+                        # All sub-events from an index are stored under one parent folder
+                        final_url_map[url] = 'Character_Events'
+
+    # --- Processing Phase ---
     total_urls = len(final_url_map)
     print(f"\n--- Phase 2: Processing and Saving {total_urls} Total Unique Events ---")
-    if not total_urls: return
+    if not total_urls:
+        print("No URLs discovered. Exiting.")
+        return
 
     success_count, skip_count, error_count = 0, 0, 0
-
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        future_to_url = {executor.submit(process_url, url, category): url for url, category in final_url_map.items()}
+        future_to_url = {executor.submit(process_url, url, category): (url, category) for url, category in final_url_map.items()}
         for future in as_completed(future_to_url):
-            result = future.result()
-            if result.startswith("[SUCCESS]"):
-                success_count += 1
-            elif result.startswith("[SKIP]"):
-                skip_count += 1
-            else:
+            url, category = future_to_url[future]
+            try:
+                result = future.result()
+                if "[SUCCESS]" in result: success_count += 1
+                elif "[SKIP]" in result: skip_count += 1
+                else:
+                    error_count += 1
+                    print(result)
+            except Exception as exc:
                 error_count += 1
-                print(result) # Only print warnings and errors
+                print(f'[ERROR] Processing {url} in category {category} generated an exception: {exc}')
 
     print("\n--- Crawling Process Complete ---")
     print(f"Successfully created: {success_count} files.")
