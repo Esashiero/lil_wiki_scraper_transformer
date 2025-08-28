@@ -105,10 +105,18 @@ def main():
     """
     Main execution function. Implements a hybrid crawler that uses a seed
     list from a category page and then performs graph traversal.
+    Includes manual patches for known data inconsistencies on the wiki.
     """
     print("Starting the Lessons in Love Wiki Crawler (Hybrid Mode)...")
     if not os.path.exists(OUTPUT_BASE_DIR):
         os.makedirs(OUTPUT_BASE_DIR)
+
+    # --- Data Cleaning and Manual Patches ---
+    JUNK_TITLES = {'update xx.xx.xx'}
+    TITLE_MAPPINGS = {
+        'Fireworks etc...': 'Fireworks, Chicken, and the Innate Fear of Death',
+        'The Legacy of Thuam Pt. IV': 'The Legacy of Thaum Pt. IV',
+    }
 
     # --- Phase 1: Seeding from Category Page ---
     print("\n--- Phase 1: Seeding initial events from Main Events category ---")
@@ -120,24 +128,24 @@ def main():
     print("\n--- Phase 2: Traversing event graph to find all connected events ---")
     to_visit = deque(initial_titles)
     visited_titles = set()
-
+    
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         while to_visit:
             futures = {}
             batch_size = len(to_visit)
-
+            
             for _ in range(batch_size):
                 if not to_visit: break
                 current_title = to_visit.popleft()
                 if not current_title or current_title in visited_titles:
                     continue
-
+                
                 visited_titles.add(current_title)
                 url = title_to_url(current_title)
                 futures[executor.submit(process_and_discover, url, current_title)] = current_title
-
+            
             if not futures: continue
-
+            
             print(f"\n--- Processing a batch of {len(futures)} events ---")
             for future in as_completed(futures):
                 title = futures[future]
@@ -150,10 +158,19 @@ def main():
                     print(f"[SKIP] Already exists: {result.get('title')}")
                 elif status == "error":
                     print(f"[ERROR] Failed '{result.get('title')}'. Reason: {result.get('reason')}")
-
+                
                 for key in ["prev_event", "next_event"]:
                     discovered_title = result.get(key)
-                    if discovered_title and discovered_title not in visited_titles and discovered_title not in to_visit:
+                    
+                    if not discovered_title or discovered_title in JUNK_TITLES:
+                        continue
+
+                    if discovered_title in TITLE_MAPPINGS:
+                        corrected_title = TITLE_MAPPINGS[discovered_title]
+                        print(f"  -> Correcting link: '{discovered_title}' -> '{corrected_title}'")
+                        discovered_title = corrected_title
+
+                    if discovered_title not in visited_titles and discovered_title not in to_visit:
                         to_visit.append(discovered_title)
                         print(f"  -> Discovered: {discovered_title}")
 
