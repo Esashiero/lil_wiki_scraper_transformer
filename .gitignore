@@ -8,7 +8,7 @@ __pycache__/
 *~
 
 # Ignore the "gitignore" folder itself
-gitignore/
+/gitignore/
 output/
 
 # OS cruft
