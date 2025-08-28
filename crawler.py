@@ -15,6 +15,14 @@ MAX_WORKERS = 10
 BASE_URL = 'https://lessonsinlove.wiki'
 SEED_CATEGORY_URL = 'https://lessonsinlove.wiki/index.php?title=Category:Main_Events'
 
+# --- Data Cleaning and Manual Patches ---
+JUNK_TITLES = {'update xx.xx.xx'}
+TITLE_MAPPINGS = {
+    'Fireworks etc...': 'Fireworks, Chicken, and the Innate Fear of Death',
+    'The Legacy of Thuam Pt. IV': 'The Legacy of Thaum Pt. IV',
+    'The Sakakibara Diet': None, # This link is a known dead end
+}
+
 # --- Helper Functions ---
 
 def title_to_url(title: str) -> str:
@@ -47,7 +55,7 @@ def get_seed_urls_from_category_page(start_url: str) -> set[str]:
         page_count += 1
         print(f"  Scraping seed page {page_count}: {current_page_url}")
         try:
-            time.sleep(0.2) # User-suggested smaller sleep
+            time.sleep(0.2)
             response = requests.get(current_page_url, timeout=20)
             response.raise_for_status()
             soup = BeautifulSoup(response.text, 'html.parser')
@@ -70,30 +78,39 @@ def get_seed_urls_from_category_page(start_url: str) -> set[str]:
 
 def process_and_discover(url: str, title_hint: str) -> dict:
     """
-    Processes a single event URL to extract its data and discover links.
+    Processes a single event URL, cleans its navigation data, saves it,
+    and discovers links to the previous and next events.
     """
     try:
-        time.sleep(0.2) # User-suggested smaller sleep
+        time.sleep(0.2)
         response = requests.get(url, timeout=20)
         response.raise_for_status()
         event_data = transform_event_html_to_json(response.text)
         event_title = event_data.get("event_title", title_hint)
+
+        # --- Clean navigation data before saving ---
+        nav = event_data.get("navigation", {})
+        for key in ["prev_event", "next_event"]:
+            title = nav.get(key)
+            if not title or title in JUNK_TITLES:
+                nav[key] = None
+            elif title in TITLE_MAPPINGS:
+                nav[key] = TITLE_MAPPINGS[title]
+        event_data["navigation"] = nav
+        
         output_dir = os.path.join(OUTPUT_BASE_DIR, "Main_Events")
         os.makedirs(output_dir, exist_ok=True)
         output_path = os.path.join(output_dir, f"{sanitize_filename(event_title)}.json")
         
         if os.path.exists(output_path):
-            with open(output_path, 'r', encoding='utf-8') as f:
-                event_data = json.load(f)
-            status = "skipped"
-        else:
-            with open(output_path, 'w', encoding='utf-8') as f:
-                json.dump(event_data, f, ensure_ascii=False, indent=4)
-            status = "success"
-            
-        nav = event_data.get("navigation", {})
+            # Even if it exists, overwrite it with the cleaned data
+            pass
+
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(event_data, f, ensure_ascii=False, indent=4)
+        
         return {
-            "status": status, "path": output_path, "title": event_title,
+            "status": "success", "path": output_path, "title": event_title,
             "prev_event": nav.get("previous_event"), "next_event": nav.get("next_event")
         }
     except Exception as e:
@@ -105,26 +122,16 @@ def main():
     """
     Main execution function. Implements a hybrid crawler that uses a seed
     list from a category page and then performs graph traversal.
-    Includes manual patches for known data inconsistencies on the wiki.
     """
     print("Starting the Lessons in Love Wiki Crawler (Hybrid Mode)...")
     if not os.path.exists(OUTPUT_BASE_DIR):
         os.makedirs(OUTPUT_BASE_DIR)
 
-    # --- Data Cleaning and Manual Patches ---
-    JUNK_TITLES = {'update xx.xx.xx'}
-    TITLE_MAPPINGS = {
-        'Fireworks etc...': 'Fireworks, Chicken, and the Innate Fear of Death',
-        'The Legacy of Thuam Pt. IV': 'The Legacy of Thaum Pt. IV',
-    }
-
-    # --- Phase 1: Seeding from Category Page ---
     print("\n--- Phase 1: Seeding initial events from Main Events category ---")
     seed_urls = get_seed_urls_from_category_page(SEED_CATEGORY_URL)
     initial_titles = {url_to_title(url) for url in seed_urls if url_to_title(url)}
     print(f"--> Found {len(initial_titles)} unique event titles from category pages.")
 
-    # --- Phase 2: Graph Traversal ---
     print("\n--- Phase 2: Traversing event graph to find all connected events ---")
     to_visit = deque(initial_titles)
     visited_titles = set()
@@ -154,23 +161,12 @@ def main():
 
                 if status == "success":
                     print(f"[SUCCESS] Saved: {result.get('path')}")
-                elif status == "skipped":
-                    print(f"[SKIP] Already exists: {result.get('title')}")
                 elif status == "error":
                     print(f"[ERROR] Failed '{result.get('title')}'. Reason: {result.get('reason')}")
                 
                 for key in ["prev_event", "next_event"]:
                     discovered_title = result.get(key)
-                    
-                    if not discovered_title or discovered_title in JUNK_TITLES:
-                        continue
-
-                    if discovered_title in TITLE_MAPPINGS:
-                        corrected_title = TITLE_MAPPINGS[discovered_title]
-                        print(f"  -> Correcting link: '{discovered_title}' -> '{corrected_title}'")
-                        discovered_title = corrected_title
-
-                    if discovered_title not in visited_titles and discovered_title not in to_visit:
+                    if discovered_title and discovered_title not in visited_titles and discovered_title not in to_visit:
                         to_visit.append(discovered_title)
                         print(f"  -> Discovered: {discovered_title}")
 
