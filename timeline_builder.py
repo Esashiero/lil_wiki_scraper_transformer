@@ -58,7 +58,7 @@ def main():
 
     events_by_title = {event.event_title: event for event in main_events}
     all_main_event_titles = set(events_by_title.keys())
-
+    
     # --- Find all starting points ---
     starting_events = []
     for event in main_events:
@@ -84,18 +84,18 @@ def main():
         chain_count += 1
         current_chain = []
         current_event = start_event
-
+        
         print(f"\nBuilding chain #{chain_count} starting with: '{start_event.event_title}'")
 
         while current_event and current_event.event_title not in processed_titles:
             current_chain.append(current_event)
             processed_titles.add(current_event.event_title)
-
+            
             next_title = current_event.navigation.get('next_event')
             if not next_title:
                 print("  -> Chain reached a logical end (no 'next_event').")
                 break
-
+            
             current_event = events_by_title.get(next_title)
 
             # If direct match fails, try fuzzy matching for typos
@@ -106,7 +106,7 @@ def main():
                     current_event = events_by_title.get(best_match[0])
                 else:
                     print(f"  -> Chain broken: Event '{current_chain[-1].event_title}' points to '{next_title}', which was not found.")
-
+            
         full_timeline.extend(current_chain)
 
     # --- Final Validation ---
