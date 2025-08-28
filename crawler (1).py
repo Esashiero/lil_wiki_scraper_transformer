@@ -3,7 +3,6 @@ import os
 import re
 import json
 import time
-import argparse
 from collections import deque
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urldefrag, unquote, quote
@@ -14,14 +13,14 @@ from transformer import transform_event_html_to_json
 OUTPUT_BASE_DIR = 'output'
 MAX_WORKERS = 10
 BASE_URL = 'https://lessonsinlove.wiki'
-SEED_CATEGORY_URL = 'https://lessonsinlove.wiki/index.php?title=Category:Main_Events'
+SEED_CATEGORY_URL = 'https://www.lessonsinlove.wiki/index.php?title=Normal_Office_Visit'
 
 # --- Data Cleaning and Manual Patches ---
 JUNK_TITLES = {'update xx.xx.xx'}
 TITLE_MAPPINGS = {
     'Fireworks etc...': 'Fireworks, Chicken, and the Innate Fear of Death',
     'The Legacy of Thuam Pt. IV': 'The Legacy of Thaum Pt. IV',
-    # 'The Sakakibara Diet': None, # This was correctly removed.
+    'The Sakakibara Diet': None, # This link is a known dead end
 }
 
 # --- Helper Functions ---
@@ -41,12 +40,6 @@ def url_to_title(url: str) -> str:
 def sanitize_filename(name: str) -> str:
     """Sanitizes a string to be used as a valid filename."""
     return re.sub(r'[\\/*?:"<>|]', "", name)
-
-def create_event_id(title: str) -> str:
-    """Creates a snake_case event_id from an event title."""
-    s = re.sub(r'\s+', '_', title)  # Replace spaces with underscores
-    s = re.sub(r'[^a-zA-Z0-9_]', '', s)  # Remove non-alphanumeric characters except underscore
-    return s.lower()
 
 # --- Seeding Function ---
 
@@ -83,10 +76,6 @@ def get_seed_urls_from_category_page(start_url: str) -> set[str]:
 
 # --- Core Processing Function ---
 
-# --- Core Processing Function ---
-
-# --- Core Processing Function ---
-
 def process_and_discover(url: str, title_hint: str) -> dict:
     """
     Processes a single event URL, cleans its navigation data, saves it,
@@ -97,90 +86,52 @@ def process_and_discover(url: str, title_hint: str) -> dict:
         response = requests.get(url, timeout=20)
         response.raise_for_status()
         event_data = transform_event_html_to_json(response.text)
+        event_title = event_data.get("event_title", title_hint)
 
-        # 1. Finalize the event TITLE. Use the hint as a fallback.
-        event_title = event_data.get("event_title")
-        if not event_title or event_title == "Unknown Event":
-            event_title = title_hint
-            event_data["event_title"] = title_hint
-        
-        # 2. Unconditionally regenerate the EVENT ID from the final title.
-        #    This ensures a consistent ID format for all events.
-        event_data["event_id"] = create_event_id(event_title)
-
-        # 3. Get the raw navigation titles from the parsed HTML data.
+        # --- Clean navigation data before saving ---
         nav = event_data.get("navigation", {})
-        prev_title_raw = nav.get("previous_event")
-        next_title_raw = nav.get("next_event")
-
-        # 4. Clean these titles for the CRAWLER'S discovery loop.
-        cleaned_prev_title = prev_title_raw
-        if not cleaned_prev_title or cleaned_prev_title in JUNK_TITLES:
-            cleaned_prev_title = None
-        elif cleaned_prev_title in TITLE_MAPPINGS:
-            cleaned_prev_title = TITLE_MAPPINGS.get(cleaned_prev_title)
-
-        cleaned_next_title = next_title_raw
-        if not cleaned_next_title or cleaned_next_title in JUNK_TITLES:
-            cleaned_next_title = None
-        elif cleaned_next_title in TITLE_MAPPINGS:
-            cleaned_next_title = TITLE_MAPPINGS.get(cleaned_next_title)
-
-        # 5. <<< THE CORRECT FIX (Option A) >>>
-        #    Assign the cleaned TITLES (not IDs) to the navigation block for the JSON file.
-        #    This makes the output compatible with the timeline builder.
-        nav["previous_event"] = cleaned_prev_title
-        nav["next_event"] = cleaned_next_title
+        for key in ["prev_event", "next_event"]:
+            title = nav.get(key)
+            if not title or title in JUNK_TITLES:
+                nav[key] = None
+            elif title in TITLE_MAPPINGS:
+                nav[key] = TITLE_MAPPINGS[title]
         event_data["navigation"] = nav
         
-        # 6. Save the final JSON.
         output_dir = os.path.join(OUTPUT_BASE_DIR, "Main_Events")
         os.makedirs(output_dir, exist_ok=True)
         output_path = os.path.join(output_dir, f"{sanitize_filename(event_title)}.json")
         
+        if os.path.exists(output_path):
+            # Even if it exists, overwrite it with the cleaned data
+            pass
+
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(event_data, f, ensure_ascii=False, indent=4)
         
-        # 7. Return the cleaned TITLES to the main loop for discovery.
         return {
             "status": "success", "path": output_path, "title": event_title,
-            "previous_event": cleaned_prev_title,
-            "next_event": cleaned_next_title,
+            "prev_event": nav.get("previous_event"), "next_event": nav.get("next_event")
         }
     except Exception as e:
         return {"status": "error", "title": title_hint, "reason": str(e)}
 
 # --- Main Hybrid Crawler Function ---
+
 def main():
     """
     Main execution function. Implements a hybrid crawler that uses a seed
     list from a category page and then performs graph traversal.
-    Also includes a debug flag to process a single URL.
     """
-    parser = argparse.ArgumentParser(description="Crawl the Lessons in Love wiki.")
-    parser.add_argument('--url', type=str, help='A specific URL to process for debugging.')
-    args = parser.parse_args()
-
-    print("Starting the Lessons in Love Wiki Crawler...")
+    print("Starting the Lessons in Love Wiki Crawler (Hybrid Mode)...")
     if not os.path.exists(OUTPUT_BASE_DIR):
         os.makedirs(OUTPUT_BASE_DIR)
 
-    if args.url:
-        print(f"\n--- Running in single URL debug mode for: {args.url} ---")
-        title_hint = url_to_title(args.url) or "Debug URL"
-        result = process_and_discover(args.url, title_hint)
-        print("\n--- Debug Run Complete ---")
-        print("Final result object:")
-        print(json.dumps(result, indent=4))
-        return
-
-    # --- Phase 1: Seeding from Category Page ---
     print("\n--- Phase 1: Seeding initial events from Main Events category ---")
     seed_urls = get_seed_urls_from_category_page(SEED_CATEGORY_URL)
     initial_titles = {url_to_title(url) for url in seed_urls if url_to_title(url)}
     print(f"--> Found {len(initial_titles)} unique event titles from category pages.")
 
-    # --- Phase 2: Graph Traversal ---
     print("\n--- Phase 2: Traversing event graph to find all connected events ---")
     to_visit = deque(initial_titles)
     visited_titles = set()
@@ -213,7 +164,7 @@ def main():
                 elif status == "error":
                     print(f"[ERROR] Failed '{result.get('title')}'. Reason: {result.get('reason')}")
                 
-                for key in ["previous_event", "next_event"]:
+                for key in ["prev_event", "next_event"]:
                     discovered_title = result.get(key)
                     if discovered_title and discovered_title not in visited_titles and discovered_title not in to_visit:
                         to_visit.append(discovered_title)

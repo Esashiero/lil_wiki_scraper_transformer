@@ -220,9 +220,9 @@ def transform_event_html_to_json(html_content: str) -> dict:
     secret_data = parse_secret_tab(soup.find("article", {"data-title": "Secret"}))
     nav = {"previous_event": None, "next_event": None}
     prev_div, next_div = soup.find("div", class_="LArrow"), soup.find("div", class_="RArrow")
-    if prev_div:
-        prev_text = prev_div.get_text(strip=True).replace("Previous Event:", "").strip()
-        nav["previous_event"] = prev_text if prev_text.lower() != "none" else None
+    if prev_div and prev_div.find("a"):
+        nav["previous_event"] = prev_div.find("a").get_text(strip=True)
+    
     if next_div and next_div.find("a"):
         nav["next_event"] = next_div.find("a").get_text(strip=True)
 

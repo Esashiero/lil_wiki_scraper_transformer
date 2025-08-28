@@ -50,14 +50,31 @@ def load_main_events(directory: str) -> List[Event]:
     print(f"Successfully loaded {len(event_objects)} Main Event files.")
     return event_objects
 
+# --- Utility to normalize titles ---
+def normalize_title(title: str) -> str:
+    """Normalize event titles for consistent lookup."""
+    if not title:
+        return ""
+    return "".join(c for c in title.strip() if c.isprintable())
+
+
 def main():
     """Main execution function with logic to handle multiple independent event chains."""
     main_events = load_main_events(MAIN_EVENTS_DIR)
     if not main_events:
         return
 
+    # --- DEBUG: find missing references ---
+    for event in main_events:
+        prev = event.navigation.get("previous_event")
+        nxt = event.navigation.get("next_event")
+        if prev == "The Sakakibara Diet" or nxt == "The Sakakibara Diet":
+            print(f"Reference issue found in: {event.event_title} (prev: {prev}, next: {nxt})")
+    # --- End debug ---
+
     events_by_title = {event.event_title: event for event in main_events}
     all_main_event_titles = set(events_by_title.keys())
+
 
     # --- Find all starting points ---
     starting_events = []
@@ -72,14 +89,15 @@ def main():
 
     print(f"Found {len(starting_events)} potential starting points for event chains.")
 
-    # --- Build all timelines from all starting points ---
+    # --- Timeline-building loop goes here ---
     full_timeline = []
     processed_titles = set()
     chain_count = 0
 
     for start_event in starting_events:
-        if start_event.event_title in processed_titles:
-            continue # This event was already part of another chain
+        norm_start_title = normalize_title(start_event.event_title)
+        if norm_start_title in processed_titles:
+            continue
 
         chain_count += 1
         current_chain = []
@@ -87,45 +105,50 @@ def main():
 
         print(f"\nBuilding chain #{chain_count} starting with: '{start_event.event_title}'")
 
-        while current_event and current_event.event_title not in processed_titles:
-            current_chain.append(current_event)
-            processed_titles.add(current_event.event_title)
-
-            next_title = current_event.navigation.get('next_event')
-            if not next_title:
-                print("  -> Chain reached a logical end (no 'next_event').")
+        while current_event:
+            norm_current_title = normalize_title(current_event.event_title)
+            if norm_current_title in processed_titles:
                 break
 
-            current_event = events_by_title.get(next_title)
+            current_chain.append(current_event)
+            processed_titles.add(norm_current_title)
 
-            # If direct match fails, try fuzzy matching for typos
-            if not current_event and next_title:
+            next_title_raw = current_event.navigation.get('next_event')
+            next_title = normalize_title(next_title_raw)
+
+            if not next_title:
+                print(f"  -> Chain reached a logical end at '{current_event.event_title}' (no 'next_event').")
+                break
+
+            next_event = events_by_title.get(next_title)
+
+            if not next_event and next_title:
                 best_match = fuzz_process.extractOne(next_title, all_main_event_titles)
-                if best_match and best_match[1] > 90: # Using a 90% confidence threshold
+                if best_match and best_match[1] > 90:
                     print(f"  -> Fuzzy-matched '{next_title}' to '{best_match[0]}' (Confidence: {best_match[1]}%)")
-                    current_event = events_by_title.get(best_match[0])
+                    next_event = events_by_title.get(best_match[0])
                 else:
-                    print(f"  -> Chain broken: Event '{current_chain[-1].event_title}' points to '{next_title}', which was not found.")
+                    print(f"  -> Chain broken: Event '{current_event.event_title}' points to '{next_title}', which was not found.")
+                    next_event = None
+
+            current_event = next_event
 
         full_timeline.extend(current_chain)
 
-    # --- Final Validation ---
+    # --- Save timeline ---
     placed_count = len(full_timeline)
     total_count = len(main_events)
     print(f"\nTimeline construction complete. Placed {placed_count} out of {total_count} events across {chain_count} chains.")
 
-    if placed_count < total_count:
-        missed_events = all_main_event_titles - processed_titles
-        print(f"[WARNING] {len(missed_events)} events were loaded but not placed in any timeline. This may indicate orphan events or broken links within a chain.")
-        # To see the specific events, uncomment the following line:
+    missed_events = all_main_event_titles - processed_titles
+    if missed_events:
+        print(f"[WARNING] {len(missed_events)} events were loaded but not placed in any timeline.")
         # print(f"  -> Orphaned Events: {sorted(list(missed_events))}")
 
-    # Assign the final timeline index to each event in the final combined order
     for i, event in enumerate(full_timeline):
         event.timeline_index = i
 
     output_data = [event.__dict__ for event in full_timeline]
-
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, ensure_ascii=False, indent=4)
 
