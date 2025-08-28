@@ -87,6 +87,8 @@ def get_seed_urls_from_category_page(start_url: str) -> set[str]:
 
 # --- Core Processing Function ---
 
+# --- Core Processing Function ---
+
 def process_and_discover(url: str, title_hint: str) -> dict:
     """
     Processes a single event URL, cleans its navigation data, saves it,
@@ -102,38 +104,39 @@ def process_and_discover(url: str, title_hint: str) -> dict:
         event_title = event_data.get("event_title")
         if not event_title or event_title == "Unknown Event":
             event_title = title_hint
-            event_data["event_title"] = title_hint
         
-        # 2. Unconditionally regenerate the EVENT ID from the final title.
-        #    This ensures a consistent ID format for all events.
+        # <<< THE FINAL FIX: Strip whitespace from the title >>>
+        event_title = event_title.strip()
+        event_data["event_title"] = event_title
+        
+        # 2. Unconditionally regenerate the EVENT ID from the final, cleaned title.
         event_data["event_id"] = create_event_id(event_title)
 
-        # 3. Get the raw navigation titles from the parsed HTML data.
+        # ... (the rest of the function remains exactly the same) ...
+        # 3. Get the raw navigation titles...
         nav = event_data.get("navigation", {})
         prev_title_raw = nav.get("previous_event")
         next_title_raw = nav.get("next_event")
 
-        # 4. Clean these titles for the CRAWLER'S discovery loop.
-        cleaned_prev_title = prev_title_raw
+        # 4. Clean these titles...
+        cleaned_prev_title = prev_title_raw.strip() if prev_title_raw else None
         if not cleaned_prev_title or cleaned_prev_title in JUNK_TITLES:
             cleaned_prev_title = None
         elif cleaned_prev_title in TITLE_MAPPINGS:
             cleaned_prev_title = TITLE_MAPPINGS.get(cleaned_prev_title)
 
-        cleaned_next_title = next_title_raw
+        cleaned_next_title = next_title_raw.strip() if next_title_raw else None
         if not cleaned_next_title or cleaned_next_title in JUNK_TITLES:
             cleaned_next_title = None
         elif cleaned_next_title in TITLE_MAPPINGS:
             cleaned_next_title = TITLE_MAPPINGS.get(cleaned_next_title)
 
-        # 5. <<< THE CORRECT FIX (Option A) >>>
-        #    Assign the cleaned TITLES (not IDs) to the navigation block for the JSON file.
-        #    This makes the output compatible with the timeline builder.
+        # 5. Assign the cleaned TITLES to the navigation block...
         nav["previous_event"] = cleaned_prev_title
         nav["next_event"] = cleaned_next_title
         event_data["navigation"] = nav
         
-        # 6. Save the final JSON.
+        # 6. Save the final JSON...
         output_dir = os.path.join(OUTPUT_BASE_DIR, "Main_Events")
         os.makedirs(output_dir, exist_ok=True)
         output_path = os.path.join(output_dir, f"{sanitize_filename(event_title)}.json")
@@ -141,7 +144,7 @@ def process_and_discover(url: str, title_hint: str) -> dict:
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(event_data, f, ensure_ascii=False, indent=4)
         
-        # 7. Return the cleaned TITLES to the main loop for discovery.
+        # 7. Return the cleaned TITLES to the main loop for discovery...
         return {
             "status": "success", "path": output_path, "title": event_title,
             "previous_event": cleaned_prev_title,

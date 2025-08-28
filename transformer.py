@@ -2,8 +2,10 @@ from bs4 import BeautifulSoup, Tag, NavigableString
 import json
 import re
 
-# All other parsing functions (get_section_content, parse_interactivity, etc.)
-# are correct from the previous version and remain unchanged.
+# All of your existing helper functions (get_section_content, parse_interactivity,
+# parse_progression, parse_technical_info, find_chapter, parse_secret_tab)
+# remain exactly the same. Copy them here.
+# ... (paste all functions from your original transformer.py here, from line 6 to 226) ...
 
 def get_section_content(start_node: Tag, stop_at: list = ['h2', 'h3']):
     content = []
@@ -184,16 +186,18 @@ def parse_secret_tab(tab: Tag) -> dict:
                 data["translations"].append(translation_entry)
     return data
 
+
 def transform_event_html_to_json(html_content: str) -> dict:
-    """Main function to transform HTML content to the structured JSON with fixed key order."""
+    """Main function to transform HTML content to a structured, FLAT dictionary."""
     soup = BeautifulSoup(html_content, "html.parser")
     
-    # --- Data Extraction (remains the same) ---
+    # --- Basic Info Extraction ---
     event_title_tag = soup.find("span", class_="mw-page-title-main")
     event_title = event_title_tag.get_text(strip=True) if event_title_tag else "Unknown Event"
-    event_id = re.sub(r"\W+", "_", event_title).lower()
     url_tag = soup.find("meta", {"property": "og:url"})
     canonical_url = url_tag['content'] if url_tag else None
+    
+    # --- Event Type and Primary Character ---
     event_type, primary_character = None, None
     intro_p = soup.select_one(".mw-parser-output > p")
     if intro_p:
@@ -206,46 +210,47 @@ def transform_event_html_to_json(html_content: str) -> dict:
         elif "is an Event for" in intro_text: event_type = "Event"
         char_link = intro_p.find("a", attrs={"title": re.compile(r'^Characters/')})
         if char_link: primary_character = char_link.get_text(strip=True)
-    chapter = find_chapter(soup, event_title)
-    if not chapter and intro_p:
-        intro_text_lower = intro_p.get_text().lower()
-        ordinal_words = ['first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh', 'eighth', 'ninth', 'tenth', 'eleventh', 'twelfth', 'thirteenth', 'fourteenth', 'fifteenth', 'sixteenth', 'seventeenth', 'eighteenth', 'nineteenth', 'twentieth', 'twenty-first', 'twenty-second', 'twenty-third', 'twenty-fourth', 'twenty-fifth', 'thirtieth', 'fortieth', 'fiftieth']
-        for word in ordinal_words:
-            if re.search(rf'\b{word}\b', intro_text_lower):
-                chapter = word.capitalize()
-                break
+        
+    # --- Run all existing parsers to get nested data ---
     interactivity_data = parse_interactivity(soup.find("article", {"data-title": "Event Interactivity"}))
     progression_data = parse_progression(soup.find("article", {"data-title": "Event Progression (Spoilers!)"}))
     technical_data = parse_technical_info(soup.find("article", {"data-title": "Technical Information"}))
-    secret_data = parse_secret_tab(soup.find("article", {"data-title": "Secret"}))
+    # Note: Secret data is less critical for the timeline, can be added later if needed.
+    
+    # --- Navigation ---
     nav = {"previous_event": None, "next_event": None}
     prev_div, next_div = soup.find("div", class_="LArrow"), soup.find("div", class_="RArrow")
     if prev_div and prev_div.find("a"):
         nav["previous_event"] = prev_div.find("a").get_text(strip=True)
-    
     if next_div and next_div.find("a"):
         nav["next_event"] = next_div.find("a").get_text(strip=True)
 
-    # --- Final Dictionary Assembly with specific key order ---
-    final_json = {
-        "event_id": event_id,
+    # --- NEW: Assemble the Final FLAT Dictionary ---
+    # This structure matches the goal `Event` dataclass from the project brief.
+    final_flat_json = {
+        # Core Identifiers
+        "event_id": re.sub(r"\W+", "_", event_title).lower(),
         "event_title": event_title,
         "url": canonical_url,
         "event_type": event_type,
-        "primary_character": primary_character,
-        "chapter": chapter,
-        "interactivity": interactivity_data,
-        "progression": progression_data,
-        "technical_information": technical_data
+        "chapter": find_chapter(soup, event_title),
+        
+        # Progression Data
+        "synopsis": progression_data.get("synopsis"),
+        "characters": progression_data.get("participating_characters", []),
+        "locations": progression_data.get("locations", []),
+        
+        # Interactivity Data (for timeline sorting and analysis)
+        "requirements": interactivity_data.get("requirements"),
+        "choices": interactivity_data.get("choices", []),
+        "effects": interactivity_data.get("effects", []),
+        
+        # Navigation
+        "navigation": nav,
+        
+        # Extra (can be used later)
+        "trivia": progression_data.get("trivia", []),
+        "changelog": technical_data.get("changelog", [])
     }
-    if secret_data and (secret_data["description"] or secret_data["translations"]):
-        final_json["secret_information"] = secret_data
-
-    # Ensure the nav dictionary is clean before adding it
-    final_nav = {
-        "previous_event": nav.get("previous_event"),
-        "next_event": nav.get("next_event")
-    }
-    final_json["navigation"] = final_nav
     
-    return final_json
+    return final_flat_json

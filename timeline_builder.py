@@ -8,21 +8,23 @@ from thefuzz import process as fuzz_process
 MAIN_EVENTS_DIR = os.path.join('output', 'Main_Events')
 OUTPUT_FILE = 'main_events_timeline.json'
 
-# --- Data Structure ---
+# --- Data Structure (NEW VERSION) ---
 @dataclass
 class Event:
     event_id: str
     event_title: str
     url: str
+    event_type: Optional[str]
+    chapter: Optional[str]
+    synopsis: Optional[str]
+    characters: List[str]
+    locations: List[str]
+    requirements: Optional[str]
+    choices: List[Dict[str, Any]]
+    effects: List[str]
     navigation: Dict[str, Optional[str]]
-    # All other fields are loaded to prevent crashes but are not used for sorting.
-    event_type: Optional[str] = None
-    chapter: Optional[str] = None
-    interactivity: Optional[Dict[str, Any]] = None
-    progression: Optional[Dict[str, Any]] = None
-    technical_information: Optional[Dict[str, Any]] = None
-    primary_character: Optional[str] = None
-    secret_information: Optional[Dict[str, Any]] = None
+    trivia: List[str]
+    changelog: List[str]
     timeline_index: Optional[int] = None
 
 # --- Core Functions ---
