@@ -240,6 +240,12 @@ def transform_event_html_to_json(html_content: str) -> dict:
     }
     if secret_data and (secret_data["description"] or secret_data["translations"]):
         final_json["secret_information"] = secret_data
-    final_json["navigation"] = nav # Add navigation last
+
+    # Ensure the nav dictionary is clean before adding it
+    final_nav = {
+        "previous_event": nav.get("previous_event"),
+        "next_event": nav.get("next_event")
+    }
+    final_json["navigation"] = final_nav
     
     return final_json
