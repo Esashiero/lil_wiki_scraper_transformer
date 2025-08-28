@@ -120,24 +120,24 @@ def main():
     print("\n--- Phase 2: Traversing event graph to find all connected events ---")
     to_visit = deque(initial_titles)
     visited_titles = set()
-    
+
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         while to_visit:
             futures = {}
             batch_size = len(to_visit)
-            
+
             for _ in range(batch_size):
                 if not to_visit: break
                 current_title = to_visit.popleft()
                 if not current_title or current_title in visited_titles:
                     continue
-                
+
                 visited_titles.add(current_title)
                 url = title_to_url(current_title)
                 futures[executor.submit(process_and_discover, url, current_title)] = current_title
-            
+
             if not futures: continue
-            
+
             print(f"\n--- Processing a batch of {len(futures)} events ---")
             for future in as_completed(futures):
                 title = futures[future]
@@ -150,7 +150,7 @@ def main():
                     print(f"[SKIP] Already exists: {result.get('title')}")
                 elif status == "error":
                     print(f"[ERROR] Failed '{result.get('title')}'. Reason: {result.get('reason')}")
-                
+
                 for key in ["prev_event", "next_event"]:
                     discovered_title = result.get(key)
                     if discovered_title and discovered_title not in visited_titles and discovered_title not in to_visit:
