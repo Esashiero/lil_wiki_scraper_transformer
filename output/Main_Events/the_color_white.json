@@ -1,0 +1,60 @@
+{
+    "event_id": "the_color_white",
+    "event_title": "The Color White",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Color_White",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.22",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Me Without You \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Touka , Yasu Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "Sensei makes his way back to the hotel room but finds the hallway eerily quiet. When he opens the door to check if someone’s still there, he finds the room only illuminated by the TV and Yasu singing karaoke. He silently watches her performance until Touka appears next to him. She tells him that Yasu's been waiting all night to sing and that she stayed behind to watch over her as the rest of the class left to watch the fireworks. Apparently, Yasu didn’t ask the girls if she could sing since she didn’t want to bother anyone. Touka explains that both see themselves as outliers, but where Touka is confident that she can be a part of the class, Yasu doesn’t even consider this possibility, even though she wants to. Sensei reminds her that the main obstacle to Yasu's successful integration is her religious zealousness. Touka acknowledges this but tells him that, underneath that, is genuine concern for the well-being of the class. He's impressed to hear her speak so fondly of Yasu, with Touka admitting she's a regular annoyance, but was also her first real friend, so she has a soft spot for her. She hopes he will similarly grow fond of her. She invites him to sing when Yasu's finished, but he declines, which makes her question why he's sticking around when there are so many other people who want his attention right now. He remarks that it's because he always finds himself in places he doesn't belong, which Touka remarks makes him an outsider like Yasu and her — People who only \"belong\" in their own little worlds. Sensei remarks that unlike them though, he didn't build the world he found himself in. Furthermore, he doesn't want to talk about philosophy with her. Moving on, she asks if he delivered the bear to its receipt, which he confirms. Meanwhile: Yasu finishes her performance and is shocked to see Sensei behind her. She apologizes for her performance, but Sensei compliments her efforts, making her smile in the process. She informs him that someone is waiting for him on the roof and he remembers his meeting with Maya . He tries to ask how she knew about that, but when she gives a characteristically vague answer, he drops the topic. He says goodbye, with Yasu advising him to count the number of steps to the roof.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Yasu Yasui",
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Nodoka Nagasawa",
+            "Futaba Fukuyama",
+            "Rin Rokuhara",
+            "Tsukasa Tsukioka",
+            "Chinami Chosokabe",
+            "Tsubasa Tsukioka",
+            "Chika Chosokabe"
+        ],
+        "trivia": [
+            "When Chika speaks with Tsubasa, she mentions feeling as if she's been in that specific room before. This is a reference to The Princess & The Pauper but occurs regardless of if Sensei saw the event, creating a possible continuity issue."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Color White",
+            "event_script_names": "christmastwo19",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yasuseesinthedark"
+        ],
+        "music_tracks": [
+            "yasusings.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Me Without You",
+        "next_event": "Glued to the Sky"
+    }
+}

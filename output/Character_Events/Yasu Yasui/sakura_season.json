@@ -1,0 +1,50 @@
+{
+    "event_id": "sakura_season",
+    "event_title": "Sakura Season",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sakura_Season",
+    "event_type": "Event",
+    "primary_character": "Yasu Yasui",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Sunday 10 Yasu Affection You must have seen or permanently missed the following Events: Seen \" Repentance \" from Yasu Yasui",
+        "to_get_this_event": "Visit the New Hope Cathedral at night",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yasu Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "New Hope Cathedral"
+        ],
+        "synopsis": "Yasu tells Sensei that she is barred from having fun tonight so that her god \"can feel what it means to be alive once more\". She has blindfolded herself with tape, which is \"simply how we show our thanks\". There is a connection error, and Yasu tells an anecdote about a blind man who collects eyes, gains sight through memories from those eyes, and then has it withdrawn again. She has foregone her sight so that he can see in her place, although without many happy memories, there is only so much he can gain from her.",
+        "participating_characters": [
+            "Sensei",
+            "Yasu Yasui"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sakura Season",
+            "event_script_names": "church10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "clearnightsky",
+            "churchglow",
+            "yasublind"
+        ],
+        "music_tracks": [
+            "newhope.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Repentance",
+        "next_event": "Down The Rabbit Hole"
+    }
+}

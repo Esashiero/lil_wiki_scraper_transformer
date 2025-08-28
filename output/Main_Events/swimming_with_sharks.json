@@ -1,0 +1,54 @@
+{
+    "event_id": "swimming_with_sharks",
+    "event_title": "Swimming With Sharks",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Swimming_With_Sharks",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.27.14",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Somewhere Far From Here \" . This event belongs to an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Estate"
+        ],
+        "synopsis": "Stepping off the bus, Sensei gets kidnapped and brought to the next contest. Being forced into his seat, he finds Imani , Tsubasa , and Tsukasa with him as the next contest is revealed - Nodoka and Yumi will face each other in an entrepreneur showdown in the vein of Shark Tank. Nodoka is the first to take the stage, pitching her idea of 'NODOKorp' as a solution to the population crisis facing Japan. Imani immediately backs out due to the sketchy nature of the company. Sensei follows shortly after due to personal disinterest in the idea. Tsubasa follows suit, explaining that this investment would contradict her previous ones. Tsukasa entertains the idea longest but drops out once Nodoka attempts to haggle. Yumi, after breaking the recording equipment, takes the stage, notably less prepared than Nodoka. Pitching her idea of 'Study Buddy' as a way for people to contract for quick problems, the 'sharks' are notably more receptive. Imani, starting to play into the bit, drops out due to Yumi's perceived lack of confidence in the idea. Tsubasa seems receptive to the idea but is outbid by Tsukasa's blunt approach. Yumi being crowned the winner, Sensei and Imani go to congratulate her. The conversation turns awkward fast due to the tension between them. Chika inadvertently saves the situation by coming to congratulate Yumi too. Nodoka does the same, which angers Yumi enough for her to head home.",
+        "participating_characters": [
+            "Sensei",
+            "Imani Imai",
+            "Tsukasa Tsukioka",
+            "Tsubasa Tsukioka",
+            "Nodoka Nagasawa",
+            "Yumi Yamaguchi",
+            "Chika Chosokabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Swimming With Sharks",
+            "event_script_names": "dormwartwo13",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sharktankparodydontsueme"
+        ],
+        "music_tracks": [
+            "sharktank.mp3",
+            "oldweather.mp3",
+            "rapid.mp3",
+            "cafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Somewhere Far From Here",
+        "next_event": "Remove Curse"
+    }
+}

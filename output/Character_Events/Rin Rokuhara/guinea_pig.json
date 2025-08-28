@@ -1,0 +1,50 @@
+{
+    "event_id": "guinea_pig",
+    "event_title": "Guinea Pig",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Guinea_Pig",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Visit Koi Cafe for the first time during a weekend morning.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "After refusing homemade breakfast several times, Sensei heads to the cafe and finds out that Rin works there in the mornings when she's not at school. She is surprised to find Sensei at the cafe, but quickly asks him for his order after making a comment about his 'slightly threatening aura'. After Sensei has ordered his drink of choice, Rin brings it to him, but comments that his election to stand instead of sit while he waits for his drink is making some of the customers nervous. He takes a drink, only to find it's nowhere close to what he ordered, and is slightly disconcerted that Rin has decided to use him as a guinea pig to convince her manager to add her custom drink to the cafe's menu. He assures he he does like the drink, though, and she brings him one of the comment cards for him to write down his experience on. The cafe gets flooded with customers, and Sensei is unable to talk to Rin after that point, so instead of waiting for a free moment which might not come for a while, Sensei places the card on the counter and leaves to go about his day.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "Selebus mentioned that this event is based on an actual conversation he had working retail when someone asked him for Tacos in a coffee store."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Guinea Pig",
+            "event_script_names": "firsttimecafe",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "cafe"
+        ],
+        "music_tracks": [
+            "cafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces The First Drink )."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "The Flavor of Love"
+    }
+}

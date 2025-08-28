@@ -1,0 +1,62 @@
+{
+    "event_id": "shut_up_kiss",
+    "event_title": "Shut Up & Kiss",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Shut_Up_%26_Kiss",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.13",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Hunger Games \" . This event belongs to an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "Using the confusion about Makoto and Ayane 's sudden closeness as a segue, Kirin pulls out a bottle from seemingly nowhere, suggesting they retread an idea from their first Christmas Party and play \"Spin the Bottle\". Molly and Karin are both against the idea but fail to put up any significant resistance as Rin rushes over to begin playing. From here, various girls take a spin at the bottle.",
+        "participating_characters": [
+            "Kirin Kanda",
+            "Molly MacCormack",
+            "Karin Kanda",
+            "Noriko Nakayama",
+            "Nodoka Nagasawa",
+            "Otoha Okakura",
+            "Rin Rokuhara",
+            "Ayane Amamiya",
+            "Makoto Miyamura",
+            "Sana Sakakibara",
+            "Futaba Fukuyama",
+            "Maya Makinami",
+            "Miku Maruyama",
+            "Imani Imai",
+            "Tsuneyo Tojo",
+            "Yasu Yasui"
+        ],
+        "trivia": [
+            "Every girl that did the spin got an introductory screen where the screen darkens, and their name and a brief description is shown, which is the same introduction used for major characters in the Yakuza -series."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Shut Up & Kiss",
+            "event_script_names": "springtime12",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "anotherbottle"
+        ],
+        "music_tracks": [
+            "stpartynight.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Hunger Games",
+        "next_event": "Death (And Other Sad Stuff)"
+    }
+}

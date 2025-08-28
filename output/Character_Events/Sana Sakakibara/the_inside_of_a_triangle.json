@@ -1,0 +1,53 @@
+{
+    "event_id": "the_inside_of_a_triangle",
+    "event_title": "The Inside of a Triangle",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Inside_of_a_Triangle",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Closer to Me .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - First Floor Hallway",
+            "School Dorms - Room 2"
+        ],
+        "synopsis": "Sensei and Sana arrive back at the dorm. Rather than parting ways at the entrance, though, she continues along his side until they reach her dorm door. She turns to him and asks he not mention what she said tonight to anyone, especially her mother . Sensei assures her he won't, and is surprised that she was able to tell him all this when her biggest breakthrough so far was her admittance of wanting to learn karate with him. She responds that she'll need to leave her comfort zone if she wants to stop feeling like, as Sensei puts it, she's trapped on the inside of a triangle. He teases her a bit while thinking to himself how little has changed in their dynamic until recently, when she began to show jealousy, making him realize he wants to learn more about her. She asks if he's feeling cold, with Sensei knowing that it's a subtle way to tell him she wants to spend more time with him inside her room. He admits he is and accepts her invitation to warm up inside, with Sana noting that they will be alone since Ayane had plans tonight. She lets him inside, but as he enters, Ayane speaks up, revealing that she canceled her plans earlier that day, and is understandably surprised to see Sensei inside her dorm room. She learns how them walking home together came to be and while she claims that she's fine with the situation and that it won't bother her, she's still shocked from seeing it. Sana wants to take Ayane outside so they can talk it out, and Sensei, knowing he shouldn't be there anymore, takes his leave and walks home, thinking how difficult breaking out of a triangle must be. Back in the first floor hallway, Sana tries find a good start for their conversation, but fails due to her being unable to communicate with other people. Ayane reminds her that she's her friend and that she knows everything about her, which is why Sana not being honest hurts her. Ayane wants to know when Sana's perception of Sensei started to change, but Sana denies that this is the case, only for Ayane to realize that there's a cognitive dissonance between her feelings and her mind, which Sana also denies. This catches Maya 's attention, and while she tries to figure out what's going on, she quickly realizes it's a private matter and returns to her room. Ayane decides to drop the topic and, when Sana claims that her perception can't change to prevent hurting her, states that she can deal with the pain and the competition if it ever does.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Ayane Amamiya",
+            "Maya Makinami"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on Sensei's choice during Still Young ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Inside of a Triangle",
+            "event_script_names": "sanadorm40",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sanawalkedhome"
+        ],
+        "music_tracks": [
+            "asobeatsexdark.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Closer to Me",
+        "next_event": "Sweet Vermouth"
+    }
+}

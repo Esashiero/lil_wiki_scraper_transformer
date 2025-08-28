@@ -1,0 +1,51 @@
+{
+    "event_id": "she_is",
+    "event_title": "She Is",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=She_Is",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.27.6",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Hiding in Plain Sight \" . This event belongs to an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Noriko Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi",
+            "Live Venue"
+        ],
+        "synopsis": "Having just finished his date with Futaba , Sensei makes his way to Noriko 's meetup spot. On the way, he muses over his thoughts on her, and his worry that he might hurt her tonight. He arrives late, having gone over time with Futaba. While she doesn't seem upset, she does take the time to tease him about her plans. Taking his hand, Noriko leads Sensei down the streets of the urban district, and into a live house she used to frequent. After grabbing drinks at the bar, Sensei questions Noriko’s indecisiveness on who he’s allowed to be with. She remarks that she’s still young, and is still struggling to fully articulate and sort through her feelings and beliefs; She's still a 'prototype of Noriko Nakayama'. It’s as she says this that the bartender pulls her away for ‘that thing’. Noriko takes the stage, grabbing a guitar to begin singing a song she wrote for him. As the two make eye contact, Sensei starts to feel uncomfortable as he's unsure of how to feel. He tries to smile but finds even this to feel too fake. As the spotlight shines on him, he realizes that, even though he's over thirty, he's just as unsure of who he is as Noriko. The song ends when Noriko realizes how uncomfortable he is, and she hops off the stage to rejoin him. Sensei immediately praises her for the song and says he can't wait for her to \"exit the prototype stage\".",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "She Is",
+            "event_script_names": "dormwartwo6",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "datewarnoriko"
+        ],
+        "music_tracks": [
+            "goodmorning.mp3",
+            "smellsofsummer.mp3",
+            "wewereangels.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Hiding in Plain Sight",
+        "next_event": "Burden to Bear"
+    }
+}

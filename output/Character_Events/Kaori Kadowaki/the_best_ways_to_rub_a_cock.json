@@ -1,0 +1,48 @@
+{
+    "event_id": "the_best_ways_to_rub_a_cock",
+    "event_title": "The Best Ways to Rub a Cock",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Best_Ways_to_Rub_a_Cock",
+    "event_type": "Event",
+    "primary_character": "Kaori Kadowaki",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Kaori Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Kadrillionbilliontrillion \" Seen \" How to Date a Human \" from Kaori Kadowaki Seen \" The Life of a Blue Whale \" from Tsuneyo Tojo Seen \" Regularly Scheduled Programming \" from Ayane Amamiya",
+        "to_get_this_event": "Call Kaori during weekend Afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kaori Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi"
+        ],
+        "synopsis": "Kaori has purchased a new friend, who turns out to be the chicken who \" saved \" Sensei in the chicken alleyway. Kaori has named him John . Kaori is embarrassed to learn that her terminology for chickens could be subject to misinterpretation.",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Best Ways to Rub a Cock",
+            "event_script_names": "kaoridate5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kaorishugecock"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.11."
+        ]
+    },
+    "navigation": {
+        "previous_event": "How to Date a Human",
+        "next_event": "Objects and Appendages"
+    }
+}

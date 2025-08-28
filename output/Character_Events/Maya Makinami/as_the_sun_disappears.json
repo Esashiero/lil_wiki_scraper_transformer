@@ -1,0 +1,49 @@
+{
+    "event_id": "as_the_sun_disappears",
+    "event_title": "As The Sun Disappears",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=As_The_Sun_Disappears",
+    "event_type": "Event",
+    "primary_character": "Maya Makinami",
+    "chapter": "v0.23p1(Maya Festival Date).3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Three Halves Make a Whole (Itadakimasu) \" . This event belongs to an event chain started from \" Somewhere Inside of a Dream \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Festival"
+        ],
+        "synopsis": "Once the sun is gone, Sensei has an inner philosophical monologue while Maya enjoys the snacks he randomly chose for her. He asks if she knows where they’re heading and she has a vague idea, though she wasn’t here in a long time. Sensei wonders why she didn’t go with other versions of him, but she didn’t want to because they weren’t him and thinks he should already know that since he claims that she’s in love with him. She clarifies that this wasn’t a confession but allows him to ask her on her next birthday. Sensei offers to spend more time with her rather than only on her birthday, but she reminds him that spending more time with her could have consequences for him. While he pities her loneliness, she admits that being in his company again is nice and rather wishes to predict the future. He wonders why she cares about the future when she can’t get closer to him – the iteration she considers to be the “real” Sensei – without the risk of loosing him again. She confesses that she does it for the same reason an animal chases a carrot on a stick – because she’s dumb and hopes to get it if she tries long enough. She assures him that she will be fine as long as he doesn’t do anything stupid and celebrates her birthday. He asks her if there’s a chance she could disappear as well, as he is worried that this could actually happen, but she isn’t sure. She hopes that he will be there to witnesses it so he can feel a fragment of what she’s feeling after witnessing his disappearance for so long. They make their way to the shrine, but they end up in front of a shrine Maya has never seen before. Maya is a little worried about this circumstance, but they decide to enter anyway. After wandering for a while, they suddenly reach the sanctum of the shrine where a stuffed rabbit sits under an “out of order” sign. Maya has never seen anything like this but assumes that this shrine was abandoned by its god. After looking at the rabbit for a while, they face the exit and take up a seiza position while Sensei thinks about how he dislikes religions and their believers. He asks Maya why she became a shrine maiden and still is one. She answers that she became one because she likes the outfit and still is one as the shrine became her reprieve from her daily life. She would’ve left a long time ago, especially after witnessing Sensei’s constant personality reset, but she fears that being at the shrine might be the one thing that preserves her personality trough each loop and that severing that would lead to her being reset as well. She makes it clear that she does it not to preserve him but their world as a whole, even if he’s slightly more important to her for some reason. He tells her that the reason is her love for him, but she denies it. Maya wants to go back to the festival so they can watch the fireworks, if he doesn’t mind. He wonders why he would, but she reminds him of the Christmas party where he missed it because Niki confessed her love to him and worries that something like this might happen again. He assures her that he would tell them that he’s already on a date with her if this were to happen. She tells him that this isn’t a date, but he ignores her and starts to head out. Frustrated, she yells after him, but her mood brightens up after a while and a smile finds it’s way on her face.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "As The Sun Disappears",
+            "event_script_names": "mayafestival3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "clearnightsky",
+            "mayanightwalk"
+        ],
+        "music_tracks": [
+            "shrinemaiden.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Three Halves Make a Whole (Itadakimasu)",
+        "next_event": "Everlasting Mercy"
+    }
+}

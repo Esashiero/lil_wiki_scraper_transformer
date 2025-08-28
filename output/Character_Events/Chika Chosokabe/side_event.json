@@ -1,0 +1,53 @@
+{
+    "event_id": "side_event",
+    "event_title": "Side Event",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Side_Event",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Chika Affection You must have seen or permanently missed the following Events: Seen \" Something About Biting \" from Chika Chosokabe Seen \" Behind The Curtain \" from Chika Chosokabe",
+        "to_get_this_event": "Visit Chika's dorm room on any day except Wednesday after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika Affection",
+            "None"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Chika’s room",
+            "Old District"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorm hallway and knocks on Chika 's door. She hesitates from the other side but quickly invites him in, despite not wearing pants. After a short discussion which Sensei does not enjoy due to not being able to take off his pants, the two get on Chika's bed, and she turns the TV on to watch whatever the channel was left on. This turns out to be a horror movie, and Sensei is intrigued that Chika is into this kind of stuff. Chika asks him what his opinions are on it, and he says he's rather indifferent, but that he doesn't watch it much due to Ami being terrified of it. Chika then asks what it's like having Ami living with him and making him breakfast. He replies that it's nice, and she points out her own cooking skills, though it's not something she's ever told anyone before. The two talk about their discussion during the prior visit and how Chika would eventually want kids, but wants to make sure the father doesn't leave her high and dry, and as Chika seems to be about to confess something to Sensei, her phone rings, stopping the moment in its tracks. She answers her phone, and Sensei hears an urgent voice, though he can't make out what is said. Chika gets out of the bed and Sensei follows, already knowing he's about to be politely shooed. Chika tells him this, but when he finds out it's on the other side of town, he flips his mindset entirely and convinces Chika to let him accompany her. He turns away as she gets dressed, then the two head out. On the way there, Chika begs Sensei not to let anyone in the school know about this trip, and tells him that with how close they're getting, he will eventually end up knowing about certain things that might put a strain on their friendship. Sensei affirms that there's nothing wrong with this, and tells her he'll help her with whatever she needs, even if it means keeping secrets, and she genuinely thanks him for his consideration. Eventually, they stop in front of a dilapidated apartment building, and Chika turns to him, thanking him for accompanying her. Chika explains that she might not be at school for the next few days, and to hand off any assignments to Yumi, assuming she shows up. She asks for a kiss before she has to go, and Sensei must then decide whether or not he wants to. Afterward, he heads home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe"
+        ],
+        "trivia": [
+            "6e 6f 74 68 69 6e 67 20 66 61 6c 6c 73 20 62 75 74 20 6d 65: Nothing falls but me",
+            "Depending on Sensei's experience with Kumon-mi , his reaction to the other side of town will differ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Side Event",
+            "event_script_names": "chikadorm10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikapjs"
+        ],
+        "music_tracks": [
+            "blueair.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.4."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Behind The Curtain",
+        "next_event": "A Castle for Everyone"
+    }
+}

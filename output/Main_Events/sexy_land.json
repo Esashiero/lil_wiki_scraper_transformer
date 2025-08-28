@@ -1,0 +1,54 @@
+{
+    "event_id": "sexy_land",
+    "event_title": "Sexy Land",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sexy_Land",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.10.5",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Mysterious Abundance of Chickens \" . This event belongs to an event chain started from \" The Value of Sharing \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana , Ayane Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House"
+        ],
+        "synopsis": "Returning home, Sensei finds a dolphin standing in his living room, causing him to think that he hit his head harder than he thought. However, it turns out to be Sana in her Halloween costume. Ayane also has her costume, which Sensei is surprised to note is also unrevealing. She, Sana, Ami , and Maya will be staying overnight and watching scary movies — Sensei is invited to join them, but he already already has plans .",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Ayane Amamiya"
+        ],
+        "trivia": [
+            "There is variation in dialogue depending on the following: Sensei's choice during Politics! Pleasure! Ponies! . If Sensei's seen the event Tortoises and the Concept of Friendship Sensei will mention how Sana loves horror movies when Ayane mentions their slumber party. Ayane's surprised he knows this, since Sana's only told that to a few close friends.",
+            "Sensei's choice during Politics! Pleasure! Ponies! .",
+            "If Sensei's seen the event Tortoises and the Concept of Friendship Sensei will mention how Sana loves horror movies when Ayane mentions their slumber party. Ayane's surprised he knows this, since Sana's only told that to a few close friends.",
+            "Sensei will mention how Sana loves horror movies when Ayane mentions their slumber party. Ayane's surprised he knows this, since Sana's only told that to a few close friends."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sexy Land",
+            "event_script_names": "halloween5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "dolphinhome"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Mysterious Abundance of Chickens",
+        "next_event": "They're Just Lights"
+    }
+}

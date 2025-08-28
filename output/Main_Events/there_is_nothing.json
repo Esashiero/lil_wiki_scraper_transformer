@@ -1,0 +1,67 @@
+{
+    "event_id": "there_is_nothing",
+    "event_title": "There is Nothing",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=There_is_Nothing",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.11.1",
+    "interactivity": {
+        "requirements": "TL;DR: SEE EVERY CHAPTER 1 EVENT PRIOR TO THERE IS NOTHING IF YOU'RE TOO LAZY TO CHECK EVERY EVENT. NOTE: WHITE, BLUE, AND PINK EVENTS ARE NOT SEEN SO PLEASE REMEMBER THAT THOSE NEED TO BE SEEN AS WELL. IF IT IS NOT GREEN, OR RED, YOU DIDN'T SEE THE EVENT. See or miss every main event up to Stray Cat Either see or miss every happy event up to X Either see or miss every Chika Chosokabe event up to First Hunt Either see or miss every Yumi Yamaguchi event up to Caught in the Vortex Either see or miss every Ayane Amamiya event up to Crazier Things Have Happened Either see or miss every Sana Sakakibara event up to Tortoises and the Concept of Friendship Either see or miss every Makoto Miyamura event up to Bluejay Either see or miss every Miku Maruyama event up to One. Two. Three. Either see or miss every Futaba Fukuyama event up to Overload Either see or miss every Rin Rokuhara event up to I Died With You or Love Life, Let Go Either see or miss every Ami Arakawa event up to Everlasting Love Either see or miss every Maya Makinami event up to FLAVOR BEAM! Either see or miss every Molly MacCormack event up to The Dark Entity Either see or miss every Tsuneyo Tojo event up to The Man Who Loves Nothing Either see or miss every Kirin Kanda event up to Politics! Pleasure! Ponies! Either see or miss every Sara Sakakibara event up to Medical Assistance or Almost Burning Either see or miss every Haruka Hamasaki event up to Watching TV Alone Either see or miss every Kaori Kadowaki event up to Objects and Appendages Either see or miss every Chinami Chosokabe event up to Chinami-Corp Either see or miss every Karin Kanda event up to If Only Either see or miss every Maki Miyamura event up to Maki Miyamura's Mom-Mode Mission",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Saturday on or after Day 220. This starts the Christmas Party chain-event.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei's Room"
+        ],
+        "synopsis": "(For a spoiler free \"How To\", join Discord and find TVC pinned comment on the #public-spoiler channel.) In addition to the story of Nozomu , there is another, less-known origin story. It involves a god who is \"science incarnate\", and who sat in a dark room putting down roots which turned into wires. Gradually, people left him to rot, although he could not feel and so did not mind. Then, he could only influence those who deliberately gave themselves to him. The roots/wires didn't transmit enough to sustain a god, but the god remained calm, and followed his programming to \"only correct errors when errors appear\". If Nozomu and a tree-like computer can become a god, why not become a god yourself? Someone said that there is a third god, who is overcome with concern. Sensei is in his room. Ami is there, but something is wrong, and she can feel \"so many things\" — she repeatedly asks Sensei to help her. (The god with the wires, in addition to deleting \"viruses like depression or bipolarity\", can sometimes make visual alterations, which Nozomu never learned.) Ami says that she's going to die, and says her goodbyes \"for now\". She vanishes. Sensei's door won't open, so he looks around his room. There are several things of potential interest, but he eventually focuses on the cool rectangle machine. He uses information he has been given before to make a connection (or possibly two ).",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "Various portions of this event have lines encoded in hexadecimal. Translations for the falling section are: \"6e 6f 74 68 69 6e 67 20 66 61 6c 6c 73 20 62 75 74 20 6d 65\" - nothing falls but me Translations for Ami's dialogue are: \"70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 21 21 21 21 21 21 21\" - praise be! praise be! praise be! praise be! praise be!!!!!!!! \"68 65 6c 70 20 6d 65 21\" - help me! \"49 20 64 6f 6e 27 74 20 77 61 6e 74 20 69 74 20 74 6f 20 62 65 20 6f 76 65 72 21 20 49 27 6d 20 73 63 61 72 65 64 21\" - I don't want it to be over! I'm scared! \"53 65 6e 73 65 69 21 20 49 20 6c 6f 76 65 20 79 6f 75 21\" - Sensei! I love you! \"49 20 64 6f 6e 27 74 20 77 61 6e 74 20 74 6f 20 6c 6f 73 65 20 79 6f 75 20 61 67 61 69 6e 21\" - I don't want to lose you again! \"4e 6f 74 20 6c 69 6b 65 20 74 68 69 73 21\" - Not like this! \"61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 21 21 21 21 21 21\" - aaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!!! \"4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21\" - No! No! No! No! No! No! No! \"49 27 6d 20 6e 6f 74 20 72 65 61 64 79 20 74 6f 2e 2e 2e 6c 65 61 76 65 20 79 65 74 21\" - I'm not ready to...leave yet!",
+            "Translations for the falling section are: \"6e 6f 74 68 69 6e 67 20 66 61 6c 6c 73 20 62 75 74 20 6d 65\" - nothing falls but me",
+            "\"6e 6f 74 68 69 6e 67 20 66 61 6c 6c 73 20 62 75 74 20 6d 65\" - nothing falls but me",
+            "Translations for Ami's dialogue are: \"70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 21 21 21 21 21 21 21\" - praise be! praise be! praise be! praise be! praise be!!!!!!!! \"68 65 6c 70 20 6d 65 21\" - help me! \"49 20 64 6f 6e 27 74 20 77 61 6e 74 20 69 74 20 74 6f 20 62 65 20 6f 76 65 72 21 20 49 27 6d 20 73 63 61 72 65 64 21\" - I don't want it to be over! I'm scared! \"53 65 6e 73 65 69 21 20 49 20 6c 6f 76 65 20 79 6f 75 21\" - Sensei! I love you! \"49 20 64 6f 6e 27 74 20 77 61 6e 74 20 74 6f 20 6c 6f 73 65 20 79 6f 75 20 61 67 61 69 6e 21\" - I don't want to lose you again! \"4e 6f 74 20 6c 69 6b 65 20 74 68 69 73 21\" - Not like this! \"61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 21 21 21 21 21 21\" - aaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!!! \"4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21\" - No! No! No! No! No! No! No! \"49 27 6d 20 6e 6f 74 20 72 65 61 64 79 20 74 6f 2e 2e 2e 6c 65 61 76 65 20 79 65 74 21\" - I'm not ready to...leave yet!",
+            "\"70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 70 72 61 69 73 65 20 62 65 21 21 21 21 21 21 21 21\" - praise be! praise be! praise be! praise be! praise be!!!!!!!!",
+            "\"68 65 6c 70 20 6d 65 21\" - help me!",
+            "\"49 20 64 6f 6e 27 74 20 77 61 6e 74 20 69 74 20 74 6f 20 62 65 20 6f 76 65 72 21 20 49 27 6d 20 73 63 61 72 65 64 21\" - I don't want it to be over! I'm scared!",
+            "\"53 65 6e 73 65 69 21 20 49 20 6c 6f 76 65 20 79 6f 75 21\" - Sensei! I love you!",
+            "\"49 20 64 6f 6e 27 74 20 77 61 6e 74 20 74 6f 20 6c 6f 73 65 20 79 6f 75 20 61 67 61 69 6e 21\" - I don't want to lose you again!",
+            "\"4e 6f 74 20 6c 69 6b 65 20 74 68 69 73 21\" - Not like this!",
+            "\"61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 61 21 21 21 21 21 21\" - aaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!!!",
+            "\"4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21 4e 6f 21\" - No! No! No! No! No! No! No!",
+            "\"49 27 6d 20 6e 6f 74 20 72 65 61 64 79 20 74 6f 2e 2e 2e 6c 65 61 76 65 20 79 65 74 21\" - I'm not ready to...leave yet!",
+            "This event is the penultimate event of Chapter 1. Following this chain-event, summer ends and winter comes to Kumon-Mi for the duration of Chapter 2.",
+            "If the player chose not to pursue Ami , the number of checkmarks on Sensei's corkboard will be three. If they player did choose to pursue Ami, the number of checkmarks will be four.",
+            "If Sensei does not have at least 10 Chika Lust , triggering this Event will fail Baby it's Cold Outside !",
+            "If Sensei does not have at least 10 Futaba Lust , triggering this Event will fail Selfless !"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "There is Nothing",
+            "event_script_names": "day220",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "hoorayanotherreset"
+        ],
+        "music_tracks": [
+            "beginningoftheend.mp3",
+            "windlong.mp3",
+            "amiawake.mp3",
+            "ifgodwerecalm.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.11."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Stray Cat",
+        "next_event": "Changing of Seasons"
+    }
+}

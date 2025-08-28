@@ -1,0 +1,55 @@
+{
+    "event_id": "lavender",
+    "event_title": "Lavender",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Lavender",
+    "event_type": "Event",
+    "primary_character": "Nodoka Nagasawa",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Taco Attack .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Nodoka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel - Lobby",
+            "Tsukioka Hotel - Room #24"
+        ],
+        "synopsis": "As the group arrives at their hotel for the night, Nodoka turns to hand Rin and Otoha a keycard for their separate room. While Otoha sighs in annoyance, Rin is reluctant to accept, not trusting herself to keep level-headed in such an intimate situation. Nodoka insists she takes the card but Rin only pushes back more, trying to weasel out of the offer by inviting Sensei and her into the room as well. Otoha decides to help, encouraging Rin to accept the offer as well, which gives her the push she needs. As the two retreat into their room, Sensei asks Nodoka if her plan was a success – She negates this, reminding him the effects have yet to be seen. He remarks success is inevitable regardless of what happens, and tries to get Nodoka to turn in early with him. She's shocked to hear such sudden apathy from him, which he explains as being a preemptive defense against her usual cunning. She tells him she's not nearly as scheming as he thinks and invites him back to their room. As the two settle into their room, Sensei muses on his envy towards Nodoka, as she's able to do things without any empathy or concern for others while he struggles to do anything but feel constantly inferior. He also realizes just how obediently he's followed along with her plan. He asks Nodoka why she even cares about pushing things forward, asking if it's all just for her writing. She explains it as yet another thing beyond comprehension, inviting him to accept her as something incomprehensible. Fittingly, Sensei struggles to understand the implication which she admits as being purposeful. Referring back to his question about why she began writing, she admits the truth is very simple – She simply knows someone who likes to read. She recounts their story. It's a story about a girl who loved to read as a means of escape from their dull life. She spent day after day reading books, often having to reread the same ones to the point of memorization in between the arrival of new ones. With each read, they'd break a little more, until even their mind broke in a flurry of emotion and intrusive thoughts. She closes her story by saying that her original answer to his question was that she writes to confuse him, but since she ended up confusing herself in the process, she gives him an alternative answer – She writes because she is gifted. It's a gift few understand, though, so she'll keep writing until everyone does. Sensei sarcastically points out that copying other people’s lives won’t help her achieve this, but she reminds him that she has written multiple stories already and it’s not her fault that the story of a twisted and immoral individual gets the most attention. Looping back to her story about the girl who loved to read, he asks if that, too, was a story she invented. She answers ambiguously, claiming it's a “fine interpretation” before moving on to something she claims is more interesting. Realizing she's referring to him, he begins to get increasingly suspicious of her motive. He puts his foot down as she continues to ignore his prying, confessing he has plenty of reasons to distrust her, and no reasons to place his faith in her. Slightly hurt, she asks why he needs one in the first place, especially considering the sort of person he is. She delivers a speech that makes him recoil in disgust but also draws him to her when it reminds him of someone.",
+        "participating_characters": [
+            "Sensei",
+            "Nodoka Nagasawa",
+            "Otoha Okakura",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw Things That Hurt ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Lavender",
+            "event_script_names": "nodokaspecial30p4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nodokahotel",
+            "house"
+        ],
+        "music_tracks": [
+            "samhain.mp3",
+            "bloodandsunset.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .31.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Taco Attack",
+        "next_event": "Meet & Fuck"
+    }
+}

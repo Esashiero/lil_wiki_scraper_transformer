@@ -1,0 +1,53 @@
+{
+    "event_id": "unknown_event",
+    "event_title": "Unknown Event",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Sakakibara_Diet",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": null,
+    "interactivity": {
+        "requirements": "You must be on at least Day  54  to unlock this Event.",
+        "to_get_this_event": "This Event will occur automatically on or after Day 54.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane , Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Hallway",
+            "Kumon-Mi High - Cafeteria"
+        ],
+        "synopsis": "Sensei walks to the cafeteria to grab something to eat before the second half of the school day starts, and in the process is invited by Ayane to sit with herself and Sana . He quickly caves after hearing Ayane decided to stay with Sana due to being immensely uncomfortable with the outside heat in the courtyard, where the rest of the class is eating. Sana asks about Sensei's particular choice in sustenance, before the three launch into a somewhat heated discussion over Sensei and Sana's particular preferences for food, which ends with a couple jokes, one which flies over Sana's head and another which lands dead-on. The topic turns to Ayane's cooking skills compared to Ami 's, and Sensei accidentally gives Ayane the idea of a cook-off to determine who the better chef is, and Sensei invites Sana to participate as well as a sign of goodwill, but she draws blanks at the idea of cooking and denies the request. Ayane ends up dragging Sana into the event anyway as a judge, and the three part ways soon after.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Molly MacCormack",
+            "Sana Sakakibara"
+        ],
+        "trivia": [
+            "Molly 's second cameo occurs in this Event, where she explains Sana's choice of beverage and what it means."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Sakakibara Diet",
+            "event_script_names": "day54",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayalunch"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Garlic Bread )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Missing",
+        "next_event": "Normal Office Visit"
+    }
+}

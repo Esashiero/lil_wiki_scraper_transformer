@@ -1,0 +1,48 @@
+{
+    "event_id": "big_shot_teacher",
+    "event_title": "Big Shot Teacher",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Big_Shot_Teacher",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Chika Affection",
+        "to_get_this_event": "Visit the Shopping Mall on a weekend afternoon after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shopping Mall"
+        ],
+        "synopsis": "Sensei decides to visit the shopping mall. Not seeing Chika hanging out on her normal bench, he instead heads over to a directory to begin his search for the high-end boutique she supposedly works at. He picks the store with the fanciest name, which turns out to be correct, as Chika runs up to him, greeting him excitedly. She asks him what he's at the boutique for, and is pleasantly surprised when he says he was just trying to hang out with her. She is a bit flustered and stars getting a bit scatterbrained, but a simple compliment from Sensei manages to snap Chika back into focus, and she says that she'd love to model some of the store's outfits for him, but she gets flustered again when Sensei suggests trying on a dress, and starts stumbling over her words, but with some extra help, she gets herself back under control and even starts flirting with him. However, she isn't quite prepared for him to fire right back, and after Sensei tells her they won't start dating yet , she gets more customers, and Sensei leaves to go about his evening.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Big Shot Teacher",
+            "event_script_names": "mall5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mallfive"
+        ],
+        "music_tracks": [
+            "mall.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.4."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Dog that Does Math",
+        "next_event": "Something About Biting"
+    }
+}

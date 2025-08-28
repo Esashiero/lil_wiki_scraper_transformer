@@ -1,0 +1,51 @@
+{
+    "event_id": "lesbian_stuff",
+    "event_title": "Lesbian Stuff",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Lesbian_Stuff",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.18.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after Record Breaker",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "Get Wakana's phone number, unlocks Call option for her"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Entrance",
+            "Cafe"
+        ],
+        "synopsis": "As Sensei and Maya leave school after their talk, they meet Wakana and Osako . Maya is persuaded to accompany them for to a cafe, although strongly resents it being referred to as a \"double date\". Wakana and Osako talk a bit about their history together, sometimes in greater detail than Osako would prefer. Wakana suggests that they meet up again sometime, and gives Sensei her phone number.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Wakana Watabe",
+            "Osako Osaka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Lesbian Stuff",
+            "event_script_names": "day333part2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "doubledate"
+        ],
+        "music_tracks": [
+            "cafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .18p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Record Breaker",
+        "next_event": "Mana Transfer"
+    }
+}

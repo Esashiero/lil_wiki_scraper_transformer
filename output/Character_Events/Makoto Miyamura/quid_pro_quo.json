@@ -1,0 +1,48 @@
+{
+    "event_id": "quid_pro_quo",
+    "event_title": "Quid Pro Quo",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Quid_Pro_Quo",
+    "event_type": "Lust Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Makoto Lust You must have seen or permanently missed the following Events: Seen \" Egg Tooth \" from Makoto Miyamura",
+        "to_get_this_event": "Visit the Porn Shop",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Porn Shop - Back Room"
+        ],
+        "synopsis": "In the back room of the Miyamura's shop , Sensei is attempting to sway Makoto into doing a favor for him in exchange for deleting the photo he took a while back . She fights back out of embarrassment, but gives in when Sensei's request turns out to be easier than she expected.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Quid Pro Quo",
+            "event_script_names": "makotolust5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotofirstlust"
+        ],
+        "music_tracks": [
+            ""
+        ],
+        "changelog": [
+            "This Event was added in Update 0.6."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Fishing For Love",
+        "next_event": "Declaration of War"
+    }
+}

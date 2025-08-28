@@ -1,0 +1,61 @@
+{
+    "event_id": "the_great_migration",
+    "event_title": "The Great Migration",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Great_Migration",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.23.13",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Empty Eyes \" . This event belongs to an event chain started from \" Wither \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Classroom"
+        ],
+        "synopsis": "Sensei ’s group enters the class and immediately notices that every girl without a unique uniform finally received one, which triggers Imani ’s jealousy since she wanted one as well. Sensei is glad about this visual change and how everyone is still present, outside of the usual exception . Maya notices that Miku is suspiciously quiet, and Imani informs them Miku is mourning the loss of the soccer club, which was a casualty of the club restructuring. Imani gets ready to announce the club migration while Maya has to endure Ayane ’s new passive-aggressive personality, which she blames on them being rivals now, but Maya still insists her outburst was meaningless. Ami approaches them and is dissatisfied with their late arrival, but calms down when she assumes they were planning a surprise birthday party for her. The group realize it’s already August and they also learn they’ll join Uta for karaoke after school. Imani announces that everyone has to pick a club by the end of the next day and makes it clear that everyone has to join one. After her announcement, Makoto and Kirin try to cheer up Miku, but it doesn’t work since the soccer club was like a family to her and it being shut down feels like a personal loss to her. Kirin and Makoto try to recruit her for their respective clubs, which causes an argument between them, much to Miku’s annoyance. Meanwhile, Rin , Otoha , Futaba and Sana are talking about the upcoming club reassignment. Otoha is excited to join the light music club and also appreciates her girlfriend’s new haircut. They’re interrupted by Noriko , who also intends to join the light music club, and celebrates the revival of their old band, using the opportunity to recruit Rin as an additional member. Rin thinks about joining them, but Futaba reminds her she’s already a member of the manga club, and while she doesn’t mind her leaving, she asks her to personally inform Molly about her decision. While Rin contemplates which club she wants to join, Futaba asks Nodoka which club she wants to choose, and she names the swimming club, her usual obsession with girls being the obvious reason why. No one is really surprised to hear it, but her vivid descriptions cause Rin to consider also joining the swimming club for a moment.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Maya Makinami",
+            "Imani Imai",
+            "Ami Arakawa",
+            "Makoto Miyamura",
+            "Kirin Kanda",
+            "Sana Sakakibara",
+            "Miku Maruyama",
+            "Otoha Okakura",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Noriko Nakayama",
+            "Nodoka Nagasawa"
+        ],
+        "trivia": [
+            "The prospect of Rin getting a haircut was teased in See You Around where she considered cutting her hair short to look as cool as the characters in her manga."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Great Migration",
+            "event_script_names": "chapthree4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "summerclass"
+        ],
+        "music_tracks": [
+            "10c.mp3",
+            "phantomthief.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .25p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Empty Eyes",
+        "next_event": "Creatures of Habit"
+    }
+}

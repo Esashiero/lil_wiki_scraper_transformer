@@ -1,0 +1,49 @@
+{
+    "event_id": "once_twice_ten_times",
+    "event_title": "Once, Twice, Ten Times",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Once,_Twice,_Ten_Times",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.10.7",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" They're Just Lights \" . This event belongs to an event chain started from \" The Value of Sharing \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Bar"
+        ],
+        "synopsis": "Sensei is suddenly at the bar. Kaori is serving as bartender, while Sara is wearing a nurse costume and drinking. After talking to them for a while, he finds that Maki and Haruka are also present. Sensei notes that they seem comfortable with each other, and learns that they've occasionally kissed when drunk. After letting Kaori go home, Sara joins them. She eventually invites Sensei upstairs, where she either provides him with some medical assistance or just falls asleep.",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki",
+            "Sara Sakakibara",
+            "Haruka Hamasaki",
+            "Maki Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Once, Twice, Ten Times",
+            "event_script_names": "halloween7",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "milfparty"
+        ],
+        "music_tracks": [
+            "letsfuckingo.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "They're Just Lights",
+        "next_event": "Mechanical Bull"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "event_id": "thessalonians_4_lust_like_the_pagans_",
+    "event_title": "Thessalonians 4 (Lust Like the Pagans)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Thessalonians_4_(Lust_Like_the_Pagans)",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.49(Super Mega Ultimate Heaven & Hell).19",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Genesis 19 (Pillars of Salt) \" . This event is the final event in an event chain started from \" Prepare for Battle! \" .",
+        "to_miss_this_event": "Don't Lust Ami, Sara, and Haruka. Replaced by The Trumpet Call of God .",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection",
+            "+1 Ami Lust",
+            "+1 Ayane Affection",
+            "+1 Ayane Lust",
+            "+1 Miku Affection",
+            "+1 Miku Lust",
+            "+1 Kirin Affection",
+            "+1 Kirin Lust",
+            "+1 Sana Affection",
+            "+1 Sana Lust",
+            "+1 Molly Affection",
+            "+1 Molly Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            ""
+        ],
+        "synopsis": "WIP",
+        "participating_characters": [
+            "Sana Sakakibara",
+            "Sara Sakakibara",
+            "Molly MacCormack",
+            "Nodoka Nagasawa",
+            "Miku Maruyama",
+            "Ayane Amamiya",
+            "Sensei",
+            "Kirin Kanda",
+            "Haruka Hamasaki",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "WIP"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Thessalonians 4 (Lust Like the Pagans)",
+            "event_script_names": "nodokathontwo3",
+            "event_missed_name": "The Trumpet Call of God"
+        },
+        "backgrounds": [
+            "paganlust",
+            "black",
+            "clearnightsky"
+        ],
+        "music_tracks": [
+            "hometown.mp3",
+            "itsingsinitssleep.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.48.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Genesis 19 (Pillars of Salt)",
+        "next_event": "Partial to Jasmine"
+    }
+}

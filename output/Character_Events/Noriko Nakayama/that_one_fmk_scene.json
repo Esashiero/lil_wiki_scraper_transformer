@@ -1,0 +1,80 @@
+{
+    "event_id": "that_one_fmk_scene",
+    "event_title": "That One FMK Scene",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=That_One_FMK_Scene",
+    "event_type": "Event",
+    "primary_character": "Noriko Nakayama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "25 Noriko Affection You must have seen or permanently missed the following Events: Seen \" Homes for the Homeless \" from Noriko Nakayama",
+        "to_get_this_event": "Visit the Convenience Store",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Fuck Kirin, Marry Noriko, Kill Chika",
+                "effect": "+1 Kirin Affection +5 Noriko Affection Jump to Dyed Orange, Drenched in Sun"
+            },
+            {
+                "context": null,
+                "option": "Fuck Kirin, Marry Chika, Kill Noriko",
+                "effect": "Jump to Dyed Orange, Drenched in Sun"
+            },
+            {
+                "context": null,
+                "option": "Fuck Noriko, Marry Kirin, Kill Chika",
+                "effect": "+5 Kirin Affection +1 Noriko Affection Jump to Dyed Orange, Drenched in Sun"
+            },
+            {
+                "context": null,
+                "option": "Fuck Noriko, Marry Chika, Kill Kirin",
+                "effect": "+1 Noriko Affection Miss Dyed Orange, Drenched in Sun .\nReplaced by Drowned in Blue"
+            },
+            {
+                "context": null,
+                "option": "Fuck Chika, Marry Noriko, Kill Kirin",
+                "effect": "+5 Noriko Affection Miss Dyed Orange, Drenched in Sun .\nReplaced by Drowned in Blue"
+            },
+            {
+                "context": null,
+                "option": "Fuck Chika, Marry Kirin, Kill Noriko",
+                "effect": "Jump to Dyed Orange, Drenched in Sun"
+            }
+        ],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Convenience Store",
+            "Convenience Store - Outside Area"
+        ],
+        "synopsis": "Sensei arrives at the convenience store Noriko works at, only to see that Kirin has joined her as well. Noriko is really happy to see him, and Kirin suggests she should finally take the next step to advance their relationship. Noriko doesn't feel ready yet, especially after she learned that Kirin was left in tears after their last hangout , though she vehemently denies it. Noriko asks Sensei about it, but he refuses to answer as Noriko is still carrying her knife. She thinks that every girl should carry one to prevent more cases of assault, which causes him to have flashbacks to some unpleasant interactions he had with Yumi , Miku and Molly , so he begs her to change the subject. Noriko suggests they should go outside and rest near a burning trash can. Sensei shows concern about an open fire in a residential area, but Noriko is confident in her skill to control it. She takes a jab at Kirin by claiming she's only good in being flexible, accidentally enabling their usual behavior and reminds them that this convenience store isn't the ideal place to fool around. Kirin, frustrated by Noriko's purity, demands her to have more fun in her life, which she intends to do, but when Kirin demands to know when, she dodges the question. Kirin believes that she does it to hide something, but Noriko, after allowing that discussion to go on way longer than she should have, promises this isn't the case. They arrive at the burning trash can and start watching a promotional interview for Niki 's newest album. Kirin informs Noriko that she finds her sister attractive, which she's already used to since, being the sister of a celebrity, she got too many posts with way more direct confessions before she set all her accounts to private. The interview starts, but Niki cuts it short after the TV announcer questions her about her past, which she can't or wants to discuss. Once the interview is over, Noriko explains that idols have to avoid coming across as normal human beings, because their popularity lives and dies with their unobtainable image and that Niki has to be extra careful as she's way older than idols usually are. She recommends Sensei to follow her streams like Chika , whose messages she saw a few times before. Sensei, after Kirin makes a comment about her, accidentally lets it slip that he might have a close relationship with her but avoids answering more questions to spare Noriko's feelings. Kirin challenges him to a round of FMK with Chika, Noriko and herself, stating that his choice would answer anything they need to know. The ending depends on Sensei's choice:",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama",
+            "Kirin Kanda",
+            "Niki Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "That One FMK Scene",
+            "event_script_names": "convenience25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "thatonefmkscene"
+        ],
+        "music_tracks": [
+            "noriko.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.21p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Homes for the Homeless",
+        "next_event": "Loxosceles Reclusa"
+    }
+}

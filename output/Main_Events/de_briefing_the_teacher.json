@@ -1,0 +1,63 @@
+{
+    "event_id": "de_briefing_the_teacher",
+    "event_title": "De-Briefing the Teacher",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=De-Briefing_the_Teacher",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.19.3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Egg Tossing \" . This event belongs to an event chain started from \" Good Morning \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": "If a tie occured:",
+                "option": "Flip it hard",
+                "effect": "First floor events occur during Getting Comfortable"
+            },
+            {
+                "context": "If a tie occured:",
+                "option": "Flip it soft",
+                "effect": "Second floor events occur during Getting Comfortable"
+            }
+        ],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach - First Floor's Room"
+        ],
+        "synopsis": "Sensei arrives at the room Makoto is located in, and she explains that, since their last trip was a complete success, the class decided to make beach trips a tradition even after they’re placed in different classes, but Sensei doesn’t think that this will happen, not explaining to her what this means. She tries to get to the next point on the list, but Sensei, Noriko and Uta always change the subject until she gets things back on track. Before she does, the result of the Dorm War and Sensei’s stay in one of the girls’ room get discussed. She tries to list several rules they should follow during their stay, but Uta convinces her to kick back and relax for once. She agrees, feeling that she went a bit overboard due to a second chaperon being present, which turns out to be Wakana . Hearing this, Nodoka storms the room and demands to know where she is. Since no one gives her an answer, she inspects the room and the girls. Sensei uses the opportunity to hit on Otoha , who was forced to be Nodoka’s assistant. She ignores his attempts and asks if he can listen to her, because she has a problem only he could help her with. Sensei agrees to listen to her, and both exit the room to find a more private location.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Noriko Nakayama",
+            "Miku Maruyama",
+            "Uta Ushibori",
+            "Io Ichimonji",
+            "Nodoka Nagasawa",
+            "Otoha Okakura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "De-Briefing the Teacher",
+            "event_script_names": "secondbeach3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "secondbeachthree"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Egg Tossing",
+        "next_event": "TPK (Banana Boat)"
+    }
+}

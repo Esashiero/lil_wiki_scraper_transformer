@@ -1,0 +1,49 @@
+{
+    "event_id": "the_s_word",
+    "event_title": "The 'S' Word",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_%27S%27_Word",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.4.3",
+    "interactivity": {
+        "requirements": "You must be on at least Day  70  to unlock this Event. You must have seen or permanently missed the following Events: Seen \" Supermom \" from Sana Sakakibara",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first weekday on or after Day 70.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Hallway",
+            "Kumon-Mi High - Library"
+        ],
+        "synopsis": "Sensei , wandering the halls during lunchtime due to a lack of hunger, which he attributes to Ami cooking up a storm after hearing Ayane 's proposal , decides to head to the library to kill some time. He reaches the library and, upon entering, is surprised to see Sana there. She decided to skip lunch as well since, like him, she wasn’t feeling hungry and she wanted to catch up on some topics for the upcoming test. Sensei is surprised to find out that another round of standardized tests is coming up. He offers to help her, but she is focusing on history, a topic he has no knowledge of. He wouldn’t mind to help with questions regarding biology as long as they stay away from certain subjects . Not knowing what he means, she refuses since biology won’t be on the test. When Sensei wants to know why she is studying alone, Sana explains that Ayane doesn't like to miss lunches and she didn’t accompany her to the cafeteria since she’s unable to concentrate in loud environments, which worries Sensei since it sounds like a necessary skill for a bartender. Sana asks if it's really alright with him for her to be in his apartment, which he affirms by telling her that being a judge for the competition would help make things fair. She points out that only having two judges would easily result in a tie, but he has a third judge in mind and only needs to ask Ami to convince her. They evaluate her progress in her social skills and Sensei causes her to flinch after mentioning their first lesson . Due to her slow progress, Sana wonders if she’s cut out to be a bartender. Sensei tries to encourage her, but is shocked when his answer receives a sarcastic remark from her. Sensei expects to be criticized by her for his lackluster teaching methods and is surprised when she's satisfied with his approach. Sana assures him that she will be fine as long as she has his support, but when Sensei points out that they will get a new teacher once the year ends, she becomes significantly upset by the prospect of losing him. She begs him to make sure that he stays their teacher, but he can only promise to try since he doesn’t have a great reputation with the staff. Though he wouldn’t mind teaching his class until college since it spares him from having to deal with new students. Sana calms down as Sensei wonders if her emotional outbreak had a deeper meaning than just a fear of having to study again. Sensei upsets her again by mentioning the 'S' word and they realize that recess is over. Sensei is aware that Sana’s lack of studying was his fault, but he is still happy that he could spend some time with her during school hours.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The 'S' Word",
+            "event_script_names": "day70",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sanalib"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.4."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Girl-Talk",
+        "next_event": "Weight Limit"
+    }
+}

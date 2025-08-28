@@ -1,0 +1,58 @@
+{
+    "event_id": "second_sun",
+    "event_title": "Second Sun",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Second_Sun",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "Second",
+    "interactivity": {
+        "requirements": "Sunday You must have seen or permanently missed the following Events: Seen \" Bad News Bears \" from Chinami Chosokabe",
+        "to_get_this_event": "Visit New Hope Cathedral during the morning.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yasu Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "New Hope Cathedral"
+        ],
+        "synopsis": "Sensei wakes up in New Hope Cathedral , finding 79 and Moyo waiting there for his arrival. The former asks for his assistance in filling a bucket, but not before inviting him to ruminate over the tragedies of his childhood, the state of Kumon-mi's cycles, and his own failings as a person.",
+        "participating_characters": [
+            "Sensei",
+            "79"
+        ],
+        "trivia": [
+            "During the event, the song \"whatifyouare\" plays on loop. In addition to the sound of a child crying, and a robotic rendition of the song \"Daisy Bell\", there is a backwards TTS message overlaid atop it. A transcript can be found below: \"Bucket, bucket, wonderful bucket. Sticks and twigs and grass and cum. Bucket, bucket, lovely old bucket. Tear off my arms and bite off my tongue.\"",
+            "\"Bucket, bucket, wonderful bucket. Sticks and twigs and grass and cum. Bucket, bucket, lovely old bucket. Tear off my arms and bite off my tongue.\"",
+            "At the beginning of the event, an image with a hexadecimal message is briefly seen. The decoded message can be found below:"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Second Sun",
+            "event_script_names": [
+                "bucketscene"
+            ],
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "welcometothebucketscene"
+        ],
+        "music_tracks": [
+            "whatifyouare.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.26p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": []
+    }
+}

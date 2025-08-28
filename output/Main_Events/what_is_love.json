@@ -1,0 +1,41 @@
+{
+    "event_id": "what_is_love",
+    "event_title": "What is Love",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=What_is_Love",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": null,
+    "interactivity": {
+        "requirements": null,
+        "to_get_this_event": null,
+        "to_miss_this_event": null,
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [],
+        "synopsis": null,
+        "participating_characters": [],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "What is Love",
+            "event_script_name": "beachvacation1",
+            "event_missed_name": "Not Missable"
+        },
+        "backgrounds": [
+            "Unknown"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update0.8"
+        ]
+    },
+    "navigation": {
+        "previous_event": "Lifting the Curse",
+        "next_event": "All Along the Shoreline"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "event_id": "silver_gold",
+    "event_title": "Silver & Gold",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Silver_%26_Gold",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Not the Nightingale \" . This event belongs to an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Classroom"
+        ],
+        "synopsis": "The date is now December 24th. Imani stands in front of the class, having finished recounting a folktale about the origin of tinsel on Christmas trees. With school now truly in session, she begins to take attendance, with the girls clarifying that, not counting the now-expected absence of Sensei and Ami , only Chika and Rin are missing. Taking note of these answers, Imani tells the class to spend the time until lunch doing whatever, being notably lower-energy than usual. The subsequent chatter from the girls reveals that Sensei's all but vanished following the class' Halloween party , with no one hearing from him at all. Throughout the class, the girls all deal with Sensei's continued absence in their own ways:",
+        "participating_characters": [
+            "Imani Imai",
+            "Kirin Kanda",
+            "Noriko Nakayama",
+            "Futaba Fukuyama",
+            "Molly MacCormack",
+            "Yumi Yamaguchi",
+            "Touka Tsukioka",
+            "Tsuneyo Tojo",
+            "Otoha Okakura",
+            "Sana Sakakibara",
+            "Miku Maruyama",
+            "Uta Ushibori",
+            "Io Ichimonji",
+            "Chika Chosokabe",
+            "Rin Rokuhara",
+            "Nodoka Nagasawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Silver & Gold",
+            "event_script_names": "springtime4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "calendardays"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Not the Nightingale",
+        "next_event": "November 1st"
+    }
+}

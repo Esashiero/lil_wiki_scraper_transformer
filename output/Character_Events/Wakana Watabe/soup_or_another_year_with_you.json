@@ -1,0 +1,54 @@
+{
+    "event_id": "soup_or_another_year_with_you",
+    "event_title": "Soup, or Another Year With You",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Soup,_or_Another_Year_With_You",
+    "event_type": "Event",
+    "primary_character": "Wakana Watabe",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "5 Wakana Affection You must have seen or permanently missed the following Events: Seen \" To the River \" from Wakana Watabe Seen \" Clouds \" from Kaori Kadowaki",
+        "to_get_this_event": "Call Wakana at Night",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Wakana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Apartment Building - Apartment #24"
+        ],
+        "synopsis": "Wakana needs help cooking. She turns out to live in the same building as Kaori , leading to a brief encounter with John . Wakana explains that she wants to do something for Osako since it's their anniversary, but Wakana is a terrible cook. Unfortunately, so is Sensei. Osako is surprised to see Sensei when she gets back, but appreciates Wakana's attempt. The soup is inedible, but Osako says that she will get some ingredients for a second cooking attempt, and suggests that Sensei accompany her to the store.",
+        "participating_characters": [
+            "Sensei",
+            "John",
+            "Wakana Watabe",
+            "Osako Osaka"
+        ],
+        "trivia": [
+            "Pressure Point plays automatically after this event."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Soup, or Another Year With You",
+            "event_script_names": "wakanadate5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "wakanatriestocook"
+        ],
+        "music_tracks": [
+            "normalday.mp3",
+            "justbehappy.mp3",
+            "thesleepingcity.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "To the River",
+        "next_event": "Pseudonym"
+    }
+}

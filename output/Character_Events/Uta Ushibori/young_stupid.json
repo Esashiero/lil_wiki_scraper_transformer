@@ -1,0 +1,48 @@
+{
+    "event_id": "young_stupid",
+    "event_title": "Young & Stupid",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Young_%26_Stupid",
+    "event_type": "Event",
+    "primary_character": "Uta Ushibori",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Tuesday 35 Uta Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Danger to Society \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event will automatically occur on the next available Tuesday.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Uta Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Library"
+        ],
+        "synopsis": "With both school and his counseling hours finished, Sensei wanders the school in search of something or someone exciting. Just as he's about to give up, he hears a sound coming from within the library . After entering, he finds Uta struggling to reach a book on a high-up shelf. He contemplates various solutions to this problem, including lifting her up or knocking the shelf over, but decides to just reach for the book himself. Once Uta finally notices his presence, she directs him to the right book and he hands it over. However, instead of simply taking it from him, she expects there to be a catch, asking him what he wants in return. While he initially insists this act was purely out of kindness, he decides to humor her and hear out the possibilities. Once sufficiently satisfied with Uta's succeeding embarrassment, he returns to insisting she doesn't need to give him anything. After some more banter which quickly returns the flush in her face, she snatches the book from him and retreats to a corner of the library. Still having nothing to do, Sensei follows Uta, deciding to sit with her on the ground as she studies. Uta's surprised by this but doesn't mind, only asking him to lay off with his usual banter so she can focus. He decides to ask about this uncharacteristically studious behavior, and she fills him in about Imani saddling her with increased homework so she can catch up with the rest of the class. Sensei offers help but, once turned down, admits he'd probably be as useless as her since his expertise lies exclusively in poetry and women. As Uta accidentally embarrasses herself, Sensei comments on how effectively she's capitalized on her naturally flirty personality. She remarks it's not nearly as impressive as it looks, admitting that she often finds herself internally screaming , but when he asks about what, she claims it's about random stuff. The topic drifts, and Uta comments on Sensei's recent developments with Io , being surprised she'd talk, even in passing, about her discomforts. He reminds her of a similarly vulnerable conversation they've had before, which Uta feels was different since it was just her being young and stupid. Sensei feels differently, arguing that because she was young and stupid she can't be held responsible for doing something rational – Her getting caught up in her feelings and acting on them wasn't her fault, and it won’t change his view of her. Hearing this, Uta becomes both embarrassed and uncomfortable, forcing the conversation onto this year's Dorm Wars . Sensei remarks that this year's was weird, admitting he might feel that way only because of the number of contests that didn't need his input. Uta agrees this year was a bit off, although did enjoy herself plenty in the modeling contest and during Futaba 's scary story . She can't say the same for Nodoka 's story, though. This topic lulls Sensei into silence, but he's snapped out once Uta asks for his opinion. He confesses that it affected him deeply, but he can't explain why as he struggles to even remember what it was about. Uta assumes Nodoka's story is similar to a Rorschach test and, therefore, open for interpretation. This reminds her of fortune-telling, something she admits to having a slight belief in. While she assumes most of it is fake, she wonders if there's some truth to it, even if it's just by making people indirectly manifest what they're told. Sensei feels such belief is depressing, as there's never real certainty to it. Uta feels there's no harm in living with uncertainties, especially since all you need to keep it as a healthy fantasy is a small bit of hope and the knowledge to know when you should stop listening. Sensei stops listening. The day ends.",
+        "participating_characters": [
+            "Sensei",
+            "Uta Ushibori"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Young & Stupid",
+            "event_script_names": "utaspecial35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "utalibrary"
+        ],
+        "music_tracks": [
+            "morningmoon.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.34."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Uta-chan",
+        "next_event": "Enjo Kousai"
+    }
+}

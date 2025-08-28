@@ -1,0 +1,64 @@
+{
+    "event_id": "war_s_end",
+    "event_title": "War's End",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=War%27s_End",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.21",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Princess & The Pauper \" , or \" Them \" . This event is the final event in an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi"
+        ],
+        "synopsis": "Uta and Makoto gather up the class to announce the results of the Dorm War . Although most of the contests were decided without Sensei 's input, the choices he made are sufficient to tip the balance. Sensei arrives after the results were announced and thinks back on it, being satisfied with the prospect of cute girls fighting over him but dissatisfied with his lack of freedom. He decides to join Io , who's sitting alone at the fountain. She announces to him that Yumi won their contest, although she isn't surprised by this. He tells her that she could've come to the bar last night , as it was an \"interesting\" time and might've had fun just shadowing him the entire time. She negates that as a possibility, stating that being around girls in a social setting would be even more tiresome than usual and passive-aggressively jabbing at him due to what she knows now . Uta soon joins them, mad at Io for ignoring her throughout the entire event. Io doesn't feel remorse for not wanting to partake in the festivities, but Uta is upset that she doesn't want to have fun with the rest of the class. With the war officially over, both girls invite Sensei out to have breakfast with them, and after sneaking away from the group and finding a diner on the way, Sensei enjoys his time with the girls, fascinated by the bond both girls share. He heads home once they'",
+        "participating_characters": [
+            "Sensei",
+            "Uta Ushibori",
+            "Makoto Miyamura",
+            "Ami Arakawa",
+            "Kirin Kanda",
+            "Molly MacCormack",
+            "Noriko Nakayama",
+            "Sana Sakakibara",
+            "Nodoka Nagasawa",
+            "Miku Maruyama",
+            "Tsuneyo Tojo",
+            "Io Ichimonji"
+        ],
+        "trivia": [
+            "It is possible for the Dorm War to end in a tie. After a spirited discussion on the subject of branching possibilities, completionism, and complaints, it's agreed that everyone will just have to wait until the beach trip to figure out who gets Sensei's company.",
+            "There is variation in the dialogue depending on the following: If Sensei saw What a Wonderful World . If Sensei saw C'est La Vie . Nodoka will tease Futaba about her contest, with her getting embarrassed and asking for the contest to be forgotten. If Sensei saw The Princess & The Pauper . Sensei will check in on Chika and Touka before speaking to Io. The two girls are heavily hungover and neither of them remember what happened the previous night nor how it ended, but do recount to him how they woke up. He leaves shortly after so both can recover from their hangovers.",
+            "If Sensei saw What a Wonderful World .",
+            "If Sensei saw C'est La Vie . Nodoka will tease Futaba about her contest, with her getting embarrassed and asking for the contest to be forgotten.",
+            "Nodoka will tease Futaba about her contest, with her getting embarrassed and asking for the contest to be forgotten.",
+            "If Sensei saw The Princess & The Pauper . Sensei will check in on Chika and Touka before speaking to Io. The two girls are heavily hungover and neither of them remember what happened the previous night nor how it ended, but do recount to him how they woke up. He leaves shortly after so both can recover from their hangovers.",
+            "Sensei will check in on Chika and Touka before speaking to Io. The two girls are heavily hungover and neither of them remember what happened the previous night nor how it ended, but do recount to him how they woke up. He leaves shortly after so both can recover from their hangovers."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "War's End",
+            "event_script_names": "dormwar17",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "warsend"
+        ],
+        "music_tracks": [
+            "letsfuckingo.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Post-Game Celebration!",
+        "next_event": "Record Breaker"
+    }
+}

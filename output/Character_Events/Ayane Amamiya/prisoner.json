@@ -1,0 +1,53 @@
+{
+    "event_id": "prisoner",
+    "event_title": "Prisoner",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Prisoner",
+    "event_type": "Lust Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "v0.8.14",
+    "interactivity": {
+        "requirements": "10 Ayane Lust",
+        "to_get_this_event": "Have 10+ Ayane Lust before What's Done is Done . Autoplays after \" Reverse Cowgirl \" . This event belongs to an event chain started from \" What's Done is Done \" .",
+        "to_miss_this_event": "Have less than 10 Ayane Lust before chain-event What's Done is Done . Replaced by Back to Normal .",
+        "choices": [],
+        "effects": [
+            "+1 Ayane Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach - Sensei's Room"
+        ],
+        "synopsis": "As Sensei and Ayane step away to spend some time alone, Kirin overhears and gains some leverage over the two.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Kirin Kanda"
+        ],
+        "trivia": [
+            "This event has a permanent effect on the relationship between Ayane and Kirin, drastically altering dialogue between the two for the  duration of the game. In addition, missing this event will fail 3 future events!",
+            "In addition, missing this event will fail 3 future events!"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Prisoner",
+            "event_script_names": "ayanelust10",
+            "event_missed_name": "Back to Normal"
+        },
+        "backgrounds": [
+            "whatwelove"
+        ],
+        "music_tracks": [
+            "acoustic.mp3",
+            "asobeatsex8.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.8."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Still Young",
+        "next_event": "Regularly Scheduled Programming"
+    }
+}

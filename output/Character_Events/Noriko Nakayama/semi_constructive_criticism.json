@@ -1,0 +1,48 @@
+{
+    "event_id": "semi_constructive_criticism",
+    "event_title": "Semi-Constructive Criticism",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Semi-Constructive_Criticism",
+    "event_type": "Event",
+    "primary_character": "Noriko Nakayama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "5 Noriko Affection You must have seen or permanently missed the following Events: Seen \" Love, Dorms, and Other Things \" from Kirin Kanda Seen \" Nakayarakawayama \" from Noriko Nakayama",
+        "to_get_this_event": "Visit Noriko's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Noriko Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 10"
+        ],
+        "synopsis": "Sensei and Noriko talk in Noriko's dorm room, covering topics like Sensei's potential as a family man, Noriko's preferred methods of stress relief, Sensei's past as a tutor, and Noriko's ideas about being a freedom fighter. Suddenly they are walking in the street — Sensei asks how they got there, and says that he \"almost remembered something\". Noriko says some things about love that remind Sensei of Ayane , and when she says that Ayane is hiding something, Sensei says that everybody is — probably including her. Noriko agrees that she could be making things up about their past together, but that just getting things back the way they really were would count as an improvement, since she hasn't yet regained the \"full\" Sensei yet. Sensei starts talking about people disappearing and the world being reset — Noriko seems confused, including about Sensei's comment that Maya would celebrate his disappearance. When he tells her not to worry about it, she says that she trusts him.",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Semi-Constructive Criticism",
+            "event_script_names": "norikodorm5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikowalk"
+        ],
+        "music_tracks": [
+            "wewereangels.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.14."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Nakayarakawayama",
+        "next_event": "Mouthjob"
+    }
+}

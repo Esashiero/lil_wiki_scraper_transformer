@@ -1,0 +1,53 @@
+{
+    "event_id": "our_time_atop_this_mattress",
+    "event_title": "Our Time Atop This Mattress",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Our_Time_Atop_This_Mattress",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "45 Chika Affection You must have seen or permanently missed the following Events: Seen \" Heart of Gold \" from Tsubasa Tsukioka",
+        "to_get_this_event": "Visit Chika at the Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika Affection",
+            "+1 Chika Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 1"
+        ],
+        "synopsis": "Chika invites Sensei into her dorm so the two of them can make a decision regarding the future of their relationship.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe"
+        ],
+        "trivia": [
+            "There is a minor addition to the dialogue if the player chooses Yumi and when the event happens on a Monday.",
+            "Tsubasa is only available as an option if the event Mating Season was seen.",
+            "Chinami is only available if you chose to see Chinami in the bath in The Gap in the Door"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Our Time Atop This Mattress",
+            "event_script_names": "chikadorm45",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikatres"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Curry Night",
+        "next_event": "Gold Digger"
+    }
+}

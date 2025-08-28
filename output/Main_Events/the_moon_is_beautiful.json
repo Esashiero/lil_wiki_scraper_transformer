@@ -1,0 +1,56 @@
+{
+    "event_id": "the_moon_is_beautiful",
+    "event_title": "The Moon is Beautiful",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Moon_is_Beautiful",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.8.7",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Three Girls in a Line on the Beach \" . This event belongs to an event chain started from \" What's Done is Done \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Sensei wakes up from his nap and decides to talk to Chika . She wasn't around in the morning because she had to look after Chinami , and Yumi leaves the beach to take her place. Sensei and Chika talk about how Yumi has been acting. Shortly after, Rin and Futaba come to talk to them. Futaba suggests leaving Rin and Chika alone for a while, and confirms to Sensei that she knows about Rin's crush. Chika asks Rin who she likes, and doesn't pick up on that fact that it's her. Molly then interrupts.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Yumi Yamaguchi",
+            "Futaba Fukuyama",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the follow: If Sensei saw A Dog that Doesn't Do Math If Sense saw Schadenfreude",
+            "If Sensei saw A Dog that Doesn't Do Math",
+            "If Sense saw Schadenfreude",
+            "The person Chika guesses as Rin's crush differs depending on if Sensei saw Schadenfreude . If Sensei has seen it, she will guess Rin's crush is him. If Sensei hasn't seen it, she will guess Rin's crush is Molly .",
+            "If Sensei has seen it, she will guess Rin's crush is him.",
+            "If Sensei hasn't seen it, she will guess Rin's crush is Molly ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Moon is Beautiful",
+            "event_script_names": "beachvacation7",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikasunset"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.8."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Three Girls in a Line on the Beach",
+        "next_event": "The Legacy of Thaum Pt. I"
+    }
+}

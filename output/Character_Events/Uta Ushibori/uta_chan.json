@@ -1,0 +1,57 @@
+{
+    "event_id": "uta_chan",
+    "event_title": "Uta-chan",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Uta-chan",
+    "event_type": "Event",
+    "primary_character": "Uta Ushibori",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "30 Uta Affection You must have seen or permanently missed the following Events: Seen \" After the Rain \" from Uta Ushibori",
+        "to_get_this_event": "Visit Uta's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Uta Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 7"
+        ],
+        "synopsis": "Sensei visits Uta in her dorm room to talk about her hasty departure and to return the clothes she left behind. He’s unsure how to break the news that he’s casually caring them around, but ultimately decides to be upfront about it to humiliate her. While she’s a little confused and disappointed, she tells him to just throw them on her pile and changes the subject. Sensei directs it towards her leaving him after receiving a text message, but she doesn’t want to talk about it, because the message wasn’t important, was sent anonymously so she can’t tell him much about it, and, as she stated before , she doesn’t want him to know anything about her past that would drastically change his view of her. She tries to move on, but Sensei isn’t done talking about it, doesn’t care if his opinion of her changes and thinks she should look for someone who can understand her. She doesn’t want anyone to understand her and rather wants to be seen as Uta-chan, her perfect self, instead of Uta, her flawed self. She reminds him how much he loves Uta-chan, wonders why he even wanted her to be Uta in the hotel, and begs him to focus only on her perfect self and ignore her flawed self. He retorts that he wants to know about her past despite how bad it might be and, while he likes the perfect and pure Uta-chan, he equally likes the flawed but human Uta Ushibori. Hearing this, Uta agrees to give him a simplified version of her past. Due to her naive and impulsive nature, she repeatedly did something that got her a lot of unwanted attention, to the point where she had a stalker, who was beaten up and almost killed by her brother, which is the reason he’s in jail. Since they couldn’t erase her mistakes, her parents used the deteriorating health of her grandfather to get her away from her situation, but it always comes back to haunt her. As she recalls her past, she starts panicking and assures Sensei that nothing happened to her and that she’s still pure and untainted. His attempts to calm her down fail and she realizes she revealed more about her past than she intended. She concludes by saying that, between the consequences of her past actions and her impulsive, true nature trying to break trough, she isn’t allowed to have anything until she has suffered enough. He thinks that she already suffered enough, that she should ignore her problem, and reiterates that he likes both versions of her and that nothing will change that. While she doesn’t fully agree with him, Uta still releases a sigh of relief after getting this off her chest. After some lighthearted banter, Sensei receives a message and thinks Ami wants to know where he is. He checks the message, but, instead of a text from his overbearing niece, he received a message from Uta Ushibori – A picture from her infamous past. He freezes in place as Uta wonders what he received. She assumes that Maya sent him a personal message and offers to deal with it, but he doesn’t want her to touch his phone. He decides to leave, and while Uta, saddened by his sudden departure, tries to make him stay longer, he insists he needs to leave to avoid making a mistake. While his walk home is a complete blur, he clearly remembers the dim blue light of his phone.",
+        "participating_characters": [
+            "Sensei",
+            "Uta Ushibori"
+        ],
+        "trivia": [
+            "Like with any other picture message, you can interact with the picture, but “I am undeserving of your love” just closes the menu and if you try “DELETE IMAGE”, you get informed that this isn't possible and Uta's affection resets as punishment.",
+            "The text you receive alongside the image of Uta can be translated with a Vigenère cipher, using \"HOPE\" as the key. \"H UXJA TGST AT XV MDY\" - A GIFT FROM ME TO YOU",
+            "\"H UXJA TGST AT XV MDY\" - A GIFT FROM ME TO YOU",
+            "The text you receive when attempting to delete the image translates with the same key to: \"ZC BEUM HSUUH - IHQW APHWSBH P GVRP\" -- SO MANY SONGS - EACH WITHOUT A CODA \"FCJ GHB CSA VXHL TGST HWI WOHX\" -- YOU CAN NOT HIDE FROM THE PAST \"FCJ GHB CSA RTPLHT XOSB ESZ\" -- YOU CAN NOT DELETE THEM ALL",
+            "\"ZC BEUM HSUUH - IHQW APHWSBH P GVRP\" -- SO MANY SONGS - EACH WITHOUT A CODA",
+            "\"FCJ GHB CSA VXHL TGST HWI WOHX\" -- YOU CAN NOT HIDE FROM THE PAST",
+            "\"FCJ GHB CSA RTPLHT XOSB ESZ\" -- YOU CAN NOT DELETE THEM ALL"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Uta-chan",
+            "event_script_names": "utadorm30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "utadormpanties"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3",
+            "thesleepingcity.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "After the Rain",
+        "next_event": "Young & Stupid"
+    }
+}

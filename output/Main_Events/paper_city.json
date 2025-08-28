@@ -1,0 +1,71 @@
+{
+    "event_id": "paper_city",
+    "event_title": "Paper City",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Paper_City",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.35.20",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Times New Roman \" . This event belongs to an event chain started from \" Eggside Octopus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi"
+        ],
+        "synopsis": "Having escaped the prison of his home , Sensei , equipped with his AR and a sizable supply of bullets, steps into his living room. There he finds Ayane and Maya , both of whom he doesn't recognize and initially plans to shoot. Both girls insist they're here to prevent him from destroying everything he cares about, but he doesn't believe them, accusing them of being home invaders. Ami quickly joins the growing chaos, but she only further encourages Sensei to fire upon her friends. Distrustful of her too, all three girls run out of the house, as Sensei realizes the warnings he was given were true – The outside world is dangerous. Having made it to the streets, he finds Ami once again, who tries to give him pointers on how to make it to the rooftop this time around. Sensei denies that this is his destination, though, prompting her to suggest he instead go around and say hello to all the girls, who've gravely missed him in his absence. According to Ami, the girls have all assembled together to write Sensei a card, but so much time has passed that they all believe that the city is made of paper and they are inside a card. Believing this to be a lie, Sensei puts a bullet in Ami's head and begins his new mission – To fully eliminate his former class. After successfully finishing off nineteen students, he begins to make his way to the dojo in pursuit of his last target: Ayane Amamiya. Upon arriving, and hearing a bit of her card, he puts a bullet in her. However, she doesn't go down, instead repeatedly taking bullet after bullet while listing off all the things she loves about Sensei. As he wonders aloud why things are going awry, Ayane explains that she's here to help save him from yet another disaster and guide him out of this \"Paper City\". Sensei insists that leaving is impossible, that this is the outside world he was forewarned about, and that he is only free and safe inside his box, where he has everything he ever needed – Everything except Ayane, as she herself points out. Giving up, Sensei asks Ayane to return with him to his home, but she refuses. Instead, she guides him to the school , where they can watch the seasons change together.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Maya Makinami",
+            "Ami Arakawa",
+            "Chika Chosokabe",
+            "Yumi Yamaguchi",
+            "Sana Sakakibara",
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Maya Makinami",
+            "Molly MacCormack",
+            "Tsuneyo Tojo",
+            "Io Ichimonji",
+            "Uta Ushibori",
+            "Otoha Okakura",
+            "Nodoka Nagasawa",
+            "Touka Tsukioka",
+            "Yasu Yasui",
+            "Kirin Kanda",
+            "Noriko Nakayama",
+            "Kaori Kadowaki",
+            "Nao-chan"
+        ],
+        "trivia": [
+            "There's variation in the dialogue depending on if Sensei picked up the shampoo bottle during Times New Roman .",
+            "The render featuring Kumon-Mi High has a heavily distorted background. This background contains the text \"There was never a game\", along with a heavily corrupted version of the class photo first seen in A New You ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Paper City",
+            "event_script_names": "resetsix2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "papercity"
+        ],
+        "music_tracks": [
+            "papercity.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.35."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Times New Roman",
+        "next_event": "Meant to Be"
+    }
+}

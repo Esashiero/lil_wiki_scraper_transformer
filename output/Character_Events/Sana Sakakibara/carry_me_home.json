@@ -1,0 +1,61 @@
+{
+    "event_id": "carry_me_home",
+    "event_title": "Carry Me Home",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Carry_Me_Home",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Sana Affection You must have seen or permanently missed the following Events: Seen \" Supermom \" from Sana Sakakibara",
+        "to_get_this_event": "Visit the Bar on any evening after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Lock the door",
+                "effect": "Select this option if you're trying to 100%."
+            },
+            {
+                "context": null,
+                "option": "Leave the room",
+                "effect": "You'll miss out on some H-scenes, and two Events will fail."
+            }
+        ],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a"
+        ],
+        "synopsis": "Sensei heads to the bar, and isn't surprised to find there are no customers whatsoever. Sana , drunk, greets Sensei, and Sara calls out to Sana, telling her to get Sensei a beer and lock the door. Sana quickly does both despite her inebriated state, but fails to remember the beer is for Sensei, and ends up cracking it open herself. as he sits down, Sensei reflects on the situation and comes to the conclusion it must be Sara's doing. Sensei becomes a bit concerned when Sara starts trying to get Sana to reveal her private opinions on him. Sana realizes her condition and, in a surprising moment of clarity, debates telling Ayane she won't make it back to the dorms and will instead be sleeping above the bar tonight, and Sara suggests that Sensei carry her to her room to sleep. Flustered, Sana tries to get Sara to abandon the conversation, but her efforts find negative purchase, as Sara starts teasing Sana even more relentlessly. After Sensei has to reaffirm his general interest in the fairer sex to the drunk Sana, Sara makes a blatantly suggestive comment which causes Sana to blow up ,severely flustered. Later, Sana ends up passing out, the alcohol having become too much for her system to handle, and Sara tells Sensei where her room is so he can make sure she gets proper sleep. Sensei becomes confused when he finds that Sara has suddenly disappeared on him, but upon hearing her yell out for him to deal with a spider, he heads to her room, where she invites him to have sex — he then has to decide whether it's a good idea to sleep with his student's mother or not. Afterward, Sensei heads home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Sara Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Carry Me Home",
+            "event_script_names": "bar15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "carryredux",
+            "drunk"
+        ],
+        "music_tracks": [
+            "calmbar.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Anywhere At All",
+        "next_event": "Shaking The Tree"
+    }
+}

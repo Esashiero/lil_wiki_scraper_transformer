@@ -1,0 +1,49 @@
+{
+    "event_id": "two_wooden_doors",
+    "event_title": "Two Wooden Doors",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Two_Wooden_Doors",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.11.2",
+    "interactivity": {
+        "requirements": "Tuesday You must be on at least Day  215  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" As Loud as a Whisper Can Be \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Tuesday on or after Day 215.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's Office"
+        ],
+        "synopsis": "In his office after class, Sensei has a feeling that \"something horrible is going to happen\". Maya arrives and tells him that the world is going to end soon — she will be waiting in the same place as last time, and doesn't want him to take too long. Since his mental state might impact that, she asks if there's anything worrying him. He asks what will happen to Molly and Tsuneyo , since they arrived mid-cycle. She doesn't know — some cycles do see them transfer into class, but it is rare. Also, too many students in class is problematic for Maya in ways that she won't explain. Miku interrupts them, but before Maya goes, she warns Sensei that the \"second time can be rough\". Miku is worried about Makoto 's recent behavior , and hopes that Sensei can do something.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Two Wooden Doors",
+            "event_script_names": "day215",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "twowoodendoors"
+        ],
+        "music_tracks": [
+            "beyondthewayoftime.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.11."
+        ]
+    },
+    "navigation": {
+        "previous_event": "As Loud as a Whisper Can Be",
+        "next_event": "Happy Places"
+    }
+}

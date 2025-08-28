@@ -1,0 +1,48 @@
+{
+    "event_id": "one_of_many_rooms",
+    "event_title": "One of Many Rooms",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=One_of_Many_Rooms",
+    "event_type": "Invite Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "10 Ayane Lust You must have seen or permanently missed the following Events: Seen \" Hail Mary \" from Ayane Amamiya",
+        "to_get_this_event": "Invite Ayane Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Ayane Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House"
+        ],
+        "synopsis": "Sensei calls Ayane to invite her over while Ami is out, only to find that Ayane is already in his house, specifically, in Ami's room.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "One of Many Rooms",
+            "event_script_names": "ayaneinvite2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayaneamisbed"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Hail Mary",
+        "next_event": "What a Wonderful World"
+    }
+}

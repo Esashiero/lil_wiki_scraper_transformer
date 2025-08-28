@@ -1,0 +1,51 @@
+{
+    "event_id": "operation_fallen_angel",
+    "event_title": "Operation: Fallen Angel",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Operation:_Fallen_Angel",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.1.11",
+    "interactivity": {
+        "requirements": "You must be on at least Day  16  to unlock this Event. You must have seen or permanently missed the following Events: Seen \" The Unwavering Bravery of Ayane Amamiya \" from Ayane Amamiya",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first weekday on or after Day 16.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High- Soccer Field",
+            "Kumon-Mi High - Nurse's Office"
+        ],
+        "synopsis": "On the soccer field, Ayane plots to enact a faked injury, and is running through the plans with a nervous Sana before Sensei arrives - Ayane believes the plan will go off without a hitch based on previous results, while Sana believes Sensei will easily see through the act. Unprepared and nervous, Sana hastily begins to enact her part of the performance as soon as Sensei blows the whistle for the class to begin exercising, forcing Ayane to improvise on the fly, falling to the ground. Sensei runs over to see what has happened, and Ayane hastily tells him that she suddenly lost feeling in her legs, prompting Sensei to ask if she needs to go to the nurse's office. Sana, now catatonic to the environment around her, continues acting out her part obliviously as Sensei - who already knows something fishy is going on - carries Ayane to the nurse's office, Ayane interrogating him the whole way about hypothetical scenarios where she can no longer use her legs. The moment they're in some semblance of privacy, Ayane drops the facade, and asks Sensei if he was aware of the act, which he affirms. Ayane asks him when he began to think of her in a more mature fashion, which he counters by asking the same question of her. He internally debates how he should answer her, not willing to risk shattering the illusion of his existence or her fragile heart. He takes the \"safe\" route, and Ayane takes the answer to heart, before the two engage in a heated kiss. In the middle of it, Ami enters the office, trying to figure out where the two of them went, but gives up after receiving no response, and eventually leaves.",
+        "participating_characters": [
+            "Ayane Amamiya",
+            "Sana Sakakibara",
+            "Sensei"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Operation: Fallen Angel",
+            "event_script_names": "day16",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "newfallen"
+        ],
+        "music_tracks": [
+            "happyandplotting.mp3",
+            "behindabathroom.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Self-Esteem",
+        "next_event": "I Thought of You"
+    }
+}

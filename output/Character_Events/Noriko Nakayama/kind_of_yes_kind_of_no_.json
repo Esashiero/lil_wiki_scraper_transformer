@@ -1,0 +1,50 @@
+{
+    "event_id": "kind_of_yes_kind_of_no_",
+    "event_title": "Kind Of, Yes. Kind Of, No.",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Kind_Of,_Yes._Kind_Of,_No.",
+    "event_type": "Event",
+    "primary_character": "Noriko Nakayama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "10 Noriko Affection You must have seen or permanently missed the following Events: Seen \" Mouthjob \" from Noriko Nakayama Seen \" Terms & Conditions \" from Kirin Kanda",
+        "to_get_this_event": "Visit Noriko's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Noriko Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 10"
+        ],
+        "synopsis": "Noriko is in her underwear, and tells Sensei that her clothes are in the wash. Eventually, it emerges that she was actually trying to seduce him, but is now nervous about it. She isn't sure if she wants anything to happen or not, and Sensei doesn't want to try anything unless she's sure. They talk about what each of them would and wouldn't be okay with in future, and about whether Sensei is in love with anyone.",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama"
+        ],
+        "trivia": [
+            "Noriko misunderstands pleading the fifth. It is applicable even in direct criminal investigation."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Kind Of, Yes. Kind Of, No.",
+            "event_script_names": "norikodorm10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikounderwear"
+        ],
+        "music_tracks": [
+            "wewereangels.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.14."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Mouthjob",
+        "next_event": "New Shoes"
+    }
+}

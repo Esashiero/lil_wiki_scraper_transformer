@@ -1,0 +1,49 @@
+{
+    "event_id": "floating_forever_unfulfilled",
+    "event_title": "Floating Forever, Unfulfilled",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Floating_Forever,_Unfulfilled",
+    "event_type": "Event",
+    "primary_character": "Osako Osaka",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "1 Osako Affection You must have seen or permanently missed the following Events: Seen \" Pressure Point \" from Osako Osaka",
+        "to_get_this_event": "Visit the Dojo",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Osako Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Dojo"
+        ],
+        "synopsis": "Sensei spars with Osako at the dojo. Ayane is absent, but Sensei tries to continue her tradition of karate roleplay anyway. Since he doesn't actually know how to fight, he is quickly defeated, despite Osako trying to give him tips. Afterwards, Sensei asks why Osako chooses to teach beginners. She says that she had bigger plans, but points out that there are limited opportunities with the city closed off.",
+        "participating_characters": [
+            "Sensei",
+            "Osako Osaka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Floating Forever, Unfulfilled",
+            "event_script_names": "osakodojo1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            ""
+        ],
+        "music_tracks": [
+            "rapid.mp3",
+            "sakuya4.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Pressure Point",
+        "next_event": "Young At Heart"
+    }
+}

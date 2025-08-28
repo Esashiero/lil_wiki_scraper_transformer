@@ -1,0 +1,49 @@
+{
+    "event_id": "they_re_just_lights",
+    "event_title": "They're Just Lights",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=They%27re_Just_Lights",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.10.6",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Sexy Land \" . This event belongs to an event chain started from \" The Value of Sharing \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "City Streets"
+        ],
+        "synopsis": "Walking to the bar, Sensei thinks about the stars, and Maya 's views on them . He sees Yumi sitting on a bench. She is skeptical about his claim to be attending a party with people his own age for once. She says that she isn't going to the party at Ayane's place the following night, because things like that \"aren't meant for\" people like her, and nobody but Chika would want her there anyway. Somewhat hesitantly, Yumi asks Sensei a \"weird\" question — has he has lost some of his memories? Multiple errors are detected, and since the permissions necessary to perform a reset are lacking, a reroute to the next available path occurs.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei's seen Apples to Apples ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "They're Just Lights",
+            "event_script_names": "halloween6",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yumihalloween"
+        ],
+        "music_tracks": [
+            "blueair.mp3",
+            "sweetervermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sexy Land",
+        "next_event": "Once, Twice, Ten Times"
+    }
+}

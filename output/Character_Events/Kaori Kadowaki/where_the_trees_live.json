@@ -1,0 +1,56 @@
+{
+    "event_id": "where_the_trees_live",
+    "event_title": "Where the Trees Live",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Where_the_Trees_Live",
+    "event_type": "Event",
+    "primary_character": "Kaori Kadowaki",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "35 Kaori Affection You must have seen or permanently missed the following Events: Seen \" A Brutal, Violent Creaming \" from Maya Makinami Seen \" Lavender \" from Nodoka Nagasawa Seen \" Under My Wing \" from Touka Tsukioka Seen \" How To Make Love Stay \" from Niki Nakayama",
+        "to_get_this_event": "Call Kaori during the night after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kaori Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Apartment Building - Apartment #23",
+            "Forest"
+        ],
+        "synopsis": "Sensei decides to call Kaori , wanting to check in on her after her weird experience in the rain . When she picks up, Kaori informs him that a strange, folded piece of paper was stuck to her door when she got home. After confirming it's not an eviction notice, he tells her to open it, which she does, exclaiming it to be a treasure map and demanding his presence at her place. He tries to weasel out of it, noting how late it is, but she hangs up before he can change her mind. He arrives at Kaori's place, finding her in the middle of pondering the map. He tries to see it himself, but she insists she knows where to go, only first needing to feed John . Sensei turns to find him, realizing that he's somehow grown to the height of the room. Baffled, he tries to get an explanation from Kaori, but her responses are vague and extremely confusing. She brings the topic back to the map and feels like they’ll find the treasure “where the trees live”, though Sensei isn’t sure if she’s referring to the forest or if it’s her way of saying treehouse, so Kaori asks him to just follow her. As the two begin to leave, John ominously warns Sensei about the treasure on the map. While following Kaori through the misty forest, he thinks how great living in this weird reality is, unless it inconveniences him like it does now. After an hour, his patience starts to wane and he asks her if this \"treasure\" is really hidden here. She assures him it is and offers to play a game to pass the time. He asks what kind of game they can play, especially since his preferred game is out of the question, and she clarifies that it's a game where the two will ask questions to learn more about each other. She adds that she's excited to play it, as the source she got it from said it'd help people love her more, and she's yet to find love. Sensei tries to point out that Yuki loves her, but Kaori denies this, claiming it's a different type of love she's after, confusing him. Suddenly, he finds himself back at the start of the conversation. The exchange repeats a second time, with Kaori explaining the love she's after differently. It's on the third loop that she instead asks Sensei if he's ever loved someone before. Uncomfortable, he refuses to answer, instead asking her what it was like \" coming back from the dead \". She explains it as horrible, though feels she didn't \"die\" as she occasionally feels something like familiarity with both Yuki and Yumi . Sensei starts to agree with this but begins to hallucinate, causing him to become increasingly confused. Kaori repeats herself once again, and this time he asks if she knows what's going on – She ominously tells him \"Something is waking up\" before asking him if he remembers what he wanted to be as a kid. The conversation loops a final time, and Sensei demands to see her map. She asks if he doubts her reading abilities, which he admits to. Upon stepping up to her and taking a look at the map, he realizes it only contains a single kanji character. Tired and frustrated, he begs Kaori to come back to the city with him. She insists they're close to finding it, but at one final push from Sensei, she begrudgingly relents.",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki",
+            "John"
+        ],
+        "trivia": [
+            "74 68 65 20 73 74 69 6e 67 20 6f 66 20 64 65 61 74 68 20 68 61 73 20 72 6f 62 62 65 64 20 6d 65 20 6f 66 20 6d 79 20 6f 6e 6c 79 20 67 69 76 65 6e 20 6c 69 66 65 : The sting of death has robbed me of my only given life",
+            "74 68 65 73 65 20 73 70 61 72 65 20 70 61 72 74 73 20 6d 6f 76 65 20 6d 79 20 62 6f 64 79 20 79 65 74 20 73 68 69 66 74 20 6e 6f 74 68 69 6e 67 20 66 6f 75 6e 64 20 6f 75 74 73 69 64 65 : These spare parts move my body yet shift nothing found outside",
+            "65 76 65 72 79 20 74 69 6d 65 20 69 20 66 65 65 6c 20 61 20 74 68 6f 75 67 68 74 20 72 75 73 68 20 69 6e 20 69 74 73 20 6d 61 69 6d 65 64 20 61 6e 64 20 6c 65 66 74 20 62 65 68 69 6e 64 : Every time i feel a thought rush in its maimed and left behind",
+            "6e 6f 77 20 69 20 63 61 6e 20 6e 6f 74 20 68 65 6c 70 20 62 75 74 20 77 6f 6e 64 65 72 20 77 68 79 20 69 20 6c 69 76 65 64 20 61 6e 64 20 6e 65 76 65 72 20 64 69 65 64 : now i can not help but wonder why i lived and never died"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Where the Trees Live",
+            "event_script_names": "kaorispecial35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "map"
+        ],
+        "music_tracks": [
+            "unmatchingeyes.mp3",
+            "sanctuary.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .31.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Wither",
+        "next_event": "Human Females"
+    }
+}

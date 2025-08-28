@@ -1,0 +1,49 @@
+{
+    "event_id": "jeeves_tsukioka_xiii",
+    "event_title": "Jeeves Tsukioka XIII",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Jeeves_Tsukioka_XIII",
+    "event_type": "Event",
+    "primary_character": "Tsukasa Tsukioka",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Auto-play after National Tsukasa Day",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Tsukasa Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's Office"
+        ],
+        "synopsis": "Sensei went back to his office, but Tsukasa followed him, because she refuses to leave until her mother comes for her. He isn’t pleased with having to babysit her, but decides to see it as practice when he has to deal with both Chinami and her. Tsukasa wants him to entertain her, but he has no intention to do it, especially when she mentions the onsen game again. She’s dissatisfied with how she’s treated on her holiday since the only thing she got was her being able to visit a public school . Sensei asks her if she isn’t allowed to go to a public school or just doesn’t want to. She tells him that it’s the former, because being the second born doesn’t make her education as important as Touka ’s, but she’s too “advanced” for the school she would be attending at her age and too young for high school, leaving her to be schooled by private tutors and spend the rest of the day bored, because there’s nothing at home that interests her. She’s more interested in the things she saw at their outing and Molly , but Sensei informs her that those aren’t attractions and that she should do more research about the outside world. She offers him a second time to become her butler and teach her instead, but he immediately declines and even swears at her, something ten of her twelve butlers were fired for. He suggests that she should consider that she might be the problem if that’s the case, but she doesn’t see it that way since she and her family are superior to everyone else due to their wealth and skills. Sensei tries to convince her that there are multiple people in his class alone that are better than them in certain areas, but has to admit defeat when he lists several skills necessary to be a good person and Tsukasa makes him acknowledge that Touka has all of them. She gloats about her wealth and superiority again, which makes Sensei wonder how she got like that when the other Tsukioka women are more approachable and kinder than her and comes to the conclusion that it’s her father’s fault. Tsukasa blames it on her being the second born, though, because, despite seeming to be close to him, she doesn’t see or talk with him a lot. He asks her what she does all day and, after hearing what she does, sees a lot of parallels to Ayane , with the most important difference being that Tsukasa still gets attention, though not form the parent she wants. Tsubasa knocks on Sensei’s door and, when Tsukasa calls him Jeeves, tells her how much he has done for their family and doesn’t deserve that treatment, until Sensei tells her to come in instead of speaking through the door. She enters and apologizes for the inconvenience her daughter caused to him, but Sensei wasn’t bothered by her. Tsukasa wants to spend time with her mother now that she’s here, but she informs her that this isn’t possible since she lost too much time having to pick her up when she refused to take the convoy or go with her sister. Tsubasa thanks Sensei again for watching over her daughter, makes her thank him as well and leaves with her. Sensei feels sorry for Tsukasa, and while it’s short-lived, the fact he felt it at all means that he acknowledges that, like the other girls, she's trying to find her place in the world.",
+        "participating_characters": [
+            "Sensei",
+            "Tsukasa Tsukioka",
+            "Tsubasa Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Jeeves Tsukioka XIII",
+            "event_script_names": "tsukasaspecial1p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsukasaoffice"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "National Tsukasa Day",
+        "next_event": "Vow of Silence (Pole Position)"
+    }
+}

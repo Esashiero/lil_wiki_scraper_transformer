@@ -1,0 +1,48 @@
+{
+    "event_id": "shaking_the_tree",
+    "event_title": "Shaking The Tree",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Shaking_The_Tree",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Sana Affection",
+        "to_get_this_event": "Visit Sana's dorm room on any day except Friday after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sana’s room"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorm hallway and knocks on Sana 's door. He is surprised to hear Sana calling out to him from the other side instead of opening the door and stepping out, and he asks to hang out. Sana initially doesn't want to let him in because she's wearing pajamas, but he doesn't see it as a big deal. She eventually does let him in, and his nonchalance is proven when he sees Sana wearing a heavy sweater for pajamas. He asks her why she's in a sweater meant for someone his size, and she points out how cold the room is, and the fact she like to have the air blasting so she can bundle up like so. He asks her what she's been doing and she tells him a bit about Animal Crossing , and he accepts her offer to watch her play since he has nothing better to do. Sana grabs her console off of her end table, and the two of them sit on her bed while she loads the game. Sana starts explaining various parts of the game to Sensei while he watches, occasionally asking questions about the various buildings and villagers, and Ami hops onto Sana's world a bit later to grab some oranges. Sensei comments on how that doesn't seem to logically follow, only to watch as Ami's avatar indeed shakes an orange tree. The two hang out for a while longer, Sana showing Sensei more about the game, before Sensei decides to head home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Shaking The Tree",
+            "event_script_names": "sanadorm15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "games"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Carry Me Home",
+        "next_event": "Scouting Mission"
+    }
+}

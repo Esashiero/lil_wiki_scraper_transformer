@@ -1,0 +1,49 @@
+{
+    "event_id": "the_caretaker",
+    "event_title": "The Caretaker",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Caretaker",
+    "event_type": "Lust Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "v0.36.6",
+    "interactivity": {
+        "requirements": "60 Ami Lust",
+        "to_get_this_event": "Autoplays after \" November 1st \" . This event belongs to an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "Have less than 60 Ami Lust before The Collector begins the Event-Chain. Replaced by Bucket, Bucket, Lovely Old Bucket",
+        "choices": [],
+        "effects": [
+            "+1 Ami Lust",
+            "+10 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Sensei's Bedroom"
+        ],
+        "synopsis": "Ami returns to Sensei , informing him about the Nakayama's presents for him . After cooing over how nice it is to have time between them be uninterrupted, she places down his dinner and prepares to feed him.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Caretaker",
+            "event_script_names": "amilust60",
+            "event_missed_name": "Bucket, Bucket, Lovely Old Bucket"
+        },
+        "backgrounds": [
+            "anothercollector"
+        ],
+        "music_tracks": [
+            "painisreal.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Family Matters",
+        "next_event": "Della"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "event_id": "i_won_t_say_i_m_in_love",
+    "event_title": "I Won't Say I'm In Love",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=I_Won%27t_Say_I%27m_In_Love",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.35.16",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" For More Than Just Me \" , or \" Family Matters \" . This event belongs to an event chain started from \" Eggside Octopus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Karaoke Bar - Hallway"
+        ],
+        "synopsis": "Regardless of whether Sensei willingly goes along with Ami , she's revealed to have forced him to regardless. Now, having finished up their talk, they step out into the hall, finding Maya sitting by herself solemnly. Having switched back to her cheerful, happy self, Ami passive-aggressively talks about the time she spent with Sensei, leading Maya to ask her if this is truly making her happy. Ami confirms she is, continuing to snub Maya until Sensei demands she leave them alone, claiming he won't fall for another one of her tricks. Ami complies and disappears back into the booth with Ayane and Sana . As he takes a seat, Sensei reflects on his feelings about artificial light, and how the lullaby-like hum of electrical wiring has always comforted him. He questions why this occupies his mind when he's now faced with what might be his last chance to speak with Maya, wondering if she's aware of their situation, though he doubts it since she would've warned him or done the usual preparations if she did, and if she'd laugh in his face if he told her what he's been hearing as of late. Before he opens his mouth, he gives one final message to the entity he claims has been reading his narrations and monologue: He did all he could; Doing it was just really hard sometimes. Before he can say anything, Maya tells him that she wasn't aware how \"out of it\" he is today until shortly ago, chiding herself for trying to relax while he, Ayane, and Ami are all high-strung today. Sensei's surprised to hear this about Ami, with Maya having to point out the misunderstanding that his \"dream\" caused. He tries to entertain this misunderstanding but is promptly shut down, with Maya reminding him of the required distance between them. The topic shifts, this time to Sensei's malfunctioning mind, with Maya pondering why it is everyone else is acting weird while she has felt nothing. Sensei notes that, if a reset is coming up, it's not a normal one as he's been persistently plagued by hallucinations telling him that tonight is the end. Maya doesn't see this as credible, pointing out how he's always plagued by these thoughts, a fact that surprises Sensei as he was unaware she knew about them. According to her, he's had such hallucinations for years and years, but they've never been right about anything, so she tells him to not let them sway his feelings or opinions. In the end, Sensei places his trust in Maya's prediction that while a reset will come soon, it won't happen quite yet. After briefly talking about the previous iterations of Sensei, Maya asks for him to repeat to her what he said to her last Christmas . He obliges.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw Family Matters .",
+            "A new picture message from Makoto will be available following this Event."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "I Won't Say I'm In Love",
+            "event_script_names": "halloweenfour15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mayakaraoke"
+        ],
+        "music_tracks": [
+            "shrinemaiden.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.35."
+        ]
+    },
+    "navigation": {
+        "previous_event": "For More Than Just Me",
+        "next_event": "The End of the World"
+    }
+}

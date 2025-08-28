@@ -1,0 +1,50 @@
+{
+    "event_id": "stop_looking_for_answers",
+    "event_title": "Stop Looking For Answers",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Stop_Looking_For_Answers",
+    "event_type": "Event",
+    "primary_character": "Maya Makinami",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "30 Maya Affection You must have seen or permanently missed the following Events: Seen \" A Place That Can Only Exist in Our Minds \" from Maya Makinami",
+        "to_get_this_event": "Visit the Shrine",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shrine"
+        ],
+        "synopsis": "Sensei sets out for the shrine, but somehow doesn't find it until night. Maya , Ami , and Ayane are there. They seem concerned for him, since it's cold and Sensei (to his surprise) is soaking wet. Maya wants to talk to Sensei alone, which seems to make Ayane suspicious. Maya apologises for the recent incident , and says that she is glad he didn't accept her offer (which wouldn't have worked in any case). She still hopes that he can be separated from Noriko, and Sensei again asks why. She points out that when she tried to tell him anything, he passed out. However, she does say that she was wrong about Sensei changing, and about everything being part of a fixed cycle — too much has happened for that to be true. She tells him again that he \"probably\" is the original Sensei, and says that although he should stop looking for answers, she would tell him more if she could.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Stop Looking For Answers",
+            "event_script_names": "shrine35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mayasnowshrine"
+        ],
+        "music_tracks": [
+            "undersea.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Place That Can Only Exist in Our Minds",
+        "next_event": "Somewhere Inside of a Dream"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "event_id": "the_legacy_of_thaum_pt_v_the_faceless_empyrean",
+    "event_title": "The Legacy of Thaum Pt. V: The Faceless Empyrean",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Legacy_of_Thaum_Pt._V:_The_Faceless_Empyrean",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.15",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Death (And Other Sad Stuff) \" . This event belongs to an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "As the class' Christmas Party continues, Molly has gathered Ayane , Maya , Sana , Rin , Futaba , and Tsuneyo for another session of their D&D campaign – The girl's characters, Lidearel, Urrheak, Zagull, Nithhala, Xessaxia, and Ram all attempt to do battle with a giant, burrowing worm. As Lidearel has their attack repelled by the worm's natural armor, the creature sinks into the smoke below an invisible barrier and slithers away, knocking down Lidearel with an aftershock. Zagull mocks the creature for its cowardice as the rest of the party adapts to the darkness, the commotion hurting the downed Lidearel and starting a brief argument between both aforementioned characters. Having regained his footing, Urrheak immediately takes to the skies to hurry over to Nithhala's side and heal them, returning to his original position to try and explain the group's next move. Before he can finish his speech, though, the worm returns and flings itself into the air, taking a bite out of Urrheak before it slams onto the ground. Now critically wounded, Urrheak barely avoids being swallowed as Xessaxia quickly explains to the group that the monster can sense movement, hoping the information will convince Zagull to finally be less aggressive – Unfortunately, Zagull takes inaction as an insult, flailing around more in protest. Xessaxia quickly draws her longbow, firing two shots directly into the worm's skin, which, while powerful, do little to impede the beast. Ram takes the front lines, attempting to use mockery to make the worm falter. This obviously fails. Nithhala is up next and, feeling unimportant, decides to whip out a scroll the group found last session. The players all try to convince Rin not to do this, citing her infamously bad luck with rolls, but she refuses to hear them out and has Nithhala toss the scroll into the monster's mouth. To everyone's surprise, Nithhala manages to actually hit something, thanks to Maya giving Rin a new dice as a Christmas present, and the scroll creates a giant fire sphere and unleashes a massive explosion as it's revealed to contain a combination of all greater fire magic. The beast roars in pain as its body is subjected to intense pain – Unfortunately, the spell also contains a shockwave effect which severely damages Urrheak and knocks him out of the air and onto the ground. As the group reels from this explosion, they notice the worm has stalled in place as smoke from below the barrier forms clouds and crackles of lightning. Suddenly, everything stops, and the worm slumps, its gigantic mouth opens as, from the back of its long throat, a humanoid silhouette takes shape. The silhouette, that of a gigantic, cloaked man, grows larger and larger as it steps out from the worm's mouth. While the worm disappears into the smoke, the man stops just in front of Urrheak, staring ahead at the party as if merely waiting. Urrheak breaks the party's silence and calls towards the man. The man's gaze immediately snaps down onto him, but the man doesn't respond. The players all discuss amongst themselves ideas for how to handle the situation, deciding on unraveling his head after healing up to be prepared for a possible fight. After getting off the ground and healing himself with Nithhala's potions, Urrheak flies up to the man's head, realizing just how massive he is from how easily he dwarfs everyone. From inside the man's head coverings, a faint whirring sound can be heard, prompting Urrheak's curiosity. As he uncovers the man's head, Urrheak is overcome with memories of his youth and an unyielding sense of calm. The whirring sound grows more and more as Xessaxia becomes increasingly worried, trying to stop the situation before it's too late. Just as she draws her bow, though, the man shatters the barrier around it with one stomp and sends everyone but Urrheak into the void below. The man's face coverings fall apart, revealing a gaping void where his face should be. Terrified but unable to move, Urrheak is drawn into the void, being slain.",
+        "participating_characters": [
+            "Molly MacCormack",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Sana Sakakibara",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Legacy of Thaum Pt. V: The Faceless Empyrean",
+            "event_script_names": "springtime14",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "xmasdnd"
+        ],
+        "music_tracks": [
+            "breeze.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Death (And Other Sad Stuff)",
+        "next_event": "Goodnight Moon"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "event_id": "never_enough",
+    "event_title": "Never Enough",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Never_Enough",
+    "event_type": "Event",
+    "primary_character": "Kirin Kanda",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Wednesday You must be on at least Day  590 to unlock this Event. 45 Kirin Affection You must have seen or permanently missed the following Events: Seen \" At the Edge of the Riverbank \" from Kirin Kanda",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Wednesday on or after Day 590.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kirin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Archery Range",
+            "Arcade"
+        ],
+        "synopsis": "After a day of actually having to do his job, Sensei decides to blow his afternoon off by spending time at the archery range with the Kyūdō club. As he makes his way along the path, he runs into Kirin , who's leaving early due to her not being in the mood. Sensei quips how characteristic that is for her, considering her previous relationship with the soccer team , but Kirin insists this time is different. With some more prying, Sensei manages to get her to confess that the real reason she's leaving early is because of Uta 's unexpected skill and that she wanted to go back to the dorms and look up videos to study it. However, realizing she has a rare opportunity, she wants to spend time with him without the usual pretense . While he declines at first, hurting her feelings in the process, he tells her that it was a joke and Kirin, beaming with joy before getting embarrassed, invites him to the arcade. Now at the arcade, Sensei watches as Kirin repeatedly fails to win a prize from a crane machine. She tries to rope him into helping, but he refuses, not wanting to draw attention to the two of them. Kirin doesn't mind the idea, feeling it'd give her a reputation beyond \" Karin 's Sister\". The two are suddenly interrupted by Karin herself showing up, having been let out of her club early due to another case of accidental manslaughter . She's surprised to see the two of them hanging out, with Kirin quickly coming up with a lie on the spot. Karin notices that her sister discomfort and , having plans of her own, leaves shortly after. Sensei doesn’t understand why Kirin wouldn't hang out with her sister instead. She explains that she can do that any time she wants, especially since Karin would priorities her, but since being able to spend time with him is a rare occasion, she has to take every chance to do so. Him stating that she wasn’t enough for him during their walk the other night also got her thinking and she came to the conclusion that spending time platonically would help her become it. Sensei is surprised by her growth, yet Kirin isn’t sure if this is the case. She only knows that she wants to be closer to him and that the thought of everyone else getting closer to him starts to annoy her, but she accepts that she needs to endure it until she can be enough for him. She admits that he was right about her only pretending to be fine with it and thanks him for ruining her life by having to admit her feelings. Sensei was already aware of them, but is still surprised that she confessed them now. He also feels like his life is ruined as well since hurting her feelings will be more difficult now that she acknowledges them. Kirin still wishes they could run away, because she has no idea how to face Noriko if her relationship with him starts to change, though Sensei thinks they should go on more dates before she decides what kind of relationship they have. Realizing that she went on a date with him, Kirin starts to panic as she wasn’t properly dressed for it and accepts his invitation for the next night to fix this.",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda",
+            "Karin Kanda"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on Sensei's choice during Forty Degrees Below Zero ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Never Enough",
+            "event_script_names": "kirinspecial45p1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kirinarcade"
+        ],
+        "music_tracks": [
+            "summerwind.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "At the Edge of the Riverbank",
+        "next_event": "Salmon Onigiri"
+    }
+}

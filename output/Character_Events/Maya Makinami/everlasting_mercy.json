@@ -1,0 +1,58 @@
+{
+    "event_id": "everlasting_mercy",
+    "event_title": "Everlasting Mercy",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Everlasting_Mercy",
+    "event_type": "Event",
+    "primary_character": "Maya Makinami",
+    "chapter": "v0.23p1(Maya Festival Date).4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" As The Sun Disappears \" . This event is the final event in an event chain started from \" Somewhere Inside of a Dream \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+25 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Festival"
+        ],
+        "synopsis": "Sensei , while observing the firework show with Maya , is lost in thoughts about how he feels more alive right now. Both have a general discussion about the fireworks in the sky, the festival below them and how Maya smiles a lot lately. As the firework show continues, Sensei notices that the festival got more livelier and that there are more men here than he has seen in his time in Kumon-mi, though he reminds himself that time is meaningless in his situation. Maya decides to indulge in another cliche and tells Sensei about the legend of the star-crossed lovers Vega and Altair, who are separated by the milky way and can only be together once a year on one specific day. Sensei knows the story and asks her not to finish it. He hopes that both can stay together this year, though can’t stop himself from inserting his usual perversion into his wish. Maya rests her head on his shoulder, but when Sensei wants to say something, she begs him not to ruin the moment. Although he can’t see her face, he feels that the smile count just increased by one. He notices parallels between the star-crossed lovers and them, but, if they ever land in the same situation, he wouldn’t allow the milky way to separate him from Maya. Sensei gets another blackout just as the finale of the firework show begins. While this is going on, Maya informs him that she needs help with another box while Sensei travels between the shrine and other spaces. First it’s his home, where Ami asks him if something’s wrong, the school corridor, where he meets the teacher and fragments of the past, namely the cooking contest and the day he took the class picture of the original ten girls. When he finally breaks out of it, he finds himself in front of Maya’s dorm room. Maya, who already changed back into her winter outfit and handed him the box, tells a confused Sensei that it’s two hours later and already the next day. When she realizes why he’s confused, she doesn’t mind delaying their plans, but Sensei assures her that, since he can hold a conversation with her, the worst part is already over and he’s able to carry the box to school.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Chika Chosokabe",
+            "Miku Maruyama",
+            "Makoto Miyamura",
+            "Maya Makinami",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Everlasting Mercy",
+            "event_script_names": "mayafestival4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "hanabi"
+        ],
+        "music_tracks": [
+            "ihaveto.mp3",
+            "undoitall.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "As The Sun Disappears",
+        "next_event": "The Sun, And All Its Toxic Rays"
+    }
+}

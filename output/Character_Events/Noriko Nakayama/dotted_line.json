@@ -1,0 +1,49 @@
+{
+    "event_id": "dotted_line",
+    "event_title": "Dotted Line",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Dotted_Line",
+    "event_type": "Event",
+    "primary_character": "Noriko Nakayama",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Not Thursday 30 Noriko Affection You must have seen or permanently missed the following Events: Seen \" Breaking Character \" from Otoha Okakura Seen \" Hotel Noriko \" from Noriko Nakayama",
+        "to_get_this_event": "Visit Noriko at the Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Noriko Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 10"
+        ],
+        "synopsis": "Sensei arrives at Noriko 's dorm, hoping that he can finally talk to her about him and Niki , although with little confidence that he won't just back down due to cowardice. After being let in, she mistakenly thinks he's there to collect on her promise from the other day , but he quickly corrects her and asks her to sit down so they can talk. Noriko, having already been on edge due to Kirin 's shift in behavior towards her, is hesitant to do so but is convinced by Sensei's insistence. Sitting on her bed together, Sensei first asks Noriko if she knows his real name . Noriko confirms she does and expresses her confusion at the question, and Sensei reveals to her he only recently learned what his real name was, and hadn't ever heard anyone use it until now. This exacerbates Noriko's confusion, as she thinks he must've heard it from at least Ami or Niki , or seen it on official documents such as his bills – Sensei negates each of these, though mentions Niki was the one he learned it from. Noriko still can’t believe that he lived without a name this entire time, but he explains that he accepted Sensei as his name from the moment he heard it , which is why having a real one is more unsettling. Noriko wonders what happened with her sister to make him remember, which he uses as a segue to talk about what happened between them. Fearing what he will reveal to her, Noriko begs Sensei to just drop the topic entirely. He persists, telling her that, on top of his name, Niki helped him remember just how important the Nakayama sisters are to him, how they'll always be by his side, and how, even if he can't remember why, he made a mistake abandoning them all those years ago. He tells Noriko he wants to keep her close and that, to do so, he'll have to hurt her again – He confesses to having slept with Niki, and that he loves her. Noriko, at first, remains silent before suddenly bursting into a quick flurry of anger, yelling her feelings before abruptly shutting up. Sensei’s surprised by the shortness of her outbreak since she completely broke down last time , but she tries to keep herself together for the remainder of his visit. He tells her it's fine to be mad at him, but she assures him that she isn’t frustrated because of him but of herself for letting him leave during Christmas and that she is happy for the two of them, and that any anger she feels is a result of her getting her hopes up. Sensei informs her he's done putting barriers up between the two of them, and that he's perfectly fine if things remain the way they are between them. Noriko reminds him about Niki, who Sensei considers a nonissue, as she'll always love him no matter what. He also takes the time to advise her that, while he won't push her away, she should drop him out of her life because it would undoubtedly be better for her; There are plenty of other people in the world that could treat her the way she deserves to be treated. Noriko tells him that he's wrong, that he's the reason she ever started changing in the first place, and while she will move on if he decides to not further their relationship, she refuses to do so if the only reason is him fearing that he'll hurt her. She wants to make mistakes by herself and one of those is him. Sensei accepts this and tells her he'll contact her soon, warning her one final time. She agrees and Sensei takes his leave, confident that if Noriko gets any closer to him now, she'll live a life full of mistakes.",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Dotted Line",
+            "event_script_names": "norikodorm30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikoknows"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3",
+            "kimitoakinobouken.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Hotel Noriko",
+        "next_event": "I Really Want to Stay at Your House"
+    }
+}

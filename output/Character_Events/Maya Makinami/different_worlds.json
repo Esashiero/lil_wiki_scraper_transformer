@@ -1,0 +1,48 @@
+{
+    "event_id": "different_worlds",
+    "event_title": "Different Worlds",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Different_Worlds",
+    "event_type": "Event",
+    "primary_character": "Maya Makinami",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Maya Affection",
+        "to_get_this_event": "Visit the Shrine on a weekend afternoon after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shrine"
+        ],
+        "synopsis": "Sensei visits the shrine for no apparent reason, and questions where Maya is, surprised to not immediately see her upon his arrival. Revealing herself, she quickly expresses her frustration at Sensei's presence in the shrine, and derisively pushes through his attempts to figure out why she doesn't want to associate with him at all - she quickly attributes this to not really needing a reason, a fact which Sensei is forced to acknowledge. The conversation quickly becomes Sensei trying to ask Maya about the specifics for the world in a way that doesn't draw suspicion to him, but Maya easily sniffs this out and makes a comment about how Sensei isn't much better than his real counterpart, which he retorts with asking Maya why she refers to herself as normal when most normal people wouldn't talk about their normality, before Maya turns on him and blatantly calls him out for his appearance in the world, something which he doesn't have a rebuttal for. After more discussion on the nature of Maya's knowledge and perspective, Sensei warns he'll be seeing more of her - something Maya detests - before leaving to go about his evening.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Different Worlds",
+            "event_script_names": "shrine5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mayasweep"
+        ],
+        "music_tracks": [
+            "hammockofpeace.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Mondays",
+        "next_event": "Secrets Worth Keeping"
+    }
+}

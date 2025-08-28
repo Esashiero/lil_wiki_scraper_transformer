@@ -1,0 +1,48 @@
+{
+    "event_id": "dying_alone_with_ten_cats",
+    "event_title": "Dying Alone With Ten Cats",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Dying_Alone_With_Ten_Cats",
+    "event_type": "Event",
+    "primary_character": "Karin Kanda",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "15 Karin Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Forty Degrees Below Zero \"",
+        "to_get_this_event": "Lie to Karin during Forty Degrees Below Zero and call her in the afternoon at 15+ Affection.",
+        "to_miss_this_event": "Tell Karin about being involved with Kirin during Forty Degrees Below Zero . Replaced by The Price of Honesty .",
+        "choices": [],
+        "effects": [
+            "+1 Karin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kanda House"
+        ],
+        "synopsis": "",
+        "participating_characters": [
+            "Sensei",
+            "Karin Kanda"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Dying Alone With Ten Cats",
+            "event_script_names": "karindate15",
+            "event_missed_name": "The Price of Honesty"
+        },
+        "backgrounds": [
+            "karinsushi"
+        ],
+        "music_tracks": [
+            "acoustic.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.14."
+        ]
+    },
+    "navigation": {
+        "previous_event": "If Only",
+        "next_event": "Tendrils of Flame"
+    }
+}

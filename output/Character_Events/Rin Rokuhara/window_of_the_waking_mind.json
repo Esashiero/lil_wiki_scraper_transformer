@@ -1,0 +1,55 @@
+{
+    "event_id": "window_of_the_waking_mind",
+    "event_title": "Window of the Waking Mind",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Window_of_the_Waking_Mind",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Rin Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Drowning \" Seen \" Rin's Secret \" from Rin Rokuhara Seen \" Boundaries \" from Rin Rokuhara",
+        "to_get_this_event": "Visit Rin at Koi Cafe after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "Sensei stops by the Koi Cafe for another round of cafe-roulette with Rin , who seems to be a little less energetic than normal, something Sensei doesn't notice right away as she greets him. After a quick bit of banter, and Rin mentioning she has a doctor's appointment later in the morning and is clocking out for it, he orders a cafe mocha off of the menu and pays, fully expecting Rin to surprise him with another one of her creations, but when she walks over with the same attitude, an actual cafe mocha in hand, Sensei immediately becomes suspicious. He tries a few times to get Rin to open up to him about the problems she's facing - he's able to somehow tell she does, indeed, have something going on - but upon her increasing insistence that she's fine and the doctor's appointment is for a normal checkup, he mentions that Chika has also become worried about her , which immediately gets Rin's attention. Surprised, she accidentally lets slip that something is indeed wrong. Sensei gives her plenty of time to try and talk to him, but as he's about to ask and see if he can't pry the information out, Rin cuts him off, asking if he knows what it's like to have thoughts that you don't want and can't control in your own head, which Sensei confirms. Before he can ask her to elaborate further, both Rin and something else unknown stop him. Guiding the topic back to Chika, Rin asks if Chika talked to Sensei about anything else during their meeting at the cafe before, and Sensei denies this. Rin reacts to this somewhat negatively, and Sensei asks how long Rin's had a crush on Chika, to which she laughs a bit, wondering how long it was going to take for Sensei to notice. After Sensei discovers that Rin doesn't even realize she and Chika are virtually nothing alike, Rin threatens to murder him in a creative way if he spills her crush to anyone else. Rin immediately follows this up with another warning for Sensei not to go after Chika, thinking the way he's looked at her in the past is a sign that he's interested in her, and Sensei asks if Rin's even confirmed whether or not Chika is interested in girls, and Rin's mood darkens a bit, confirming that she has not. Sensei tries to ask how deep Rin's crush goes, but after a rather dodgy answer, Rin starts repeatedly trying to deflect the severity of said answer. The two sit in silence for a moment before Haruka calls out from the register, telling Rin she's free to head to her doctor's appointment. Unfortunately for Rin, she's still absorbed in her previous train of thought, and her resultant reply causes Haruka to become simultaneously concerned and agitated for her. Afterward, Rin quickly collects her things and leaves, Sensei hanging back for a while to prevent an awkward run-in in the street, before he leaves himself to go about his day.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the following: If Sensei has seen Schadenfreude If Sensei has seen I",
+            "If Sensei has seen Schadenfreude",
+            "If Sensei has seen I",
+            "After this event Rin would be unavailable for futher interactions (except Nothing Was Missing, Except Me ) You would still be able to increase Rin's affection by visiting Koi Cafe , but scene would change",
+            "You would still be able to increase Rin's affection by visiting Koi Cafe , but scene would change"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Window of the Waking Mind",
+            "event_script_names": "cafe15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "cafe",
+            "cafemocharedux"
+        ],
+        "music_tracks": [
+            "cafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Cafe Mocha )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Rin's Secret",
+        "next_event": "Boundaries"
+    }
+}

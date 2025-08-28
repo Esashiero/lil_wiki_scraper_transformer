@@ -1,0 +1,50 @@
+{
+    "event_id": "broken_bones",
+    "event_title": "Broken Bones",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Broken_Bones",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Miku Affection You must have seen or permanently missed the following Events: Seen \" Daytime Stalking Pass \" from Miku Maruyama",
+        "to_get_this_event": "Visit Miku's dorm room on any day except Tuesday after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Miku’s room"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorm hallway and knocks on Miku 's door, expecting to be let in without much difficulty since he and Miku have been hanging out more lately. Miku checks who it is, and after Sensei assures her he won't have any surprise homework for her or expect her to turn any in, she lets him inside. After an unintentional insult on Sensei's part and a quick apology, Miku shows him around her side of the room. Miku shows him to her bed first, listing off various items Makoto has purchased for her on past birthdays. Sensei comments on the level of cleanliness and notices some posters aren't entirely straight, which Miku attributes to her difficult in hanging them due to her short stature. This segues into Miku offering to let Sensei jump on the bed, which he declines on the premise that he'd either hit his head on the ceiling or break the bed. Miku unknowingly makes a suggestive comment, then heads over to a balance beam next to her bed. Miku asks Sensei whether or not he's ever broken a bone before. Not having knowledge of such an event, he replies in the negative, and Miku explains just how unpleasant it is, and mentions that she's broken a few herself. Sensei remarks on the fragility of the human body and Miku agrees, telling him that she thanks her organs for performing their daily functions, and she remarks that other people likely have their own unique habits. She tries to ask Sensei if he has any, but he replies in the negative. Miku asks Sensei if he has any secrets. He says no to this as well, but is intrigued to find out Miku apparently has an ear down for gossip. Miku then gets up and asks Sensei what his type is - she claims she's asking for Makoto, but Sensei can tell there's the slightest interest on her end, too - and he says his type shouldn't be defined by how other people present themselves. The two promise to keep their hangout a secret from Makoto and anyone else, and they hang out for a while longer, before Sensei leaves and heads home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama"
+        ],
+        "trivia": [
+            "Sensei will mention that he's been in the room before if Makoto has invited him in ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Broken Bones",
+            "event_script_names": "mikudorm5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikufirstdorm"
+        ],
+        "music_tracks": [
+            ""
+        ],
+        "changelog": [
+            "This Event was added in Update 0.4."
+        ]
+    },
+    "navigation": {
+        "previous_event": "It's Always Sunny in Kumon-mi",
+        "next_event": "Nightvision"
+    }
+}

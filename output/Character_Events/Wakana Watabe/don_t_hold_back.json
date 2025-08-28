@@ -1,0 +1,51 @@
+{
+    "event_id": "don_t_hold_back",
+    "event_title": "Don't Hold Back",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Don%27t_Hold_Back",
+    "event_type": "Event",
+    "primary_character": "Wakana Watabe",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Auto-play after No Strings Attached",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Wakana , Imani Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Dive Bar"
+        ],
+        "synopsis": "Osako finally arrives and Wakana uses it to get out of her dare and kisses her instead. Imani feels sorry for Sensei , but he can live with that outcome, because he doesn’t need to fear that Osako will murder him and can enjoy another round of women making out. Rika , on the other hand, is close to another emotional breakdown and needs another drink on top of the one she already has. After some time, Wakana decides to take her kitten into the bathroom. Before she leaves, she tells them to enjoy their game and apologizes to Sensei for being left in a hard situation. Imani wonders if Sensei will follow them to witness the rest of the action, but he refrains from doing so, stating that he’s slightly above that. Imani recalls Wakana smirking at Sensei and Rika mentioning the tension between them and thinks that, despite her attitude towards him, she’s willing to do it with him. He doesn’t believe that she would do anything with him and is only mocking him, but Imani stays with her belief but implores him not to go through with it so Osako doesn’t end up hurt. Rika mentions how intimacy ruins relationships, that she doesn’t fit in with young people anymore and that her daughter is embarrassed by her. Hearing this, Imani asks how old she is, only to learn that she’s 42, which comes as a shock since she doesn’t look much older than them. Wakana returns after executing Osako’s punishment, who is left in a dazed state as a result, and offers to pay for the next round as compensation for their absence. Seeing Osako in her current state, both her and Rika mock Imani for her performance and she requests to remove both of them from their group. The rest of the night goes on normally, but Sensei is too occupied with Wakana’s change in behavior. She ignored him completely after her return, which he can understand and still fits his demand of not being mean to him, but he still feels like something is different.",
+        "participating_characters": [
+            "Sensei",
+            "Wakana Watabe",
+            "Osako Osaka",
+            "Imani Imai",
+            "Rika Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Don't Hold Back",
+            "event_script_names": "wakanaspecial15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yuritime"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Pseudonym",
+        "next_event": "The Desk Scene"
+    }
+}

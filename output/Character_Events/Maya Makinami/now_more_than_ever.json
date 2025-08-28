@@ -1,0 +1,50 @@
+{
+    "event_id": "now_more_than_ever",
+    "event_title": "Now More Than Ever",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Now_More_Than_Ever",
+    "event_type": "Event",
+    "primary_character": "Maya Makinami",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "30 Maya Affection You must have seen or permanently missed the following Events: Seen \" What it Means to Be Destroyed \" from Maya Makinami Seen \" Walking on Air \" from Ami Arakawa",
+        "to_get_this_event": "Choose \"Touching you\" in No One Can See Us . Visit the Shrine after seeing What it Means to Be Destroyed and reaching 30 Affection with Maya.",
+        "to_miss_this_event": "Choose \"...\" in No One Can See Us . Replaced by Breaking, the Best Way after seeing What it Means to Be Destroyed .",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shrine"
+        ],
+        "synopsis": "",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami"
+        ],
+        "trivia": [
+            "Dialogue varies if A Place That Can Only Exist in Our Minds has been seen."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Now More Than Ever",
+            "event_script_names": "shrine30",
+            "event_missed_name": "Breaking, the Best Way"
+        },
+        "backgrounds": [
+            "mayalantern"
+        ],
+        "music_tracks": [
+            "hammockofpeace.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "What it Means to Be Destroyed",
+        "next_event": "A Place That Can Only Exist in Our Minds"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "event_id": "shadow_word_death_ball",
+    "event_title": "Shadow Word: Death Ball",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Shadow_Word:_Death_Ball",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.49(Super Mega Ultimate Heaven & Hell).8",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Sweet Joy Befall Thee! Be Nice to Sensei Battle! \" . This event belongs to an event chain started from \" Prepare for Battle! \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Soccer Field",
+            "Kumon-Mi High - School Rooftop"
+        ],
+        "synopsis": "Sensei was glad that Ami was going to spend time with Molly , one of the girls who don't hate her after the recent events. Both Akira and Ami had no idea what the destiny have held for them, and as soon as Rika and Imani showed up with The Death Ball, he vanished to observe the contest from the safe distance. Thus, Molly and Ami had to survive by themselves. Everyone else were rather shocked or sceptical, and only Uta cheered the girls up. At the same time, Sensei and Rika had a chance to discuss the recent news about Yuki and Yumi . Meanwhile, Noriko and Sana have shared their feelings about Ami's mood. After a short but deadly strife, Ami and Molly have fallen on their knees and counted seconds before the ultimate demise. They have tried everything they could think, but nothing hurt The Death Ball. Out of despair, they used Uta's advice: defeating the death with the power of girls' love. And so, the two kissed. Surprisingly, it worked, The Death Ball was cleansed of evil and floated to the space. However, it was not over yet! In order to win, only one of the combatants must remain standing; so Ami pushed Molly and claimed victory for the First Floor.",
+        "participating_characters": [
+            "Rika Rokuhara",
+            "Uta Ushibori",
+            "Tsuneyo Tojo",
+            "Sana Sakakibara",
+            "Yumi Yamaguchi",
+            "Rin Rokuhara",
+            "Molly MacCormack",
+            "Futaba Fukuyama",
+            "Sensei",
+            "Noriko Nakayama",
+            "Imani Imai",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Shadow Word: Death Ball",
+            "event_script_names": "dormwarsfive7",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "noonsky",
+            "deathballtwo",
+            "black"
+        ],
+        "music_tracks": [
+            "break.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.48.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sweet Joy Befall Thee! Be Nice to Sensei Battle!",
+        "next_event": "Lovely Lawyers & the Laws of...Love!"
+    }
+}

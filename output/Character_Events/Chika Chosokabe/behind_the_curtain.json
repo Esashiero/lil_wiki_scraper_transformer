@@ -1,0 +1,55 @@
+{
+    "event_id": "behind_the_curtain",
+    "event_title": "Behind The Curtain",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Behind_The_Curtain",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Chika Affection",
+        "to_get_this_event": "Visit the Shopping Mall on a weekend afternoon after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "You look beautiful",
+                "effect": "The Lust unlock requirement for Detention becomes easier to obtain."
+            }
+        ],
+        "effects": [
+            "+1 Chika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shopping Mall"
+        ],
+        "synopsis": "Sensei stops by the boutique in the shopping mall again, and Chika animatedly greets him. She asks him if he's ready to see her model some clothes for him, and he agrees, despite internally lamenting the fact it's not lingerie. After Chika becomes awkward due to accidentally letting slip an innuendo, Sensei waits outside the dressing room for her while she gets changed. Sensei patiently waits outside, despite not wanting to do that thing at all, and eventually, Chika calls him in to look. Despite Chika trying to avoid embarrassment, Sensei's opinion on the dress she has changed into embarrasses her anyway, and she ends up going back to work, while Sensei leaves to go about his evening.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Behind The Curtain",
+            "event_script_names": "mall10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mallten"
+        ],
+        "music_tracks": [
+            "mall.mp3",
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.4."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Something About Biting",
+        "next_event": "Side Event"
+    }
+}

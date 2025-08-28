@@ -1,0 +1,55 @@
+{
+    "event_id": "world_of_lines",
+    "event_title": "World of Lines",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=World_of_Lines",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.27.18",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Cracking of the Egg (Nothing is Beautiful) \" . This event belongs to an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "New Hope Cathedral",
+            "Apartment Building - Apartment #24 - Bathroom"
+        ],
+        "synopsis": "The scene transitions to the group outside the church as the narrators asks the player to forget what just happened. The only thing he allows them to know is that the past itself isn’t dangerous but the feelings it’s connected to. Back in the scene, the group wonders how much longer they’ll need to wait for the competition to end and why they can’t enter the church. Imani makes a comment about how Sensei might be intimate with the others inside and Otoha uses the moment to ask why everyone in class seems to be obsessed with him despite the massive age gap. Imani and Touka don’t see an issue with that since most of them are mature enough to decide this for themselves. While Otoha tries to reason with them, both Imani and Touka get the impression that she might want him as well and she drops the topic. Imani is ready to listen to her concerns but only if she knows that something’s wrong, to which she has to admit that she doesn’t. After a while, the contestants step outside, all seeming worse for wear. Rin announces her loss, having fallen into a losing streak once the harder questions came up. Yasu and Sana both try to console her, but she dismisses them, because she sees her loss as another sign of how much her relationship with Sensei has suffered under her negligence. Otoha tries to make Rin forget about what happened, but ends up offending her by calling the contest 'stupid', declaring her loss a good thing and how her winning would’ve been creepy. A fight breaks out between them, with Rin thinking that Otoha tries to impede her relations with her closest friends and Otoha arguing that Rin's emotional instability makes her unpredictable and untrustworthy. Once Rin calls her out for her insecurities, Otoha leaves in a fury and the rest makes their way to the bar in silence. At the same time, Osako and Wakana get ready to make their way to the bar. Osako has to redo her make-up since Wakana dresses her up as her crush during Halloween and uses every moment to get intimate with her. Wakana tries to convince Osako to give her one last round and, after a lengthy conversation, she gets her wish.",
+        "participating_characters": [
+            "Otoha Okakura",
+            "Touka Tsukioka",
+            "Imani Imai",
+            "Sana Sakakibara",
+            "Rin Rokuhara",
+            "Yasu Yasui",
+            "Sensei",
+            "Wakana Watabe",
+            "Osako Osaka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "World of Lines",
+            "event_script_names": "dormwartwo16",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "outsidethechurch"
+        ],
+        "music_tracks": [
+            "undersea.mp3",
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Cracking of the Egg (Nothing is Beautiful)",
+        "next_event": "Popping Off"
+    }
+}

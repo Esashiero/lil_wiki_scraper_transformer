@@ -1,0 +1,50 @@
+{
+    "event_id": "silver_tongue",
+    "event_title": "Silver Tongue",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Silver_Tongue",
+    "event_type": "Event",
+    "primary_character": "Nao-chan",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Saturday You must have seen or permanently missed the following Events: Seen Main Events up to \" May the Winter Come \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event will occur automatically on the next Saturday.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Nao-chan Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Sensei's Bedroom",
+            "Sensei's House - Living Room"
+        ],
+        "synopsis": "Sensei wakes up from an apparent nightmare, finding Ami watching over him with a concerned expression. After making sure he's okay, she asks him to get up so he can explain why some random girl is here to visit him. He disregards this as typical for his life and tries to go back to sleep, telling Ami to make them leave. Ami however refuses to let him ignore the situation, especially since this mysterious girl hasn't said a word, only holding up a sign before beginning to rummage through their possessions. Upon hearing this, Sensei realizes who the mysterious visitor is and once again tries to sleep until Ami forces him out of bed. Reluctantly, he gets out of bed and heads into the living room, confirming his suspicion that the girl is Nao-chan . Ami soon joins him, asking for an explanation that he's unable to give. Nao pulls out a notebook filled with premade answers from Kaori , but the pages she shows don’t help Sensei’s case and Ami gets more and more suspicious, so he tells her that Nao is Kaori’s surrogate daughter, that he met her through her and hasn’t spent much time with her. Ami still isn’t convinced due to one of her pages asking him to “sit on her”, but when he explains that it’s Kaori’s way of saying babysitting, she claims she already knew that and was messing with him. After an attempt to gain more information fails, Ami suggests that Nao's here because Kaori didn't want her to be cooped up inside their apartment all day. She also apologizes for her recent freak-out regarding Kaori, much to Sensei's confusion. Nao flips to her next sign, which both confirms Ami's assumption and asks Sensei to buy new clothes for Nao. Not wanting to do any of this, Sensei leaves to make a call to Kaori. While he's on the phone, Ami decides to make sure Nao isn't here to create another obstacle between her and Sensei, but, to her surprise, Nao quickly promises to not cause trouble. She appreciates how cute Nao is, but notices her eye colors and how they’re identical to hers and Maya ’s, though Nao requests to be patted on the head before she can finish her thoughts. Ami agrees to this and very quickly warms up to her, getting lost in her head patting until Sensei returns and interrupts the moment. He confirms that, since Kaori needs to work late and Yuki is also busy, responsibility for Nao has fallen onto him. As such, he immediately attempts to pawn her onto Ami instead. Ami objects, explaining that she has work today and isn't in the position to be requesting days off. Seeing he has no choice, Sensei decides to babysit Nao for the day and bring her to the mall to get her new clothes. Ami takes her leave, but not before reminding Nao of their deal.",
+        "participating_characters": [
+            "Sensei",
+            "Nao-chan",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Silver Tongue",
+            "event_script_names": "naospecial1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "naochanvisits"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.32."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "Becoming a Kidnapper"
+    }
+}

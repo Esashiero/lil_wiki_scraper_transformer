@@ -1,0 +1,50 @@
+{
+    "event_id": "extra_french_fries",
+    "event_title": "Extra French Fries",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Extra_French_Fries",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.8.4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" My Heart is Full \" . This event belongs to an event chain started from \" What's Done is Done \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Sensei and Makoto walk back to the beach and split off. Miku calls out to Sensei and they hang out for a bit, talking about the appropriateness of Sensei offering massages. Karin and Kirin arrive, having been invited along by Miku. Kirin is insulted when Sensei compliments her sister and not her, and attempts to \"make\" Sensei appreciate her. She and Miku end up admiring Sensei's chest.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama",
+            "Karin Kanda",
+            "Kirin Kanda"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Extra French Fries",
+            "event_script_names": "beachvacation4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikuvac"
+        ],
+        "music_tracks": [
+            "highspeedprinter.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.8."
+        ]
+    },
+    "navigation": {
+        "previous_event": "My Heart is Full",
+        "next_event": "Behind a Bathroom, Under the Blazing Sun"
+    }
+}

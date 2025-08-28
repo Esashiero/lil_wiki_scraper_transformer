@@ -1,0 +1,50 @@
+{
+    "event_id": "voices_of_a_distant_star",
+    "event_title": "Voices of a Distant Star",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Voices_of_a_Distant_Star",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after To Drink, To Drown .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe",
+            "Kumon-mi"
+        ],
+        "synopsis": "Rin arrives at work, with the same narrator from earlier stepping in. As the aforementioned narrator informs the listener, Rin Rokuhara was not a particularly extraordinary person, lacking the social graces of Chika Chosokabe or the limitless kindness of Futaba Fukuyama . Despite this, she's fine with being so unremarkable, content to take a backseat in life and only taking center stage for short bursts at a time. The narrator informs the listener that something's been bugging her, however, and that the fact it bugged her at all only makes the annoyance worse. She subconsciously scans Koi Cafe for the source , silently hoping to see them even if it only confirms how she's feeling. Rin approaches Haruka , who's currently on the phone with someone, trying to guide them through her house and to her car keys. As the conversation continues, it becomes clear Haruka doesn't trust whoever she's speaking to, turning to Rin and telling her she's going to be helping someone retrieve a new brewer for the cafe. She's upset to hear this and, once Haruka's hung up her call, explains that tonight's rush of customers was going to be a good chance for her to prove herself fit for promotion. This reluctance vanishes once Haruka confirms she'll promote Rin if she helps. Rin soon takes off into the streets, walking around in hopes of running into Haruka's unspecified friend. After twenty minutes of running, Rin takes a break against a nearby building, internally thankful that the seasons have changed and given her an easy starting point for change. Unfortunately, she's unsure of what to reach for, attempting to disregard the voices in the back of her head once someone approaches. The friend Haruka sent is revealed to be Sara , who runs up and reintroduces herself. Unsure on how the speak to her friend 's mom, Rin says little in return, leading to awkwardness. Always sociable, Sara navigates them out of this silence by revealing they no longer need to pick up a new machine as Haruka's previous brewer has been fixed by some stranger. She also reveals that despite having permission to use Haruka's car, she didn't, not being confident enough to drive. Rin's fear of having to walk back is quickly assuaged by Sara promising to buy a taxi back for both of them and, with plenty of time to kill while waiting, the two stop at a nearby park. The two lie in wait on a bench, and despite the number of similarities between them, they're having a hard time making conversation. Sara takes the first step, making sure Rin isn't uncomfortable. She confirms she isn't, quipping it'd be weirder talking to Sana's dad since she has less experience with fathers. Reassured by this, Sara shares a bit about her life with Sana's father, stopping herself from getting too detailed, because, having next to no knowledge about her daughter's closest friends, she wants to learn more about Rin. Rin's open to the idea, though admits she'll probably be somewhat reluctant on certain topics as she's struggling to keep secrets , such as her kissing Sana . Realizing she's screwed up again, Rin tries to backpedal but eventually gives in and, after denying that both of them are dating, explains it was part of a game during the class' last Christmas party, asking Sara to keep it to herself. Sara's fine with keeping quiet on it, though feels odd that she learned this from Rin rather than Sana herself, grumbling a bit about how tight-lipped both her daughter and Sensei are. The two share their thoughts on the latter for a bit, though this is derailed as Sara continues to tease Rin about kissing Sana. It's dropped eventually, with Sara jokingly lamenting the loss of a second daughter whilst Rin quips that she potentially has up to four mothers already. Hearing this, Sara asks about Rin's mothers, but more specifically about why her biological parents gave her up. Rin's unable to say much, only relaying that her mother was clinically insane and her father existed . Sara writes her father off as another jerk with no heart who isn't worth the time. Rin agrees. Sara tells Rin to come visit her at her bar should she need an open ear whenever her other moms aren't available, admitting she might be moving fast but excusing herself by saying she's weak when it comes to Sana and her friends. Meanwhile, Sensei goes to bed early, hoping tomorrow will be better but knowing it won't be.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara",
+            "Haruka Hamasaki",
+            "Sara Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Voices of a Distant Star",
+            "event_script_names": "rinspring2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "rinsara"
+        ],
+        "music_tracks": [
+            "cafe.mp3",
+            "justlights.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Anthem of the Heart",
+        "next_event": "Sex Dreams"
+    }
+}

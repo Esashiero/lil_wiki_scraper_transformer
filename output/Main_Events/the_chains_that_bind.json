@@ -1,0 +1,53 @@
+{
+    "event_id": "the_chains_that_bind",
+    "event_title": "The Chains That Bind",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Chains_That_Bind",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.5",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Chandler's Law \" . This event belongs to an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Noriko Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "After failing to find Yumi , Sensei heads back to the beach. As he returns, Ami latches onto his arm, insisting he spends his time with her as it’s ‘Ami Time’. Noriko , though, interrupts the two, asking her for permission to take Sensei away for a bit so she can speak to him. She refuses, despite Noriko’s attempts at flattery, but Sensei overwrites her refusal and the two leave to speak. After walking along the shoreline, the two take a seat on a towel. Noriko apologizes for stealing him away, with Sensei appreciating it as he’s perpetually stuck in ‘Ami time’ otherwise. In response, Noriko offers to free him from it again tomorrow night by going on a date with her, reminding him that he never agreed to Chika, Niki, or her offer to spend Christmas together. He asks if he promised to go out with her at some point in the last two months. She admits that, after being rejected by him, Niki just went back to work while Chika and her accepted his decision, though she changed her mind and wants to bring him to a hidden spot she wants him to see. Sensei feels this is a bad idea since his disappearance would make the others suspicious, but he agrees regardless. Noriko, surprised that he actually agreed, asks him if he’ll really meet her and not abandon her for Maya , but he tells her that he will spend this evening with her, so tomorrow will be her night, which she’s fine with since she appreciates every amount of time he spends with her. As they talk, Kirin and Miku spot them from a distance, trying to guess what they're saying. Kirin talks about Noriko’s restraint when dealing with Sensei, and Miku says that even she’s closer to Sensei than Noriko . Kirin can’t believe that she only learns about this now instead of directly after she experienced it and is only further confused once Miku elaborates further . Kirin is glad to hear that their relationship is still developing, since Miku isn’t ready for further steps, and gives her a hint that reveals how deep her own relationship with Sensei is, but begs her to keep quiet when she gets too loud out of shock.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Noriko Nakayama",
+            "Kirin Kanda",
+            "Miku Maruyama"
+        ],
+        "trivia": [
+            "Kirin's dialogue slightly changes when Falling Asleep Standing Up happened."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Chains That Bind",
+            "event_script_names": "beachmas5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikoinvitexmas"
+        ],
+        "music_tracks": [
+            "samhain.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Chandler's Law",
+        "next_event": "No Cumming on Christmas"
+    }
+}

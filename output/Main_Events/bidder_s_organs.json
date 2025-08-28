@@ -1,0 +1,57 @@
+{
+    "event_id": "bidder_s_organs",
+    "event_title": "Bidder's Organs",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Bidder%27s_Organs",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.33.18",
+    "interactivity": {
+        "requirements": "Choose to pursue Haruka during either Invisible Worm or Roses You must have seen or permanently missed the following Events: Seen \" Scum \" from Haruka Hamasaki",
+        "to_get_this_event": "Autoplays after \" Cicadian Rhythm (The Gardener) \" . This event belongs to an event chain started from \" Boner on the Bus \" .",
+        "to_miss_this_event": "Choose not to pursue Haruka during both Invisible Worm and Roses . Replaced by Bitter Organs .",
+        "choices": [],
+        "effects": [
+            "+1 Nodoka Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "While Sensei leaves with Nodoka , the girls who witnessed her story agree that it was complete nonsense, and Uta declares Futaba the winner, ignoring the fact that Sensei was supposed to choose. Yasu , on the other hand, talks about its content like she understood and sympathizes with it, though notes that some of the details are off. Meanwhile, Sensei drags Nodoka to a remote part of the beach to be alone. Before anything else, though, they share a conversation about his thoughts on her story, Nodoka's sudden interest in Ami , and what their current dynamic is. Once they're done, Sensei asks for her help to get rid of some of his emotions and, after having her promise that it won’t end up in her books , gives her a piece of his true self while also fulfilling a promise he made himself .",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Uta Ushibori",
+            "Chika Chosokabe",
+            "Futaba Fukuyama",
+            "Yasu Yasui",
+            "Nodoka Nagasawa",
+            "Haruka Hamasaki"
+        ],
+        "trivia": [
+            "The opening scene where the girls discuss Futaba's victory does not replay during Scene Replay.",
+            "This Event is the first missable Main Event in the game."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Bidder's Organs",
+            "event_script_names": "beachwars17",
+            "event_missed_name": "Bitter Organs"
+        },
+        "backgrounds": [
+            "afterthegardener"
+        ],
+        "music_tracks": [
+            "itsingsinitssleep.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.33."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Cicadian Rhythm (The Gardener)",
+        "next_event": "Flowerchild"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "event_id": "i_see_you",
+    "event_title": "I See You",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=I_See_You",
+    "event_type": "Event",
+    "primary_character": "Yumi Yamaguchi",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Yumi Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" This Town Has Two Halves \"",
+        "to_get_this_event": "Visit the City Streets on a weekend afternoon after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yumi Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "City Streets"
+        ],
+        "synopsis": "Sensei wanders the streets of Kumon-mi, taking a break near a suburban district and waiting for Yumi to run into him, since his usual method isn't working out as expected. Yumi eventually does show up and accuses Sensei of being extremely suspicious just standing around, and is aggravated by his brutal honesty when he agrees and later acquiesces to wanting to hang out with her even if it means following her to her next destination. The two walk around for a bit before sitting down in the grass nearby a childrens' play area, and Yumi becomes frustrated with the silence. Sensei asks her what she'd rather do instead, and she says she has friends but that they're busy. Sensei tries to ask Yumi about Chika but Yumi instantly deflects, rounding on him and quietly but heatedly asking him if he's forgotten about their last encounter . He says he hasn't, but Yumi cuts him off, insistent on finishing her rant. Sensei affirms to Yumi he won't try anything like that again, and reality glitches, leaving him to stare off into space. Yumi snaps him out of it, and Sensei tries to ask whether Yumi truly hates him. She heatedly affirms this, explaining the measures she took after the encounter and how Chika tried to force her to go to the hospital. Yumi quickly gets up and leaves despite Sensei's attempts to stop her, and he collapses on the ground, emotionally exhausted. Once he wakes up, he leaves to go about his evening.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "Part of the narration is encoded in hexadecimal. A translation can be found below: \"61 20 77 6f 72 6c 64 20 69 6e 20 77 68 69 63 68 20 77 65 20 6c 6f 76 65\" - a world in which we love",
+            "\"61 20 77 6f 72 6c 64 20 69 6e 20 77 68 69 63 68 20 77 65 20 6c 6f 76 65\" - a world in which we love"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "I See You",
+            "event_script_names": "streets10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iseeyouredux",
+            "grass"
+        ],
+        "music_tracks": [
+            "streetnoise.mp3",
+            "blueair.mp3",
+            "sweetvermouth.mp3",
+            "yumiska.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.4."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Three Second Smile",
+        "next_event": "Fuck The Police"
+    }
+}

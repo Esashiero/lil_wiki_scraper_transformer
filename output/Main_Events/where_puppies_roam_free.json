@@ -1,0 +1,52 @@
+{
+    "event_id": "where_puppies_roam_free",
+    "event_title": "Where Puppies Roam Free",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Where_Puppies_Roam_Free",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.8.11",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Wake Up Call \" , or \" Sleep Forever \" . This event belongs to an event chain started from \" What's Done is Done \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Ami wakes Sensei up, either in an \"old fashioned\" way (which is its own event ) or slightly more normally. While that happens, six of the girls are talking while having breakfast. They talk about their sleeping arrangements, and about the relationship between Karin and Kirin . Tsuneyo surprises them all by mentioning masturbation, saying that Sensei advised her to ask them about it. Ayane promises to explain some things to her, while Karin nearly dies of embarrassment.",
+        "participating_characters": [
+            "Ayane Amamiya",
+            "Karin Kanda",
+            "Tsuneyo Tojo",
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Kirin Kanda",
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Where Puppies Roam Free",
+            "event_script_names": "beachvacation10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "beachbreakfast"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.8."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Summer and Winter",
+        "next_event": "Die For What You Believe In"
+    }
+}

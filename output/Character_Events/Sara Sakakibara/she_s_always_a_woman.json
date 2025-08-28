@@ -1,0 +1,50 @@
+{
+    "event_id": "she_s_always_a_woman",
+    "event_title": "She's Always a Woman",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=She%27s_Always_a_Woman",
+    "event_type": "Event",
+    "primary_character": "Sara Sakakibara",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Have a sexual relationship with Sara 20 Sara Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" What Was \" Seen \" The Inside of a Triangle \" from Sana Sakakibara",
+        "to_get_this_event": "Start a sexual relationship in either Carry Me Home or A Mostly Empty Home . Hang out with Sara at the bar after she reaches 20 Affection.",
+        "to_miss_this_event": "Reject Sara in both events. Replaced by I've Loved These Days after seeing Uptown Girl .",
+        "choices": [],
+        "effects": [
+            "+3 Sara Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a"
+        ],
+        "synopsis": "Sensei visits the bar, expecting a normal evening, which last for a few seconds when Ayane , wearing a barmaid outfit and pretending to be a Russian spy, appears behind the counter to serve him. Sana appears after a short while and explains that Sara , who sat down next to him when he wasn’t paying attention, asked them to advertise her bar. Since Sara gave them all the necessary information, she allows the to leave as she intents to close for the night. Ayane, concerned to leave them alone, agrees but wants Sensei to remember who is carrying his child before heading upstairs to change. Sara congratulates him, but he assures her that Ayane isn’t pregnant and that he would’ve noticed if she was. Sara asks if he would’ve noticed if she was pregnant, which he affirms and demands from her to stop drinking if she actually is. She assures him that she was joking and that she’s drinking responsibly. He wants to know why she is both relying on teenagers and watches her alcohol intake. She explains that the sad state of the bar gets to her and that she’s starting to get desperate. Since she can’t attract male customers anymore, she thinks of a hiring a man to attract women and immediately looks at Sensei. He rejects, especially since the women he attracts are too young to buy alcohol, but she wouldn’t mind if it meant profit for her. She even thinks about letting Ayane seduce her father so he funds her bar, but Sensei points out that her father doesn’t pay any attention to his daughter, making her feel bad for suggesting it. She expects him to work for her and even offers him Sana by marring her. Sana and Ayane come back and Sara asks if Sana would be okay with becoming Sensei’s property in exchange for him saving the bar. Sana gets flustered and Ayane gets angry, claiming that Sana belongs to her. Sensei clarifies that “becoming his property” means that Sara wants to marry him. Sana, in a fit of rage, declares that to be even worse, much to Sensei’s confusion, as Ayane, out of shock, allows him to have Sana as long as he doesn’t get married. He explains that Sara made that joke out of desperation, which she takes offense to, and Sana, after calming herself down, and Ayane, who wants to talk with Sensei about something soon, leave the bar. After getting back to the counter, Sara is still surprised by their strong negative reactions to her proposal, but Sensei points out that they only reacted like that because it was him. Due to his popularity, Sara still offers him a job and payment in love. He refuses since he needs payment in cash to support both himself and his niece , but she wonders why she isn’t supporting them with the money she makes as a maid. When he asks why she knows that, she explains that she visits the cafe on a regular basis due to their low prices, so he suggests she gets a job there if anything else fails, but she intents to keep the bar going. Sensei points out that her efforts, including her recent behavior of closing early, isn’t helping to turn things around, causing her to vent her frustrations before she starts crying, stating that she needs his support. Sensei, unable to help her with her failing business and to leave her alone in her current state, hugs Sara to console her and puts her to bed once she cried herself to sleep.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Sana Sakakibara",
+            "Sara Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "She's Always a Woman",
+            "event_script_names": "sarabar20",
+            "event_missed_name": "I've Loved These Days"
+        },
+        "backgrounds": [
+            "barsaraayane"
+        ],
+        "music_tracks": [
+            "calmbar.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Uptown Girl",
+        "next_event": "Tell Me When"
+    }
+}

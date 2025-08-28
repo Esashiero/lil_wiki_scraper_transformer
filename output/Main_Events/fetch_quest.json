@@ -1,0 +1,54 @@
+{
+    "event_id": "fetch_quest",
+    "event_title": "Fetch Quest",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Fetch_Quest",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.7",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" No Cumming on Christmas \" . This event belongs to an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach room"
+        ],
+        "synopsis": "Uta and Sensei are approached by Io , who reveals to them that she just walked in on Sana , shocking both of them. Sensei goes into denial as his world view is shattered while Io makes things worse with her disgusted remarks, whereas Uta acts as the voice of reason and tries to make them stop exaggerating the situation. After a long time discussing it, Uta begs them to just keep quiet about it and to calm down before they head back to the inn. Sensei warns them to not look at him for a while, which Uta immediately ignores, much to Io’s annoyance. Stepping into the room, Sana locks eyes with Io before looking at Sensei and, realizing that he knows as well, storms out of the room in embarrassment. Sensei is then approached by Imani , who he tries to get information about Yumi from. Still embarrassed by their recent run-in , Imani’s unable to help, giving nervous and vague answers. Sensei tries to question her about this, but Nodoka joins the two and is similarly stumped about where Yumi is. She offers to help Sensei find her, but he rejects it outright after all the damage she did during her last scheme . Imani’s confused about Sensei’s cautiousness around Nodoka, especially since she was the one who took a massive beating last time , to which he informs her that there might be more to this story. Imani thinks that this would put her recent action into question, which was a public and heartfelt apology that allowed her to rejoin the class one month prior to their vacation, which he should’ve been aware of. Sensei doesn’t see this as realistic, unless Nodoka has something else to pressure her, but lacking further information, he just claims that it slipped his mind. The two girls leave him to his thoughts until he sees Noodles near the tree and just accepts that he has to listen to him. After while, he asks him where Tsuneyo is, something Molly wants to know as well, because she hasn’t seen her for a while, and asks him to look for her. He agrees to look for her and Molly promises him a gift on the level of her last present for his efforts before joining the others for Truth or Dare. Suddenly, Rin also approaches him, having lost track of Futaba sometime during the day. She worries that Futaba might’ve gotten fed up with Rin obsessing about Otoha , and wants Sensei to track her down so she can apologize. Sensei agrees to this as well, and he steps outside to begin his search.",
+        "participating_characters": [
+            "Sensei",
+            "Uta Ushibori",
+            "Io Ichimonji",
+            "Sana Sakakibara",
+            "Nodoka Nagasawa",
+            "Imani Imai",
+            "Molly MacCormack",
+            "Rin Rokuhara",
+            "Noodles"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Fetch Quest",
+            "event_script_names": "beachmas7",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "beachmasseven"
+        ],
+        "music_tracks": [
+            "lifeismostlygood.mp3",
+            "christmasyay.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "No Cumming on Christmas",
+        "next_event": "A Thousand Truths"
+    }
+}

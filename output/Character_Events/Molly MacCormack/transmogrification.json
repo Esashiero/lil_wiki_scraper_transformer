@@ -1,0 +1,50 @@
+{
+    "event_id": "transmogrification",
+    "event_title": "Transmogrification",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Transmogrification",
+    "event_type": "Event",
+    "primary_character": "Molly MacCormack",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after Tír na nÓg",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Molly Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 6"
+        ],
+        "synopsis": "Sensei accompanies Molly back to her dorm room. She says that he has been suspiciously nice to her all night, and wonders if he has accidentally activated her \"route\". Molly wants to get changed, and bribes Sensei into not looking with pictures of girls in their Halloween costumes. Rin is one of those girls, and this raises the topic of their friendship. Sensei tells her that it can be probably be repaired, and although Molly isn't sure about it, Sensei suggests going to talk to Rin. She eventually agrees, provided Sensei goes with her.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack"
+        ],
+        "trivia": [
+            "Light change in the dialogue if you have seen Bad Kitty"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Transmogrification",
+            "event_script_names": "mollydorm25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mollydormchanging"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.20p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Tír na nÓg",
+        "next_event": "Walkthrough"
+    }
+}

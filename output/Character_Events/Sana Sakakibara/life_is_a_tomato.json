@@ -1,0 +1,49 @@
+{
+    "event_id": "life_is_a_tomato",
+    "event_title": "Life is a Tomato",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Life_is_a_Tomato",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "25 Sana Affection You must have seen or permanently missed the following Events: Seen \" Nice Weather We're Having \" from Sana Sakakibara Seen \" Beautiful Porn Salesman \" from Maki Miyamura",
+        "to_get_this_event": "Visit the Bar",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a"
+        ],
+        "synopsis": "Sana is in a cheerful mood because her mother isn't around to embarrass her. She says that her mother has been \"really annoying\" since Sensei started coming around, and has been asking her questions about him. Since Sana doesn't actually know that much about him, they decide to take turns answering questions about each other. Maki overhears and joins them — Sana knows her as her mother's friend, but doesn't know her as Makoto 's mother. Sana's first question is about Sensei's outlook on life — he tells her that life resembles a tomato, because although it outwardly looks fine, you'll sometimes bite into a rotten one, and can't tell in advance when that will happen.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Maki Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Life is a Tomato",
+            "event_script_names": "bar25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "bartwofive"
+        ],
+        "music_tracks": [
+            "calmbar.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Nice Weather We're Having",
+        "next_event": "The Girl in the Black Dress"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "event_id": "sowing_the_seeds",
+    "event_title": "Sowing the Seeds",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sowing_the_Seeds",
+    "event_type": "Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Makoto Affection You must have seen or permanently missed the following Events: Seen \" Frogger \" from Makoto Miyamura Seen \" Completely Platonic \" from Makoto Miyamura",
+        "to_get_this_event": "Visit the Porn Shop on any evening after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Porn Shop"
+        ],
+        "synopsis": "Sensei notices the porn shop has seemingly closed early, but the lock was never latched, so he goes in anyway and finds Makoto in the back room. She's immensely embarrassed and almost loses her temper on him, but he tells her he's not going to cause any problems or do anything to stop her, and eventually, she returns to what she was doing, though Sensei does decide to sit down next to her. She also decides to eventually bring him into the festivities. Afterward, Sensei cleans up and heads home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sowing the Seeds",
+            "event_script_names": "makotonew2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotohandy"
+        ],
+        "music_tracks": [
+            "citylife.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Frogger",
+        "next_event": "Egg Tooth"
+    }
+}

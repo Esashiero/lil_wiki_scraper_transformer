@@ -1,0 +1,56 @@
+{
+    "event_id": "hiding_in_plain_sight",
+    "event_title": "Hiding in Plain Sight",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Hiding_in_Plain_Sight",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.27.5",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Gamer Girl Grindfest \" . This event belongs to an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Couch Potato",
+            "Kumon-Mi",
+            "Newly Opened Bookstore"
+        ],
+        "synopsis": "Ayane interviews Nodoka about the upcoming date contest, who warns the audience not to underestimate Futaba 's plans. Just as the segment wraps up, Imani finally arrives, having fallen asleep on the way to the arcade. Ayane then hears word that Sensei 's arrived at Futaba, and the scene switches back to him. Sensei, following a note given to him by Uta , makes his way to his meetup spot for Futaba. He's caught off-guard by her appearance, and the sudden boost in confidence. She explains that the number of people in the area makes her feel less self-conscious than usual, letting her 'hide in plain sight'. The two stop in a café Futaba's family used to frequent, where Sensei speaks to the brown-haired girl with a daisy. Leaving the café behind them, the two wander the entertainment district, visiting places Sensei realizes were handpicked to ensure his enjoyment. As their allotted time runs low, Futaba struggles to find another activity. Sensei dismisses these concerns by asking her to bring him someplace she'd enjoy since she's been pleasing him the whole date. She decides on a new bookstore, but the two are promptly kicked out by the staff after being too crass.",
+        "participating_characters": [
+            "Ayane Amamiya",
+            "Nodoka Nagasawa",
+            "Imani Imai",
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if the player has their save marked as a 'cheater'. This will cause a scene to be skipped entirely."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Hiding in Plain Sight",
+            "event_script_names": "dormwartwo5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "datewarfutaba"
+        ],
+        "music_tracks": [
+            "anothernewsong.mp3",
+            "anewyou.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Gamer Girl Grindfest",
+        "next_event": "She Is"
+    }
+}

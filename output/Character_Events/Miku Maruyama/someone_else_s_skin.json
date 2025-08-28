@@ -1,0 +1,48 @@
+{
+    "event_id": "someone_else_s_skin",
+    "event_title": "Someone Else's Skin",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Someone_Else%27s_Skin",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "50 Miku Affection You must have seen or permanently missed the following Events: Seen \" Chrysalis \" from Miku Maruyama",
+        "to_get_this_event": "Call Miku in the afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi"
+        ],
+        "synopsis": "Sensei calls Miku to invite her on their date. Miku is nervous due to the way she looks, but still wants to meet up with him. Sensei wonders why she’s nervous about her looks and remembers that Makoto mentioned that she wanted to cut her hair , but her hair was still too short to be cut when he last saw her. Ami ’s talk about cute girl magic comes to his mind, but he still doesn’t believe in its existence. Sensei arrives at the mall and finds Miku standing behind a tree, but when he makes his presence known, she hides behind it out of embarrassment. Sensei demands that she comes out and when she shows her face, he sees that she really has longer hair. He’s also surprised that she already has a new outfit, consisting of a black-dotted, orange blouse and a black dress. She explains that this was a gift from Makoto to celebrate her first date. Sensei thinks that she looks cute and she finally understands how Karin feels when he calls her that . Miku finally leaves her hiding spot and Sensei likes her new look as much as her tomboyish one. She feels uncomfortable, though, especially when Sensei gives her more compliments, and wants to change into something that she feels more comfortable in. He asks her to pick a store, except for the one Chika works at. They take a walk through the mall while Sensei has an inner monologue about how Miku should be more confident in her new look, but assumes that she'll grow accustomed to it over time. They make their way to a familiar store and Miku, still self-conscious about her new look, tries to find something that's closer to her usual look. Sensei tries to flirt with her and to make her jealous, but she isn’t faced by it. He thinks she should be a little jealous about him talking about other girls, but understands why she can brush it of since he knows how her closest friends react to his attempts. Miku finally finds something and tries it on. Her choice is a black top, an orange blouse with a triangular pattern and black shorts. He likes it but prefers her dress. She likes it as well, but wants to stick with clothes she feels more comfortable in for now. Sensei thinks it’s fine since he likes her regardless of her looks. Miku decides to buy these clothes, thanks Sensei for his moral support and confirms that his answer means that she really likes him. They end their visit at the mall by eating ice cream.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Someone Else's Skin",
+            "event_script_names": "mikuspecial50",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikugirly"
+        ],
+        "music_tracks": [
+            "lifeismostlygood.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Chrysalis",
+        "next_event": "The Devil & God Are Raging Inside Me"
+    }
+}

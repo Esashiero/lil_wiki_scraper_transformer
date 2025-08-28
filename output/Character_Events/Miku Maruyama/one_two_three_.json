@@ -1,0 +1,55 @@
+{
+    "event_id": "one_two_three_",
+    "event_title": "One. Two. Three.",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=One._Two._Three.",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "Not a Thursday 30 Miku Affection You must have seen or permanently missed the following Events: Seen \" An Extra Set of Arms \" from Miku Maruyama Seen ??????????",
+        "to_get_this_event": "Visit Miku's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "No",
+                "effect": "Reset the event"
+            }
+        ],
+        "effects": [
+            "+3 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi Streets"
+        ],
+        "synopsis": "Miku is going for another jog, and invites Sensei along. Despite Miku's comment that it never seems to rain, they are caught in a sudden storm, and the noise triggers one of Miku's panic attacks. Sensei connects to the one available network within reach, and pulls Miku under the nearest archway, where she latches onto his arm. It takes more than half an hour before she has recovered enough to head back to the dorms with him. She says that it is \"friggin' embarrassing\" that he stayed with her, but hugs him before she goes inside.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "One. Two. Three.",
+            "event_script_names": "mikudorm30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikudarkrain"
+        ],
+        "music_tracks": [
+            "retrospect.mp3",
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "An Extra Set of Arms",
+        "next_event": "Loxonin"
+    }
+}

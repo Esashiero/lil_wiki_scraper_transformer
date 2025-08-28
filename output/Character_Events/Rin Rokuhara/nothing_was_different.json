@@ -1,0 +1,51 @@
+{
+    "event_id": "nothing_was_different",
+    "event_title": "Nothing Was Different",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Nothing_Was_Different",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "30 Rin Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" See You in the Morning \"",
+        "to_get_this_event": "Visit the Koi Cafe",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "Sensei decides to visit Rin at the cafe, and while she fell back into her depressive phase after her rejection , he notices that she looks better than the first time he saw her like this . He does notice that she’s heating up, though, and recommends her to take her hoodie off. When she comes up with weak excuses not to do it, he assumes she cut herself again, but she reminds him that she promised to stop doing that, even if her sudden disappearance the day after she hid in his room might suggest otherwise. He wants to know what Chika said for Rin to avoid her, and she explains that Chika couldn’t say anything since she already realized that she had no chance. Rin tells him about a dream she had where she had the possibility to reset her mistake until she got the result she wanted, but since it ended too soon, she can only wait for it to return. Sensei thinks they should change the subject to something that would cheer her up, and while Rin agrees, she asks him not to use her rebound to advance their relationship, but he assures her that he wasn’t going to. After some lighthearted banter, Sensei wonders how Haruka lets her work in her current condition, and she begs him to keep it a secret since, knowing what makes her depressive, she’s able to work. Sensei agrees, but still wants to know what she’s hiding under her hoodie. She admits that, even though she has Futaba and him to lean on, she still needs to rely on an old habit. Rin considers taking a break and while she offers to make Sensei anything he wants, he takes one of her usual concoctions. After taking a seat at one of the desks, Rin thanks Sensei again for letting her sleep in his room after her rejection. Since her co-worker needs her assistance shortly after, Sensei decides to leave since he only wanted to make sure she didn’t make anything stupid. Rin invites him to visit Futaba and her in their dorm room for a “depressing, yet fun” conversation. As he leaves, Sensei intends to take her up on her offer to make sure her current behavior isn’t a calm before the storm.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw Schadenfreude before What's Done is Done . Rin will voice her displeasure at Sensei's betrayal of her trust.",
+            "Rin will voice her displeasure at Sensei's betrayal of her trust."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Nothing Was Different",
+            "event_script_names": "cafe30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "postbeach"
+        ],
+        "music_tracks": [
+            "cafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sock Fetish",
+        "next_event": "Two Steps Back"
+    }
+}

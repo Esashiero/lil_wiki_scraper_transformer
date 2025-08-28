@@ -1,0 +1,48 @@
+{
+    "event_id": "behind_closed_doors",
+    "event_title": "Behind Closed Doors",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Behind_Closed_Doors",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "This Event can only be triggered on a Tuesday evening.",
+        "to_get_this_event": "Talk to Miku in the first floor dorm hallway for the first time.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - First Floor Hallway"
+        ],
+        "synopsis": "Sensei meets Miku in the first floor dorm hallway as she is preparing for her nightly run through Kumon-mi. The two discuss Sensei's presence in the dorms and the rules of the school - which the space war has, in Sensei's eyes, made effectively obsolete - and Sensei attempts to flirt with Miku, which she dismisses as baseless due to her appearance. Sensei quickly corrects her, but she deflects onto another topic, seemingly embarrassed. Once she finishes her stretches, she invites Sensei to run with her, which he hastily declines, citing a total lack of interest in physical activity of any kind, not just running. Afterward, Miku leaves to start her jog, while Sensei heads back home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Behind Closed Doors",
+            "event_script_names": "mikufirsthall",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikuhall"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Stretching )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Daytime Stalking Pass",
+        "next_event": "It's Always Sunny in Kumon-mi"
+    }
+}

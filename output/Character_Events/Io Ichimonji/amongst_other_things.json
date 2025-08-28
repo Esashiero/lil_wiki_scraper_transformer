@@ -1,0 +1,49 @@
+{
+    "event_id": "amongst_other_things",
+    "event_title": "Amongst Other Things",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Amongst_Other_Things",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Friday 15 Io Affection You must have seen or permanently missed the following Events: Seen \" Turn On The Lights \" from Io Ichimonji",
+        "to_get_this_event": "Visit Io's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Io’s room"
+        ],
+        "synopsis": "Io is \"a little out of it\" — she says that it's from mixing medications and not eating anything all day. Sensei allows himself to be used as a pillow at the kotatsu, and Io mentions taking medicine for anxiety, amongst other things. Sensei asks why Io seems to like him more than she likes other people — she says that she wanted someone to be her \"last bastion of hope\", and although it she could have latched onto anyone, she is glad it ended up being him. Uta briefly stops by — she realizes what has happened and checks if Io needs anything, but decides not to stay. Sensei and Io talk about Uta, Io's self-image, and what it means to be easy to deal with. Io falls asleep.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji",
+            "Uta Ushibori"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Amongst Other Things",
+            "event_script_names": "iodorm15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iokotatsu"
+        ],
+        "music_tracks": [
+            "hometown.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .18p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Turn On The Lights",
+        "next_event": "One Man's Trash"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "event_id": "chronokinetics_hell_exists_",
+    "event_title": "Chronokinetics (Hell Exists)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Chronokinetics_(Hell_Exists)",
+    "event_type": "Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Tuesday You must be on at least Day  540  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" No Strings Attached \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Tuesday on or after Day 540.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane Affection",
+            "+1 Ayane Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei Office"
+        ],
+        "synopsis": "Sensei starts to feel Makoto ’s absence, because she’s one of the few girls he can enjoy himself with due to Maya limiting his options and since he has to do the paperwork himself. A knock at the door makes him hope that he can have some fun, but it’s Ayane who decided to visit him instead of attending her club. She’s still anxious about the fact that she’s in a time loop and forced into abstinence, but Sensei asks her not to tempt him since he tries his best to prove or disprove Maya’s theory. She understands that, but their abstinence isn't the only thing makingher anxious, but also the fact that it seems like Maya wants to get rid of her and she doesn't want to be excluded again. Ayane asks if they can sit together on the couch if she doesn’t try anything and Sensei complies with her request, knowing that she bottled up her feelings again and only came because she reached her limit. Ayane comes back to Maya and her attempts to make her disappear. Sensei asks why she’s worried if she’s sure that she will stay and she explains that she isn’t worried about disappearing but about Maya being so eager to have her turn back to her unaware self, thinking that Maya sees her as a nuisance rather than a human after witnessing other versions disappear over and over and being used to both of them being the only ones aware of the loop. She asks him what they can do until their time runs out and Sensei suggests to wait. She thinks that they should do anything to get more information, but, after making a joke about how she should study chronokinetics, he reminds her that they have no other lead to follow and should stick with Maya’s theory test for now. Hearing this, Ayane wants to know if he loves her or her - i.e. would he love any version of her or does he only care about the current one - but Sensei thinks that this is too heavy a question for regular office hour. He still thinks they should indulge Maya for now and if they prove her wrong, she will be taught humbleness and he will be ready to accept Ayane’s advances. She’s happy to hear that he’s on her side, but he doesn’t want to pick one when he’s so popular already, though he agrees to be on her side regarding Maya’s theory as long as he isn’t included in any future spats between them. She doesn’t want a conflict with Maya since she loves her, but she wishes she would trust her and let her help. She doesn’t know what the future holds but is ready to face it as long as all of them are together. After a pause, Sensei answers her question by saying that he loves her and wouldn't be able to love another version if he loses her , though he would still get close with other versions. The conversation takes a weird turn as they talk about clones and Ayane decides that she should leave, knowing that both are barely keeping it together. Sensei exits shortly after to relieve himself in the restroom.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Chronokinetics (Hell Exists)",
+            "event_script_names": "ayanespecial40",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayanecantbone"
+        ],
+        "music_tracks": [
+            "phantomthief.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Out With the Old",
+        "next_event": "How the World Works"
+    }
+}

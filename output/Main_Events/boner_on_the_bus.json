@@ -1,0 +1,56 @@
+{
+    "event_id": "boner_on_the_bus",
+    "event_title": "Boner on the Bus",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Boner_on_the_Bus",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.33.1",
+    "interactivity": {
+        "requirements": "Saturday 5 Niki Lust You must have seen or permanently missed the following Events: Seen \" Worry Not, The Mason Jar \" from Ami Arakawa Seen \" Two Of Us Are Thinking \" from Io Ichimonji Seen \" Sardines \" from Molly MacCormack Seen \" An Apple Each Day \" from Yasu Yasui Seen \" Scum \" or missed \" Soap \" from Haruka Hamasaki Seen \" Eternity Until \" from Nao-chan Seen \" The Lucky Few \" from Tsubasa Tsukioka",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the next available Saturday.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi"
+        ],
+        "synopsis": "The class boards the bus headed for the beach, ready to begin their routine beach trip and the \"annual\" Dorm Wars competition. While Sensei usually looks forward to their beach trips, he’s unable to feel excited this time as he’s too worried about the shorter intervals between and the increased frequency of the class's big events. He laments the inevitability of his life becoming more complicated and how it'll no doubt suffocate him further and further. Across the bus are various groups in various conversations:",
+        "participating_characters": [
+            "Sensei",
+            "Imani Imai",
+            "Sana Sakakibara",
+            "Ami Arakawa",
+            "Molly MacCormack",
+            "Karin Kanda",
+            "Noriko Nakayama",
+            "Kirin Kanda",
+            "Yasu Yasui",
+            "Touka Tsukioka",
+            "Maya Makinami",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Boner on the Bus",
+            "event_script_names": "beachwars1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "buswarride"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.33."
+        ]
+    },
+    "navigation": {
+        "previous_event": "May the Winter Come",
+        "next_event": "When You Snap"
+    }
+}

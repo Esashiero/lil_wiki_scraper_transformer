@@ -1,0 +1,49 @@
+{
+    "event_id": "such_small_hands",
+    "event_title": "Such Small Hands",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Such_Small_Hands",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "25 Ami Affection Choose \"Yes\" during No One Can See Us . You must have seen or permanently missed the following Events: Seen \" Divergence \" from Ami Arakawa",
+        "to_get_this_event": "Visit Ami in her bedroom after all Requirements have been fulfilled.",
+        "to_miss_this_event": "Choose \"...\" in No One Can See Us . Replaced by Ghosts in the Walls .",
+        "choices": [],
+        "effects": [
+            "+3 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Ami's Bedroom"
+        ],
+        "synopsis": "Sensei wakes up, confused to find breakfast not yet ready. Upon stepping inside her bedroom though, he realizes Ami has been distracted by trying out her new work uniform . The two take the time to appreciate the change together.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Such Small Hands",
+            "event_script_names": "amisroom25",
+            "event_missed_name": "Ghosts in the Walls"
+        },
+        "backgrounds": [
+            "amimaidsex"
+        ],
+        "music_tracks": [
+            "normalday.mp3",
+            "asobeatsex1.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Divergence",
+        "next_event": "Everlasting Love"
+    }
+}

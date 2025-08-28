@@ -1,0 +1,53 @@
+{
+    "event_id": "sea_of_balls_wise_turtle_",
+    "event_title": "Sea of Balls (Wise Turtle)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sea_of_Balls_(Wise_Turtle)",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.39(Sports Wars).6",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Motherland Calls! \" . This event belongs to an event chain started from \" Ten Tips and Tricks to Make Even Straight Girls Want to Fuck You \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Gym"
+        ],
+        "synopsis": "The third contest is about to begin, and Imani makes the introduction together with Miku and Touka , who's happy to finally get an opportunity to show her strengths. This contest is an obstacle run, but after Imani explains what obstacles both contestants will face, Touka wants to get out of it, because she feels like this competition won't allow her to show her strengths after all. Imani refuses and gives both girls a few minutes to prepare. In the interim, Futaba and Sana have a conversation, noting how both of them have seemingly become more confident, though they don't say what caused their respective change. The contest begins and contains the following obstacles: Once the fire is extinguished, Miku is declared the winner, and while Touka congratulates her, she retracts it after she makes an insulting comment about her.",
+        "participating_characters": [
+            "Imani Imai",
+            "Wakana Watabe",
+            "Miku Maruyama",
+            "Touka Tsukioka",
+            "Futaba Fukuyama",
+            "Sana Sakakibara",
+            "Io Ichimonji",
+            "Otoha Okakura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sea of Balls (Wise Turtle)",
+            "event_script_names": "sportswars6",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "obstacles"
+        ],
+        "music_tracks": [
+            "witches.mp3",
+            "fallishere.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .39.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Shohei Ohtani",
+        "next_event": "Cock Party 2 (Better Than The First)"
+    }
+}

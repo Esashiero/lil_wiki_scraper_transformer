@@ -1,0 +1,51 @@
+{
+    "event_id": "to_catch_me_if_i_fall",
+    "event_title": "To Catch Me If I Fall",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=To_Catch_Me_If_I_Fall",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.29.1",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Shelter . This event starts the 5th Reset event-chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto , Touka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Apartment Complex - Sensei's Apartment"
+        ],
+        "synopsis": "After two back-to-back parties, the emotional landslide at the end of the last and hours of writing , Sensei falls asleep around noon with the intention to sleep for as long as possible. Unfortunately for him, Touka and Makoto arrive after an hour of sleep to check up on him after his prolonged absence. Happy to see he’s mostly fine, Makoto notices the remnants of his attempts at poetry, trying to pry more information out of him and to encourage the return to his former hobby. He cuts her of, refuses to explain himself and begrudgingly gets out of bed, aware that he won’t get more sleep today. After a short struggle getting out of bed, Sensei asks Touka what she did to cover for their prolonged absence. Before she gets to that, Touka informs him that the girl he initially met also never returned to the inn, but Ami and Ayane were able to get in contact with her and confirmed that she’s fine. Regarding his disappearance, she told the class that an important business meeting had forced him to leave before the end of the night. While this excuse still resulted in nearly half the class forming a search party, he's happy to hear it wasn’t as chaotic as it could’ve been. Similar to the last trip , Touka asks to be thanked for her generosity and when Makoto doubts that he would stoop so low, he thanks her honestly. An enraged Makoto demands to be praised for everything she did for him and Sensei gives in to her demand, quelling her anger in the process. He excuses himself so he can get in contact with Maya, who reluctantly answers his call. He wants to know why she never returned to the inn and Maya explains that she couldn’t go back because she wasn’t feeling well due to some kind of sickness. Sensei thinks they should talk about her sudden “sickness” and while both aren’t looking forward to this, Maya agrees. Sensei asks her to meet him at the park near his house and immediately hangs up, much to Maya’s frustration. Unbeknownst to him, Maya is currently with Ayane, who accompanies her to the meeting. Sensei, Touka and Makoto leave his apartment, with Sensei giving Touka a rude name when she let it slip who the initial girl was.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Makoto Miyamura",
+            "Maya Makinami",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "To Catch Me If I Fall",
+            "event_script_names": "slumberreset1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makototoukawakeup"
+        ],
+        "music_tracks": [
+            "goodmorning.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Shelter",
+        "next_event": "Approximation"
+    }
+}

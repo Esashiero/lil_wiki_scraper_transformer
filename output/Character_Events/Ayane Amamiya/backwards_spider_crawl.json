@@ -1,0 +1,53 @@
+{
+    "event_id": "backwards_spider_crawl",
+    "event_title": "Backwards Spider Crawl",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Backwards_Spider_Crawl",
+    "event_type": "Lust Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Ayane Lust You must be on at least Day  68  to unlock this Event.",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event will occur automatically on the first weekday on or after Day 68.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Gym",
+            "Gym Storage"
+        ],
+        "synopsis": "During the class' gym period, Ayane flags down Sensei , telling him she doesn't feel like running. When he asks why, she, embarrassedly, tells him she's not \"in the mood\" and asks if they can sneak away into the storage room to be alone. Sensei's worried about potentially being seen, but is convinced by Ayane's enthusiasm.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya"
+        ],
+        "trivia": [
+            "Since this is Ayane's first Lust Event, you can change the nickname she calls you. The list of names that result in altered interactions can be found here .",
+            "This event contains an error regarding the length of a certain line. Due to its length, the text ends up being written above the quick menu UI."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Backwards Spider Crawl",
+            "event_script_names": "day68",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayanefirstlust"
+        ],
+        "music_tracks": [
+            "normalday.mp3",
+            "asobeatsex2.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.4."
+        ]
+    },
+    "navigation": {
+        "previous_event": "First Words",
+        "next_event": "Endless Torment"
+    }
+}

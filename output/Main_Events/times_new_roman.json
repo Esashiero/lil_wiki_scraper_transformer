@@ -1,0 +1,62 @@
+{
+    "event_id": "times_new_roman",
+    "event_title": "Times New Roman",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Times_New_Roman",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.35.18",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The End of the World \" . This event belongs to an event chain started from \" Eggside Octopus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Home"
+        ],
+        "synopsis": "Having ended up back home, Sensei is forced to come up with a way to make dinner now that Ami is gone. Suddenly, a voice from the PA system recommends he stays inside, because if he steps outside, it will break the world and he won't be able to handle it. With that information, Sensei decides on how to spend his day.",
+        "participating_characters": [
+            "Sensei",
+            "Yasu Yasui",
+            "Sana Sakakibara",
+            "Tsuneyo Tojo",
+            "Makoto Miyamura",
+            "Maki Miyamura",
+            "Chinami Chosokabe",
+            "Uta Ushibori",
+            "Rin Rokuhara",
+            "Molly MacCormack"
+        ],
+        "trivia": [
+            "If you take the shampoo, you will only be able to enter the dorm after the",
+            "event, which will prevent you from gaining lust for",
+            "event."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Times New Roman",
+            "event_script_names": "resetsix1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "escapetheroom"
+        ],
+        "music_tracks": [
+            "iamhome.mp3",
+            "ShiningStarVocals.mp3",
+            "10c.mp3",
+            "sweetvermouth.mp3",
+            "smellsofsummer.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.35."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The End of the World",
+        "next_event": "Paper City"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "event_id": "great_burdock_leaves",
+    "event_title": "Great Burdock Leaves",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Great_Burdock_Leaves",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must be on at least Day  64  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Weight Limit \" Seen \" Broken Flowers \" from Futaba Fukuyama",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first weekday on or after Day 64.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Sensei's Office",
+            "Kumon-Mi High"
+        ],
+        "synopsis": "Sensei is dutifully ignoring his paperwork until someone knocks on his door. He thinks it’s Makoto checking on his progress, but it’s actually Futaba , who is in need of his counseling assistance. He correctly assumes that she's been having more problems with Yumi picking on her. Futaba states that Ayane managed to help her last time , but remains affected due to Yumi's particularly toxic behavior from that encounter. Thankful for Ayane's support in resolving the situation, Sensei internally resolves that he has to accept his students sometimes stepping in to do the things he can't or won't always be there to do. Upon asking for more details, Futaba states that it happened inside the shower room after P.E., which makes Sensei reconsider his involvement in helping his students before trying to help her with her situation. She knows that it will happen again, considering her relationship with Yumi, and she asks Sensei to simply be there to help comfort her when Yumi inevitably has one of her episodes, which Sensei has no problem agreeing to. Futaba asks Sensei if he's ever had the type of problem that she has with Yumi, where you don't have anything against someone but they seem to just 'have it out' for you, and he denies this. She tries to make an awkward reassurance to herself which comes off more as putting herself down, and she begins telling Sensei about how she was once as skinny as the other girls in class, and had people putting her down for her appearance, and after thanking him again for his help, Futaba invites Sensei to walk with her to the dorm rooms. While walking to the locker area so Futaba can gather her things, Sensei jinxes the pending encounter in his inner monologue, and after apologizing to Futaba for such, they immediately run into Miku and Sana , and the four have a brief discussion about Miku and Sana's plans for the afternoon, but are quickly interrupted by Ami banging on the window and demanding Sensei's attention from outside, Maya following shortly behind and looking immensely exasperated at Ami's actions. Miku turns to the window, telling Ami not to surprise people in such a manner while beginning to hyperventilate, and Ami spends the next several minutes trying to figure out why Sensei isn't in his office like she'd heard from Maya, but quickly snaps out of her hormone-induced rage when Futaba hints at the reason for her visit to Sensei's office. She tries to explain a bit further, but reality glitches and leaves her in tears as she quickly excuses herself from the gathering. Afterward, the rest of the group departs, and Sensei leaves to go about his evening.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama",
+            "Miku Maruyama",
+            "Sana Sakakibara",
+            "Ami Arakawa",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Great Burdock Leaves",
+            "event_script_names": "futabanew2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "futabanewtwo"
+        ],
+        "music_tracks": [
+            "phantomthief.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Broken Flowers",
+        "next_event": "Clam's Tongue"
+    }
+}

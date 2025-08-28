@@ -1,0 +1,61 @@
+{
+    "event_id": "a_way_s_away",
+    "event_title": "A Way's Away",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Way%27s_Away",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.18",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Chashu (A Cracked Bowl) \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Molly , Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "Tsuneyo brings her monologue to a close and, because no one understood what her point was, instead states that she would be happy if all of them could meet at the next Christmas party as well. Uta thinks it’s about time they start the gift exchange, but Touka wonders if now is the best time since some of their classmates are missing, while Molly wonders if Sensei will like her again as she lacks confidence. Touka gets excited about receiving a gift, but when Uta asks about the bear she's been carrying around, she realizes that it’s missing, panics and begs them to help her look for it since she was supposed to watch over it. Uta gives them five minutes before she starts the gift exchange without it. Yumi approaches Sana , who immediately gets scared when she notices her. Yumi assures her that she doesn’t want to harm her and that she only wants to know if Yuki is really working at her mother ’s bar. After Sana confirms that she’s working there as a bartender, Yumi decides to leave her alone as Uta starts the gift exchange and calls out Touka for being untrustworthy. Sensei, who already took the bear, assures Touka that it isn’t lost and decides to look for Miku , but he’s stopped by Molly. Molly hands him a gift and Sensei is \"surprised\" that her hypothetical scenario turned out to be true. He wants to open it, but Molly thinks it would be embarrassing if he tries it on now. He’s worried that she made him a cosplay costume, but she assures him that, while it’s a piece of clothing, it’s only a small thing for the approaching summer. He asks her if she doesn’t find it strange that summer’s coming shortly after Christmas. She realizes that it is, but her train of thought is interrupted by a drunk Nodoka . She makes things weird by mentioning the earlier argument and complimenting Rin ’s attractiveness, which manages to cheer Rin up slightly, but drives both Sensei and Molly away. Sensei tries to find Miku, but gets stopped by Imani , who complains about not receiving a gift, forgetting that she joined the class after the preparations for the exchange were made. She asks if he'll buy her something, but he refuses to do that and walks away. He makes his way to Makoto and finds her crying over a painting Touka gifted her, unsure of what to do with something so expensive. He ignores this and asks where Miku is. Makoto quickly realizes the bear in his hands is for Miku and asks why he chose such a girly gift. Sensei explains he didn't put much thought into it, and that he doesn't really mind if Miku actually likes it — He stops speaking when Makoto's face turns somber. She tells him that Miku's hanging around outside, probably looking for somewhere quiet. He thanks her and leaves the room.",
+        "participating_characters": [
+            "Sensei",
+            "Tsuneyo Tojo",
+            "Molly MacCormack",
+            "Touka Tsukioka",
+            "Yumi Yamaguchi",
+            "Sana Sakakibara",
+            "Uta Ushibori",
+            "Nodoka Nagasawa",
+            "Futaba Fukuyama",
+            "Rin Rokuhara",
+            "Imani Imai",
+            "Makoto Miyamura"
+        ],
+        "trivia": [
+            "The spending limit for the gift exchange was 20 USD, which is around 3.000 Yen Touka's gift is worth 1 million Yen, which is around 7.000 USD",
+            "Touka's gift is worth 1 million Yen, which is around 7.000 USD"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Way's Away",
+            "event_script_names": "christmastwo15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "secretsantatime"
+        ],
+        "music_tracks": [
+            "christmasyay.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Chashu (A Cracked Bowl)",
+        "next_event": "No Escape"
+    }
+}

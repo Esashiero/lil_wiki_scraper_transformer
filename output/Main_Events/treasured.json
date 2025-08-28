@@ -1,0 +1,51 @@
+{
+    "event_id": "treasured",
+    "event_title": "Treasured",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Treasured",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.10",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Bending of Italics \" . This event belongs to an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach Hotel"
+        ],
+        "synopsis": "The girls in the hotel continue to play party games. Wanting to check in on Rin, Chika steps into the neighboring room. She finds Rin still staring at her phone. Asking if she can join her, Chika offers to lend an ear. As the two lay next to each other, Chika starts the conversation by sharing her own anxieties about love, about how the one she’s into might be better off with someone else. But she argues that, since them being with someone else would just make her angry, she should love them as much as they can rather than miss out on the opportunity. Rin understands that insecurity, and wonders if Otoha feels the same way, but struggles to think of her as that insecure. Chika retorts she might just be possessive or easily jealous, which amuses Rin with how obviously passive-aggressive Chika’s being. Chika tells her that she cares about her friends, and as consequence hates those who hurt them. Even herself . But she reminds Rin why she turned her down. It wasn’tbecause she didn’t like her, but because she had someone else. Rin nods along, confessing she knows about Chika and Sensei. She’s initially shocked, but Rin assures her she’ll keep it a secret, moving along to say that she already understands all the illogical parts of love. Rin breaks down, crying as she acknowledges that nothing will change unless she tries to change it herself, but that trying is so hard. She wants to enjoy her time with Otoha, but can’t if Otoha always makes the situation about someone else; She can give up plenty for her, but not Sensei and Chika. Since Rin can’t move past this, and Otoha refuses to learn from it, the two are locked at a standstill. Rin asks Chika for advice on getting Otoha to notice her again, but Chika admits, even in her case, she just has faith that Sensei will look her way again. After crying together, the two calm down and Chika goes to get them some drinks.",
+        "participating_characters": [
+            "Rin Rokuhara",
+            "Chika Chosokabe",
+            "Ami Arakawa",
+            "Kirin Kanda",
+            "Molly MacCormack",
+            "Ayane Amamiya",
+            "Nodoka Nagasawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Treasured",
+            "event_script_names": "beachmas10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "twogirlsonabed"
+        ],
+        "music_tracks": [
+            "hallelujah.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Bending of Italics",
+        "next_event": "いないいない。。。ばあ！"
+    }
+}

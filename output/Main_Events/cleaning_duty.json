@@ -1,0 +1,51 @@
+{
+    "event_id": "cleaning_duty",
+    "event_title": "Cleaning Duty",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Cleaning_Duty",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.2.5",
+    "interactivity": {
+        "requirements": "You must be on at least Day  36  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Operation: Fallen Angel \" Seen \" The Bare Minimum \" from Sana Sakakibara",
+        "to_get_this_event": "This Event will occur automatically on or after Day 36.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku , Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Staff room",
+            "Kumon-Mi High - Hallway"
+        ],
+        "synopsis": "After normal school hours, Sensei has been called to head to the staff room. Not sure what he's supposed to be doing, he is accosted by Miku and Sana , who are supposed to be on cleaning duty but are unable to find any of the supplies they need. Sensei makes a comment about finding an actual teaches, but quickly covers his slip-up when Sana calls him on it. The three get into a discussion which bounces around several topics in their quest to find the cleaning supplies, and durin a discussion over Miku and Sana's experiences in middle school, Sana cuts Miku off to reveal the closety, and the girls grab their supplies, Miku bidding farewell to Sensei before he leaves to go about his evening.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama",
+            "Sana Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Cleaning Duty",
+            "event_script_names": "day36",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "threesix",
+            "newcleaning"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "So Many Voices",
+        "next_event": "Walk in the Park"
+    }
+}

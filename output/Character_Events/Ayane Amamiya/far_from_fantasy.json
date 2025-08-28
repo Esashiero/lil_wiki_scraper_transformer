@@ -1,0 +1,49 @@
+{
+    "event_id": "far_from_fantasy",
+    "event_title": "Far From Fantasy",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Far_From_Fantasy",
+    "event_type": "Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Ayane Affection You must have seen or permanently missed the following Events: Seen \" Imprinting \" from Ayane Amamiya",
+        "to_get_this_event": "Visit the Dojo on a weekend afternoon after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Dojo"
+        ],
+        "synopsis": "Ayane is leaning against the wall of the dojo while her instructor sits next to her, lamenting her seventh failed attempt in a row to defeat her. The instructor doesn't hesitate to tell Sensei to start training or she'll beat his ass the next time he comes to the dojo. Ayane attempts to goad her into another spar, only for the instructor to roughly rebuke her, citing a lack of interest in her father attempting to shut down the dojo due to hurting Ayane. The conversation briefly turns to Ayane's relationship with Sensei, which the instructor doesn't like in the slightest, and after Ayane turns the conversation over to the instructor's interests, she storms off in a huff, demanding that the two pack their things and get ready to leave - she no longer wishes to talk to them after having accidentally let slip that she's in a relationship. After she leaves, Sensei and Ayane talk about her sparring sessions, Ayane likening them to trying to punch a bird out of the sky, before the discussion turns to Ayane's love for Sensei. She expresses her desire to ensure their relationship progresses to the point that society as a whole would consider it 'normal', and as the dojo closes, Sensei reflects on his purpose and existence in the world and how Ayane's love for him can, in a way, be put under the same umbrella. Afterward, he leaves to go about his evening.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Osako Osaka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Far From Fantasy",
+            "event_script_names": "ayanenew2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayanenewtwo"
+        ],
+        "music_tracks": [
+            "sakuya4.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Imprinting",
+        "next_event": "Forever Yours (Top of the World)"
+    }
+}

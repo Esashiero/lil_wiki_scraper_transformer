@@ -1,0 +1,51 @@
+{
+    "event_id": "dizzy_on_the_comedown",
+    "event_title": "Dizzy On The Comedown",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Dizzy_On_The_Comedown",
+    "event_type": "Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Wednesday 55 Ayane Affection You must have seen or permanently missed the following Events: Seen \" Over & Over \" or missed \" A Failed Attempt at Being Good \" from Ayane Amamiya",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event will occur automatically on the next available Wednesday.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Pool"
+        ],
+        "synopsis": "After a normal day of school, Sensei decided to head to the school's pool and spend time with Ayane in place of his regular counseling duties, trying his best to ignore the other members he could talk to and focusing solely on her to showcase his mutual enthusiasm for her renewed lease on life . Wrapping up another one of her trademark half-finished stories, Ayane asks for Sensei's help with deciding her Halloween costume this year. He's unsure of what to suggest, quipping about the level of freedom he has considering how Chika got away with her costume last year . After a bit of thinking, he decides not to suggest anything, only asking that she not copy Maya 's first Halloween costume . Ayane's subsequent pouting and attempts at swaying his opinion fail, and the conversation drifts on. A slip of the tongue leads to Sensei updating Ayane's list from last Halloween, with him filling her in on his date with Niki and his day trip with Nodoka . She asks him not to get into details, not wanting to ruin her currently good mood, and the topic changes. Sensei asks Ayane if this year's Halloween party will be a return to the Amamiya Estate . She's unable to confirm this as of yet, adding that, in addition to the main party with the class, she'd like for him, Ami , Maya , and Sana to have an afterparty this year. Sensei's fine with the idea, only warning that she'll need to come up with a way to break him free of the rest of the class's grip, but Ayane thinks they won't have a hard time getting him away form everyone. Following a reminder that her new outlook on life isn't going to be disappearing anytime soon, Ayane asks Sensei if he's noticed any changes in Maya's personality as of late, citing their strange conversation during the Beach Wars. Sensei agrees her example is concerning, but since he can't think of any noteworthy interaction between them after the beach , he's unsure of why Maya would be changing, theorizing that her true personality is starting to slip out now that she's slowly getting more comfortable. Ayane still feels a bit weird about Maya's change in personality but decides to trust Sensei since he knows Maya better than her. Using this as a segue, she also asks Sensei if he knows what's wrong with Miku . Sensei ambiguously confirms that he might know , asking for clarification on what she means. Ayane points behind him, and the two stare at an uncharacteristically quiet Miku. She stares off wordlessly in the distance, worrying Ayane and causing Sensei to ask someone more mature to handle the situation. He walks over to Karin and asks her to check on Miku.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Miku Maruyama",
+            "Karin Kanda",
+            "Nodoka Nagasawa"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei has seen both Prisoner and Over & Over , or if he has only seen Over & Over ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Dizzy On The Comedown",
+            "event_script_names": "ayanepool55",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayanepooltalk"
+        ],
+        "music_tracks": [
+            "notabluearchivesong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.34."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Over & Over",
+        "next_event": "...But Home is Nowhere"
+    }
+}

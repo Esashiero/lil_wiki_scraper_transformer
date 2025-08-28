@@ -1,0 +1,62 @@
+{
+    "event_id": "war_never_changes_egg_time_madness",
+    "event_title": "War Never Changes: Egg Time Madness",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=War_Never_Changes:_Egg_Time_Madness",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.39(Sports Wars).3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Rivals (Taco Tuesday) \" . This event belongs to an event chain started from \" Ten Tips and Tricks to Make Even Straight Girls Want to Fuck You \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Soccer Field"
+        ],
+        "synopsis": "After asking if someone has any questions in regards to the Dorm Wars-Sports Day, with the only significant one being about the boy band Good Kid that provides the background music for the event, and announcing that Wakana will occasionally check on them to control Imani and to make sure everyone is actually participating in the competitions, Imani introduces the first competition – Egg Time Madness. It's a simple round of egg tossing, meaning two girls from each team have to throw an egg between each other, and whoever breaks their egg first loses. Ayane volunteers Sana and herself for the first floor, whereas Molly and Tsuneyo represent the second floor. Ayane and Sana are doubting how effective their rivals will be in this contest, especially when they interpret their attempts to reason with them as attempts to mess with them. Both teams take their position shortly after and the contest begins. Tsuneyo throws the egg with so much force that Molly can't see it in the air, which ends up with her believing that the egg is modified with dwarven technology and turned completely invisible, though she manages to actually catch it with this belief. Meanwhile, Sana also throws her egg with too much force to make up for her low strength, and Ayane tells her to be more careful, comparing the fragility of the egg to the fragility of their futures, but the discussion takes up so much time that they're nearly disqualified for stalling. While the girls continue to toss their eggs, Rin and Futaba ask Imani what exactly Death Ball is so they can plan their team composition accordingly, but when Imani is surprised to hear they take this seriously despite the lack of the usual motivation and a prize, both assure her that all of them appreciate her efforts, which almost makes her cry. The game comes to an end when Sana fails to catch her egg, landing in her face and breaking on impact. The game treats this like a fatal injury and reveals what happens with the contestants after the \"tragedy\".",
+        "participating_characters": [
+            "Imani Imai",
+            "Miku Maruyama",
+            "Makoto Miyamura",
+            "Nodoka Nagasawa",
+            "Kirin Kanda",
+            "Wakana Watabe",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Noriko Nakayama",
+            "Molly MacCormack",
+            "Touka Tsukioka",
+            "Chika Chosokabe",
+            "Sana Sakakibara",
+            "Otoha Okakura",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": [
+            "The event contains a forth wall breaking dialogue in which several girls call out other game developers who copy concepts, ideas, characters and even parts of the soundtrack and code for their own game and treating their laziness and lack of creativity as \"inspiration\"."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "War Never Changes: Egg Time Madness",
+            "event_script_names": "sportswars3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "eggwar"
+        ],
+        "music_tracks": [
+            "firstratetown.mp3",
+            "smellsofsummer.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .39.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "All Eyes On Me",
+        "next_event": "Shohei Ohtani"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "event_id": "scum",
+    "event_title": "Scum",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Scum",
+    "event_type": "Event",
+    "primary_character": "Haruka Hamasaki",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "30 Haruka Affection Choose to pursue Haruka during either Invisible Worm or Roses You must have seen or permanently missed the following Events: Seen \" Conflict of Interest \" from Haruka Hamasaki",
+        "to_get_this_event": "Call Haruka during the night after all Requirements have been fulfilled.",
+        "to_miss_this_event": "Choose not to pursue Haruka during both Invisible Worm and Roses . Replaced by Soap .",
+        "choices": [],
+        "effects": [
+            "+1 Haruka Affection",
+            "+1 Haruka Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Haruka's House - Haruka's Bedroom"
+        ],
+        "synopsis": "Sensei calls Haruka to hang out. After a bit of time together, the two discuss the future of both their relationship and Haruka's marriage.",
+        "participating_characters": [
+            "Sensei",
+            "Haruka Hamasaki"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Scum",
+            "event_script_names": "harukadate30",
+            "event_missed_name": "Soap"
+        },
+        "backgrounds": [
+            "harukapostbone"
+        ],
+        "music_tracks": [
+            "thesleepingcity.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.32."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Conflict of Interest",
+        "next_event": "Small Paper Cups"
+    }
+}

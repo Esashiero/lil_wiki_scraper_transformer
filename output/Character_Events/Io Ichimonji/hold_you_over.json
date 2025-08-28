@@ -1,0 +1,49 @@
+{
+    "event_id": "hold_you_over",
+    "event_title": "Hold You Over",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Hold_You_Over",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Tennis Ball .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Bathhouse - Io's Bedroom"
+        ],
+        "synopsis": "Sensei and Io rest next to a passed-out Uta , another collapse in what Sensei feels will be a night full of them. Thankfully, his own collapse was saved by Io's intervention, something he both appreciates and hates her for – For if she hadn't intervened, he could've disappeared and made everyone's life easier. He thinks about Io's inevitable collapse and how she may already have fallen due to the many ways she attempts to push herself down. He makes a mental tally of all the things Io has done wrong and ends up with a number that only someone like her who sees beauty in ugliness and ugliness in beauty can appreciate. At the very least, the thought makes him feel young again but also like he doesn’t belong here. Io speaks up, ensuring Sensei that Uta will awaken soon. Sensei quips about Io's apparent immunity to what shocked Uta so hard but tries to move on before he makes her more uncomfortable. She tells him that she doesn't want to make it seem like she's forcing him to change, only that she wants him to change. She also states it goes both ways and there is no way Sensei would accept her as she is now. He agrees with this somewhat, and Io proudly states that while the two of them may suck for the rest of their lives, at least they know all they can about each other, but Sensei doubts this. The conversation shifts as he subtly hints at something bothering him, prompting Io to encourage him to confide in her. He doesn't do so, not enjoying how open he's been recently . She likens his situation to a jacket decorated with patches and how the more you add to them, the gaudier and more flashy they become, making it nearly impossible to simply blend into the background. Feeling comfortable, Io starts to worry she'll fall asleep, something Sensei assures her is fine since he'll wait till either she or Uta are awake before leaving. Additionally, he's glad that Io's content with something so simple. She warns him that he's starting to open up, which he denies, clarifying that he just enjoys how simple things with her are. Io doesn't believe this and says she'll understand if he just admits he abhors the type of person she is and is annoyed or even disgusted by her constant deflections. He explains that he's been pushy with her not because he dislikes her, but simply because that's the way he's always connected with people and that he keeps defaulting back to it because it's more comfortable. Io reminds him their relationship isn't something he alone has to strengthen and thanks him for being honest with her, content that her imaginary worst-case scenario was wrong. She segues from this to confess something that her behavior already gave away – She has no interest in this kind of physical relationship. She feels like it's unnecessary for a relationship to work, that everyone’s view on it is heavily influenced by media and society, and how most see it as something desirable when there will always be people like her who will see it as disgusting or horrifying. She confesses that even saying this makes her sick to her stomach, so he tells her to stop if it makes her this miserable. She appreciates his sympathy and reiterates that while she can give a certain level of physical intimacy, she will never be able to cross this specific line. It's due to this \"flaw\" that she brings up the same proposal she gave Uta back during Christmas, stating it's the only realistic solution to their problem. Failing to wrap his head around it, he asks if she really can’t imagine a future for them without a third party, and she confirms that she can’t, because anything else would be unrealistic. Uta finally regains consciousness, but between her experience being confirmed as real and Sensei still being there, she gets embarrassed and pretends to go back to sleep. Sensei returns home, avoiding thinking even deeper about tonight's conversation, as he feels it would just make him sick.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji",
+            "Uta Ushibori"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Hold You Over",
+            "event_script_names": "bathhouse35p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iocollapse"
+        ],
+        "music_tracks": [
+            "io.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.32."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Tennis Ball",
+        "next_event": "Yellow Cactus Flower"
+    }
+}

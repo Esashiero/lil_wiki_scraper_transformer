@@ -1,0 +1,48 @@
+{
+    "event_id": "shadowmeld",
+    "event_title": "Shadowmeld",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Shadowmeld",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.16",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Smile, The Face \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "Touka blames herself for being unable to resolve the conflict that occurred, but Uta assures her there was nothing she could’ve done to prevent that outcome. Tsuneyo notices that Molly is feeling down too and thinks it’s about Sensei , but she says that they could resolve that . Uta and Touka try to convince her to comfort Rin , but Molly doesn’t want to risk the last bit of friendship she has with her. Touka instead suggests they talk about their respective family traditions to lighten the mood, and everyone in the small group agrees, making her happy to be part of a group for once. Uta starts with her tradition: Her family doesn’t really have a special way to celebrate Christmas, but she and her brother were playing hockey on a frozen lake when she was younger. Touka is surprised to hear her participating in something more masculine, but she explains that she was a total tomboy in the past but doesn’t have any photos to prove it. Tsuneyo is next, but, due to her sheltered life, didn't know what Christmas was at the time and only remembers it as a more lively workday. Molly explains that she still needs to learn about the outside world, but Uta points out that she came from another world as well. Molly gets offended and tells them about Nollaig, the Irish version of Christmas. They are surprised how violent it is, since it includes killing birds, but she assures them that it’s an outdated way of celebrating and her tradition was just spending time with her family. She can’t celebrate like that anymore, though, and as a result she starts a sad monologue about the temporary nature of traditions and how these things become a distant memory once one person is lost forever. She apologizes for bringing the mood down and asks Touka about her tradition. Her family went ice skating on Christmas and she still remembers how beautiful her mother was when she was dancing on the ice. She really enjoyed this tradition since it was the only time she could see her mother genuinely smile and since it only exists as a distant memory now, which makes her agree with Molly’s monologue about lost traditions. Because their traditions don’t exist anymore, Uta suggests a new tradition of them meeting up at the next Christmas party like they do now. Touka isn’t sure if this is possible, but Tsuneyo is optimistic and starts a long monologue about how life is like a chashu bowl.",
+        "participating_characters": [
+            "Touka Tsukioka",
+            "Uta Ushibori",
+            "Tsuneyo Tojo",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Shadowmeld",
+            "event_script_names": "christmastwo13",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "postphonething"
+        ],
+        "music_tracks": [
+            "merrychristmasmrlawrence.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Smile, The Face",
+        "next_event": "Chashu (A Cracked Bowl)"
+    }
+}

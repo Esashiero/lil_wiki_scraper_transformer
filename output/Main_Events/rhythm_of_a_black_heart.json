@@ -1,0 +1,53 @@
+{
+    "event_id": "rhythm_of_a_black_heart",
+    "event_title": "Rhythm of a Black Heart",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Rhythm_of_a_Black_Heart",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.18",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Your Blood in Spring \" . This event belongs to an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "-10 Uta , Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Sensei's Bedroom",
+            "Sensei's House - Entrance"
+        ],
+        "synopsis": "The scene opens with Sensei lying in the center of his bed, wearing the same festive hat Ami left him in while being surrounded by flailing fish. A narrator chimes in, acting more as a guide for any potential observers as to what they should be taking in and internalizing. They acknowledge their existence as a means to buy time for tonight's falling actions to commence the routine melancholic montage. They point out their precise usage of the word \"falling action\", asking the observer to harken back to that word's prior usage to describe Sensei. They remind observers not to feel bad for the state which he has been reduced to, for he is a terrible man who is merely reaping the consequences of his actions – They assert he should be miserable and lost for it is a new development in the story. The fish atop Sensei's bed flop around, with the narrator pointing out how obviously fake they are, merely being part of a shared delusion between the observer and the aforementioned protagonist. They ask the observer to dismiss the logical inconsistency, for imagery like this makes the story more interesting. They also dismiss the possibility of them providing answers to the observer, for the following \"Chapter\" is the saddest one yet; The \" love story \" the observer has been watching is over, and now begins the task of reviving a man who has lost the will to live. The shattering of a window breaks up this narration as Uta and Io break into Sensei's bedroom via his window. The former begins to freak out about just how loud they're being, but Io urges her to press on before anyone comes out to catch them. She lifts Uta with her hands, helping her slide through the remains of the window. Upon getting far enough, though, she falls and lands atop Sensei's comatose body. Seeing his vacant stare and less-than-decent appearance, she quickly pushes herself off him and helps her friend inside. The two girls stand over Sensei's comatose body, Io remaining strangely calm while Uta freaks out at just how bad his condition has become, insisting they call emergency services. Io reminds her that the two of them are currently trespassing and alerting any public service is going to get them into trouble. Instead, she hurries Uta along with their plan to kidnap him , wanting to push him through the window before Ami returns home. As they go to do so, Sensei speaks up, begging to be left behind in fear of re-experiencing his punishment . Io rationalizes this as Stockholm Syndrome, caused by whatever treatment Ami's been giving him, deciding to push ahead with the plan. Uta comes around to the idea herself, convincing herself that Sensei doesn't really want to stay here, but both fail to notice that Ami has already returned and is standing behind them. The two girls snap around immediately as she speaks up, hastily trying to explain themselves. However, she refuses to hear either one of them out, calling Io out as a lunatic for isolating herself for so long only to break in and insist Sensei would be safer with her. She then moves on to Uta, feeling deeply betrayed as she believed the two of them were friends and calling her an idiot for letting something so trivial as \"concern\" outweigh common sense. Ami furthers this point, citing her own self-restraint when she discovered something unsavory and wondering why Uta couldn't do the same and simply trust her. She dismisses their excuses and further presses each point previously mentioned, asserting that she is the only one truly capable of caring for Sensei as she has experienced – The man all the class is so accustomed to is only that way because she helped him \"conquer his fears\" and now she'll have to start all over because of tonight. Rather than inflicting any sort of punishment, though, Ami tells the two to leave by the count of ten, citing Christmas spirit and generosity. The two girls are unable to fight back as they're driven out of Sensei's house, Uta pleading with Ami to treat him well. Io and Uta stand outside Sensei's house, freaking out about how creepy Ami was being, having further solidified their beliefs that Sensei needs to be saved. Without any idea of how to do this, especially with Ami now on high alert, the two return home.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji",
+            "Uta Ushibori",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Rhythm of a Black Heart",
+            "event_script_names": "springtime17",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "senseifishbed"
+        ],
+        "music_tracks": [
+            "iamhome.mp3",
+            "stopwind.mp3",
+            "thingsthathurt.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Your Blood in Spring",
+        "next_event": "You & Me Against the World"
+    }
+}

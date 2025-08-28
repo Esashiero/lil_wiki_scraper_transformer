@@ -1,0 +1,49 @@
+{
+    "event_id": "with_her",
+    "event_title": "With Her",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=With_Her",
+    "event_type": "Event",
+    "primary_character": "Tsuneyo Tojo",
+    "chapter": "v0.29.6",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" A Day in the Life \" . This event belongs to an event chain started from \" To Catch Me If I Fall \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Old District"
+        ],
+        "synopsis": "Since he doesn’t have Tsuneyo ’s number, Sensei decides to give Molly a call to get the number from her. Once he dials it in, he doesn’t get a ring tone and so he decides to look for her at one of her two usual hangout spots. While the archery range is closer, he thinks he has more luck finding her at Tojo Ramen. Fortunately, he finds her standing on a bridge in a familiar way . When he joins her, she tells him that something feels off, wonders if it will rain soon and worries about the implications this change could bring. He asks her if something happened at her ramen shop, but she admits that she hasn’t returned to the shop yet and that something made her stop here. She wonders if he was looking for her and apologizes that she can’t serve him now. Sensei doesn’t mind since while he was looking for her, he doesn’t need her services, which confuses her, because there should be no other reason for him to look for her. He asks if she would come to a slumber party at his place, but she doesn’t think that this is a good idea, because the one time she did that ended strangely even when they had a nice moment together, though Sensei doesn’t remember it happening. Tsuneyo decides to leave, but instead decides to take the day off, especially since business has slowed down recently, and wants Sensei to accompany her. Sensei jokingly states that he would gladly take her out on a date, which she accepts in an honest manner, causing a conversation that confuses him more and more due to the mixed signals she gives him during it. He gets out of this by stating that he thought that she would be uncomfortable going on a date with someone she doesn’t see in a romantic way, but Tsuneyo doesn’t see why this is an issue since dates don’t require romantic feelings and her opinion of him can change if both spend more time together. He calls her confusing for her outlook on this, but she thinks that he’s confusing since he is stalling when both could already enjoy their “date”. As they leave, Tsuneyo gives him another view he has seen before .",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": [
+            "This event will only autoplay after A Day in the Life if Sensei chose to call Yumi first during Approximation . Otherwise Two Months of Nothing will autoplay following the last Tsuneyo event."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "With Her",
+            "event_script_names": "tsuneyoslumber1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsuneyobridge"
+        ],
+        "music_tracks": [
+            "blueair.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Things Like Stairs",
+        "next_event": "Stripped Away"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "event_id": "i_really_want_to_stay_at_your_house",
+    "event_title": "I Really Want to Stay at Your House",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=I_Really_Want_to_Stay_at_Your_House",
+    "event_type": "Invite Event",
+    "primary_character": "Noriko Nakayama",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "40 Noriko Affection You must have seen or permanently missed the following Events: Seen \" Dotted Line \" from Noriko Nakayama Seen \" Salmon Onigiri \" from Kirin Kanda",
+        "to_get_this_event": "Invite over Noriko after all Requirements have been fulfilled.",
+        "to_miss_this_event": "Choose \"Yes\" during No One Can See Us and fail to correctly answer the prompts at the beginning of the event. Replaced by CONSUMED BY THE OLD ONE",
+        "choices": [],
+        "effects": [
+            "If Somewhere is skipped: +10 Ami Affection",
+            "+10 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Living Room",
+            "Sensei's House - Sensei's Room"
+        ],
+        "synopsis": "Feeling the time is right, Sensei calls Noriko , inviting her over so they can follow up on their talk . Over the phone she expresses some nervous excitement but remains sure of her decision, beginning the walk over. Noriko arrives in the middle of one of Sensei's \"blackouts\", snapping him out by calling him by name. She briefly expresses concern for him, but he assures her that he's fine. After once again confirming her decision, the two head into Sensei's room to be alone. While sitting together on his bed, the two are suddenly startled by a loud knocking on Sensei's bedroom door. The voice from the other side quickly confirms that Ami has come home earlier than expected, and is asking to be let in. Noriko suggests she book it out the window, but after being informed it's stuck shut, she rushes into the closet to hide. All the while, Ami continues to incessantly knock at the door. After confirming Noriko is well hidden, Sensei lets Ami in. Acting uncharacteristically, she warns him that he shouldn't take so long to respond to her knocks, because it makes it seem like he's hiding something from her. When he remains silent, Ami asks if he is hiding something from her. He claims he's not, but she doesn't believe him, having been listening in from the other side of the door. He comes up with another excuse, but when he fails to prove himself, she accuses him of hiding someone in his room. Sensei tries to convince her that's ridiculous, but Ami takes the opportunity to begin snooping around his room. She looks in a variety of places with faux-ignorance, all the while Sensei tries to get her to leave. When she refuses to back down, and eventually heads towards his closet, he gets more desperate, reassuring her that he wouldn't hide anything from her. She looks him in the eye, reminding him that just because she loves him, that doesn't mean she'll believe everything he says – She has limits and, recently, it seems to her that Sensei's been pushing them today. From here, the event diverges depending on Sensei's choice during No One Can See Us :",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "Despite marking the event as missed, failing to correctly answer the prompts at the beginning of the event do not prevent you from retrying it. Sensei can simply invite Noriko over again the following day."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "I Really Want to Stay at Your House",
+            "event_script_names": "norikoinvite3",
+            "event_missed_name": "CONSUMED BY THE OLD ONE"
+        },
+        "backgrounds": [
+            "norikotime"
+        ],
+        "music_tracks": [
+            "moyo.mp3",
+            "acoustic.mp3",
+            "amiawake.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Dotted Line",
+        "next_event": "Somewhere"
+    }
+}

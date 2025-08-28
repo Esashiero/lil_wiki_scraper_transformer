@@ -1,0 +1,55 @@
+{
+    "event_id": "sensei_quest",
+    "event_title": "SENSEI-QUEST",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=SENSEI-QUEST",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.44-0.16",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Kittens \" . This event belongs to an event chain started from \" Rubik's Cube \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "SENSEI-QUEST - Game World"
+        ],
+        "synopsis": "Sensei gets asked to help test the best video game ever to be released. No affiliation with RAID: Shadow Legends . In order to beat the game, Sensei is tasked by Meowri, a familiar-looking cat girl, to gather the four elemental orbs and bring them to her house.",
+        "participating_characters": [
+            "Sensei",
+            "???",
+            "Fred",
+            "Kenji",
+            "Niki Nakayama",
+            "Sekai Arakawa"
+        ],
+        "trivia": [
+            "If Sensei meets the requirements, he can unlock a bonus area where he can face Fred, the game developer who acts as the game's super boss. If Sensei can beat him, he's rewarded with a memory of his past with Niki and Sekai ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "SENSEI-QUEST",
+            "event_script_names": "halloweenfive7",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "gameworld"
+        ],
+        "music_tracks": [
+            "8pox.mp3",
+            "8aloelite.mp3",
+            "8faster.mp3",
+            "amiawake.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.44."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Four Walls, A Garden",
+        "next_event": "Restart"
+    }
+}

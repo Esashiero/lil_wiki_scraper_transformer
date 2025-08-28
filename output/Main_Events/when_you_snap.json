@@ -1,0 +1,67 @@
+{
+    "event_id": "when_you_snap",
+    "event_title": "When You Snap",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=When_You_Snap",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.33.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Boner on the Bus \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "The class arrives at the beach, with Imani taking roll call since a few couldn’t take the bus they did. Sensei , meanwhile, is thankful that Wakana is one of them as it allows him to enjoy \"living\" for a bit longer. He quickly gets lost in his thoughts, though, as he contemplates the validity of both growing as a person and choosing not to grow at all. It's as these thoughts sink deeper and deeper into his usual pessimism that the heat starts to get to him. He's brought back to reality by the final arrivals and awards himself a point for avoiding thinking. Makoto and Uta , both acting as their respective floor captains, begin to explain the itinerary for the Dorm Wars – The contests will begin in the evening, leaving the girls some time to relax until then, except the contestants for the hugging contest which will begin once Makoto explained the rules for it. She also takes the opportunity to further elaborate on her contest idea, explaining that Noriko or Maya hugging Sensei will net their respective floor two points. Uta wraps up the speech by announcing two contests for today and a midnight pillow fight in the second floor's room. The girls all across the beach talk amongst themselves about the announced plans:",
+        "participating_characters": [
+            "Sensei",
+            "Uta Ushibori",
+            "Molly MacCormack",
+            "Ami Arakawa",
+            "Makoto Miyamura",
+            "Chika Chosokabe",
+            "Yumi Yamaguchi",
+            "Noriko Nakayama",
+            "Maya Makinami",
+            "Io Ichimonji",
+            "Miku Maruyama",
+            "Otoha Okakura",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Nodoka Nagasawa",
+            "Molly MacCormack",
+            "Tsuneyo Tojo",
+            "Ayane Amamiya"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on Sensei's choice during Our Time Atop This Mattress . If Ayane was chosen, Chika fills her in on her plan for Sensei and asks for her cooperation. She agrees but shows a level of aggression and eagerness that scares Chika away, though she promises to give her a call once she’s ready. If anyone else was picked, Chika just wants a second opinion on her appearance for the contest.",
+            "If Ayane was chosen, Chika fills her in on her plan for Sensei and asks for her cooperation. She agrees but shows a level of aggression and eagerness that scares Chika away, though she promises to give her a call once she’s ready.",
+            "If anyone else was picked, Chika just wants a second opinion on her appearance for the contest.",
+            "A new picture message from Niki will be available following this Event."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "When You Snap",
+            "event_script_names": "beachwars2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "beachwarshello"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.33."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Boner on the Bus",
+        "next_event": "Until My Back is Broken"
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "event_id": "the_room_with_clocks",
+    "event_title": "The Room With Clocks",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Room_With_Clocks",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "First",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" Not Even Me \"",
+        "to_get_this_event": "Knock on Room 5's door.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "The Room With Clocks"
+        ],
+        "synopsis": "There is a room with clocks covering every wall. In the corner, a girl, 61 6d 20 69 20 6f 6b 61 79 , stands in the corner while Sensei looks down, finding himself strapped to a chair composed of twisted, rotten wood. In the chair, a colony of termites crawls all around, devouring the chair and soon his skin. The girl turns around and welcomes Sensei to \"the edge of the world\". Sensei tries to get closer to her, but she \"becomes an ornament\" and is permanently out of his reach. As he takes a look down, the girl is replaced with a variety of people and objects. At last, 61 6d 20 69 20 6f 6b 61 79 returns to him. She leaps into his face and begs him to go with her somewhere else. Sensei asks for help freeing himself, but the girl only begs him to try harder himself. Confused by her urgency, he tries to get answers from her, but she suddenly informs him that \"it's too late\". One final time, the room changes. The clocks have vanished, and Sensei is free. He approaches the center of the room and finds an egg atop a pedestal. Saying a prayer, he devours the egg whole. As he steps forward, he finds a door obscured by a curtain. The cloth slowly rises and from behind it steps out a girl with a daisy pin. She tells Sensei to smile - He tries his best to. Suddenly, Sensei is home. He goes to bed.",
+        "participating_characters": [
+            "Sensei",
+            "61 6d 20 69 20 6f 6b 61 79",
+            "79 6f 75 64 69 64 69 74",
+            "Teacher"
+        ],
+        "trivia": [
+            "Regarded as the first full scene of Lesson in Love's psychological horror element, this event is a common breaking point for new players.",
+            "Near the end of the event, the track \"undoitall\" plays. Overlaid is a series of text-to-speech messages. A transcript of these can be found below: \"This a test of the emergency broadcast system. There is no need to panic. Any interruptions you might experience, included but not limited to, visual disturbances, heightened senses of spirituality, or the changing of seasons, can simply be ignored. Everything is fine. Please continue to look up.\" \"The coarseness of the ground upon which you sit tears microscope holes in the fabric of a young girl's dress. It captivates you, like an unobscured horizon, or a beautiful bird you are seeing for the first time; A heron comes to mind. You find yourself pandering the difference light can make and why some things are so much prettier when left unlit. You forget this. Your mind goes somewhere else. You follow it. You end up in front of a well. You look down. But when your eyes make contact with the bottom, you realize that it is you that you are looking down upon.\" \"When you blink, you are back at home. Safe and sound. Perhaps it is time to start wearing denim.\"",
+            "\"This a test of the emergency broadcast system. There is no need to panic. Any interruptions you might experience, included but not limited to, visual disturbances, heightened senses of spirituality, or the changing of seasons, can simply be ignored. Everything is fine. Please continue to look up.\"",
+            "\"The coarseness of the ground upon which you sit tears microscope holes in the fabric of a young girl's dress. It captivates you, like an unobscured horizon, or a beautiful bird you are seeing for the first time; A heron comes to mind. You find yourself pandering the difference light can make and why some things are so much prettier when left unlit. You forget this. Your mind goes somewhere else. You follow it. You end up in front of a well. You look down. But when your eyes make contact with the bottom, you realize that it is you that you are looking down upon.\"",
+            "\"When you blink, you are back at home. Safe and sound. Perhaps it is time to start wearing denim.\""
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Room With Clocks",
+            "event_script_names": [
+                "roomwithclocks"
+            ],
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "newroom"
+        ],
+        "music_tracks": [
+            "amiasleep.mp3",
+            "sweetvermouth.mp3",
+            "lessons.mp3",
+            "isingforyou.mp3",
+            "sanctuary.mp3",
+            "undoitall.mp3",
+            "maincharacter.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces The Room With Clocks (Original) )."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": [
+            {
+                "value": "61 6d 20 69 20 6f 6b 61 79",
+                "type": "Hexadecimal",
+                "translation": "am i okay",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "ようこそ！",
+                "type": "Japanese",
+                "translation": "Welcome!",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "元気ですか？",
+                "type": "Japanese",
+                "translation": "How are you?",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "幸せですか？",
+                "type": "Japanese",
+                "translation": "Are you happy?",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "ムラムラしてるの？怖いの？教えて。学びたい。学びたい。",
+                "type": "Japanese",
+                "translation": "Are you horny? Are you scared? Tell me. I want to learn. I want to learn.",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "何で?",
+                "type": "Japanese",
+                "translation": "Why?",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "何で? 何で? 何で?",
+                "type": "Japanese",
+                "translation": "Why? Why? Why?",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "家に帰りたい。",
+                "type": "Japanese",
+                "translation": "I want to go home.",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "mibxpb kl.",
+                "type": "Caesar cipher, shift 3",
+                "translation": "please no.",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "f....................ifhb fq...................",
+                "type": "Caesar cipher, shift 3",
+                "translation": "i....................like it...................",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "79 6f 75 64 69 64 69 74",
+                "type": "Hexadecimal",
+                "translation": "youdidit",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "i̶̛͇̪̇̅̂̍̔̀̚̚ ̴̻͉̣̗͇͓̭̝̈́ẃ̵͚̘͈͚̹̳͔̤͊͋̅̓̈͝ͅa̶̗̹̍̓k̴͎͇̩̘̞̱̙̝̉̕e̷̥̰̯̟̘̳͑́̍̓̏̃͋ ̸̠̮̂̈́́̓́̔͘͝ú̵̧͚̰̩̮̇̑͗ṕ̵͈̘̦͗͗̈̆̅͝ ̸̨̼̝͈̂̉̈́͂i̴̝̻̠̜̠͍̬̤̇̽̆̉͌̕͝n̸̨̲͖͕͚̝̣̤͌͂̕͜ ̵͈͕̹̖̾͆͜a̵̢̩̰̱̰͈̤̒̔͒́̈̒ ̶͍̳̦͓̫͙̠̈́͗̍͐͝͠ȓ̵̢̳̫̄̍͑̃͊̉̉͠ô̸̢̮͚̮̮͇͑̄͐͋͋͛̕͝ͅo̴̰͖̝̜̤̝̦̠͈͝m̸̘̑̑̚ͅ ̸̡̤̝̈̀̊͜͝w̴̹̹̙̹̏̓͊̉̚͝î̴̙̘͍͔̓́͑̀͆͗̏͝t̷̢̛̛͓̮̰͑́͒͌͝ḣ̴̢̢͈̤̻̯̱̖̈̈́̓ ̷̡̢̘̜͚͇͗̇̒c̵̜̥̪̫͔̍l̸̞̟̼͉͈͓̈́̐̓̑̄̃̓̏ŏ̵͔͇͓͙̫̐́c̶̛̲̲̖̐̓͜k̴̨̡̖̮̠̮̭̀̃̈́̊ś̶̨̛̝͊̀̔",
+                "type": "Visual artifacts(?)",
+                "translation": "i wake up in a room with clocks",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "í̴̙͇̪͍̰̣̜̥̹̚t̴̢͕̳̖̲͙͚̲̊̾̾́̐̔̀̾̍ ̵͍͇͑̽͑̌̈́̾͛͘ḣ̵̢̗̥͈̪̂u̸͎̟̭͑̎̉͋̍̍͝r̷̻̰̗͇͌͋ṭ̶̡̢̢̘̭͎̻̺̓͑̈̾̑͋̒s̷̨̱͔̯̽̑̄́̀̉̍͆͆\"",
+                "type": "Visual artifacts(?)",
+                "translation": "it hurts",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "i̷̧̺̤̦̻̭͑̓͝ ̵̼͉̂́ẉ̴̳͇͓̭̅͊̆̉̃̉̎̏̎͜â̸̛͚̐̀̇̈́̓̀ņ̶̠̺̲̫̯̱͇̿͌̄͝t̸̙͈͓͐̓̿ ̴̯͗̄͛t̷̹̖̘̉͐̔͜ő̸̢͇͓͚̙͖͇́͆̔̓̕ ̸̮̪̗͎͔͍͊̂͛̆́g̸͇̘̜̅̍̃̎̆͌̿͝͝ȏ̵̡̗̩̜̱͓̞̄͊͌̿̄̀͘͝ ̷̨̝͖͔̩̰͜͝h̵̟̲̘̜͔̤̗̖̄̈̀̇͜͝ǒ̵̡̡͇͎̩̫̗̪̮̏̔ḿ̵̡̡̠̦͔͚͍̰̑̍̐̃̎̚͠e̷̺̟͔̱̽̓͒͆",
+                "type": "Visual artifacts(?)",
+                "translation": "i want to go home",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "į̷̝͕̼͚͙̪͇̀̓̑͂̌̂ ̷̡̜̟̈́̑̑̓͗̈́̍s̸̖̮̈́̇̅̉͌̎́̑ę̸̠̭̼͍̰̫͋͒̂͛̈́ę̵̢̨̢͚̮͓̐̽̂͜ ̶͕̀́͌́́̚͠m̴͍̞̳͖̦̎̇͒̿͑̆͗̕y̴̟͛̀ŝ̴̢̡̢̪͖͖̳͙͔̿̊̒e̴̹̝̲͋̓͂̽́͒̉͝l̵͖̠̣͎͈̲͊̀͋̄͂̊͗̀̕͜f̷̬͍͙͖̝̀̀̽́͝",
+                "type": "Visual artifacts(?)",
+                "translation": "i see myself",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "í̴̬̤̮̭̪͗̔̃ ̷̢̢͚͔̬͗̿̎̓̓̈́̓͝d̷̰̦̖̹̤̕o̶̡̬͎̻̠̮̎͑̉͜ͅn̸̤̄̃̑͛̒'̷̢͙̱̖͚̗̥̻̼̿̅̀̈́͐ţ̸̪͎̘͓͑̅̈̅̅̏̈́̚ ̸̨̠̪̮̪̹̈́̅̕͘͠ļ̷̮͖̬̪̍͒̋̾̕͜͝i̵̫̪̗̙̰͖̫͕͂̉̈́̽͑k̵̝̟̉̅ḛ̶̢̱́̓̔͐̆̏ ̷̬̻̰̣̗̝̑̓̂͛͒͘͘͜i̸̯̗͚̩̫̐̊̿̈t̸̢͕̭̲̞̓̈͛̔̏̋̈́͊̆",
+                "type": "Visual artifacts(?)",
+                "translation": "i don't like it",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "ḯ̶͖͓̉t̸̛͚̳̗͑͆͗̾̓̕ ̸̢̞̗͔͓̰̎͒͆ȑ̵̛͕̠̜̣̣̬̂̏͜͝ȩ̵̨͙̩̳̻̝̭̱͐̍͂m̵̡̢̪̋̐̇̕͠͝i̴̡͎̫̰̒̒̉̓̈́ͅń̵̢̞̩̖̣̰̟͋̈́̂̕͜d̴͉̫̦̰͙̮̘̮̎̎s̶̥͋̓̀́̾̌͘͝͝ ̶̢̨̰͖͖̲̞͖̓̈́̑̿͛m̶͓̘̳̐̇̆̀͝e̸̛̗͚̖̤̬̥͗̊͆̂̎",
+                "type": "Visual artifacts(?)",
+                "translation": "it reminds me",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "l̸͎̥̲̓͊͝͠ȩ̵̛̳͓̌̈͐̅̕t̶̫̩͎̱̖̠̦̜͈̎̉̓̉̔̎̆̚ ̷͈̟͖̑͆͊̚͠m̵̞̫͈͇̗͈̣̎e̴̡̬̮͛̃̓̌̀̽̒͑ ̴̢̲͉͚̜̰͙̔̓̽̉̆̌̃ͅf̵̤͛̕ǫ̶̤͉͈̆̇̋͒͝͝r̷̟̘͉̥̹̋̈́͌̈́̊ǵ̶͕̓̂̊̑̀̈͂͒e̵̤̓͊̀͗͝t̷̮̝̠̥̼̠̟̀̽͑̐͗̽̎͘͘",
+                "type": "Visual artifacts(?)",
+                "translation": "let me forget",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "m̴͇̞̪̉̃͐͂͠a̷̢̬̦̼͋̋͛͘ͅk̴̯̟̙̝͕͔͖̗̍͋͝e̷͓̱̓̂̀̿ ̶̩̥̱͉̼̘̩̅ï̴̘̦͊̊͗t̶̜͙͙̘̱̺͉̜̤͗̽̒̊̂͐͝͝ ̸̢̡͖͖͓͇̫̰̏̎ş̵̧̰̳͈̦́͗͛ͅt̶͕̜̳̗͈̆̓̿̚ọ̴̢͌̓̏̓̓͝p̸̯͈̙̳̫̰̊͛̚",
+                "type": "Visual artifacts(?)",
+                "translation": "make it stop",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "P̷͔̜̩̠̐̔̆̑͘Ē̸̥̰̙̝T̴͈̟̙̬̪̰͇̥̰͂ ̴͙͊́̽̓̔̑̕͝T̶̛̯͙̿̑̓H̴̬̥͔̰͇̤̠͗͗̏͛̃Ȩ̸̺̽́̅ ̸̰̳͇͗̂͂̅̋͛C̸̺̞͔̫̬͂A̴̻̯̥̹͝Ț̵̲̦͐̌̌̒̔̉͂̀͠",
+                "type": "Visual artifacts(?)",
+                "translation": "PET THE CAT",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "ṷ̶͕̜̤̻̣̍͛̈́̓̔͌͜͜ṅ̷̞̺̟̳͇̥̥̰t̴̛͎ą̸̞͙̰͕̣̖̓͛͜ͅņ̸̠͕̙̙̹̣̘̄̇̀̃́̃̆͜g̴̡̧͇̞̪̜̫̫̉l̴̪̫̉ͅe̷͔̻͎̓̈́̓̑̌̈́ ̴̥͂͊̀̿̃̚͝͠ḿ̵̛̛̦͈̙͂͘ę̷̤͈̻̘͙̉̅̒͂̌̓͛ͅ",
+                "type": "Visual artifacts(?)",
+                "translation": "untangle me",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "m̴̩̭̪̽̀͒̈́̃̚a̵̢͓̗̝̲̻͋͑̏̈̾̚k̵̞̯͕͎̫͗ĕ̷̞̤̜̠͛̈́̍̏͗͑̚ ̵͇̞̞͍̯͘͜m̷̢̳̈́͊̊̔̉̾́̀e̶̡̻͕̠͔̗͎̾̈̔͆̅͌̓ ̴̲͙͈̲͂̌͒̇̌͒͝f̵̟̤̙̘͈̲͛͑̈́͘͝ē̷͓̜̘̙̘̻̝̪̻̆̉̐̏̑͝e̶̪̠̬͎͎̠͌̀ĺ̶̡̢̨̹̳̗̱͒͐̉͝",
+                "type": "Visual artifacts(?)",
+                "translation": "make me feel",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "qefp fp lkiv qeb ybdfkkfkd. qefkdp tfii lkiv dbq tlopb colj qefp mlfkq lk.",
+                "type": "Caesar cipher, shift 3",
+                "translation": "this is only the beginning. things will only get worse from this point on.",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "alk'q illh xq fq afobzqiv. alk'q illh xq fq xq xii.",
+                "type": "Caesar cipher, shift 3",
+                "translation": "don't look at it directly. don't look at it at all.",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "fqp exkap xob cxhb. fqp bvbp xob cxhb. lkiv qorpq vlro ltk.",
+                "type": "Caesar cipher, shift 3",
+                "translation": "its hands are fake. its eyes are fake. only trust your own.",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "qebob fp kl dla. dla fp abxa. tb'ob qeb lkiv lkbp ibcq.",
+                "type": "Caesar cipher, shift 3",
+                "translation": "there is no god. god is dead. we're the only ones left.",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "ebv. ebv. illh xq jb. tfii vlr qorpq jb? tfii vlr qxhb jv exka? tfii vlr ifpqbk bsbk tebk vlr alryq jb? mibxpb. mibxpb. ebv.",
+                "type": "Caesar cipher, shift 3",
+                "translation": "hey. hey. look at me. will you trust me? will you take my hand? will you listen even when you doubt me? please. please. hey.",
+                "appearance": "1. ???? :)"
+            },
+            {
+                "value": "pxv pljbqefkd. pxv pljbqefkd.",
+                "type": "Caesar cipher, shift 3",
+                "translation": "say something. say something.",
+                "appearance": "1. ???? :)"
+            }
+        ]
+    }
+}

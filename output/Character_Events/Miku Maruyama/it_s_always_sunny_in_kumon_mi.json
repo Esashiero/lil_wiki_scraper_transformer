@@ -1,0 +1,51 @@
+{
+    "event_id": "it_s_always_sunny_in_kumon_mi",
+    "event_title": "It's Always Sunny in Kumon-mi",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=It%27s_Always_Sunny_in_Kumon-mi",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Miku Affection",
+        "to_get_this_event": "Visit Miku at the Soccer Field after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Soccer Field"
+        ],
+        "synopsis": "Sensei heads to the soccer field relatively early, and becomes absorbed in an inner monologue until Miku calls out to him. She asks him if he had come to watch her practice, and he affirms this. Sensei remarks on the weather and how it would affect Miku's consistency in showing up to practice, and she finds it weird as well. She remarks on a comment Sensei makes about his time in Kumon-mi, and hypothesizes about a body-swap scenario, telling Sensei Makoto would be very disappointed to find said thing out. Sensei tries to make a suggestive comment, but it flies completely over Miku's head. After a bit of banter over the team and the fact they haven't yet arrived, and a bit of a slump where Miku becomes sad about not having a big butt, Sensei steers the topic to why Miku wants him to become the coach for the team , and she says the last coach became pregnant and couldn't teach, and that the team will be disbanded if they don't find a new one. Miku becomes scatterbrained for a lengthy period before Sensei focuses the topic back onto soccer, but Miku comments that eventually, she'll hit her growth spurt and be as big as Futaba . Sensei tells her to aim for someone closer to Rin 's size, as Futaba is excessively large for someone her age and entirely unrealistic as a goal. Through a weird conversation that tails off of Sensei mentioning how he'd thought about stopping at the cafe, Sensei finds out that apparently Makoto has been paying Miku to talk her up to Sensei. After a discussion about Miku's future, where she resolves that she'll be okay with whatever happens so long as she's happy with the path she chose, the rest of the team starts rolling in, and Miku departs from Sensei, bidding him farewell to practice with the team, and Sensei leaves to go about his day.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama"
+        ],
+        "trivia": [
+            "Miku's body swap scenario mentions a teenage boy from the city changing places with a country girl, which is most likely a reference to Makoto Shinkai's Your Name .",
+            "This Event is the first time in the game Sensei references how long he's been in Kumon-mi (a dynamic flag in the game's files calls the current day number)."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "It's Always Sunny in Kumon-mi",
+            "event_script_names": "soccer5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "soccerfive"
+        ],
+        "music_tracks": [
+            "highspeedprinter.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Caramel Marshmallow )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Behind Closed Doors",
+        "next_event": "Broken Bones"
+    }
+}

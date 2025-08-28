@@ -1,0 +1,53 @@
+{
+    "event_id": "from_the_desk_of_the_ninth_god",
+    "event_title": "From the Desk of the Ninth God",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=From_the_Desk_of_the_Ninth_God",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.32.1",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after All For You .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Living Room"
+        ],
+        "synopsis": "Someone tells a story: It's a story about two things. It's a story about a light and a seed, and how them interacting leads to the present. It's a hard story to follow, the narrator explains, but the moral of it is that we only exist because of a very specific set of circumstances. The narrator explains that people are fragile, and how all it takes is one small mistake for them to disappear – A mistake that can occur regardless of their actions since there are things constantly happening around them, some of which impact what can and will happen to them. As such, they suggest we should cherish the dark, as, if there were dark, there never would’ve been a light or seed, and nothing would’ve existed in the first place. In a world where everything you've ever known never existed, there'd be no regret or anxiety, nor pain and the longing for answers. The narrator laments how the dark was killed off by the light, and how much better it'd be to never exist at all. They ask one last question to the listener: \"What is it you keep in your pocket?\" Sensei wakes up at the sound of his doorbell going off. Stepping into the living room, he finds Ami and Maya in the middle of an argument, with Ayane awkwardly standing off to the side. Maya's furious at Ami's facetiousness, trying to have a serious discussion about last night's events . Upon seeing that Sensei's awake, all three girls turn their attention to him, with Ayane quickly retreating to his side. Ami and Maya continue to argue, with both sides insisting that it was the other one who ditched their meeting. Maya finds this ridiculous, especially once Ami insists she called her to the Old District , something Maya would never do because she’s apparently unable to go there. Ami demands an answer for this strange rule and when Maya refuses to answer, decides to begin playing a spontaneous game of back-and-forth confessions. Meanwhile, Ayane continues to stick to Sensei's side, visibly terrified but concealing said fear by claiming she just has a headache and needs her \"daily dose of Sensei\". More annoyed, Maya tells Ami to stop treating their conversation like a game. Ami considers this an insult, especially when Maya and Ayane have been the ones purposefully leaving her out of meetings. She accuses them of trying to take Sensei away from her, an assertion she tries to get him to agree with. Sensei simply tells Ami to knock off the yelling as Ayane is clearly scared. Ami finds this ridiculous and tries to speak to Ayane herself to get a clear answer. Maya intervenes, leading to another argument between the two that's only stopped when Sensei takes the blame for both her friends spending less time with her and asks Ami to put what happened behind her. He tells her that she shouldn't let a small misunderstanding ruin a relationship that's lasted years and that, if the two girls really didn't care about her, they wouldn't have come here at all. Ami relents and apologizes to everyone for causing a scene. After sending Maya and Ayane home, Sensei considers including Ami more when it comes to the reset, still having no clue why they shouldn’t and seeing it as a good way to keep her calm. He still can’t look past her behavior and decides to confront her once again about her overprotective behavior. To his surprise, Ami immediately agrees with his assertions that she's too clingy and wants to give him more space. She does, however, ask for a favor in return.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Ami Arakawa",
+            "Ayane Amamiya"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on Sensei's choice during No One Can See Us ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "From the Desk of the Ninth God",
+            "event_script_names": "amispecial50mainp2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "artpicture",
+            "onlyamimattersandeveryoneelseisdumb"
+        ],
+        "music_tracks": [
+            "itsingsinitssleep.mp3",
+            "pianomelancholy3.mp3",
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.32."
+        ]
+    },
+    "navigation": {
+        "previous_event": "All For You",
+        "next_event": "May the Winter Come"
+    }
+}

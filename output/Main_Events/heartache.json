@@ -1,0 +1,51 @@
+{
+    "event_id": "heartache",
+    "event_title": "Heartache",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Heartache",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.35.5",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Try Honesty \" . This event belongs to an event chain started from \" Eggside Octopus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kaori Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Route 69 Diner"
+        ],
+        "synopsis": "Noriko answers her phone, revealing it to be Niki on the other side; She has wrapped up a tribute livestream with Otoha and is hanging out with her, Kaori and Nao-chan at the Route 69 Diner. Niki tries to get her sister to pass along a message to Sensei , who's been ignoring her texts all night, but Noriko refuses to give her sister this edge and instead hangs up after a bit of light banter. Annoyed, Niki has Otoha reassure her, under the guise of this being part of her training for being a singer – Otoha doesn't buy this, though does half-heartedly comply. Seeing this, Kaori speaks up, wanting to know Niki's \"method\" for commanding her \"childspawn\". After clarifying that Otoha isn't her daughter, Niki advises Kaori to seek another opinion, as she doesn't intend to have children. Kaori's surprised to hear this and reveals that, after a recent kiss , she's worried she might end up becoming a mother of two should the \"her inside of her\" intervene again – Thanks to Nao's interference, she avoids revealing it was Sensei she kissed. After being filled in on a few more details about Kaori's mental state, Niki deduces that she's simply anxious about what will happen next in this sudden romance of hers. She tells her that, since Kaori and this mysterious lover obviously like each other, they should just enjoy their time together without worrying so much or they might risk overcomplicating things and being rash . Realizing what Niki's referring to, Otoha interjects with a cough. Kaori and Nao step away as the former gets a warning from the \"voice in her head\", leaving Otoha and Niki alone to finally discuss what happened between them during the last Christmas concert. Niki tries to give Otoha an out repeatedly but puts her foot down once she reveals that she told Sensei about the incident. She angrily deconstructs Otoha's crush, explaining it away as a product of her producers' countless attempts to market her to an influential demographic, and reminding her that she isn't the only one out there with such a childish fixation. Otoha struggles to respond, each of her attempts being quickly cut off and just as thoroughly broken down, leaving Otoha silent and upset. Niki asks her if she even wants to work in the music industry or is just using their tutoring sessions as an excuse to hang out. Otoha denies the latter but hesitates to commit to pursuing music. Niki reassures her she doesn't need to know for sure yet, but that if she does end up continuing, she'll need to stop getting so caught up in unrelated personal issues. Otoha agrees with this, and the two fall into an awkward silence. Kaori and Nao return, and, as the mood returns to normal, Niki decides they should play some games.",
+        "participating_characters": [
+            "Niki Nakayama",
+            "Noriko Nakayama",
+            "Otoha Okakura",
+            "Kaori Kadowaki",
+            "Nao-chan"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Heartache",
+            "event_script_names": "halloweenfour5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nikotohahalloween"
+        ],
+        "music_tracks": [
+            "samhain.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.35."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Try Honesty",
+        "next_event": "The King of Thebes"
+    }
+}

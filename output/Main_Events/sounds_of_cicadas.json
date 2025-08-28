@@ -1,0 +1,62 @@
+{
+    "event_id": "sounds_of_cicadas",
+    "event_title": "Sounds of Cicadas",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sounds_of_Cicadas",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.16.5",
+    "interactivity": {
+        "requirements": "Thursday You must be on at least Day  303  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Lives and Minds of Laymen \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Thursday on or after Day 303.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yasu Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Classroom"
+        ],
+        "synopsis": "Having taking a seat next to Ayane due to her feeling intimidated by Yumi , Touka uses the opportunity to tell her that she convinced her father to stop the acquisition of the dojo . Ayane is surprised to hear this, given that her trying to buy it and hire her instructor for private lessons would mean she was serious about it. Touka tells her she realized how important that place is for her, and while her upbringing may cause her to be a bit apathetic towards others, she doesn't want to be on bad terms with anybody and least of all her. The rest of their conversation is about their families respective business, Ayane's desire to get away from her family's wealth to live a simple family life, and her relationship with Sensei . Their discussion is interrupted when a strange white-haired girl enters the room and immediately starts to preach, causing confusion in most girls, except for Sana who's still traumatized by their first encounter and on the verge of tears. Sensei deduces that the girl must be Yasu Yasui , the last addition to his class, and, after observing her general behavior, can understand why none of her former teachers wanted to talk about her. He calls her by her name, and she acknowledges she was lying about having no name , asking how he intends to punish her for her sins. Most of the girls aren't enthusiastic about their new classmate, not helped by her wanting to guide everyone towards salvation, and Sensei tries to ask Maya for help, but she doesn't want do be anywhere near her. After some more cryptic statements, Yasu takes her place at Sensei's desk and introduces herself as a \"messenger of the one so commonly mislabeled\", tells them how everything was created by a light, how this light will let them see the truths of the world when they agree to look at it, and wants to know who will join her, only to be met with silence. She gives one final warning before her mood switches completely, at which point she makes a formal introduction like the last few minutes never happened, though the proclamation of her purity guarantees that her introduction ends up being weirder than Noriko 's introduction . With her introduction out of the way, she moves over to Touka's desk, and Sensei realizes that her body language tries to make her appear completely harmless, something she promised him she would be, yet he has a hard time believing this, because while she may be physically harmless, she is devastating on a mental and emotional level, proven by Sana's reaction towards her appearance. Yasu assures Touka that she's harmless and is looking forward to be her roommate, but Touka is terrified of her and tries to switch roommates, though, unsurprisingly, no one volunteers. Yasu is hurt by her reaction but accepts that she will have to continue to sleep in an alley or in the sanctuary, even if it puts her life at risk. Hearing this, Touka reluctantly accepts letting her stay until she finds a proper home, and Yasu is excited to have a slumber party with her. Yasu leaves the room after standing in the corner for fives minutes, and most of the girls manage to return to their usual behavior once school is over – Except for Touka, who now has even more things to worry about.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Ayane Amamiya",
+            "Yasu Yasui",
+            "Rin Rokuhara",
+            "Sana Sakakibara",
+            "Noriko Nakayama",
+            "Kirin Kanda",
+            "Makoto Miyamura",
+            "Yumi Yamaguchi",
+            "Nodoka Nagasawa",
+            "Otoha Okakura",
+            "Maya Makinami",
+            "Molly MacCormack",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sounds of Cicadas",
+            "event_script_names": "day303",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yasufirstday"
+        ],
+        "music_tracks": [
+            "normalday.mp3",
+            "stopwind.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Lives and Minds of Laymen",
+        "next_event": "Horses or the Whispers of the Dead"
+    }
+}

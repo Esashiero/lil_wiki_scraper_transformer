@@ -1,0 +1,50 @@
+{
+    "event_id": "sad_girl_special",
+    "event_title": "Sad Girl Special",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sad_Girl_Special",
+    "event_type": "Event",
+    "primary_character": "Kaori Kadowaki",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" To Die, To Sleep \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kaori Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Maid Cafe"
+        ],
+        "synopsis": "Sensei takes Kaori to the maid cafe to help her get over the loss of her hoped-for chicken friends. He enlists Ami and Uta to cheer Kaori up, although their efforts are hindered by their confusion about Kaori's experience and Kaori's confusion about maid cafes. Uta suggests that Kaori might like to try on a maid outfit, to Sensei's approval. Kaori ends up feeling a little better.",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki",
+            "Ami Arakawa",
+            "Uta Ushibori"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sad Girl Special",
+            "event_script_names": "kaoridate15p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kaorimaidcafe"
+        ],
+        "music_tracks": [
+            "maidcafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "To Die, To Sleep",
+        "next_event": "Clouds"
+    }
+}

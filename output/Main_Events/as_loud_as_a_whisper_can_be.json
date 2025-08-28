@@ -1,0 +1,52 @@
+{
+    "event_id": "as_loud_as_a_whisper_can_be",
+    "event_title": "As Loud as a Whisper Can Be",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=As_Loud_as_a_Whisper_Can_Be",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.11.1",
+    "interactivity": {
+        "requirements": "Monday You must be on at least Day  214  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Kadrillionbilliontrillion \" Seen \" Everlasting Love \" from Ami Arakawa Seen \" Maki Miyamura's Mom-Mode Mission \" from Maki Miyamura Seen \" Bluejay \" from Makoto Miyamura Seen \" One. Two. Three. \" from Miku Maruyama",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Monday on or after Day 214.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Classroom"
+        ],
+        "synopsis": "Maya is absent from class (or not, according to Ayane ) and Makoto is asleep. Molly and Tsuneyo report that they talked to the principal about keeping the class together next year — the answer was non-committal, and Sensei decides to ask Makoto if she knows more. When Makoto wakes up, however, she is behaving strangely — Sensei thinks that she hasn't had much sleep and has been crying. She claims to be the same serious, diligent girl as normal, but seems apathetic and reckless. Miku , very concerned for her friend, drags Makoto away to try to sort things out.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Molly MacCormack",
+            "Tsuneyo Tojo",
+            "Miku Maruyama",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "As Loud as a Whisper Can Be",
+            "event_script_names": "day214",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotoistired"
+        ],
+        "music_tracks": [
+            "normalday.mp3",
+            "stopwind.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.11."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Kadrillionbilliontrillion",
+        "next_event": "Two Wooden Doors"
+    }
+}

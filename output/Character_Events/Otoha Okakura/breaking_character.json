@@ -1,0 +1,52 @@
+{
+    "event_id": "breaking_character",
+    "event_title": "Breaking Character",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Breaking_Character",
+    "event_type": "Event",
+    "primary_character": "Otoha Okakura",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "20 Otoha Affection You must have seen or permanently missed the following Events: Seen \" White People \" from Otoha Okakura",
+        "to_get_this_event": "Visit Koi Cafe in the morning after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Otoha Affection",
+            "+1 Niki Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe",
+            "Basement"
+        ],
+        "synopsis": "Sensei enters the cafe to get his daily dose of caffeine and sees that Otoha keeps Rin company. With Otoha being back to her usual self, all three have a friendly conversation until Otoha needs to leave for her vocal lessons. Sensei, intending to come with her, orders one of Rin’s usual concoctions to go only to get exactly what he wants. He tells Otoha that he wants to spend time with Niki once her lesson is over, claiming that he would never hide anything from her . Otoha, aware of what he’s insinuating with this, gets nervous and makes an exit, though Sensei, determined to figure out what problem she wants his help with , follows her. Both arrive at the basement, only to notice that Niki isn’t there yet. Sensei tries to pick up where they left off, but Otoha deflects all of his attempts, resulting in Sensei annoying her. After failing to get another conversation started, the two sit in awkward silence on the nearby couch. He tries to press the issue one final time, and while Otoha resists at first, claiming that getting his help was a result of her being sleep-deprived and should’ve never happened, she eventually admits that whatever she's hiding is that bad. She confesses that it started from feeling too suffocated by people viewing Rin and her as a package deal, and not individuals, though this was only the starting point of her problem. Before she can explain what the real issue is, the power in the building suddenly shuts off with a loud bang, freaking Otoha out. She begs Sensei to take a look at the electrical breaker at the other end of the room. Sensei sees this as a bad idea, because he has no clue what he needs to look for or what to do, and her insistence of accompanying him would only end in a “cliched” way. While she doesn’t see this happening, his prediction was mostly accurate – The moment they stand up, Otoha falls over and lands on Sensei with the lights coming back shortly after as an infuriated Niki watches the scene, and while there was no accidental kiss, she landed near his waist. After Otoha informs Niki how they ended up like this, she acknowledges why Niki is suspicious of her. Sensei wants to know why, but Niki pretends like nothing happened and Otoha tries to change the subject. Niki gives her a stern warning and when Sensei makes a comment, she calls him by his real name. Sensei thanks her for giving Otoha another one of his secrets, while both girls don’t understand why he keeps his name a secret in the first place. Niki decides to cancel their lessons to remind Sensei who the only woman in his life is and makes out with him in front of Otoha, with Sensei holding himself back until she leaves. In the park, Otoha calls Rin and informs her that her lesson was canceled and that she uses the opportunity to relax at home.",
+        "participating_characters": [
+            "Sensei",
+            "Otoha Okakura",
+            "Rin Rokuhara",
+            "Niki Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Breaking Character",
+            "event_script_names": "otohadate20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "otohadarkness"
+        ],
+        "music_tracks": [
+            "brighterdays.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "White People",
+        "next_event": "This Curse Called Youth"
+    }
+}

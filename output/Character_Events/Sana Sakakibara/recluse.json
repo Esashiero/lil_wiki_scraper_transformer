@@ -1,0 +1,51 @@
+{
+    "event_id": "recluse",
+    "event_title": "Recluse",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Recluse",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Sana Affection",
+        "to_get_this_event": "Visit Sana at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - First Floor",
+            "School Dorms - Room 2"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorms and knocks on Sana 's door. When no answer is received, he feels compelled to knock a second time and verbally make his presence known, at which point Sana calls out to him from inside the room. The two debate over Sensei being allowed in, before Sana eventually caves and unlocks the door for Sensei to come in. After a quick greeting to one another, the atmosphere is overtaken by an awkward silence as Sana's never had a guy in her room before. Sensei is slightly indignant when she clumsily thinks he's not male for some reason. Sensei notices a couple game consoles sitting on Sana's desk and redirects the topic of conversation to that, and Sana comments that games have always been fun for her since she's not good with normal social interactions. She mentions how her mother has wanted her to step more out of her comfort zone, and tells Sensei about the types of games she plays, and Sensei asks her to not beat him too badly. Sana walks over to her bed, and admits she was initially very nervous about letting Sensei into her room, but that the nerves have begun to wear off, and after a bit off discussion about Sensei's purpose and Sana's shyness, Sensei decides to leave, and bids Sana farewell as he heads home to get to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei triggered the event on a Thursday."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Recluse",
+            "event_script_names": "sanadorm5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "smallredux"
+        ],
+        "music_tracks": [
+            "sweetvormouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces One Small Step )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Bare Minimum",
+        "next_event": "Supermom"
+    }
+}

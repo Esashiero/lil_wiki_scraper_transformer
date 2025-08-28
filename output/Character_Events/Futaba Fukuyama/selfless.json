@@ -1,0 +1,48 @@
+{
+    "event_id": "selfless",
+    "event_title": "Selfless",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Selfless",
+    "event_type": "Lust Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "v0.11.11",
+    "interactivity": {
+        "requirements": "10 Futaba Lust",
+        "to_get_this_event": "Have 10+ Futaba Lust before There is Nothing . Autoplays after Christmas Miracle .",
+        "to_miss_this_event": "Have less than 10 Futaba Lust before There is Nothing . Replaced by Loveless .",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "Sensei and Futaba stay behind when the other girls go out to see the fireworks. Futaba noticed Chika 's determination to have the bottle land on her , and although Futaba doesn't exactly like it, being with Sensei does make her happy, and she thinks it would be selfish to not want others to be happy as well. Sensei proposes a way to make it up to her before they go see the others.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Selfless",
+            "event_script_names": "futabalust10",
+            "event_missed_name": "Loveless"
+        },
+        "backgrounds": [
+            "futabalustten"
+        ],
+        "music_tracks": [
+            "asobeatsex4.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.11."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Overload",
+        "next_event": "Sonnet 18"
+    }
+}

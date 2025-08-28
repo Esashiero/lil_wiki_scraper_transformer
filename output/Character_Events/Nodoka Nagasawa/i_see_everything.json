@@ -1,0 +1,50 @@
+{
+    "event_id": "i_see_everything",
+    "event_title": "I See Everything",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=I_See_Everything",
+    "event_type": "Event",
+    "primary_character": "Nodoka Nagasawa",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Weekends or Monday 5 Nodoka Affection You must have seen or permanently missed the following Events: Seen \" Coloring Book \" from Nodoka Nagasawa",
+        "to_get_this_event": "Visit Nodoka's dorm room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Nodoka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 8"
+        ],
+        "synopsis": "When Sensei visits Nodoka , Otoha is about to leave to visit her parents — she warns Sensei that Nodoka is \"over caffeinated and barely attentive\" today, and wishes him luck. Nodoka looks tired, and her conversation is erratic. Sensei wonders if he should call an ambulance, but Nodoka insists that she is \"super fine\" and is now ready for a normal conversation. Sensei still finds the conversation exhausting, and eventually suggests that Nodoka find a mirror. She concedes that she looks like she \"crawled out of a well\", and talks about seeing beauty in horrible things. Eventually, she declares that she has figured something out and sends him away so that she can focus.",
+        "participating_characters": [
+            "Sensei",
+            "Otoha Okakura",
+            "Nodoka Nagasawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "I See Everything",
+            "event_script_names": "nodokadorm5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nodokanodokanodoka"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3",
+            "amiawake.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Coloring Book",
+        "next_event": "Beyond the Reach of God"
+    }
+}

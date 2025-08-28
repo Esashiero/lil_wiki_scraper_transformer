@@ -1,0 +1,52 @@
+{
+    "event_id": "della",
+    "event_title": "Della",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Della",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "v0.37.15",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Holden Caulfield \" . This event is the final event in an event chain started from \" Episcopalis: Pickled Plums & Polyrhythmic Psalms \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Living Room"
+        ],
+        "synopsis": "The human chest cavity can withstand, generally, up to 400 lbs of force before collapsing in on itself. Several factors can influence this number, leaving plenty of examples of exceptions. One such exemption was Giles Corey, who's likely to have withstood over 400 lbs of force during his execution. Whilst pop culture tends to gloss over this fact, the narrator insists they have the answer for this anomaly, claiming that Corey's body was home to a \"special worm\". This special worm, not wanting to die, used the power of prayer, built up through absorbing the piety of Corey, to call upon God for protection. This power helped prolong Corey's life but was ultimately not enough to save both their lives, the two being crushed under the weight of rocks. However, this wasn't the end for the worm, as its body decomposed with Corey's in the nearby river, allowing residual Holy power to leak out and infect the water. The narrator claims that everyone alive has now drunk the infected water, letting similar worms live inside everyone. Now, each prayer to God makes them stronger. Sensei steps into his home, finally ready to face Ami . To his confusion, though, he hears her singing a song to herself, horribly out of key and without so much as acknowledging his return. He stares at her with fear and concern, especially once she begins to recite the Christmas story she read for him two weeks ago. As evident by the scissors in her hand and the bundles of hair near her feet, Ami has snipped loads of her hair in this manic state. Terrified, Sensei tries to get Ami to hand him the scissors, but her manic state only worsens, circling around to anger as she reminds him of the rules of Kumon-mi. He tries to apologize and asks what he can do to make her listen but this only makes her angrier as she claims he never listens, citing her repeatedly ignored calls as proof he doesn't care about her. He tells her this isn't true and admits he was scared – Having just recovered from his comatose state, he suddenly found himself thrust into a situation which he had no answer for, and unable to think of a solution he resorted to running away. He reminds her that he's here for her now and that he will help the best he can. Ami insists she doesn't need help, something Sensei says is obviously not true. She retorts by claiming \"the worm\" is making her act this way. Sensei reaches for the scissors, making her extremely angry once again as she refuses to give them up, saying that she isn't \"done\" yet. Sensing the situation is getting more tense, he attempts to grab the scissors by force, causing Ami to stab him in the hand with the blades as she struggles against him. Working through the pain, Sensei tries to understand why all of this chaos is unfolding now, just as he's waking up to reality once more. This thought leaves his head as Ami, realizing she just hurt him, drops the scissors in shock. She tries to avoid blame for this, frantically explaining away her actions as those of \"the worm\" or as an accident whilst Sensei stares down at his bloodied hand, finding the sight familiar . Ami falls silent once her excuses run out, with Sensei trying to talk her through the situation and ask her what's wrong. He's unable to get a response as she falls silent, only muttering \"I want to be pure\" before falling to her knees. As he goes to dress his wounds, she begins to hyperventilate, seeming to have processed her accidental attack as proof of her failure. Mentally, Sensei reminds himself that it is not she who has failed, but him; He's failed her his entire life, being faintly more than a ghost of a true guardian. In the back of his mind, the person who's followed behind him speaks, but he ignores her presence. Ami begins to scream and cry, and Sensei rushes to her side and holds her close to comfort her. It's at this moment that Sensei realizes what tragedy Gossamer warned him of. Ami's put to bed soon after, but her crying and wailing never stops. Sensei falls asleep, unsure of what this next stage in his life will lead to.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Teacher"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on Sensei's choice during No One Can See Us .",
+            "The Japanese Ami repeats over and over during the Event can be romanized as \"Ya da\", translated as \"No way\".",
+            "After this event, the player can choose actions again, though the first week is spent taking care of Ami. Afterwards, only a few places and girls can be visited or interacted with."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Della",
+            "event_script_names": "amispring1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amihair"
+        ],
+        "music_tracks": [
+            "isingforyou.mp3",
+            "glasswalker.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Caretaker",
+        "next_event": "Every Day Birds (In Nothing But Blood)"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "event_id": "beyond_the_reach_of_god",
+    "event_title": "Beyond the Reach of God",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Beyond_the_Reach_of_God",
+    "event_type": "Event",
+    "primary_character": "Nodoka Nagasawa",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "15 Nodoka Affection You must have seen or permanently missed the following Events: Seen \" Glossolalia \" from Yasu Yasui",
+        "to_get_this_event": "Visit Nodoka's dorm room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Nodoka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 8",
+            "Old Kumon-Mi High School"
+        ],
+        "synopsis": "Sensei decides to visit Nodoka , but she’s going through another maniac phase . Sensei hesitates at first, especially after dealing with Yasu at her worst , but he remembers that she wasn’t wearing pants last time and enters her room. While Nodoka isn’t wearing pants, she completely trashed her side of the room and is more aggressive than before. She has a reoccurring dream about a mysterious girl and wants to know who she is and why she haunts her dreams. Sensei tries to reason with her, but she threatens to throw a coffee mug at him before going on a rant about what makes the world spin, mirrors and their reflection and how she wants to stop time to figure out her current conundrum. While Sensei knows someone who could do the latter, he isn’t sure if she can help her. Sensei tells her that he would like her more if she was nice to him and she demands his help if he wants her to be nice. He has no idea what she wants from him and she demands to go on an adventure to “uncover a thing”. Sensei tries to refuse, but Nodoka grabs his face and wants him to help her dig something up that’s “beneath their feed”. Sensei asks her if she’s on drugs, but she assures him that she’s only hooked on her thoughts before forcing him outside the room without putting pants on. Nodoka and Sensei end up near the old Kumon-Mi Highschool. He asks her why she brought him here and while she has no clue why here or where they even are, she feels like she came here for a reason. She recalls what she’s looking for and starts digging while Sensei does the sensible thing and calls Futaba for help. After giving her a summary of his situation, he sends her his location and decides to enjoy the view. Suddenly, the brown-haired girl with a daisy in her hair appears next to him and calls him out on his perversion. She teases him for a while before she notices that Nodoka has disappeared, only leaving a hole behind. Sensei decides to look for her, but the girl tells him that it’s pointless since too much time has passed already. Sensei points out that only a minute went by, but she tells him that it only felt like a minute went by. He gets a call from Futaba who hasn’t heard from him for a long time and informs him that he sent her an address from outside the barrier, proving the girl’s point. Sensei hangs up and wants to know who she is. Instead of answering, the girl asks him why he isn’t worried about Nodoka anymore and changes her school uniform into Nodoka’s casual clothes and mimics her behavior. She explains that they aren’t supposed to meet yet and only do because this place seems to bend some of the rules which prevent them from meeting. She also apologizes for not revealing her identity and further explains that he can’t know until later, because they have to follow a certain order. She looks forward to their next meeting and sends him back. Before he can reply, he was already sent back to the moment where Nodoka pushes him out her room, having no memories of meeting the girl. Sensei and Nodoka check the uninhabited floors of the dorm, but don’t find anything, so Sensei decides to go back home, feeling nostalgic as he passes some daisies on the way.",
+        "participating_characters": [
+            "Sensei",
+            "Nodoka Nagasawa",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Beyond the Reach of God",
+            "event_script_names": "nodokadorm15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nodokacrazy"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3",
+            "contemplation.mp3",
+            "sidecharacter.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .25p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "I See Everything",
+        "next_event": "So Far Below"
+    }
+}

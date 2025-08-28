@@ -1,0 +1,50 @@
+{
+    "event_id": "impossible_blossoms",
+    "event_title": "Impossible Blossoms",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Impossible_Blossoms",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Visit the Library on a weekend morning for the first time.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Library"
+        ],
+        "synopsis": "Sensei decides to head to the library to avoid the more lively parts of the town, and runs into Futaba , who is there volunteering as the librarian over the weekend, something she tells Sensei she does every weekend. After a quick bit of banter, Futaba goes to get her notebook, asking Sensei to review an assignment from the week before. Upon reading and examining the poem in question, Sensei gives his interpretation of the writer's thoughts and intentions. Afterward, Futaba asks him more about his new teaching method, and when Sensei elaborates on his situation a bit, he reminds Futaba to not just see herself as a student in his class anymore. She is worried about his reputation being damaged, and he points out there's no need to worry, as he doesn't have one due to the girls being the only people he actively associates with. Afterward, Sensei excuses himself, and after a couple rebuffed apologies from Futaba, he leaves to go about his day.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": [
+            "The excerpt Futaba asks Sensei about is from \"From Blossoms\" by American poet, Li-Young Lee."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Impossible Blossoms",
+            "event_script_names": "firsttimelibrary, chosepoem",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "blossomredux"
+        ],
+        "music_tracks": [
+            "morningmoon.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.1."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "Fan Fiction"
+    }
+}

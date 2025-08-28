@@ -1,0 +1,49 @@
+{
+    "event_id": "green_onions_and_contraceptives",
+    "event_title": "Green Onions and Contraceptives",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Green_Onions_and_Contraceptives",
+    "event_type": "Event",
+    "primary_character": "Tsuneyo Tojo",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after Like Noodles in the Wind",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Tsuneyo , Noriko Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Convenience Store"
+        ],
+        "synopsis": "Sensei and Tsuneyo arrive at the convenience store where Noriko works to buy some green onion. She finds the same products that Touka did, and inquires about them — Sensei's attempt to mislead her is foiled by Noriko. Noriko decides to close the store and accompany Sensei, Tsuneyo, and the onions back to Tojo Ramen. She mentions that her family also owns a restaurant, which Tsuneyo approves of. When they get to Tojo Ramen, Tsuneyo belatedly points out that it's closed now, and says goodbye.",
+        "participating_characters": [
+            "Sensei",
+            "Tsuneyo Tojo",
+            "Noriko Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Green Onions and Contraceptives",
+            "event_script_names": "ramen20p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikotsuneyocon"
+        ],
+        "music_tracks": [
+            "noriko.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.20p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Like Noodles in the Wind",
+        "next_event": "Unsleeping Aegis"
+    }
+}

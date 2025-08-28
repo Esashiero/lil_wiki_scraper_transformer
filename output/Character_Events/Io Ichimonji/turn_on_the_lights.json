@@ -1,0 +1,49 @@
+{
+    "event_id": "turn_on_the_lights",
+    "event_title": "Turn On The Lights",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Turn_On_The_Lights",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "10 Io Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" War's End \"",
+        "to_get_this_event": "Visit the Bathhouse at Afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Bathouse"
+        ],
+        "synopsis": "Yuki is talking to Io at the bathhouse, and has heard about her daughter 's win in the Dorm War . Yuki thinks that Io should make more of an effort to get along with people — Io disagrees and doesn't want to talk about it. However, Io is unexpectedly keen to exchange phone numbers with Sensei when the topic arises. After Yuki has gone, Io shows Sensei to the bath, saying if she talks to him (without looking at him) while he is warm and relaxed, he will be more inclined to put up with her. They talk about Yuki's past, about the desire to be forgiven, and about coping mechanisms.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji",
+            "Yuki Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Turn On The Lights",
+            "event_script_names": "bathhouse10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "bathhouseten"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .18p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Paperthin",
+        "next_event": "Amongst Other Things"
+    }
+}

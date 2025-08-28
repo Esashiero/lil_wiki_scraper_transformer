@@ -1,0 +1,58 @@
+{
+    "event_id": "talentless_talkative_trivia_turmoil_",
+    "event_title": "Talentless & Talkative! Trivia Turmoil!",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Talentless_%26_Talkative!_Trivia_Turmoil!",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.49(Super Mega Ultimate Heaven & Hell).6",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Dungeons & Divas! Normies Gone Nerdy! \" . This event belongs to an event chain started from \" Prepare for Battle! \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Library"
+        ],
+        "synopsis": "In the next contest, Yasu and Miku tested each other's intelligence and erudition. But as everybody have soon discovered, Miku was not too smart, and Yasu was too smart for her own good. Thus, the both have fought relentlessly for more than an hour, until everybody got tired of this. Eventually, Yasu answered one of the simple questions about members of the class, resulting in her victory. First Floor 1:2 Second Floor.",
+        "participating_characters": [
+            "Uta Ushibori",
+            "Maya Makinami",
+            "Yasu Yasui",
+            "Nodoka Nagasawa",
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Ayane Amamiya",
+            "Sensei",
+            "Touka Tsukioka",
+            "Imani Imai",
+            "Ami Arakawa",
+            "Otoha Okakura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Talentless & Talkative! Trivia Turmoil!",
+            "event_script_names": "dormwarsfive5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sky",
+            "mikuyasutrivia",
+            "black"
+        ],
+        "music_tracks": [
+            "summerwind.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.48.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Dungeons & Divas! Normies Gone Nerdy!",
+        "next_event": "Sweet Joy Befall Thee! Be Nice to Sensei Battle!"
+    }
+}

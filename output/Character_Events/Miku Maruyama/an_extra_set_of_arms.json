@@ -1,0 +1,50 @@
+{
+    "event_id": "an_extra_set_of_arms",
+    "event_title": "An Extra Set of Arms",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=An_Extra_Set_of_Arms",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "30 Miku Affection You must have seen or permanently missed the following Events: Seen \" Scaredy Cat \" from Miku Maruyama",
+        "to_get_this_event": "Visit Miku at the Soccer Field after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Soccer Field"
+        ],
+        "synopsis": "It's getting cold, and Sensei asks Miku what will happen to soccer practice when winter comes, but she isn't sure. Since nobody else is there, they sit and talk. There are things in Miku's past that are \"not really fun to talk about\", which she tries to push away. She steals Sensei's moment by anticipating his offer to help, and says that Makoto made the same offer. Sensei doesn't like the way she closes off her past, but Miku tells him to \"snap the heck out of it\" and adopt her positive outlook — if they're going to spend time with each other, she wants there to be smiles on their faces.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei has seen eother Politics! Pleasure! Ponies! or Prisoner ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "An Extra Set of Arms",
+            "event_script_names": "soccer30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikudayrun"
+        ],
+        "music_tracks": [
+            "highspeedprinter.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Scaredy Cat",
+        "next_event": "One. Two. Three."
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "event_id": "burden_to_bear",
+    "event_title": "Burden to Bear",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Burden_to_Bear",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.27.7",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" She Is \" . This event belongs to an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Futaba",
+                "effect": "+1 First Floor"
+            },
+            {
+                "context": null,
+                "option": "Noriko",
+                "effect": "+1 Second Floor"
+            }
+        ],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "Back with the rest of the girls, Molly interviews Kirin about her roommate 's date plans. Kirin remarks that, hopefully, Noriko ditched her romantic idea and went for something more direct. As the interview wraps up, Sensei arrives and announces the winner of the date war to Imani . After doing so, he begins to make his rounds. Maki and Miku quickly update him on the upcoming ‘Mom Mosh’, Otoha and Chika briefly fight about Otoha’s sudden passive-aggressive attitude towards Sensei, he creeps out Haruka and Sara , and is then shooed away by Touka . He approaches Ayane and Tsuneyo last, both of who are getting ready for the stand-up comedy contest. He confirms with Ayane if she still wants her ‘bonus reward’ if she wins before the three disperse. Imani takes the stage and kicks off the stand-up comedy contest by handing the mic off to Tsuneyo.",
+        "participating_characters": [
+            "Molly MacCormack",
+            "Kirin Kanda",
+            "Sensei",
+            "Imani Imai",
+            "Maki Miyamura",
+            "Miku Maruyama",
+            "Io Ichimonji",
+            "Uta Ushibori",
+            "Chika Chosokabe",
+            "Otoha Okakura",
+            "Sana Sakakibara",
+            "Haruka Hamasaki",
+            "Sara Sakakibara",
+            "Karin Kanda",
+            "Touka Tsukioka",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Tsuneyo Tojo",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Burden to Bear",
+            "event_script_names": "dormwartwo7",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "comedywar"
+        ],
+        "music_tracks": [
+            "lifeismostlygood.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "She Is",
+        "next_event": "Everyone"
+    }
+}

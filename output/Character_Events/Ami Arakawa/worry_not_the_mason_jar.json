@@ -1,0 +1,54 @@
+{
+    "event_id": "worry_not_the_mason_jar",
+    "event_title": "Worry Not, The Mason Jar",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Worry_Not,_The_Mason_Jar",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Run, Rabbit, Run (Why the Fieldmice Hide) .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi",
+            "Old District"
+        ],
+        "synopsis": "Sensei begins to walk home, along the way pondering over the inevitability of his up-to-then apathetic lifestyle being brought to an end as the number of tragedies in his life continues to pile up. He worries even more about how this will change him. As he manages to calm himself down, his phone goes off. Upon answering, Ami screams his name, panicking as she wanders around lost within the Old District. Sensei tries to calm her down but only ends up further aggravating her, deciding to shut up and start walking. Along the way, he begins to \"blackout\". After first seeing visions of his talk with Ami on the way back home from their last visit to the graveyard, he begins to speak to an apparition of Sekai. She teases him about his apparent discomfort, even offering to help alleviate it – This instead causes Sensei to begin yelling at her, begging to be left alone. She's shocked to hear him so emotional and eventually disappears after a bit more resistance. On the way out, though, she warns him that the way he's going about living won't ever help him get over her death and also informs him that he already knows where he needs to go to find a way to do so. After saying this, he snaps back to reality, finding himself in front of Ami, who's currently curled up on the ground and crying. As her tears start to dry up, he asks her why she went here in the first place. She tells him that Maya and Ayane invited her out here, but no one was there once she arrived, they didn’t answer her calls, and she began wandering around scared and confused. Eventually, the stress broke her and she took refuge near an abandoned shed. Sense tries to assure her that it's a misunderstanding, but she refuses to hear him out, seeing it as more proof that the two hate her. As she starts to cry again, he decides to call the two for answers but finds his phone is dead, wondering aloud how that's possible since it was fine when he left Kaori 's place. This makes Ami suspicious of his relationship with Kaori, which he insists is platonic before telling her to stop being so intrusive. After forcing him to admit he won't ever leave her, Ami asks for a piggyback ride home, not trusting herself to keep pace with him. He decides to humor her this time , feeling bad for her current condition. On their way home, Sensei thinks about how Ami functions as a dam for his worries and wonders if the wall around Kumon-mi has a similar purpose. After discarding the idea and instead focusing on his niece, Ami comments on how nostalgic the experience of being up on his shoulder feels, leading Sensei to believe he used to do this with her all the time. She negates this though, saying she only experienced it with her father as by the time he and her were pushed together, neither were in the state to have fun like that. Instead of going to the park or eating breakfast, Ami spent most of their early days taking care of him, trying to help piece him back together after the tragedy of her parent's death broke him. Over the years she tried many things, eventually realizing that what helped him the most was feeling safe. From then on, she dedicated her life to creating a life where he was comfortable, always cooking his favorite foods and filling his room with his favorite things, only wanting his attention in return. She understands that her demands for attention might be unreasonably high and apologizes, explaining that she's only begun to get more clingy as she fears losing him – So she asks him if there's anything she can do differently to keep him from abandoning her. He tells her to not worry about it, so she drops the topic, deciding all she needs in life is him. She asks if he feels the same, which he halfheartedly confirms. She forces a more sincere vow of loyalty out of him, before starting to laugh, amused at how obsessed she is with him.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on Sensei's choice during No One Can See Us .",
+            "The images of letters that flash during the event spell out the phrase \"LET ME OUT\" assuming the image of Jesus of Nazareth is a stand-in for the letter T.",
+            "During the scenes of Sensei carrying Ami home, passages from William Blake’s Songs of Innocence: The Chimney Sweeper are shown. The passages shown tell how the young chimney sweepers escape their horrible lives through death and how the one alive is soothed by being promised salvation as long as he does what’s expected from him.",
+            "The passages shown tell how the young chimney sweepers escape their horrible lives through death and how the one alive is soothed by being promised salvation as long as he does what’s expected from him."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Worry Not, The Mason Jar",
+            "event_script_names": "amispecial50",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "lostinaplace"
+        ],
+        "music_tracks": [
+            "undersea.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .31.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Mama's Girl",
+        "next_event": "Family Matters"
+    }
+}

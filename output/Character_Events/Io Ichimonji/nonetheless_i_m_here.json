@@ -1,0 +1,50 @@
+{
+    "event_id": "nonetheless_i_m_here",
+    "event_title": "Nonetheless, I'm Here",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Nonetheless,_I%27m_Here",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" Caterpillar \"",
+        "to_get_this_event": "Visit the Bathhouse at Afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Bathouse"
+        ],
+        "synopsis": "Sensei visits the bathhouse for the first time since Io transferred into his class. She tells him that she's starting to like the time they spend together, even if most of it is just her cryptically hinting at her backstory. Sensei suggests that she tell him more about herself, given her past comments about hating secrets, but Io says that even though secrets are bad, they exist for a reason. She doesn't want to talk about how she came to live at the bathhouse, only saying that she \"woke up and walked here\", but does say that it's not a bad place to be, even if she's \"just a visitor\".",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji"
+        ],
+        "trivia": [
+            "Depending on your path with Ami, you get a different flashback"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Nonetheless, I'm Here",
+            "event_script_names": "bathhouse1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "firstbath"
+        ],
+        "music_tracks": [
+            "io.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.12p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Viva la Revolución",
+        "next_event": "The Girl with the Dragon Tattoo"
+    }
+}

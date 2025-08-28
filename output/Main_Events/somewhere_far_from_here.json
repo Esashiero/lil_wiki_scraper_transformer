@@ -1,0 +1,54 @@
+{
+    "event_id": "somewhere_far_from_here",
+    "event_title": "Somewhere Far From Here",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Somewhere_Far_From_Here",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.27.13",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Misfit Maid Madness \" . This event belongs to an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Touka , Yasu Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi"
+        ],
+        "synopsis": "Sensei and some of his students are riding a bus towards the Tsukioka estate, the location of the next contest. He sits alongside Touka and Yasu , the former of which discusses with him Yumi ’s presence at the upcoming event. To his surprise, Touka's family is aware of Yumi's, with the two having mutual respect. While listening to her, he notices how she, like Tsubasa , thinks too much and becomes a different person when she speaks. She explains that, as an elegant woman, she only speaks when necessary and, as a result, observers most of the time. She says that he does it as well and feels like he would fit in well with her if he decides to adapt to her world. Sensei feels like she’s proposing to him and tells her that she makes a mistake by choosing him. While she allows him to have this opinion, she disagrees with it and wants to know what his answer would be if it was. Meanwhile, Sana tries to deepen her friendship with and learn more about Maya since it might be the only time Ami and Ayane aren’t around. Her attempts are dashed when Maya can’t elaborate on her past, claiming that she doesn’t remember anything. On the seat to their left, Otoha takes the time to apologize to Rin and Futaba about her attitude the last couple of days and that she wants to apologize to Rika once they’re at the bar. Rin asks if she intends to apologize to Sensei and Chika as well, and while she intends to apologize to him, too, she wants to apologize to her once she’s done with the adults. As the ride goes on, Yasu has the feeling that something bad will happen to one of the girls. She's unable to say who it is and wonders if she’s able to prevent the pain from bleeding through. Sensei asks her why she’s worried when pain always manages to bleed through and why she doubts the thought she receives from Him this time. She tells him that these thoughts aren’t coming from Him but from an unknown entity. She doesn’t know anything about it, but if she listens closely, she can hear the ocean. She falls silent after that while Touka ‘elegantly’ falls asleep on Sensei’s shoulder.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Yasu Yasui",
+            "Sana Sakakibara",
+            "Maya Makinami",
+            "Otoha Okakura",
+            "Rin Rokuhara",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Somewhere Far From Here",
+            "event_script_names": "dormwartwo12",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "anotherbusride"
+        ],
+        "music_tracks": [
+            "tsukiokamanor.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Misfit Maid Madness",
+        "next_event": "Swimming With Sharks"
+    }
+}

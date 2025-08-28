@@ -1,0 +1,50 @@
+{
+    "event_id": "the_road_to_recovery",
+    "event_title": "The Road to Recovery",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Road_to_Recovery",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.26.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Auto-play after Dead in the Water .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Yamaguchi Estate",
+            "Dive Bar"
+        ],
+        "synopsis": "When Yumi wants to know why she’s here, Yuki explains that she decided to visit the estate after hearing that the princess returned. She notices Chika and, during her conversation with Yumi, takes a liking to her. Yumi tells her that she can’t beg her father for money due to financial problems and wants her to leave, but Yuki tells her that she has enough after getting a job and offers to take her out for dinner. Chika encourages Yumi to go with her, because she won’t talk with her out of fear of losing her and might open up to someone she doesn’t mind losing. Yuki explains that it’s a celebration for beating up Nodoka , claiming that she wouldn’t have beaten her up if she didn’t deserve it, which reinforces Chika’s belief that she should join her so she can talk with her mother after a long time and can be reminded of what she doesn’t want to become. Yumi is still unsure, but Yuki offers that she can punch her every time she annoys her without repercussions, which is enough for her to agree. She offers to treat Chika as well, but she wants to go back home so her teacher doesn’t need to babysit her sister anymore. She assumes that her teacher is Sensei as well and lets it slip that he saw her tits , making Yumi and Chika mad before leaving with her daughter. At the Dive Bar, they talk about Yuki’s work before talking about why she left the estate because she might’ve lost herself otherwise, which she wouldn’t have recovered from. Yumi assumed that she’s on the road to recovery, and she confirms that she is, even if its a hard road to take, and doesn’t want her daughter to go down the wrong road like she did. Yumi feels like she’s already on the wrong road and Yuki wants to know why she thinks that. She tells her about all the bad things she did, which Yuki doesn’t see as a big deal, feels like she deserved what she got and has nowhere left to go. Yuki wonders if that’s the reason she can’t go back to school. She explains that she doesn’t want to go back, especially with Sensei feeding her information about her, including the incident and her current location, but Yuki got both from a girl at a bathhouse and Gary, one of the yakuza thugs, respectively. Yuki wonders if she wants to talk about the fight, but she only tells her that someone did something to her, that she deserved it and that it was a matter of time until it happened. Yuki thinks that she should just move on, that she’s bigger than the things keeping her down, which makes Yumi wonder why everyone makes comments about her breasts today, and if she wants to start over, she shouldn’t do it in the yakuza. She realized that she went back because she was out of options, offers to be her ally if she needs her and doesn’t want her daughter to have the same talk with her own daughter one day, which she has no intention to let happen. As their conversation continues, Kaori arrives and wants her aunt to stop smoking. Yumi realizes her, but Kaori doesn’t know if she’s another person interested in her pictures or someone from her past, but also has no time to talk right now. While Yumi knew that she’s alive , she wasn’t aware that her manner of speaking was this weird, but Yumi assures her that she’ll get used to it. She suggests that she should reintroduce herself to her so Kaori has another person in her life, but she doesn’t want another friend right now. She tries to thank her mother, but she doesn’t need one from someone as bad as her, which makes her happy. Sensei, who finally arrives in his room after pretending to be a family , gets a call from Yuki. He learns about their dinner conversation and she advises him to leave her alone until she comes back to him once she cooled down. He decides to follow her advice and pities Yumi for not helping her in the locker room and having the misfortune of knowing him.",
+        "participating_characters": [
+            "Yuki Yamaguchi",
+            "Chika Chosokabe",
+            "Yumi Yamaguchi",
+            "Kaori Kadowaki",
+            "Sensei"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Road to Recovery",
+            "event_script_names": "yumiyukispecial1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yukiyumibar"
+        ],
+        "music_tracks": [
+            "recovery.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Dead in the Water",
+        "next_event": "No Strings Attached"
+    }
+}

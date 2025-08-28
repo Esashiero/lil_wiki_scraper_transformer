@@ -1,0 +1,49 @@
+{
+    "event_id": "first_last_date",
+    "event_title": "First Last Date",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=First_Last_Date",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.16",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Us \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Viale dei Giapponesi"
+        ],
+        "synopsis": "While Sensei is on his way to the location of his second \"date\", assuming it will be a short one, Makoto interviews Tsubasa about her daughter's upcoming challenge. Once he arrives, he's greeted by Touka , who isn't happy about his late arrival and lack of proper wardrobe. After she calms down, she asks how his date with Chika went since she seemed excited about it, and when Sensei asks if she's excited herself, she admits that she doesn't hate it, though with it being staged, she also doesn't feel nervous. Both take a seat at one of the tables, and Touka starts a conversation about the Dorm War. She actually thinks that it's fun but would've preferred getting a challenge that didn't paint another target on her back, especially with her starting to get closer to the other girls. He feels like there are two obstacles in her way of participating in some of the contests, and after realizing what he means, she notices him zoning out again, which she expected as she starts to get familiar with his habits. She thinks that it will take several more dates to understand him completely, but also states there won't be more dates since they won't see each other again after she graduates and, therefore, no need to fully understand each other. Touka still intends to enjoy the date and will continue to focus on her studies afterwards, since this is the reason she came into his class, but Sensei wonders why she even bothers coming when she can't advance her studies or act nice towards him. She claims it's out of obligation, but he thinks she begins to like him, infuriating her and making her call for assistance form her mother. He apologizes for teasing her and lets her know that he already decided to give Chika the win. Touka saw this coming and tells him the reason why she still came to their date and why she will continue to come to his class – She needs his guidance to learn and experience more about the world. The rest of their dinner goes on without anything of note as Sensei only sees it as another event with a girl far too good for him.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Makoto Miyamura",
+            "Tsubasa Tsukioka",
+            "Tsukasa Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "First Last Date",
+            "event_script_names": "dormwar13",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "toukadate"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Us",
+        "next_event": "The Scary Room"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "event_id": "ponytail",
+    "event_title": "Ponytail",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Ponytail",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.2.2",
+    "interactivity": {
+        "requirements": "You must be on at least Day  28  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Not Even Me \"",
+        "to_get_this_event": "This Event will occur automatically on or after Day 28.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Hallway",
+            "Kumon-Mi High - Cafeteria"
+        ],
+        "synopsis": "Sensei and Ami are in the middle of cleaning the classroom after Ami accidentally started a fire through the use of a Bunsen burner, and Ami is panicking over getting the cleaning done so she can go to the cafeteria and make sure Maya isn't eating too much for her petite body to handle. Sensei insists she remain with him to help him finish cleaning before the custodial staff arrive at the end of the day. Meanwhile, in the cafeteria, Maya is dealing with Yumi , who has just shown up at her lunch table and is now asking her about why she's 'so weird'. Yumi asks Maya whether or not she's a pushover, a question Maya doesn't have a concrete answer for, and the topic changes to Sensei, and the two find some common ground in their mutual revulsion of him. However, when the topic turns onto why she was out in an alleyway in the middle of the night to even find Sensei being weird, Yumi becomes violently defensive over Maya's claim that she has to also be weird to do such a thing. She quickly leaves, to Maya's indifference. Meanwhile, Sensei and Ami have just finished cleaning up the remnants of the fire, and Ami is once again worried about how much Maya ate at lunch. Sensei asks why Ami is so concerned about it, and Ami tells him Maya can eat significantly more than Ami despite being the same size - in a manner that makes it seem suggestive - and the two head to the cafeteria, where Maya brushes Sensei off and they find the cafeteria already drained of all its food, forcing them to go the rest of the day without eating.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Ponytail",
+            "event_script_names": "day28",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "newponytail",
+            "lunch"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Outside of Everything",
+        "next_event": "Drowning"
+    }
+}

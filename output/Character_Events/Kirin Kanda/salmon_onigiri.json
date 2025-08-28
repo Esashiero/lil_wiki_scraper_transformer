@@ -1,0 +1,48 @@
+{
+    "event_id": "salmon_onigiri",
+    "event_title": "Salmon Onigiri",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Salmon_Onigiri",
+    "event_type": "Event",
+    "primary_character": "Kirin Kanda",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Never Enough",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Kirin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Viale dei Giapponesi"
+        ],
+        "synopsis": "Following up on yesterday , Sensei calls Kirin to plan their meet-up. While an initial dialtone briefly makes him think she's backed down, a subsequent call from her confirms their plans, and he makes his way over to the same restaurant Touka 's contest was held at during the first Dorm Wars . The two meet up a block away from the restaurant, with Kirin having dressed up for the date, much to Sensei's delight. Sensei nonchalantly reveals that he didn’t bother making reservations, but Kirin saw this coming and already made them. Both enter the restaurant and take their seats. As the two eat their food, they chat, first about how Sensei learned about this place, then Kirin's “ranking” in comparison to the other girls, particularly how she'd probably lose to a majority of the class if she were to be a participant in the Dorm War's date contest. Sensei tells her she only feels that way due to low self-esteem, which Kirin admits to being true, but also because Sensei hardly compliments her beyond back-handed statements. Despite these statements, Kirin still wants to prove her worth, not just to herself and Sensei, but also everyone around her, mentioning the possibility of another date in the future. As they talk, the two of them end up slipping into their usual dynamic, which is something Kirin doesn’t want tonight. She normally likes it, but the point of their date was to let her branch out and give her the opportunity to be seen as wanted. Sensei reminds her that she could already be that if it weren’t for her behavior, which she’s aware of and she wants to change to be less hurtful so she can find something more fulfilling since she can’t achieve this with her current actions. Since Sensei’s attitude hasn’t changed, Kirin wryly sighs about how predictable they are. Sensei reminds her how their relationship started and that the dynamic between them is essentially set in stone at this point; A relationship without emotional attachment, just like they wanted it. Kirin retorts that you don't always get exactly what you want in life, and that, sometimes, getting the opposite can help you figure out what you really want. In her case, she didn't just want a superficial relationship, but someone to be herself around. Getting swept up in the mood, she pulls Sensei from his seat and drags him to the lounge area to dance. He repeatedly tries to pull away, being uncomfortable with the attention, but when Kirin tells him how much the moment means to her he decides to relent. She uses the moment to confess her feelings, and Sensei accepts them before she passionately kisses him. Sensei returns home, laying in bed only to receive a surprise text from Kirin, wishing him goodnight.",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Salmon Onigiri",
+            "event_script_names": "kirinspecial45p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kirinfancydate"
+        ],
+        "music_tracks": [
+            "behindabathroom.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Never Enough",
+        "next_event": "Rubber Traits"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "event_id": "a_hairline_fracture",
+    "event_title": "A Hairline Fracture",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Hairline_Fracture",
+    "event_type": "Event",
+    "primary_character": "Imani Imai",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "5 Imani Affection You must have seen or permanently missed the following Events: Seen \" Somewhere I Belong \" from Imani Imai",
+        "to_get_this_event": "Call Imani during the night after all Requirements have been met.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Imani Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Living Room",
+            "Sensei's House - Bathroom"
+        ],
+        "synopsis": "Sensei gives Imani a call in an attempt to advance their relationship, and, to his surprise, she asks for his address. After sending it to her, he makes his way back home, wondering how the night will play out, though expects the usual tragedy. She arrives some time later with multiple bags, informing him that she intends to spend the night at his house after her apartment overheated due to a broken AC. Sensei notices the unusual amount of bag she's carrying, and she confesses that she hoped to live with him from now on, though Sensei points out that she would need Ami 's approval for this. She tries to get it and offers money or a weekly favor as rent, with Sensei picking the money, fully aware she won't be staying for more then one night any time soon. While they discuss dinner options, Ami, Ayane and Maya arrive, and Ami is immediately agitated by Imani's presence. Sensei explains her circumstances, but Ami reminds him that she planned to have a slumber party with her friends. Imani promises she won't intrude too much and only wants to stay until the AC is fixed, though she feels self-conscious in the presence of her students. Ami retorts that they're Sensei's students and the original Sensei Love Squad, with Maya claiming not to be a member, though Sensei thinks and Ayane outright states that it's a lie. Maya wants to change, claiming she isn't used to her shirt yet, but Ayane assumes that this unfamiliar feeling comes from her wearing an actual bra rather than her usual tank-top one, which earns her a death glare from Maya. Imani and Sensei start another round of truth or dare to mess with the girls, and Sensei dares Ayane to kiss Maya. Maya leaves immediately to get changed in Ami's room and to avoid Ayane, who runs after her. Ami gives Imani a final warning and follows them. After the girls changed their clothes, all of them have dinner. Imani, who managed not to trigger Ami's wrath, talks with her and Ayane on a futon afterwards. Sensei, standing on the side with Maya, acknowledges that she managed to get close with almost everyone in his class, something he contributes to her being more caring and selfless than him, but notes that she feels more comfortable around him, wondering what kind of person she really is. The girls talk with Imani about her career plans and, in a very sentimental moment between them, both tell Imani how they would miss her if she leaves them. Meanwhile, Maya tries to be philosophical again, but Sensei shoots her down, wanting to know how she feels about Imani instead. He thinks his class would be better of with her as their full-time teacher instead of him, and she agrees with his assessment, stating how he's the worst person to become a teacher, but can relate being in a position no one asked to be in and starts a philosophical speech about how life chooses what we get to consume and how people can only try to pretend to like what they got. Sensei sarcastically states how fun their philosophy group is, but Maya thinks that it can be fun. Imani asks Ami if she can take a bath and declines to bathe together with the girls when Ayane suggests it. While the party continues, there's a fracture when Imani looks at her scarred body in the mirror. All of them go to sleep, with Imani being happy where she is rather then who she is.",
+        "participating_characters": [
+            "Sensei",
+            "Imani Imai",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Maya Makinami"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw Prisoner .",
+            "The ending part of this event is not repeatable when viewed from the Event Replayer."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Hairline Fracture",
+            "event_script_names": "imanidate5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "imanicomesover"
+        ],
+        "music_tracks": [
+            "lifeismostlygood.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Somewhere I Belong",
+        "next_event": "Knotted Up"
+    }
+}

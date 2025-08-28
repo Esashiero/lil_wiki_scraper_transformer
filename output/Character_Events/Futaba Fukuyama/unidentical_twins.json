@@ -1,0 +1,48 @@
+{
+    "event_id": "unidentical_twins",
+    "event_title": "Unidentical Twins",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Unidentical_Twins",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "This Event can only be triggered on a Tuesday evening.",
+        "to_get_this_event": "Talk to Futaba in the first floor dorm hallway for the first time.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - First Floor Hallway"
+        ],
+        "synopsis": "Sensei visits the dorms and finds Futaba standing outside her dorm room. He asks what she's been up to, and finds she was supposed to spend the evening studying, but is unsure about the purpose of doing so thanks to Sensei's new teaching methods. Futaba tries to ask Sensei to help her study, only to receive a negative answer before she's even finished asking the question. Sensei reassures Futaba that her desire to continue studying is still commendable, and Futaba in turn expresses trust in him and hopes that his methods will begin to make sense in regards to her education. Sensei asks about other aspects of Futaba's free time, including one which he manages to make Futaba believe she misheard due to not getting enough sleep, and the topic changes to Futaba's friendship with Rin . After several minutes discussing Rin and other aspects of Futaba's life up to that point, Rin arrives and heads into the dorm to study with Futaba, while Sensei heads back home and goes to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Unidentical Twins",
+            "event_script_names": "futabafirsthall",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "futabahall"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Plans )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Upside Down",
+        "next_event": "Under the Radar"
+    }
+}

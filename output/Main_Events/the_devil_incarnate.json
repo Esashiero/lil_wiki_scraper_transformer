@@ -1,0 +1,49 @@
+{
+    "event_id": "the_devil_incarnate",
+    "event_title": "The Devil Incarnate",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Devil_Incarnate",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.1.6",
+    "interactivity": {
+        "requirements": "You must be on at least Day  5  to unlock this Event.",
+        "to_get_this_event": "This Event will occur automatically on or after Day 5.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami , Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi - Side Streets"
+        ],
+        "synopsis": "Sensei and Ami are on their way to school for Sensei's first full week as a teacher, and the two discuss Sensei's apparent memory issues and Ami's attempt to gaslight him. Later, Maya joins them and immediately engages in a verbal spar with Sensei, later attributing it to a lack of sleep at \"the start of a cycle\". Ami attempts to correct Sensei's grammar like he had done to her earlier in the conversation, only for Sensei to use reverse psychology to halfheartedly dismiss her. Afterward, Ami makes several offhand comments that disgust Maya, before the three arrive at school.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Devil Incarnate",
+            "event_script_names": "day5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "newdreaming"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Dreaming of Flying )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Slumber Party",
+        "next_event": "Super Secret Sex Dungeon"
+    }
+}

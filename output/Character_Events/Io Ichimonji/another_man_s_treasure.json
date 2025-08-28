@@ -1,0 +1,48 @@
+{
+    "event_id": "another_man_s_treasure",
+    "event_title": "Another Man's Treasure",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Another_Man%27s_Treasure",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after One Man's Trash",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi"
+        ],
+        "synopsis": "As Sensei predicts, Io is in a self-deprecatory mood. She says that she has created problems for him with Noriko and Kirin , who may think that they are in a relationship. Sensei thinks that it would more likely be a problem for Io than for him. Io talks about the problems Sensei would supposedly face if he was in a relationship with her. Sensei agrees to hold hands, on the understanding that they aren't actually entering into such a relationship.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Another Man's Treasure",
+            "event_script_names": "bathhouse20part2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iobench"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .18p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "One Man's Trash",
+        "next_event": "Cupid's Arrow"
+    }
+}

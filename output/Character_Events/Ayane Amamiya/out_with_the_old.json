@@ -1,0 +1,48 @@
+{
+    "event_id": "out_with_the_old",
+    "event_title": "Out With the Old",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Out_With_the_Old",
+    "event_type": "Lust Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "v0.22.4",
+    "interactivity": {
+        "requirements": "20 Ayane Lust",
+        "to_get_this_event": "Have 20+ Ayane Lust before starting the event chain. Autoplays after \" Room to Grow \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "Have less than 20 Ayane Lust before Three Amigos . Replaced by In With the New .",
+        "choices": [],
+        "effects": [
+            "+1 Ayane Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's Office"
+        ],
+        "synopsis": "Ayane gives Sensei an exclusive preview of her new school uniform.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Out With the Old",
+            "event_script_names": "ayanelust20",
+            "event_missed_name": "In With the New"
+        },
+        "backgrounds": [
+            "ayaneofficebang"
+        ],
+        "music_tracks": [
+            "asobeatsex4.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Before the Sun Comes Up",
+        "next_event": "Chronokinetics (Hell Exists)"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "event_id": "a_short_list",
+    "event_title": "A Short List",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Short_List",
+    "event_type": "Event",
+    "primary_character": "Tsuneyo Tojo",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Tsuneyo Affection You must have seen or permanently missed the following Events: Seen \" Between the Slurps of Pork Broth \" from Tsuneyo Tojo Seen \" Drug Use & Jump-Rope \" from Tsuneyo Tojo",
+        "to_get_this_event": "Visit Tsuneyo at Tojo Ramen after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Tsuneyo Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tojo Ramen"
+        ],
+        "synopsis": "Kaori is trying to get a job at Tojo Ramen, but Tsuneyo says that they aren't hiring. Kaori resents not being able to add yet another job to her schedule, while Tsuneyo resents Kaori's strange terminology for ramen. They each consider Sensei to have betrayed them when he doesn't side with them, but both eventually sit down to eat. In the course of a strange conversation, they talk about what they each value, and Sensei concedes that there isn't really anything he actually loves .",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei has seen How to Date a Human \" Kaori will refer to Sensei as \"Friend\" instead of \"Hamburger Man\". Kaori will try to share her noodles with Sensei after Tsuneyo steps away to make her own bowl of ramen.",
+            "Kaori will refer to Sensei as \"Friend\" instead of \"Hamburger Man\".",
+            "Kaori will try to share her noodles with Sensei after Tsuneyo steps away to make her own bowl of ramen."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Short List",
+            "event_script_names": "ramen10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsuneyokaori"
+        ],
+        "music_tracks": [
+            "kashiwagi.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Drug Use & Jump-Rope",
+        "next_event": "The Man Who Loves Nothing"
+    }
+}

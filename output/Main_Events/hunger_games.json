@@ -1,0 +1,53 @@
+{
+    "event_id": "hunger_games",
+    "event_title": "Hunger Games",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Hunger_Games",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.12",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" When the Sun Sleeps \" . This event belongs to an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "While Maya and Sana discuss their plans for tonight's upcoming D&D session, Ayane pulls Makoto off to the side to continue their conversation from that morning . The two discuss ideas for how to restore Maya's memories, both accepting that her recent reset is most definitely the cause of Sensei's mental breakdown. Having no idea how to begin restoring her memory though, Makoto instead questions Ayane on whether she believes Sensei would care as much if either of them were to face the same fate. Ayane hesitates to answer this question, while Makoto believes the answer to be \"No\", asserting that waiting for the situation out would be the best option in such a case. She explains that having experienced a full loop in Kumon-mi being \" aware \" has convinced her that the reality they've found themselves in isn't real life but something akin to a video game. If such is true, then obviously the \"objective\" of said game is to \"capture\" Sensei for themselves – As such, attempting to bring back Maya's memories would do nothing but force both her and Ayane into lower rankings. Ayane's stunned to hear such potent competitiveness, arguing that Maya being \"fixed\" will assure Sensei doesn't spend the rest of eternity locked away inside his room, thereby making the supposed competition pointless. Makoto reminds her that they seemingly have all of eternity to wait for him. While unable to think of a logical rebuttal, Ayane still attempts to coax Makoto into helping, planning to leave the Christmas party with her and to convince Ami to let them into Sensei's house to join her private Christmas party. Makoto doesn't see how this would work due to Ami constantly refusing to let anyone in, but Ayane claims it will work this time, arguing that since tonight's Christmas a miracle is bound to happen. This obviously fails to persuade Makoto, with Ayane admitting it was an idea born out of desperation rather than actual thought. The conversation is broken apart once Sana and Maya notice the two girls acting so friendly, causing the rest of the party to notice and become increasingly riled up.",
+        "participating_characters": [
+            "Sana Sakakibara",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Noriko Nakayama",
+            "Molly MacCormack"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw White Oak Doors ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Hunger Games",
+            "event_script_names": "springtime11",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayanemakxmastalk"
+        ],
+        "music_tracks": [
+            "stpartynight.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "When the Sun Sleeps",
+        "next_event": "Shut Up & Kiss"
+    }
+}

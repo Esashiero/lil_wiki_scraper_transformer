@@ -1,0 +1,56 @@
+{
+    "event_id": "matador",
+    "event_title": "Matador",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Matador",
+    "event_type": "Event",
+    "primary_character": "Nodoka Nagasawa",
+    "chapter": "v0.25.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" So Far Below \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Nodoka Affection",
+            "None"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Locker Room"
+        ],
+        "synopsis": "Sensei is wandering around as usual when he gets a call from Nodoka . She tells him that she had an interesting conversation with Makoto and wants to give him a present when he comes to the pool now. Sensei assumes that Nodoka is scheming something, but goes to see her anyway. He arrives, but Nodoka isn’t there. He gives her a call and she informs him that his present is in the locker room. He makes sure that no one followed him and enters, only to find Yumi naked on a bench. She notices that someone came in, realizes that it’s Sensei and covers herself out of fear. She assumes that he planned this with Nodoka, but he tells her that he didn’t know that she would be here and that he wanted to meet someone else, though he doesn’t say who when she asks. She demands that he stops looking at her, which he does, and thinks that he waited for the moment he could force himself on her again . He asks why she’s still here in the first place and she explains that Nodoka took away both her clothes and anything she could’ve used to cover herself with. Yumi acknowledges that she deserves something for her past behavior, but thinks that this is going too far. Sensei reaffirms that he has no involvement in this and offers to help her. She wants him to bring her something she can use to cover herself with and to inform Chika so she can bring her new clothes. He suggests to take his shirt in the mean time, which she reluctantly agrees to. While he’s taking it off, Sensei acknowledges how stunning Yumi looks and immediately reprimands himself for thinking this during her most vulnerable moment. Once his shirt is off, he hears a camera and sees Nodoka behind him. She asks Sensei how he feels having to hold himself back, feels no remorse for what she does and is very proud of how well the picture turned out. Yumi threatens her, but she makes it clear that she will send this picture to Chika if she doesn’t calm down. Yumi, knowing all to well how this goes, wants to know what Nodoka demands from her. After handing her phone to Sensei and making it clear that he shouldn’t do anything, Nodoka gives her two options – either give Sensei and her a show or watch her taking care of Sensei’s tension. Yumi doesn’t understand why she would suggest the latter, but she explains that she’s falling for him and that, as a result, seeing another girl getting close to him would hurt her the most. Sensei tries to prevent it one last time, but Nodoka doesn’t let him and demands a decision from Yumi in the next 30 seconds. She agrees since she doesn’t want to destroy her friendship with Chika. She begs them to not look at her, but Nodoka denies her request, because them seeing her is required for this punishment. She allows Yumi to do it with her back to them, though. See trivia for additional information.",
+        "participating_characters": [
+            "Sensei",
+            "Nodoka Nagasawa",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "Seeing Chika's Onsen Visit Chain-Event before Abyss will significantly alter this event . Various bits of dialogue will be changed, specifically to lines that show Yumi as more suspicious of Sensei's behavior. The ending of the event will be changed: Yumi, knowing Chika would never believe anything is happening between her and Sensei, refuses to be blackmailed. She realizes Sensei was telling the truth about not setting her up, and storms out, neglecting finding her clothes and instead deciding to find something else on the way home. Nodoka is surprised to see that her plan didn't work and promises Sensei that she won't send the photo, knowing that it'd only harm his reputation rather than Yumi's at this point. Sensei takes off after Yumi, but is unable to find her. The following event, Things That Hurt , will be skipped.",
+            "Various bits of dialogue will be changed, specifically to lines that show Yumi as more suspicious of Sensei's behavior.",
+            "The ending of the event will be changed: Yumi, knowing Chika would never believe anything is happening between her and Sensei, refuses to be blackmailed. She realizes Sensei was telling the truth about not setting her up, and storms out, neglecting finding her clothes and instead deciding to find something else on the way home. Nodoka is surprised to see that her plan didn't work and promises Sensei that she won't send the photo, knowing that it'd only harm his reputation rather than Yumi's at this point. Sensei takes off after Yumi, but is unable to find her.",
+            "The following event, Things That Hurt , will be skipped."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Matador",
+            "event_script_names": "nodokaspecial15p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "street_noon",
+            "nodokaspresent"
+        ],
+        "music_tracks": [
+            "thingsthathurt.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .25p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "So Far Below",
+        "next_event": "Things That Hurt"
+    }
+}

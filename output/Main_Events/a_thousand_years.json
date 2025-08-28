@@ -1,0 +1,55 @@
+{
+    "event_id": "a_thousand_years",
+    "event_title": "A Thousand Years",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Thousand_Years",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.29.12",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Untitled \" . This event is the final event in an event chain started from \" To Catch Me If I Fall \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Maya Affection",
+            "+1 Ayane Affection",
+            "+7 Ayane Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Rooftop"
+        ],
+        "synopsis": "Fully sentient once again and back at his home, an onslaught of emotions rushes into Sensei at once and he takes a moment to pull himself together. He arrives at the rooftop, aware that the plan has failed but somewhat content with the fact that he’s fully aware of his situation this time and that there’s something out there that wants him to continue. Suddenly, Maya and Ayane appear and rush towards him. Unbeknownst to him, the girls were waiting an entire week for him, with Ayane being able to keep herself emotionally stable until the fourth day. He apologizes as Maya fills him in on what he's missed – Unfortunately, both Yumi and Tsuneyo didn’t make it to the roof, but they at least learned that it's possible to talk with other people about the time loop without consequences, even if it’s still unknown what requirements are necessary to do it. Still deeply shaken up about his prolonged absence, Ayane's hesitant to accept he's really him, not helped by Maya's complete lack of emotional response and intend to hold to her theory until the loop is over. Ayane swears she will make her regret her lack of empathy once she’s proven wrong, but when Sensei complains, she apologizes and promises she will tie herself to him next time to prevent his disappearance. Maya begs him to make her understand that there might be no next time, but Sensei, also fed up with her attitude, demands that she lets Ayane keep her hope and that, because she isn’t any more knowledgeable than them anymore, she should start getting used to being wrong and that they’re all on equal footing now. After everyone calms down, they hug each other and get their final messages out before the reset kicks in. Back in Kumon-mi properly, the three realize all of them have made it. Ayane immediately tackles Sensei in joy, much to Maya’s shock and discomfort as she didn’t think Ayane was that desperate. Sensei, being hesitant to fulfill her wish in this situation, asks her to wait until school is over before they can make up for lost time. A frustrated Ayane reluctantly agrees, but makes it clear that he will report to her once school is over and she will take up the rest of his day. Once she’s gone, Maya and Sensei start one of their usual banters before embracing each other. Since his prolonged absence worried her as well, Maya forbids him to disappear for this long again, and while Sensei tells her it was okay for her to cry as well, she already got it all out during Christmas .",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Ayane Amamiya"
+        ],
+        "trivia": [
+            "At the beginning of the event, a distorted voice clip plays. A transcript can be found below: \"I said to thee: Oh demons, wait, and spread my tired wings, and throwing stones you'll surely make; A mess of brighter things. Give us this day our daily bread, and drink his holy blood, for when tomorrow comes you'll see, the dirt will turn to mud.\"",
+            "\"I said to thee: Oh demons, wait, and spread my tired wings, and throwing stones you'll surely make; A mess of brighter things. Give us this day our daily bread, and drink his holy blood, for when tomorrow comes you'll see, the dirt will turn to mud.\""
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Thousand Years",
+            "event_script_names": "slumberreset5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ohnoyoureawakeagain"
+        ],
+        "music_tracks": [
+            "backwardsdancing.mp3",
+            "daybreak.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Untitled",
+        "next_event": "White-Fronted Parrot"
+    }
+}

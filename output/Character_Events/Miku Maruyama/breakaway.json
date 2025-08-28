@@ -1,0 +1,49 @@
+{
+    "event_id": "breakaway",
+    "event_title": "Breakaway",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Breakaway",
+    "event_type": "Invite Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Seen \" A Thousand Years \"",
+        "to_get_this_event": "Invite Miku over after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku , Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House"
+        ],
+        "synopsis": "Sensei invites Miku over, with Makoto tagging along as a chaperone. Slightly nervous after the last time she was over, Miku struggles to find things to talk about while Makoto takes the time to remind Sensei of how disgusting he is - His case is made worse when Miku starts spouting things as shameless as him. After tossing some ideas around, and Sensei nearly revealing Miku and Io's new relationship to Makoto, the trio head into Sensei's room and dig up an old video console he had laying around. Sat in front of an old TV, they play video games while discussing all the changes in their lives as of late. While Miku's gotten used to her new routine on the swim team, it lacks the same competitive spirit that the soccer team had. Though, with fewer outlets, she says she's able to divert more attention to Sensei, even going as far as warning Makoto that she might \"catch up\" if she doesn't watch out. The three continue to play video games until the sun sets.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Breakaway",
+            "event_script_names": "mikuinvite1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikumakotoinv"
+        ],
+        "music_tracks": [
+            "acoustic.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Devil & God Are Raging Inside Me",
+        "next_event": "Fair is Fair"
+    }
+}

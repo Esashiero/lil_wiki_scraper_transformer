@@ -1,0 +1,60 @@
+{
+    "event_id": "girls_just_want_to_have_fun",
+    "event_title": "Girls Just Want to Have Fun",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Girls_Just_Want_to_Have_Fun",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.35.12",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Party Animal \" . This event belongs to an event chain started from \" Eggside Octopus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+10 Sana Affection",
+            "+50 Sana Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate - Infirmary"
+        ],
+        "synopsis": "Through the door walks Sekai , who greets Sensei cheerfully despite how stun locked he is by her appearance. When he finally regains the ability to speak, he angrily shouts at Sekai for her continued appearances, wanting her to leave immediately. She doesn't buy this, though, pointing out how sad and alone he's felt ever since she died . Sensei denies this, claiming he's been happier than ever since she passed away. Sekai humors this, pointing out how many people he's become acquainted with ever since he came to Kumon-mi . She does criticize him though for being reserved, much more so than she'd have been should he have been the one to die. Sensei admits he wishes he had been the one to die, ignoring the sad implications and further pushing for Sekai to leave him alone so he can get better. She tells him he doesn't need to get better, before moving past him and taking a seat next to Sana on the hospital bed, informing Sensei that she's only pretending to be asleep. The two continue to talk next to Sana's prone form, but as Sana looks over her shoulder it's revealed that Sensei's alone, talking to nothing but himself. In his mind, Sekai continues to speak to him, and she denies his repeated insistence that she never loved him. Feeling that his insecurity about this is irrelevant though, she reminds Sensei of his \" homework \" and the repeated warnings that, should he fail to complete it, he will lose everything. Despite how badly he reacts to seeing her, she claims all she wants is to take care of him in all the ways she can, especially now that all he has left in life is Ami . He snaps at her for comparing Ami to herself, something she laughs off before continuing to insist he pushes forward with his \"assignment\". Sensei meekly claims he can't, which Sekai doesn't buy, as he's already done so before . Realizing what she's referring to, Sensei's words get caught in his throat, all while Sekai laughs at how thoroughly he's managed to lie to himself about this until now. As he continues to be crushed by this realization, she dismisses his concern and horror as unjustified and pushes him more and more. He fails to see why he has to \"take something that doesn't belong to him\" when he already did it, and Sekai informs him that he has to do it for \"someone else\" this time. Her continued quipping, though, leads to Sensei demanding she leave at once. She obliges, warning that if things continue the way they do, he might be reset, leaving Maya all alone once again. Having been eavesdropping the entire time, Sana finally sits up and speaks, confessing that her mother was just like him after her brother died; For days after his death, she continued to talk to him as if he were there, until one day she couldn't even indirectly refer to him without tearing up. Sana questions this, though, wonder if perhaps Sara can still see her lost son, but simply refuses to tell other people about it. Sana beckons him closer and suggests they should help each other with their respective predicament, with Rin returning and the world breaking shortly after.",
+        "participating_characters": [
+            "Sensei",
+            "Teacher",
+            "Sana Sakakibara",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "At the end of this event, various images displaying the texts \"HANG IN THERE, BABY!\", \"Loading...\", and a cut-out of a baby kitten hanging on a rope are shown. Across this image are various pieces of text; Below is a collection of these texts: \"Please be patient while your position in the queue is recalibrated. This may take up to 60 seconds. - Tooltip: When in doubt, try jumping\" \"Did you know that every action has an equal and opposite reaction? I bet you didn't! - Tooltip: What's in the drawer isn't always for you!\" \"This Friday: Join the Plant Council for their final meeting! You won't believe what's in store! - Tooltip: Open your eyes\" \"There is something buried underneath your feet. And something special in the sky! - Tooltip: Lock combinations are best kept cold!\" \"Attention: The Kumon-mi Mall is currently closed for renovation. Only employees may enter at this time. - Tooltip: Ignore the shampoo!\" \"Recalibration is nearly complete. We hope you enjoyed your summer! - Tooltip: Follow the sun!\"",
+            "\"Please be patient while your position in the queue is recalibrated. This may take up to 60 seconds. - Tooltip: When in doubt, try jumping\"",
+            "\"Did you know that every action has an equal and opposite reaction? I bet you didn't! - Tooltip: What's in the drawer isn't always for you!\"",
+            "\"This Friday: Join the Plant Council for their final meeting! You won't believe what's in store! - Tooltip: Open your eyes\"",
+            "\"There is something buried underneath your feet. And something special in the sky! - Tooltip: Lock combinations are best kept cold!\"",
+            "\"Attention: The Kumon-mi Mall is currently closed for renovation. Only employees may enter at this time. - Tooltip: Ignore the shampoo!\"",
+            "\"Recalibration is nearly complete. We hope you enjoyed your summer! - Tooltip: Follow the sun!\""
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Girls Just Want to Have Fun",
+            "event_script_names": "halloweenfour12",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "fuckherdoityoupussydoit",
+            "hangingbaby"
+        ],
+        "music_tracks": [
+            "nowhereissafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.35."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Party Animal",
+        "next_event": "Happy Memories"
+    }
+}

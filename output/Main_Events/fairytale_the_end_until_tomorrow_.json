@@ -1,0 +1,54 @@
+{
+    "event_id": "fairytale_the_end_until_tomorrow_",
+    "event_title": "Fairytale (The End Until Tomorrow)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Fairytale_(The_End_Until_Tomorrow)",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.33.10",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Non-Disclosure Agreement \" . This event belongs to an event chain started from \" Boner on the Bus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach",
+            "Beach - Forest"
+        ],
+        "synopsis": "A narrator speaks up just as Ami returns to the beach. They tell the listener about someone who struggles to find their place, not just in the forest, but in the world as a whole – This someone has been placed there by something the listener thinks they are familiar with when they aren’t, and cautions against making assumptions as each subject in their sentences is \"the opposite of what (they) want it to be\". Even if that explanation is confusing, they want desperately for the listener to understand because even if it is very complicated, the story being told is a love story. A girl is lost in the woods, they restate, and what she wants more than anything is her mother. Ami calls out to a group of girls gathered around a campfire, asking if the swimsuit contest is already over. Chika confirms this, taking the time to assure her that no one got too weird with Sensei due to Yumi , Tsuneyo , and Wakana 's keeping everyone away. Ami surprises all the girls in attendance by claiming that while she was already sure nothing weird would happen, it wouldn't be her place to stop it. Everyone voices their confusion about this sudden shift in character for Ami, asking if anything dramatic happened that caused her to shift her worldview – Ami denies this, claiming the only thing bothering her is a bit of concern for Ayane 's performance . Moving on, she turns to Chika and apologizes for her recent outburst at the maid cafe, explaining that she's not good with change. Both Chika and Uta are happy to hear this, with the latter excited to have a new potential coworker soon. Noriko initially doubts Ami's claims about changing, especially since she doesn't understand in what ways she'll do so. Ami explains that, since her parent's death, she's worked herself ragged trying to protect Sensei, but a recent talk with him has made her realize how suffocating she's become. Hearing this, all the girls give Ami their support, and the narrator speaks up once again to remark on the new bonds formed tonight. Love is in abundance, but so are danger and fear, the narrator warns. This holds true for Ayane, who stumbles around the forest in a panic, desperately calling out to Yasu so she won't be alone. Suddenly, someone holds her wrist, but Yasu isn't the one to do so, instead, it's a mysterious girl with a daisy in her hair. The self-appointed \"cute, mysterious tour guide\" helps calm Ayane down, assuring her that while things will be hard, they will also become better and that she doesn't need to worry about Ami since she won't do anything to her. Ayane's confused about how this girl knows this, but instead of answering, she tugs Ayane along, guiding her through the forest. The narrator wraps up their speech with a poem and the day comes to an end.",
+        "participating_characters": [
+            "Chika Chosokabe",
+            "Miku Maruyama",
+            "Ami Arakawa",
+            "Uta Ushibori",
+            "Noriko Nakayama",
+            "Ayane Amamiya",
+            "???"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw Somewhere ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Fairytale (The End Until Tomorrow)",
+            "event_script_names": "beachwars9",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "anotherbeachwarssceneimgoinginsane"
+        ],
+        "music_tracks": [
+            "goodnight.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.33."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sexy Swimsuit Showdown",
+        "next_event": "Monsters"
+    }
+}

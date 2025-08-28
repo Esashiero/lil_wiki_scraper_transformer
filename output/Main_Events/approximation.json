@@ -1,0 +1,60 @@
+{
+    "event_id": "approximation",
+    "event_title": "Approximation",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Approximation",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.29.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" To Catch Me If I Fall \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Yumi",
+                "effect": "Jumps to Two Months of Nothing"
+            },
+            {
+                "context": null,
+                "option": "Tsuneyo",
+                "effect": "Jumps to With Her"
+            }
+        ],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Park"
+        ],
+        "synopsis": "Arriving at the park, Sensei 's surprised to find Ayane there too. Maya quickly reveals that while she’s aware Sensei and she need to talk alone, there’s an issue all three of them need to discuss. Before she can, Ayane asks Sensei if he can explain to her what happened last night. While Maya tries to move on, Sensei reveals that they almost kissed , which confuses Ayane and makes the relationship between Maya and him even more difficult for her to understand. Once Ayane mentions the Rooftop Apocalypse Squad, Maya uses the opportunity to inform them that another reset will happen soon. This comes as a surprise to Sensei, as they had the last one so recently, but Maya reminds him that, due to the jump from Halloween to Christmas , they’ve lost about two months and as such are “on schedule”. Ayane asks if there are any special preparations that need to take place for this one, with Maya having come up with some ideas over the last several hours. Confirming with Sensei that both Yumi and Tsuneyo showed signs of being aware of Kumon-mi’s time loops, she wants Sensei to get in touch with both of them and try to talk with them about the loop to see if it’s possible to do so when someone shows awareness of it. Not sure how to deal with them after Sensei talked to them, Ayane comes up with an idea – Sensei should convince Yumi and Tsuneyo to join a slumber party so all five of them can keep eyes on each other during the actual reset. Maya’s hesitant, because if the others do disappear, it’ll be a traumatizing sight for either Sensei or Ayane, but decides to go along regardless. The three discuss how they can make this slumber party happen, as they need to both distract Ami for the night and find a secret place to hold it. Since Ayane’s estate is not an option after Todd ’s disappearance and both girls don't have any money at the moment, Sensei is forced to reveal his new apartment to them. This revelation comes as a shock to the girls until he reveals that Touka gave it to him for the gift exchange. With the location being set, Maya volunteers to deal with Amy. Sensei would like to start getting in contact with the girls, but his phone died after his call with Maya. Ayane hands him one of her replicas of his phone, which she keeps for personal use and contains his password, contacts and unique background picture . While a little worried about the invasion of his privacy, he takes the phone, goes somewhere more secluded and decides to either call Yumi or Tsuneyo first.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Ayane Amamiya"
+        ],
+        "trivia": [
+            "Despite being given a choice on which set of events to see first, the player will be required to see both Yumi and Tsuneyo's mini-event chains. Whichever mini-chain wasn't chosen will autoplay upon the completion of the first."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Approximation",
+            "event_script_names": "slumberreset2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mayanebench"
+        ],
+        "music_tracks": [
+            "summerwind.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "To Catch Me If I Fall",
+        "next_event": "December 28, 2020 (Clay & Clockwork)"
+    }
+}

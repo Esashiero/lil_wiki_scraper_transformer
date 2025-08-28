@@ -1,0 +1,48 @@
+{
+    "event_id": "dodging_snowflakes",
+    "event_title": "Dodging Snowflakes",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Dodging_Snowflakes",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.5",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Out With the Old \" , or \" In With the New \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 7"
+        ],
+        "synopsis": "Sensei contemplates how things you like or tolerate, like snow, become inconveniences due to overexposure and what impact Imani will have on his life while he makes his way to the dorm to get Io ’s present. He enters Room 7, quickly learning Io’s present is a gigantic wardrobe. Uta and Sensei are surprised how she was able to build it, causing Io to panic. She explains that she wanted to make something more practical for him rather then giving him another toy . Sensei feels bad for not getting her something after all the work she put into her present, but Io, after another self-deprecating rant, assures him that she doesn’t need any material gifts from him and is completely satisfied with receiving a hug. As both of them struggle to initiate one, Uta forces Sensei to hug Io. Io is overjoyed while Uta, with a sad expression on her face, looks away from them. Io reaffirms how much she likes him and that she wouldn’t mind running away with both him and Uta. While he has no intention to do that, he allows her to fantasize about it as an additional reward. Uta isn’t sure if she wants to since she doesn’t want to see them be close all the time, but when Io offers her to join their hug, she refuses stating that it’s her gift and she doesn’t deserve it. Io wants to know if Sensei will come to the Christmas party, because she only intents to come if he does, and he confirms his presence there. He lets go of Io and makes some arrangements to get the wardrobe to his house.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji",
+            "Uta Ushibori"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Dodging Snowflakes",
+            "event_script_names": "christmastwo4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "wintersky",
+            "dodgingsnowflakes"
+        ],
+        "music_tracks": [
+            "justlights.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Room to Grow",
+        "next_event": "Everything Evil"
+    }
+}

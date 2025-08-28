@@ -1,0 +1,52 @@
+{
+    "event_id": "back_on_track",
+    "event_title": "Back on Track",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Back_on_Track",
+    "event_type": "Event",
+    "primary_character": "Rika Rokuhara",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Weekdays You must be on at least Day  605 to unlock this Event. You must have seen or permanently missed the following Events: Seen \" Lavender \" from Nodoka Nagasawa Seen \" Impregnation Spree \" from Rika Rokuhara",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event will occur automatically on the first weekday on or after Day 605.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Sensei's Office",
+            "Kumon-Mi High - Hallways",
+            "Kumon-Mi High - Light Music Club Room"
+        ],
+        "synopsis": "After a normal day of school, Sensei finds himself in his office, with Imani suspiciously smiling at him. He asks what she's scheming, causing her to be jokingly upset at this suspicion – This soon becomes genuine when he refers to her once again as a subordinate. After even more teasing, Imani calls out to the hallway, and in walks Rika . Imani reveals Rika's just been hired as the newest staff member at Kumon-Mi High, which he first interprets as her becoming a teacher before it's clarified her entire job consists of being a club advisor for the Light Music Club. Confused about the theatrics leading up to this reveal, Imani clarifies that it’s his responsibility to \"show her the ropes\". He immediately does so and now, left without any other direction, the two begin to aimlessly wander the halls of the school. With little idea of what else he should do, he decides to give her a tour of their workplace, hoping that familiarizing her with the layout might help in some way. As they walk, Sensei thinks back to the night he spent with Nodoka , and how it helped dissolve any of his lingering resentment towards her for her treatment of Yumi . He struggles to comprehend why it helped but thinks to himself how being with her makes him feel safe or numb. As he wishes to feel this sensation again, Rika calls out to him. Snapping back to reality, the two begin to banter, leading to Rika asking several questions about the school, and Sensei, realizing that she thinks about moving in, frankly tells her that she can’t live here. She asks him if it’s possible to at least spend the weekends here so she can get out of Rin 's room and give her and Otoha some privacy. At that moment, Otoha walks up to the two of them, excited to hear about Rika's new position at the school – She immediately walks away when Rika embarrasses her. Sensei tells her to have more tact in the future, but she states that, being a middle-aged woman already, she has no future and how she should enjoy her remaining life and “mom it up”. Sensei tries to reason with her, but she raises objections at his attempt to downplay her flaws. She lectures him on how flaws are only charming in small doses, but when people find some, they will start looking for more and once they find enough of them, it becomes impossible to see any good in someone. She agrees with his belief that no one has to be perfect, even citing how many couples can stay together their whole lives, but the fear of being wrong again makes her cautious. This leads her to reflect on her past, recounting her days of music playing and protesting. She reveals that the latter is how she met Rin's other mom, though the two were initially on opposite sides, but became a couple after spending one night together. She thinks of these times fondly, but accepts that they're in the past now, and reiterates her new role as an embarrassing mom figure. For her, the only duties she has left are getting her life back on track and to ensure Rin's life doesn't get off the rails like hers. While she hopes that she can find something else along the way, she is perfectly fine with appreciating the art of not knowing for now.",
+        "participating_characters": [
+            "Sensei",
+            "Rika Rokuhara",
+            "Imani Imai",
+            "Otoha Okakura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Back on Track",
+            "event_script_names": "rikaspecial2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "rikaschool"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .31.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Impregnation Spree",
+        "next_event": "James and the Giant Peach (Together-ish)"
+    }
+}

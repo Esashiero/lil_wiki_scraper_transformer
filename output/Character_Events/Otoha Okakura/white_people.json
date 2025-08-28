@@ -1,0 +1,50 @@
+{
+    "event_id": "white_people",
+    "event_title": "White People",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=White_People",
+    "event_type": "Event",
+    "primary_character": "Otoha Okakura",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after King Midas .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Otoha , Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "As Rin , Sensei , and Otoha step into Koi Cafe , they see that a group of tourists has suddenly swamped the business, leaving the only employee on staff, Molly , to try and get through the crowd. Rin steps away to help, leaving Otoha and Sensei to find a seat and speak to each other alone. Sitting down, Sensei inspects her hair and isn’t sure if he likes this new look of hers, but she has no intention to keep it since it’s a sign of neglecting her personal health and could cause her to kiss someone accidentally due to her bangs obscuring her vision. Sensei jokes about it, thinking that it would be a good time after two months of silence between them due to reasons that would make him look clinically insane . Otoha tells him that the reason was her being rude and dismissive to him, which she apologizes for. She just wants things between them to go back to “normal”, though she finds it hard to do after Halloween, not helped by her growing jealousy of him. He's surprised to hear this, feeling that between her career, supportive parents and girlfriend she has no reason to be jealous, but she explains that she’s jealous of his unique chemistry with Rin, which extends towards all of Rin’s other close friends. She understands it's entirely irrational and that no one poses any real threat to her, but struggles to truly believe that. Her behavior already caused friction with Chika , because Otoha’s brain interprets Chika caring for Rin as romantic interest, and she thinks that Sensei would hate her as well if he wasn't \"trying to catch her on the rebound\". Hearing this, Sensei tells her the real reason he likes her – Her brutal honesty and ability to see through him. He appreciates it so much, in fact, he doesn't think he'd hate her if she went around and told the class about Chika . Otoha is caught off-guard by his blunt confession, but he reassures her that Rin already informed him . He offers to talk about it, firmly admitting that he has no intention to fix things and that Chika isn’t the only one. Otoha finds his logic impossible to understand, especially when he now has the chance to stay with Niki . Sensei says that their current relationship is complicated, but Otoha only sees it as complicated due to him giving in to his dark thoughts instead of fixing his behavior, even though he easily could. He tells her that he sees himself as someone who can’t be saved anymore, which he also discussed with Niki recently , Otoha sees it as unwilling to be saved. He asks her if this makes him a bad influence on her, which she confirms since while she can handle him better than the others, she still spends every day with him, so those parts slowly rub off on her. He wants to know if her behavior today is a sign of that, but she negates that, claiming that this side was caused by her, but she has another side of her that needs help. Sensei wants o know what she needs help with and Otoha tries to tell him about a mistake she made during Christmas , until Rin suddenly appears to show her appreciation of both of them before getting back to the counter. Sensei tries to pick up the conversation, but an exhausted Otoha begs him to drop it – So he does, wondering what she needs to hide.",
+        "participating_characters": [
+            "Sensei",
+            "Otoha Okakura",
+            "Rin Rokuhara",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "White People",
+            "event_script_names": "otohaspecial15p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "otohapostcafe"
+        ],
+        "music_tracks": [
+            "cafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "King Midas",
+        "next_event": "Breaking Character"
+    }
+}

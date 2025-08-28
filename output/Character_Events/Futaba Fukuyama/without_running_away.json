@@ -1,0 +1,50 @@
+{
+    "event_id": "without_running_away",
+    "event_title": "Without Running Away",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Without_Running_Away",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after Shadowplay",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi - Streets"
+        ],
+        "synopsis": "Sensei and Futaba continue their walk, talking about sport, expanding Futaba's glossary of sex acts, and Futaba's call with her parents. They meet Yumi , and Futaba tries to have a friendly conversation with her. Futaba eventually mentions having seen Yumi's mother , which Sensei hadn't warned her not to do. Yumi does not react well, and a shaken Futaba wants to return to the dorms.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Without Running Away",
+            "event_script_names": "library40part2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "futabayumisnow"
+        ],
+        "music_tracks": [
+            "justlights.mp3",
+            "thingsthathurt.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .18p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Shadowplay",
+        "next_event": "Hall of Mirrors"
+    }
+}

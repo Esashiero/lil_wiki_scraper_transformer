@@ -1,0 +1,49 @@
+{
+    "event_id": "to_anyone_who_passes_by",
+    "event_title": "To Anyone Who Passes By",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=To_Anyone_Who_Passes_By",
+    "event_type": "Event",
+    "primary_character": "Haruka Hamasaki",
+    "chapter": "v0.25.9",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Adulting \" . This event belongs to an event chain started from \" So Far Below \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Haruka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "The attention jumps onto Haruka again, who is taking the congratulations from Rin and prevents discussing what happened with Maki and Makoto . But when Sensei comes closer, Rin is unable to hold her thoughts about him and Haruka. So she leaves Rin to work, and goes outside with Sensei to discuss everything. After their meaningful exchange about their relationship and how Haruka's feelings to her husband affect it, Sensei mentions that Maki has made her way to Sakaki-bar-a, and suggests Haruka to keep her friend a company. With that, Sensei leaves Haruka, determined that she and Sara can cheer Maki up without his help.",
+        "participating_characters": [
+            "Sensei",
+            "Haruka Hamasaki",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "To Anyone Who Passes By",
+            "event_script_names": "sadgirls4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "harukaoutdoor"
+        ],
+        "music_tracks": [
+            "comfort.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .25p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The World Outside The Walls",
+        "next_event": "Again, I Can't Recall"
+    }
+}

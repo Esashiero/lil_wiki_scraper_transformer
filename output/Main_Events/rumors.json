@@ -1,0 +1,49 @@
+{
+    "event_id": "rumors",
+    "event_title": "Rumors",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Rumors",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.7.1",
+    "interactivity": {
+        "requirements": "You must be on at least Day  138  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Erotic Game Protagonist \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first weekday on or after Day 138.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei's Office"
+        ],
+        "synopsis": "Another school day comes to an end as Sensei wonders how he’s not been fired yet for being completely incompetent. Ami knocks on his door and Sensei assumes that she wants something from him. She comes in and tells him that she heard rumors about his class, which worries him a little. He almost lets it slip that he has a deeper relationship with some of the girls, but luckily Ami decides to ignore it, much to Sensei’s relief. He asks her what kind of rumors she heard about, but before she can tell him, they’re interrupted by Makoto who wants to discuss the details about the new transfer students with him, ruining Ami’s surprise. After they bicker for a while, Sensei wants to know what’s going on and Makoto explains that two girls are transferred into his class to balance out the numbers of students in each class. Sensei immediately asks if the new girls are cute and realizes that he asked the wrong questions as he gets death glares from both of them. After another round of bickering between the girls, Sensei wants some actual information about the girls to prepare himself, but Makoto has no further information about them, except that they’re transferring from Ms. Watabe ’s class and that the first one will arrive in a few days. Makoto intends to take care of the paperwork for him, claiming that she can do that since she has a better reputation than him, which Sensei can’t deny, and only demands from him to do the bare minimum as usual. She offers to try to get cute girls for him, which enrages Ami again. Makoto gives her one last jab by commenting how she thought Ami was on the side that would make Sensei happy like she is, and leaves his office. Ami follows her shortly after intending to commit a felony. Sensei stays behind, not worrying about the arrival of the new girls and still hoping that they’ll be cute.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Makoto Miyamura"
+        ],
+        "trivia": [
+            "Early on, Sensei asks Ami if she tries to seduce him. Her answer depends on whether the additinal scene in Important Things happened or not."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Rumors",
+            "event_script_names": "day138",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "premolly"
+        ],
+        "music_tracks": [
+            "phantomthief.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Erotic Game Protagonist",
+        "next_event": "The Gem of the Emerald Isle"
+    }
+}

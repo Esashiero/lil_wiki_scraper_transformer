@@ -1,0 +1,49 @@
+{
+    "event_id": "milk_eggs_and_water",
+    "event_title": "Milk, Eggs, and Water",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Milk,_Eggs,_and_Water",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.5.3",
+    "interactivity": {
+        "requirements": "You must be on at least Day  89  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Girl-Talk \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event will occur automatically on the first weekday on or after Day 89.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Convenience Store",
+            "Haruka's House"
+        ],
+        "synopsis": "Sensei is heading to a store along the path home, Ami having asked him to pick up some groceries for her - he strongly questions the need to pick up water when the tap works just as well - and winds up running into Haruka . She is a bit surprised to see Sensei, and explains she was picking up her dinner but needs to run back home because she ended up forgetting her wallet. The store owner tries to convince Haruka not to worry about her wallet this once, but her efforts find no purchase, and after Haruka mentions she lives around the corner, she questions where Sensei lives and why he's in this part of town. Sensei asks if he won't be a burden by going with her while she picks up her wallet, but she explains that it's no big deal - she just finished cleaning the place up and no one aside from Sara or her other friend visit anyway so she's welcome the new company. She stumbles a bit and makes the conversation very awkward when she tries to flirt with Sensei, only to stop herself. Shortly afterward, they arrive at Haruka's apartment, and Sensei compliments her cleanliness, something she appreciates, as she doesn't receive compliments about her efforts from Sara at all. Haruka turns this into a segue to ask Sensei about his interests with Sara, and jokes about girls being super protective. She is about to tell Sensei about such a story when she suddenly freezes, tears up, and runs to the bathroom with a quick 'I'll be back'. While he waits for Haruka to return, reality glitches and assaults Sensei with images of Haruka, before she returns. Reality forces Sensei to talk to Haruka and tease her a bit about her actions potentially being seen as flirting with him. Shortly afterward, Haruka drives Sensei home, where Ami yells at him for forgetting to buy groceries, before he heads to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Haruka Hamasaki"
+        ],
+        "trivia": [
+            "Depending on Sensei's relationship with Sara , Haruka will have different dialogue when asking Sensei about his potential interest in Sara."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Milk, Eggs, and Water",
+            "event_script_names": "day89",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "harukastore"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.5."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Contractions",
+        "next_event": "Stronger I Become"
+    }
+}

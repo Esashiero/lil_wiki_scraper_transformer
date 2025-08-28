@@ -1,0 +1,48 @@
+{
+    "event_id": "everything_evil",
+    "event_title": "Everything Evil",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Everything_Evil",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.6",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Dodging Snowflakes \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Molly Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Second Floor"
+        ],
+        "synopsis": "While leaving Room 7, Sensei runs into Molly . As a result, Sensei starts to \"black out\", during which Molly’s voice accuses him of taking advantage of her and demands to know how far he went and why he did it. When he snaps out of it, the real Molly wants to know why he avoids her and if it’s her fault. Sensei denies it being her fault, but when he refuses to explain himself and tries to leave, Molly, on the verge of tears and irritated from being avoided for two months for no clear reason, forces him into her room. The two sit at the desk in the center of her room. Sensei accepts his fate and asks her what she wants. After an awkward start, Molly directly asks why she woke up that way on Halloween . He can’t answer that, because he wasn’t in control , and asks her what she thinks happened. She assumes that she forced him to do something he didn’t want to while she was drunk, but he asks if it’s possible that it was the other way around and he used the situation to do something she didn’t want instead. She thinks he should remember what happened since his judgment and memory weren’t clouded by alcohol, but he explains how he has moments where he zones out and does things he didn’t intend or want to do in these moments. Molly assures him that she felt no pain afterwards and, therefore, whatever happened wasn’t anything too serious. She was under the impression she initiated something that night due to a combination of alcohol, sorrow and being influenced by their last conversation . As both can’t remember what occurred, Molly suggests to make up a scenario of what might've happened. Sensei criticizes her for treating that incident too lightly and confesses how he’s still affected since he would never hurt her intentionally and worries that something made him harm her. She trusts him enough to know that he wouldn’t harm her and is aware of his worries, which is why she wants to accept a more positive scenario. After she makes up one, she admits that she wouldn’t mind there being more opportunities to spend time together, provided she's actually cognizant. Sensei, uncomfortable with the situation and unsure what she’s proposing, suggests to leave that night in the past and move on, which she agrees with. With the issue resolved Molly asks him what he would like as a Christmas present. He figures that she got him for the gift exchange, but she insists this is a purely hypothetical question. He answers that he would accept anything she thinks he would like.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Everything Evil",
+            "event_script_names": "christmastwo5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "dodgingsnowflakes"
+        ],
+        "music_tracks": [
+            "merrychristmasmrlawrence.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Dodging Snowflakes",
+        "next_event": "Tokimeki Labyrinth"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "event_id": "special_occasions",
+    "event_title": "Special Occasions",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Special_Occasions",
+    "event_type": "Invite Event",
+    "primary_character": "Maki Miyamura",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Traveling Lube Dealer \" from Maki Miyamura",
+        "to_get_this_event": "Invite Maki Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "I can’t do that to Makoto",
+                "effect": "* +1 Maki Affection"
+            },
+            {
+                "context": null,
+                "option": "Fuck the mother of a girl who’s always there for you",
+                "effect": "* +3 Maki Lust"
+            }
+        ],
+        "effects": [
+            "Choosing \"I can’t do that to Makoto\" will disable Lust interaction with Maki on Invite Over Menu"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei House"
+        ],
+        "synopsis": "Sensei invites Maki over and has to make an important decision.",
+        "participating_characters": [
+            "Sensei",
+            "Maki Miyamura"
+        ],
+        "trivia": [
+            "Some dialogue change based on previous choices made with Maki and Haruka"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Special Occasions",
+            "event_script_names": "makiinvite2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makisecondinv"
+        ],
+        "music_tracks": [
+            "acoustic.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .21p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Traveling Lube Dealer",
+        "next_event": "Adulting"
+    }
+}

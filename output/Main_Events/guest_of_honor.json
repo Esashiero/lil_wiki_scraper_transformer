@@ -1,0 +1,55 @@
+{
+    "event_id": "guest_of_honor",
+    "event_title": "Guest of Honor",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Guest_of_Honor",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.10.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Value of Sharing \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Haruka , Sara Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shopping Mall"
+        ],
+        "synopsis": "Sensei takes Ami , Ayane , and Sana shopping for Halloween costumes at the mall, where they meet Chika . Chika is planning to attend the party, and also hopes to persuade Yumi (whose birthday happens to be on Halloween). Ami makes Sensei hand over his credit card and kicks him out. He meets Sara and Haruka , who invite him to their own Halloween drinks that evening. Sara is looking for someone else to tend the bar then, since she wants to be able to have fun.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Ami Arakawa",
+            "Sana Sakakibara",
+            "Chika Chosokabe",
+            "Sara Sakakibara",
+            "Haruka Hamasaki"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw The Need to be Hurt ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Guest of Honor",
+            "event_script_names": "halloween2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "halloweenmall"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Value of Sharing",
+        "next_event": "The Meat has Come"
+    }
+}

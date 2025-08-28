@@ -1,0 +1,49 @@
+{
+    "event_id": "opposite_directions",
+    "event_title": "Opposite Directions",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Opposite_Directions",
+    "event_type": "Event",
+    "primary_character": "Yuki Yamaguchi",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "10 Yuki Affection You must have seen or permanently missed the following Events: Seen \" Better Off Alone \" from Yuki Yamaguchi Seen \" Temporary Bliss \" from Kirin Kanda",
+        "to_get_this_event": "Call Yuki at night",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yuki Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Old District"
+        ],
+        "synopsis": "After calling Yuki, and finding out she's distributing fliers for the bar , Sensei sets out to the urban district to hang out. Open arriving, the two briefly discuss the increased business Sara has had, before Kaori joins the two of them, having been asked to help as well. As she leaves, Yuki and Sensei discuss their and Yumi's shared past. Yuki admits she's glad that Sensei is as nice a person as he is, which he tries to refute before being shut down. He's forced into helping her pass out fliers, which he loses interest in after a few minutes.",
+        "participating_characters": [
+            "Sensei",
+            "Yuki Yamaguchi",
+            "Kaori Kadowaki"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Opposite Directions",
+            "event_script_names": "yukidate10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yukiflier"
+        ],
+        "music_tracks": [
+            "recovery.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .21p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Better Off Alone",
+        "next_event": "A Thing of the Past"
+    }
+}

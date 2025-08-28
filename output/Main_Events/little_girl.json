@@ -1,0 +1,48 @@
+{
+    "event_id": "little_girl",
+    "event_title": "Little Girl",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Little_Girl",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.3.3",
+    "interactivity": {
+        "requirements": "You must be on at least Day  48  to unlock this Event.",
+        "to_get_this_event": "This Event will occur automatically on or after Day 48.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House"
+        ],
+        "synopsis": "Sensei wakes up on his own for once, and gets up, wondering what's happened to Ami to stop her from waking him up for school the way she normally does. He walks out into the living room to find Ami laying on the couch, face flushed and covered in a big comforter he's never seen in the apartment before. He asks her if she's alright, and tries to see if he can get out of finding an alternative for breakfast, but eventually decides to take care of Ami. She tries to push him into leaving her to fend for herself and go to school, but on account of her own argument she might have the flu, Sensei decides attempting to go to school wouldn't be wise to begin with, since he's already been exposed just by talking to her. The two talk briefly about what would happen if both of them came down with the flu and had to miss school. Sensei goes to get Ami something to drink and a pack of crackers upon request, and calls the school to let them know he won't be able to attend his classes today. He and Ami banter about Ami's condition for a little bit before Sensei decides to get in the couch with her to help her try and go to sleep, having no lewd thoughts whatsoever in a rare moment of compassion. However, his own thoughts darken after he's forced to lie to Ami about his memories yet again, and he wishes he was able to connect and form bonds the way he knows he's supposed to. After Ami pushes herself against Sensei, and a brief final chat in which the two tell one another they love them, Ami finally falls asleep, and shortly thereafter, Sensei heads back to his room to try and dispel the thoughts that inadvertently popped into his head from Ami's actions - which he's one hundred percent certain were intentional - where he remains for the rest of the day and night.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "Not counting Event Chains, this is the first singular Event that takes up an entire day of time."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Little Girl",
+            "event_script_names": "day48",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amicouch"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "This Town Has Two Halves",
+        "next_event": "Missing"
+    }
+}

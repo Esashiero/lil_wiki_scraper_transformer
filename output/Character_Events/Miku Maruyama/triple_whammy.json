@@ -1,0 +1,50 @@
+{
+    "event_id": "triple_whammy",
+    "event_title": "Triple Whammy",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Triple_Whammy",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Thursday 35 Miku Affection You must have seen or permanently missed the following Events: Seen \" Something, Somewhere \" from Makoto Miyamura",
+        "to_get_this_event": "Visit Miku's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 3"
+        ],
+        "synopsis": "Miku doesn't want to talk to Sensei about what happened when they and Makoto were at the beach, but Sensei keeps pressing her anyway. Miku doesn't think that things should go any further, especially because of how Makoto would feel if she found out. She admits to certain feelings, but would rather ignore them until they go away. Sensei refuses to stop pushing and eventually persuades her to try something, but they are interrupted when Uta and Io drop a piece of furniture upstairs, causing Miku to have another panic attack. Makoto rushes in to help, telling Sensei to leave.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Triple Whammy",
+            "event_script_names": "mikudorm35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikupostbeach",
+            "help"
+        ],
+        "music_tracks": [
+            "behindabathroom.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "To Sleep, Perchance to Dream",
+        "next_event": "Speed of Light"
+    }
+}

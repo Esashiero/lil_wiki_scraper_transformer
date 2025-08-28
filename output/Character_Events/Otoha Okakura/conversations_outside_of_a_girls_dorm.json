@@ -1,0 +1,51 @@
+{
+    "event_id": "conversations_outside_of_a_girls_dorm",
+    "event_title": "Conversations Outside of a Girls’ Dorm",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Conversations_Outside_of_a_Girls%E2%80%99_Dorm",
+    "event_type": "Event",
+    "primary_character": "Otoha Okakura",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after The Man Who Would Be King .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Otoha Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Outside"
+        ],
+        "synopsis": "Otoha doesn't actually need Sensei 's help carrying anything — she just thought he could use a break from Nodoka 's weirdness. Otoha doesn't know what it was all about, but speculates that Nodoka was just seeing how far she could push without Sensei snapping back. Otoha wants Sensei's advice about Rin , asking what sort of person she is and what Sensei would do in her place. He suggests that her questions can only be answered by spending more time with Rin, which Otoha says she will do. Rin comes down to see what they're doing, and Sensei decides that he should head home.",
+        "participating_characters": [
+            "Sensei",
+            "Otoha Okakura",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "There is a variation in the dialouge if Sensei has seen The Art of Never Knowing and kept his promise by not seeing Schadenfreude before What's Done is Done ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Conversations Outside of a Girls’ Dorm",
+            "event_script_names": "otohadorm1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "otohadark"
+        ],
+        "music_tracks": [
+            "starvingtodeathoutofreachofthesun.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Everybody Loves Otoha",
+        "next_event": "Japanese Summer (Double Suicide)"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "event_id": "house_of_the_unholy",
+    "event_title": "House of the Unholy",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=House_of_the_Unholy",
+    "event_type": "Event",
+    "primary_character": "Osako Osaka",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "20 Osako Affection You must have seen or permanently missed the following Events: Seen \" Young At Heart \" from Osako Osaka",
+        "to_get_this_event": "Visit Maki at the Porn Shop at night.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Osako Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Porn Shop"
+        ],
+        "synopsis": "Sensei arrives at the Porn Shop , hoping to hang out with Maki . Stepping inside, though, he finds her currently trying to sell one of the shop's newest products to a hesitant Osako , deciding to focus on her instead. As Maki continues to try and get a sale, Osako remains reluctant to buy in, feeling that the product doesn't match Wakana 's dark and somber aesthetic. When Sensei speaks up to help Maki out, Osako initially pretends to not know him, being forced into a conversation with him after she drives Maki off for being intrusive with her marketing. The two get to talking despite Osako's protests, with Sensei attempting to use her perspective to sate his lesbian-based curiosity, as well as learn more about her relationship with Wakana. Osako continues to put up resistance to the idea but gives in when Sensei reminds her that their mutual attraction to women will make him more useful than she might think. She relents, especially once Makoto joins the group in the store and is unwillingly roped into her mother's enthusiasm for their new products. Now free from the chaos of the Miyamuras, Sensei, and Osako lean up against the shop's exterior to talk. As Sensei stops himself from another self-centered spiral of thought, Osako opens up about her insecurities about her relationship. The dynamic between her and Wakana is one that both enjoy, but Osako's insecurities often make her worry that she could be doing more to please Wakana. Hearing this, Sensei advises her that the only person she can work that out with is her girlfriend, and if Wakana does have an issue with the dynamic and isn't telling her, then there are more important issues to work out than their sex life. Not wanting to lose a sale, Maki steps outside, escorting Osako back into the shop to show her more products - Sensei says goodbye to the two of them, proud of himself for being \"so bearable\" tonight.",
+        "participating_characters": [
+            "Sensei",
+            "Osako Osaka",
+            "Maki Miyamura",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "House of the Unholy",
+            "event_script_names": "osakodate20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "osakopornshop"
+        ],
+        "music_tracks": [
+            "notabluearchivesong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Young At Heart",
+        "next_event": "Chaos Spiral (Heterosexual Sex)"
+    }
+}

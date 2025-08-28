@@ -1,0 +1,62 @@
+{
+    "event_id": "ruthless_rhyme_rhomp_rap_rampage_",
+    "event_title": "Ruthless Rhyme Rhomp! Rap Rampage!",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Ruthless_Rhyme_Rhomp!_Rap_Rampage!",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.8",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Sphenopalatine Ganglioneuralgia \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Second Floor"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Maid Cafe"
+        ],
+        "synopsis": "At the maid cafe, Sensei wanders between multiple groups before the contest begins. The contest begins, and both contestants have taken their place on the stage, waiting for Osako to turn on the music. Ayane goes first and gives a passionate performance boasting about her skills, possessions, relationship with Sensei, and how she's better than Uta because of it. Uta's impressed but easily counters every claim she made, with the most outstanding line being her attack of Ayane's purity. Once it’s over, most girls are impressed by Uta's take, seeing her as the clear victor of the contest. Sensei still has to make a decision, though, and since he was unimpressed by both performances, he decides to name Ayane the winner due to her complimenting him, but she concedes before he can do so, claiming that Uta was objectively better and not picking her would be seen as him being biased, though asks to tell Makoto that Sensei picked Uta by himself so she won't get yelled at. After cleaning up the cafe, Sensei and the girls head to the hotel.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Uta Ushibori",
+            "Ami Arakawa",
+            "Kirin Kanda",
+            "Maya Makinami",
+            "Wakana Watabe",
+            "Osako Osaka",
+            "Sana Sakakibara",
+            "Tsuneyo Tojo",
+            "Chika Chosokabe",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei meets the requirements to see What a Wonderful World . Once the competition is over, Kirin pulls Ayane aside and has an idea for one of them to gain a point for the war. She whispers her plan into Ayane's ear, who's appalled by it, and informs her she will pick her up later that evening.",
+            "Once the competition is over, Kirin pulls Ayane aside and has an idea for one of them to gain a point for the war. She whispers her plan into Ayane's ear, who's appalled by it, and informs her she will pick her up later that evening."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Ruthless Rhyme Rhomp! Rap Rampage!",
+            "event_script_names": "dormwar7",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "rapbattle"
+        ],
+        "music_tracks": [
+            "maidcafe.mp3",
+            "recognize.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sphenopalatine Ganglioneuralgia",
+        "next_event": "Chaperone"
+    }
+}

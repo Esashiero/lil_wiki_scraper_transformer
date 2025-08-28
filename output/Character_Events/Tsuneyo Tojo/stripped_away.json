@@ -1,0 +1,47 @@
+{
+    "event_id": "stripped_away",
+    "event_title": "Stripped Away",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Stripped_Away",
+    "event_type": "Event",
+    "primary_character": "Tsuneyo Tojo",
+    "chapter": "v0.29.7",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" With Her \" . This event belongs to an event chain started from \" To Catch Me If I Fall \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Amusement Park"
+        ],
+        "synopsis": "Having mindlessly followed Tsuneyo , Sensei ’s surprised when she ends up leading him to a newly opened amusement park . Despite having led him here, Tsuneyo’s at a loss for what to do, as she’s too afraid to ride any actual rides, and Sensei’s indifferent to any ideas at all. As he tries to talk about the sleepover, Tsuneyo ends up walking away and ordering food, forcing him to pay for it. The two go all throughout the park, eating food from various food stalls on Sensei’s dollar. Each time, he attempts to talk more to Tsuneyo about the upcoming reset, and each time she either ignores him or changes the topic. It isn’t until the sun set’s that he finally gives him, deciding to go along with her “food tour” until the park begins to close. While Tsuneyo polishes off the last of her food, Sensei muses over the fact their “date” is over. She reminds him the day isn’t over yet and points out a large Ferris wheel in the center of the park.",
+        "participating_characters": [
+            "Sensei",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Stripped Away",
+            "event_script_names": "tsuneyoslumber2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "unexpecteddate"
+        ],
+        "music_tracks": [
+            "anewyou.mp3",
+            "justlights.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "With Her",
+        "next_event": "Sudden Light"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "event_id": "ntr_pregnancy",
+    "event_title": "NTR & Pregnancy",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=NTR_%26_Pregnancy",
+    "event_type": "Event",
+    "primary_character": "Molly MacCormack",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" Lifting the Curse \"",
+        "to_get_this_event": "Visit the Koi Cafe at night",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Molly Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "Sensei visits the Koi Cafe in the evening, and finds that Molly works there too. Sensei is surprised that someone as high-energy as Molly has been put in a position of responsibility. Molly ends up talking about her expertise with dating sims, and why they're better than real life. Sensei manages to get a drink eventually, although Molly shares Rin 's policy of inventing her own.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "NTR & Pregnancy",
+            "event_script_names": "mollycafe1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mollycafe"
+        ],
+        "music_tracks": [
+            "cafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "The Cult of Molly"
+    }
+}

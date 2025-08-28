@@ -1,0 +1,47 @@
+{
+    "event_id": "gallows_edge",
+    "event_title": "Gallows Edge",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Gallows_Edge",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.20.13",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Lavender's Green \" . This event belongs to an event chain started from \" Girls in Spandex \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate - Guest Room"
+        ],
+        "synopsis": "Sensei awakens from his “blackout” and looks down to an unconscious Molly , only to see that something terrible happened while he wasn’t mentally there. Being faced with the aftermath, he struggles to decide on how to handle the situation and can’t remember how it even happened. While he still tries to figure out how this scene came to be and how involved both were before he “woke up”, he notices someone entering the room, bracing himself for their reaction to what they will see and trying to figure out how he could defend himself. Finally, Tsuneyo comes through the door and notices Molly. Her initial shock and concern turn into anger and she attacks Sensei, pushing him against the wall, holding her blade to his neck, and demanding an answer from him. Being surprisingly calm despite threatened with death, Sensei remembers her blade, notices how her words were an inverse of his speech in the garden , and claims that she wouldn’t believe him if he said that he can’t answer her because he doesn’t know what occurred. She accuses him of joking even after committing a terrible sin, but he counters it by pointing out that, as the “queen of comedy”, she should be able to tell if he’s joking or not. Tsuneyo accuses him of not only betraying Molly’s trust but also his promise of being their friend and wanting to support them. Sensei remembers that promises, but also notices that Tsuneyo can’t know about it since he only made it to the original ten girls on his first day as a teacher after his awakening . Feeling that Sensei tries to confuse her, she wants him to leave and will decide his fate after she got Molly’s side of the story. While he still tries to process the event, Tsuneyo snaps him out and asks if he’s ready to put his fate into Molly’s hands, which he does before he’s kicked out. With him gone, Tsuneyo focuses on Molly, who slowly starts to wake up. Still drunk but more clear-headed, she’s still not in the mood to see anyone, until she notices what happened while she was unconscious and starts to panic. Tsuneyo asks her if she’s feeling alright, and while she’s confused, ashamed and has a headache due to her drinking, she’s fine otherwise. After getting a summary of what Tsuneyo witnessed, she gets even more confused because it makes no sense that things ended like they did with everything she knows. After cleaning up, Molly learns about Sensei putting his fate in her hands, but she doesn’t feel like he did anything wrong, is more inclined to blame herself for this and wishes she could talk with him to clear things up. Tsuneyo asks if she isn’t feeling angry about what he did, but since she doesn’t know how involved either of them where and feels like there’s more to this story, she doesn’t want to jump to conclusions, especially since she had a recent talk with him that makes things even more complicated. She feels like she needs to talk to him right now, but without knowing where he went and feeling embarrassed about everything, she decides to do this on another day.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Gallows Edge",
+            "event_script_names": "halloweentwo12",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "whatwedo"
+        ],
+        "music_tracks": [
+            "hometown.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .20p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Lavender's Green",
+        "next_event": "Metal in Microwaves"
+    }
+}

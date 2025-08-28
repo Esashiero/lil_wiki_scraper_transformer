@@ -1,0 +1,55 @@
+{
+    "event_id": "fireworks_chicken_and_the_innate_fear_of_death",
+    "event_title": "Fireworks, Chicken, and the Innate Fear of Death",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Fireworks,_Chicken,_and_the_Innate_Fear_of_Death",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.11.12",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Christmas Miracle \" . This event is the final event in an event chain started from \" There is Nothing \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel - Room 24",
+            "Tsukioka Hotel - Outside"
+        ],
+        "synopsis": "Tsuneyo storms into the room and informs Sensei that they’re under attack, because there are explosions in the sky. He tells her that these are just fireworks and wants to know if this is everything she wanted to tell him. She informs him that his presence is requested downstairs and is glad to hear that he isn’t going to die now, having a genuine smile on her face. Sensei compliments her smile and asks if she wants to accompany him, but she wants to stay inside in case something bad happens, which he sees as a bad omen. Tsuneyo wants to tell him a joke and, after he tells Futaba that he’s leaving, listens to it and leaves her behind after a particularly bad joke. Sensei makes his way outside and joins Ami after he exits the hotel. She wants to sit on his shoulder like in the past, but he has no intention to let her when everyone else is around. He wonders what happened to the girls who were kissing during their game . She tells him that Rin ’s fine now, Molly is sad and plays games somewhere and she disposed Ayane ’s body in a dumpster, which he sees as an overreaction for their second kiss . Ami thought he was joking before, but reaffirms that they never kissed before today, which makes Sensei wonder who of them is misremembering that event. Meanwhile, Maya talks with Rin about her being on her phone all night and she tells her that she’s texting with her new friend Otoha . Ami thanks Sensei for spending Christmas with her and wants another party with just him while Rin gets a call from Otoha. She learns that her school, Kumon-Mi Academy, was swallowed by a massive sinkhole, though no one was harmed during its collapse. Maya is shocked to hear that, not because of the collapse itself, but by the fact that it never happened before and wasn’t supposed to happen. Kirin confirms the collapse as she’s reading the news on her phone. Ami is worried about Uta , because she’s a student there, but Sensei reminds her that no one was harmed and Maya informs them that she’s going back to the dorm. As Sensei checks on Rin, Ayane, Molly and Sana come out and want to check on her as well, but since Otoha’s fine, she isn’t really affected by the incident. The girls agree to end their party.",
+        "participating_characters": [
+            "Sensei",
+            "Tsuneyo Tojo",
+            "Ami Arakawa",
+            "Rin Rokuhara",
+            "Maya Makinami",
+            "Kirin Kanda",
+            "Yumi Yamaguchi",
+            "Ayane Amamiya",
+            "Sana Sakakibara",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Fireworks, Chicken, and the Innate Fear of Death",
+            "event_script_names": "christmas7",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "lastchristmas"
+        ],
+        "music_tracks": [
+            "stpartynight.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.11."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Christmas Miracle",
+        "next_event": "Suicide Pact"
+    }
+}

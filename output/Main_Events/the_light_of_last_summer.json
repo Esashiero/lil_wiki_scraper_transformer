@@ -1,0 +1,52 @@
+{
+    "event_id": "the_light_of_last_summer",
+    "event_title": "The Light of Last Summer",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Light_of_Last_Summer",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.23.6",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Somnambula \" . This event belongs to an event chain started from \" Wither \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House"
+        ],
+        "synopsis": "Once Sensei and Ami return home, they find that both Maya and Ayane are already waiting for them. Sensei explains that they both spent their day in the Entertainment District, omitting their visit to the graveyard before going there. Ami also mentions their trip to a manga store , and after realizing what she was buying, Ayane congratulates her for expanding her horizon while Maya looks at Sensei in disgust. The group move to the living room and discuss the upcoming change of seasons, how Ayane learned about Touka ’s recent outing with him and that both discussed the possibility of having a pool party at the Tsukioka estate with their class. Ami starts to “black out” during their conversation and returns to her room to rest after being called out by Ayane. The remaining three are concerned about her, especially Sensei who only remembers her being sick once , and even that was tame compared to this. Ayane asks if they should do something to help her, but Maya thinks they should leave her be and go outside to get some fresh air instead. Outside, Ayane enjoys the mild pre-summer air and brings up the pool party again, until Maya suddenly asks her if she’s experiencing any change to her physical condition. Ayane struggles to understand what she means by this, so Maya reveals that she knows about her relationship with Sensei and wants to know if it affected her in any way. Sensei tries to intervene, which causes an argument between him and Maya as he tries to keep Ayane’s well-being in mind while Maya wants to ensure his well-being and prevent unforeseen circumstances again. After some back and forth, Ayane interrupts their dispute by stating that there is no change to her condition, confessing that she checks her physical health on a regular basis. She explains her reason, but Maya cuts her off and apologizes for putting her on the spot. Ayane asks why she needed to know, and Maya sees no reason to deny her an explanation. Before she begins, she asks if she recalls a group hug on the roof , but she only remembers Sensei asking a similar question before, and Sensei suddenly realizes the meaning of her “losing something important”. Maya gives her brief explanation of their situation, but Ayane thinks she’s mocking her and begs Sensei to give her a real explanation, but Sensei suggests to leave it be. After letting the heavy topic sink in, Ayane annoys Maya to the point of her going back inside and decides to check on Ami. Back inside, Sensei goes to his room while Ayane decides to make tea for everyone. When Ayane asks what kind he wants, she claims to not hear him and, suddenly, Sensei finds himself in a familiar room and is greeted by the Angels . They inform him summer is coming, and ponder to themselves if he enjoyed his time before HOPE appears and wants to know how long he has to wait until he’s complete.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Maya Makinami",
+            "Ami Arakawa",
+            "Angels",
+            "Hope"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Light of Last Summer",
+            "event_script_names": "returntosummer1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "returntosummer"
+        ],
+        "music_tracks": [
+            "normalday.mp3",
+            "undersea.mp3",
+            "hope.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Glued to the Sky",
+        "next_event": "A Life of Prizes"
+    }
+}

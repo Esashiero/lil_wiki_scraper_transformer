@@ -1,0 +1,50 @@
+{
+    "event_id": "the_color_of_a_heart",
+    "event_title": "The Color of a Heart",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Color_of_a_Heart",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.16.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Auto-play after The WAP Man",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 GOD god GoD Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi - Unknown Park"
+        ],
+        "synopsis": "Leaving school unusually late, Sensei walks home at night. Focusing his gaze on the night sky due to him knowing the way home and not needing to focus on his surroundings, he decides to contemplate about the color red. As he comes back to reality, the bleak sky has turned colorful, making him worry that he actually got lost again. Suddenly, a girl with white hair and clothes appears and preaches about his worries. Sensei sees her standing alone under a streetlight in an unfamiliar park and notices how a girl as vulnerable as her shouldn't be alone at this hour. The girl tells him how she came out of hiding and is hurt when he doesn't remember their first meeting . Since she seems to mess with him when he can't remember it, he wants to know why she's here alone, but she ignores him and begs him to come closer due to her voice not reaching this far. After coming closer, he informs her that he does remember her when she appeared before him and Sana , and she remembers both her and her deceased brother. Sensei wonders if she can hear the voices of the death, but she starts laughing after he admits that he wouldn't run away from her unless she actually can communicate with the afterlife. Her mood switches and she starts preaching about the pillars of existence, though she's aware that he won't listen to a mere messenger like her. Sensei doesn't know what she means, but she mocks him for his denial and hopes he ignores it due to ignorance. Writing her off as insane, he asks if she has a place to stay, offering to let her sleep on his couch if she has nowhere to go. He tells her that he will lock his door just to make sure she doesn't do anything to him, but she assures him that she's completely harmless, only existing to spread His word and, therefore, she will be safe from harm unless He decides it's necessary for her to endure it. She has another round of mood swings, and Sensei thinks she should come to his stable to get out of the cold, but she retorts that stables are for animal and, if anything, he is a lamb that needs her guidance, but he refuses to open his heart. She asks him what he would do if he finds a dying animal, which represent Him, and he decides to walk by as if he never saw anything, with her wanting to know if he thinks this will lead to a fulfilled life. The girl explains that everything needs to hurt because He is hurting and only assisting Him will lead to salvation, offering to bring Sensei to a place where he can see many beautiful things. After seeing how much she endures the cold, Sensei wants to know the girl's name, but when she claims she doesn't have one, he decides to leave, not wanting to hear more of her preaching. The girl takes her leave as well, having somewhere she needs to be, but before they part ways, tells him that he's surrounded by whispers and that someone is missing him.",
+        "participating_characters": [
+            "Sensei",
+            "Yasu Yasui"
+        ],
+        "trivia": [
+            "74 6f 20 77 68 61 74 20 64 6f 65 73 20 69 74 20 6d 65 61 6e 20 74 6f 20 62 65 20 63 61 6c 6c 6f 75 73: to what does it mean to be callous"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Color of a Heart",
+            "event_script_names": "day295parttwo",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yasuwhite"
+        ],
+        "music_tracks": [
+            "andlove.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The WAP Man",
+        "next_event": "Call Me By Your Name"
+    }
+}

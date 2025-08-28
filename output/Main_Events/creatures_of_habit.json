@@ -1,0 +1,56 @@
+{
+    "event_id": "creatures_of_habit",
+    "event_title": "Creatures of Habit",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Creatures_of_Habit",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.23.14",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Great Migration \" . This event belongs to an event chain started from \" Wither \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Uta Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi - Streets",
+            "Karaoke Bar"
+        ],
+        "synopsis": "After the rest of the day went by without a hitch, Sensei follows Ami and her friends while pondering about everything that happened and that he could’ve done during the last reset. He stops once he notices Maya ’s concerned stares, but when he asks if she wants something, she admits that she does but struggles to ask. Ayane is still confused about the reset, and Maya promises to fill her in once they reach their destination. Both Sensei and Ayane start to tease her, until she mentions how Sensei treats her better after the apocalypse, which catches Ami’s and Uta ’s attention, who were wrapped up in their own conversation until now. Both want to know if they missed something, but when Ayane tells them what she experienced, including her meeting with Sensei and Maya being partially invisible , both girls just end up confused. After reaching the karaoke bar and leaving Ami and Uta inside their room, Maya fills Ayane in on everything she knows about the end of the world and the reset. Ayane wants to know why only they experience it, and while Maya can’t explain why Sensei and she can do it, she assumes that something in Ayane’s and Sensei’s relationship caused a temporary change in her, which resulted in her being seen as an extension to Sensei and, therefore, being allowed to witness the last two resets. Ayane insists that there was no change during the last one and points out that Ami, being Sensei’s relative, should also be seen as an extension to him, but Maya thinks that only people directly influenced by him can be seen as an extension. Ayane asks how Maya can explain her being seen as an extension as well, but Maya reiterates that she has no clue yet. Maya is aware that she has to test new theories regarding the reset and wants to start with her current theory, because she can’t rule out an unnoticed change in Ayane yet. Since she needs an indisputable proof for her theory, she prohibits them to indulge in their usual pastime until the next reset. Ayane dislikes her idea since it doesn’t take her needs into account, but Maya doesn’t want to hear it. At that moment, Uta comes out and thinks she stumbled into an intervention for Ayane. Maya, exhausted from everything, ends their conversation and enters the room to sing. Ayane and Sensei follow her, but Uta holds him back. She asks him if he intends to sing this time, but, considering what happened last time , he thinks he shouldn’t. Getting nervous, she changes the subject and wants to know his thoughts about the club reassignment. He doesn’t care since, at best, the girls need less counseling sessions, while Uta is excited to enter a club that allows her to do one of her former hobbies and is looking forward to his visits. He wants to know what club she chose, but her decision depends on a certain someone .",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Maya Makinami",
+            "Ami Arakawa",
+            "Uta Ushibori"
+        ],
+        "trivia": [
+            "Despite Ayane’s initial protest, both Sensei and her don’t indulge in their usual pastime, which means that most interactions to increase Lust points are unavailable until A Thousand Years . There’s one interaction left that can be used if Ayane is invited over, but since there are no events during the fifth cycle that require Ayane’s Lust stat, there’s no need to use it.",
+            "There’s one interaction left that can be used if Ayane is invited over, but since there are no events during the fifth cycle that require Ayane’s Lust stat, there’s no need to use it."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Creatures of Habit",
+            "event_script_names": "chapthree5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "postapocalypsekaraoke"
+        ],
+        "music_tracks": [
+            "summerwind.mp3",
+            "utasings.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .25p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Great Migration",
+        "next_event": "Everything Everywhere All At Once"
+    }
+}

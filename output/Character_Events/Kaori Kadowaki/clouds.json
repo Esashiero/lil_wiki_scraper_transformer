@@ -1,0 +1,52 @@
+{
+    "event_id": "clouds",
+    "event_title": "Clouds",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Clouds",
+    "event_type": "Event",
+    "primary_character": "Kaori Kadowaki",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Sad Girl Special \" . This event belongs to an event chain started from \" To Die, To Sleep \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Kaori Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi",
+            "Apartment Building - Room #23"
+        ],
+        "synopsis": "As he walks back from the maid cafe with Kaori , Sensei thinks about how he would change the world if he could. Not long afterwards, Kaori happens to ask a question about exactly that, but Sensei says that he wouldn't change anything. She doesn't believe him, because he never smiles. She says that he has helped her recover from her sadness today, so she wants to help him with his own sadness. She invites him to her apartment — as they walk, Yumi observes them from a distance. Sensei sees Kaori's apartment (and John ), but his idea that maybe Kaori was inviting him for more than that turns out to be mistaken.",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki",
+            "Yumi Yamaguchi",
+            "John"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Clouds",
+            "event_script_names": "kaoridate15p3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nightsky",
+            "kaorijourney"
+        ],
+        "music_tracks": [
+            "sanctuary.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sad Girl Special",
+        "next_event": "Såsom i en Spegel"
+    }
+}

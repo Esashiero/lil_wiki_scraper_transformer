@@ -1,0 +1,50 @@
+{
+    "event_id": "baby_it_s_cold_outside",
+    "event_title": "Baby it's Cold Outside",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Baby_it%27s_Cold_Outside",
+    "event_type": "Lust Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "v0.11.9",
+    "interactivity": {
+        "requirements": "10 Chika Lust",
+        "to_get_this_event": "Have 10+ Chika Lust before There is Nothing . Autoplays after Bottled Dreams .",
+        "to_miss_this_event": "Have less than 10 Chika Lust before There is Nothing . Replaced by Freezing to Death .",
+        "choices": [],
+        "effects": [
+            "+1 Chika Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "After Chika intercepts a bottle spin , she and Sensei sit on a bench outside. Chika is predictably cold, and has ideas for how Sensei might warm her up. Sensei is a bit worried about being caught, but doesn't take long to agree.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe"
+        ],
+        "trivia": [
+            "If Sensei was caught by Kirin during the beach vacation, he is worried about it happening again."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Baby it's Cold Outside",
+            "event_script_names": "chikalust10",
+            "event_missed_name": "Freezing to Death"
+        },
+        "backgrounds": [
+            "chikalustten"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.11."
+        ]
+    },
+    "navigation": {
+        "previous_event": "First Hunt",
+        "next_event": "Little Miracles"
+    }
+}

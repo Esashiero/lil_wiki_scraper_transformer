@@ -1,0 +1,49 @@
+{
+    "event_id": "a_trip_to_the_moon",
+    "event_title": "A Trip to the Moon",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Trip_to_the_Moon",
+    "event_type": "Invite Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" True Power: Unleashed \" from Chika Chosokabe Seen \" Detention \" from Chika Chosokabe",
+        "to_get_this_event": "Invite Chika over after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Chika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Living Room"
+        ],
+        "synopsis": "Sensei invites Chika to his house for the first time. Ami isn't pleased, but softens as Chika makes a point of including her and dismissing the idea of wanting to be alone with Sensei. They sit down to watch TV. Chika talks about her family, but when Sensei mentions his past visit to Chika's house, Ami is irate. Chika and Sensei make up some stories to explain everything away, and although some of them are a little implausible, Ami calms down a little. Nevertheless, Sensei and Chika decide that it would be best for Chika to head home.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Trip to the Moon",
+            "event_script_names": "chikainvite1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikafirstvisit"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Detention",
+        "next_event": "First Hunt"
+    }
+}

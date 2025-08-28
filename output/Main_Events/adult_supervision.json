@@ -1,0 +1,53 @@
+{
+    "event_id": "adult_supervision",
+    "event_title": "Adult Supervision",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Adult_Supervision",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.15.6",
+    "interactivity": {
+        "requirements": "Tuesday You must be on at least Day  288  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Another Long Year \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Tuesday on or after Day 288.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Nodoka , Otoha , Rin , Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Hallway"
+        ],
+        "synopsis": "After spending some time in his office, wondering why the school is suddenly okay with him getting two more students when the number of students he currently has already crosses their initial limit, Sensei wanders the halls until he hears some familiar voices. He finds Rin , Futaba , Nodoka and Otoha gathering near the stairs and celebrating Otoha's upcoming move into the dorms. Sensei is confused on why they celebrate in the hallway instead of somewhere more appropriate, and when Nodoka jokingly wonders if they're in trouble now, Rin negates this, saying that only Yumi gets in trouble with him. Nodoka still intends to confront her due to how she treats Futaba, but Futaba assures her it's unnecessary and Sensei doesn't want Yumi to be bullied by her, especially with what he knows about her. Rin is surprised to hear this since only Chika managed to get any information out of her, and Otoha recognizes that name and teases her about her former crush. Sensei wants to know how Nodoka wants to confront Yumi since a physical battle wouldn't end well for her, and Nodoka wants to convince Yumi on how amazing Futaba is, but Futaba thinks she needs to work on herself before any praise is justified. Nodoka wants to know what she can do support her, and Futaba suggests they start training to improve their physical health, with Rin, using this to get out of her own predicament, asking if they finally want to go through with their improvement plans . Futaba confirms this since the beach trip is coming up soon and she wants to try to loose some weight until then, but gets flustered when the others try to include Sensei into their training group. He declines, though second-guesses his decision when Rin tells him about the benefits of joining them, and Rin is proud to see the Sensei she knows. Otoha wonders if Rin is the only weird one here, but Sensei assures her they're both equally weird, with Nodoka confirming this with a recent interaction between them. Sensei plays along with her, but when it starts to convince everyone else, he reveals it was a joke, and the other girls are scared by how well they work together. Otoha tries to push past the awkwardness, but Nodoka keeps it awkward for her by holding the topic and inviting Sensei into their dorm room. Seeing how much she rejects the idea, Sensei asks if she has an issue with him being there, but Otoha doesn't and just can't understand why he would waste his time with them instead of being with his girlfriend. He informs her that he doesn't have one, because he doesn't want one and doesn't see himself as relationship material, but the girls disagree with the latter. Nodoka still intends to invite him over to let him do the heavy lifting for the move-in, and when Otoha promises to help him, he thanks her for being the only one who doesn't treat him like a peace of meat. While the girls try to argue that this isn't the case or a bad thing, they land on Noriko and her introduction , and Rin and Futaba would like to know more about their past and Maya 's reaction respectively. Sensei convinces them that it isn't a big deal, though Otoha can see how Noriko can make things weirdly interesting due to some of her eccentricities . After promising that all of them are available if he needs someone to vent, the girls, now including Otoha, invite him over to relax in Nodoka's and Otoha's room, and both of them tell him where they usually spend their time over the weekend. With this information, Sensei decides to take his leave.",
+        "participating_characters": [
+            "Sensei",
+            "Nodoka Nagasawa",
+            "Futaba Fukuyama",
+            "Otoha Okakura",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw Schadenfreude before What's Done is Done ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Adult Supervision",
+            "event_script_names": "day288",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "dormeightfourhall"
+        ],
+        "music_tracks": [
+            "oldweather.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Another Long Year",
+        "next_event": "The WAP Man"
+    }
+}

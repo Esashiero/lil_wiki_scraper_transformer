@@ -1,0 +1,53 @@
+{
+    "event_id": "mating_season",
+    "event_title": "Mating Season",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Mating_Season",
+    "event_type": "Lust Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "v0.27.15",
+    "interactivity": {
+        "requirements": "25 Chika Lust",
+        "to_get_this_event": "Have 25+ Chika Lust before starting the event chain. Autoplays after \" Swimming With Sharks \" . This event belongs to an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "Have less than 25 Chika Lust before A Walk Through Hell . Replaced by Hibernation .",
+        "choices": [],
+        "effects": [
+            "+1 Chika Affection",
+            "+2 Chika Lust",
+            "+1 Nodoka , Yumi Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Estate"
+        ],
+        "synopsis": "Chika and Sensei take some time to explore the Tsukioka Manor.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Tsubasa Tsukioka",
+            "Touka Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Mating Season",
+            "event_script_names": "chikalust25",
+            "event_missed_name": "Hibernation"
+        },
+        "backgrounds": [
+            "poorgirldoggystyle"
+        ],
+        "music_tracks": [
+            "oldweather.mp3",
+            "asobeatsex7.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Gap in the Door",
+        "next_event": "Rough Cuts"
+    }
+}

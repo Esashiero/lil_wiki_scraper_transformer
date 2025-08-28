@@ -1,0 +1,49 @@
+{
+    "event_id": "the_lucky_few",
+    "event_title": "The Lucky Few",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Lucky_Few",
+    "event_type": "Event",
+    "primary_character": "Tsubasa Tsukioka",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "20 Tsubasa Affection You must have seen or permanently missed the following Events: Seen \" Our Time Atop This Mattress \" from Chika Chosokabe Seen \" Breaking Character \" from Otoha Okakura Seen \" I Really Want to Stay at Your House \" from Noriko Nakayama Seen \" Playing God \" from Tsubasa Tsukioka",
+        "to_get_this_event": "Call Tsubasa during the weekend afternoon after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Tsubasa Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Estate"
+        ],
+        "synopsis": "After being struck with an uncharacteristic amount of optimism, Sensei decides to give Tsubasa a call, wanting to learn more about her after their last talk . Tsubasa picks up, having planned to call Sensei herself to arrange a meeting with him. Unwilling to explain over the phone, Sensei is soon picked up by a Tsukioka employee and taken to the Tsukioka Estate. Arriving in Tsubasa's formal meeting room, Sensei takes a seat, slightly uncomfortable by the atmosphere and Tsubasa's sly expression. Jumping into the topic, she reminds him of her comment that she'd looked into his past, revealing that in addition to discovering his real name , she also has a plethora of official paperwork from his past, such as his grades in school, his career assessment surveys, as well as old bits of poetry. She tries to pry about his writing, but ends up annoying him. She apologizes for looking into his past, but she only wanted to know what changed him from an excellent teacher into the man he’s now. He doesn’t mind it that much, but doesn’t want to talk about his past, partly because he can't remember it due to undisclosed and unknown events, but also because he's not willing to talk about it with someone who he feels is only prying into him for her curiosity and who only tries to get the most use out him for her schemes. Tsubasa's taken aback by this claim, saying that while she wants to make sure her daughters’ futures play out smoothly, she sees Sensei as an equal instead of only a tool for her plans and that it was poor wording on her part if he got a different impression. Still in the dark about her intentions, Sensei asks why he was summoned here if not to loiter her knowledge over him. Calling in Tsukasa , Tsubasa reveals that she wants Sensei to teach her as well, a request that excites Tsukasa but seems to make him uncomfortable. When he tries to object that he can't possibly make the commute every day to the estate, she clarifies that she plans for Tsukasa to move into Touka ’s apartment complex. Receiving this information out of the blue and realizing that moving away would further decrease their time together, Tsukasa starts to cry, accuses her mother of trying to get rid of her and runs out of the room. While Tsubasa tries to understand what just happened, Sensei tells her that he could’ve prevented that outcome. He explains that Tsukasa feels lonely spending next to no time with her parents, something he realized when she visited his office . She fails to see how she would be since they’re always together, but Sensei reminds her that just being together isn’t the same as spending time together, and Touka will feel similarly, though Touka at least spends some time with her once a month in her dorm room and she’s mature enough to deal with her pain properly. Upset at herself for not realizing this sooner, Tsubasa tells Sensei all their plans are on hold until she cleared things up with her daughters. Sensei questions her decision to let him become Tsukasa’s tutor, only for her to dismiss his confusion, saying he doesn't need to understand. As they stand up, Tsubasa gets close to him and clarifies that her daughters have to go through different phases of development, with this being one of them. With their meeting being put on hold, Sensei leaves the manor with mixed feelings and a lot of uncertainties, yet knows one thing for sure – He needs to keep Tsubasa close if he doesn’t want to live in perpetual fear.",
+        "participating_characters": [
+            "Sensei",
+            "Tsubasa Tsukioka",
+            "Tsukasa Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Lucky Few",
+            "event_script_names": "tsubasaspecial20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsubasameeting"
+        ],
+        "music_tracks": [
+            "tsukiokamanor.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Playing God",
+        "next_event": "The Bird & The Worm"
+    }
+}

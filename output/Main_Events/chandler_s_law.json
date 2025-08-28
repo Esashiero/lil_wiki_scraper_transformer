@@ -1,0 +1,49 @@
+{
+    "event_id": "chandler_s_law",
+    "event_title": "Chandler's Law",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Chandler%27s_Law",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Friends (The Maya Route) \" . This event belongs to an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach room"
+        ],
+        "synopsis": "In their dorm room, Rin worries about how to text Otoha, whose recently been ignoring her. Nodoka fails to see why Rin even bothers to keep trying after the two have spent the last couple of months fighting. She insists that they should go and enjoy their vacation and that Otoha must not care all too much about Rin if the two have yet to push their relationship further after a whole year. Rin and Futaba both snap back at her for being so insensitive, but Nodoka presses the topic, suggesting that perhaps Otoha is finding solace in someone behind Rin’s back and that she should do the same. Futaba asks why she’s being so blunt, and Nodoka admits she’s gotten tired of the back-and-forth between the couple, insisting that if they won’t move forward, she’ll try and push them forward herself. Rin continues to get angry at Nodoka’s suggestion of cheating, but Nodoka insists that not doing so will only continue to make Rin miserable. The two continue to argue until Futaba puts her foot down, shouting over the two and demanding they stop talking about this. She pushes Nodoka out of the room and tells Rin to put her phone away.",
+        "participating_characters": [
+            "Rin Rokuhara",
+            "Nodoka Nagasawa",
+            "Futaba Fukuyama"
+        ],
+        "trivia": [
+            "The name of this event comes from ‘Chandler’s Law’, a piece of writing advice coined by Raymond Chandler. “When in doubt, have a man come through a door with a gun in his hand.”"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Chandler's Law",
+            "event_script_names": "beachmas4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "otohadidntcome"
+        ],
+        "music_tracks": [
+            "summerwind.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Friends (The Maya Route)",
+        "next_event": "The Chains That Bind"
+    }
+}

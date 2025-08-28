@@ -1,0 +1,66 @@
+{
+    "event_id": "prepare_for_battle_",
+    "event_title": "Prepare for Battle!",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Prepare_for_Battle!",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.49(Super Mega Ultimate Heaven & Hell).1",
+    "interactivity": {
+        "requirements": "Friday. 5 Imani Lust You must have seen or permanently missed the following Events: Seen \" Four Hours, Thirteen Minutes, Eleven Seconds \" from Rika Rokuhara Seen \" Ittekimasu \" from Yumi Yamaguchi Seen \" A Thousand Times, Yes \" from Uta Ushibori Seen \" One of the Girls \" from Touka Tsukioka Seen \" WORMGOD54 \" from Tsuneyo Tojo",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on Friday Morning.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Classroom"
+        ],
+        "synopsis": "Imani with Makoto and Uta announce the long-awaited Fifth Dorm Wars. The competitions are split into two days, as usual, but thanks to Uta's charisma and conviction, Imani won't be present for the second day, which opens a variety of possibilities for the girls.\nThe contests 1-A class shall take part in the first day are as follows: And while the majority of the class is expressing their happiness or discontent, Nodoka is floating in her thoughts. The contests Makoto and Uta have announced for the second day are: Let the battle begin!",
+        "participating_characters": [
+            "Uta Ushibori",
+            "Maya Makinami",
+            "Tsuneyo Tojo",
+            "Sana Sakakibara",
+            "Yumi Yamaguchi",
+            "Rin Rokuhara",
+            "Yasu Yasui",
+            "Molly MacCormack",
+            "Nodoka Nagasawa",
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Futaba Fukuyama",
+            "Ayane Amamiya",
+            "Io Ichimonji",
+            "Kirin Kanda",
+            "Touka Tsukioka",
+            "Chika Chosokabe",
+            "Noriko Nakayama",
+            "Imani Imai",
+            "Ami Arakawa",
+            "Otoha Okakura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Prepare for Battle!",
+            "event_script_names": "dormwarsfive1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "black",
+            "dormwarsfiveintro"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.48.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Post-Nut Clarity",
+        "next_event": "Poetry at Best"
+    }
+}

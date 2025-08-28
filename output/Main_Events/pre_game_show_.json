@@ -1,0 +1,65 @@
+{
+    "event_id": "pre_game_show_",
+    "event_title": "Pre-Game Show!",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Pre-Game_Show!",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Super Mega Ultimate Dorm War! \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi - Streets",
+            "Dorm - Second Floor",
+            "Dorm - First Floor"
+        ],
+        "synopsis": "After being forced to spend the rest of the school day in his office, Sensei walks home with Ami , Maya , Ayane and Molly in tow. Ami's still surprised by this new event and Maya agreeing to participate despite him being the prize, but Maya only wants to enjoy this completely new event and doesn't care if she wins him or not. Meanwhile, Molly and Ayane try to have an interview with Sensei. He's unable to tell them much since he's still completely in the dark about the contests, only knowing that Ami and Noriko will compete against each other due to them telling him, but assures them he will be impartial when deciding a winner, though he's unsure how genuine this statement is. Sensei follows the girls to the dorms, but is prohibited from entering so he won't learn more about the competitions before they occur. Having nothing else to do, he decides to go to bed early so he can prepare himself for the next two days. On the second floor of the dorm, Molly interviews the other girls of her floor: On the first floor, Ayane also interviews the girls of her floor: Back in his room, Sensei still doesn't know anything about the contests, including when the first one takes place, and no one bothered to inform him. He is a bit worried by Ami and Noriko competing against each other, but with no information, he decides to wait and see what will happen and goes to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack",
+            "Ayane Amamiya",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Noriko Nakayama",
+            "Kirin Kanda",
+            "Tsuneyo Tojo",
+            "Touka Tsukioka",
+            "Yasu Yasui",
+            "Otoha Okakura",
+            "Nodoka Nagasawa",
+            "Uta Ushibori",
+            "Miku Maruyama",
+            "Makoto Miyamura",
+            "Sana Sakakibara",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Chika Chosokabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Pre-Game Show!",
+            "event_script_names": "dormwar2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "dorminterviews"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Super Mega Ultimate Dorm War!",
+        "next_event": "Imouto Mode!"
+    }
+}

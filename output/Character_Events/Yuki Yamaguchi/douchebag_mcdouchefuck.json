@@ -1,0 +1,54 @@
+{
+    "event_id": "douchebag_mcdouchefuck",
+    "event_title": "Douchebag McDouchefuck",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Douchebag_McDouchefuck",
+    "event_type": "Event",
+    "primary_character": "Yuki Yamaguchi",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after Funeral Plans",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yuki , Imani Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Low-Income Housing Complex - Yuki's Apartment"
+        ],
+        "synopsis": "As Yumi walks into Yuki 's apartment, she immediately spots Sensei , becoming angry and accusing the two of them of trying to stage some sort of intervention. After Yuki clarifies the situation, Sensei tries to take his leave, but Yuki stops him, claiming his presence would probably help keep Yumi calm as she seems to like him. Insulted by her statement but not having anything better to do, Yumi reluctantly takes a seat with the two of them, not before warning Sensei not to speak with her. With the sudden return of Yumi's incredibly hostile behavior, Sensei begins to suspect that the reset wiped Yumi of all memories of their progress . Staring holes into him, Yumi asks the two why they're hanging out despite her multiple attempts at telling Sensei to get out of her life. Yuki bluntly tells her the two of them are friends, although his recent behavior insinuates that he might see her as more than that. The two girls begin to argue amongst themselves, with Sensei breaking it up by asking about the sudden improvement in their relationship. While taking the moment to poke fun at Yumi, Yuki informs him that Yumi's been coming around to her place for the last one or two months, with Yuki quipping that all it took was her getting suspended. Sensei informs her that she's back in his class now due to her supposed heartfelt speech , which causes Yumi to chime in, confused about what he's talking about, as she was let back into school because Chika and Makoto vouched for her, further adding that she didn’t attend their Christmas celebration this time and that she hasn’t seen him for a while. When Sensei tries to mention the slumber party , she ignores it and instead emphasizes that he should stay away from her mother. After making fun of Sensei’s masculinity, the discussion lands on the topic of Yumi's employment efforts , with Yuki advising her to consider a job at Sara's bar. Yumi's reluctant to the idea, both due to not wanting to spend extended periods around Yuki, Sara’s annoying tendencies and Sana being afraid of her. Yuki reminds her that intimidating people is their family's specialty and that it can't be helped, but if she were to clean up her act she might be a pretty popular bartender due to her looks. Disgusted at the idea of being objectified and by Sensei's continued flirting with her mother, she threatens to leave, but Yuki assures her that she'll kick Sensei out after a quick chat outside. Confused about why he's being pulled outside, Sensei first suspects she wants to talk about their near kiss earlier, with Yuki quickly shooting the idea down, writing it off as a brief moment of mistaken passion. Instead, she asks Sensei to tell her what happened between Yumi and Nodoka , as she knows he's involved somehow but Yumi refuses to give her any details. Sense tells her that he shouldn't get involved anymore in Yumi's life by disclosing that, telling Yuki to simply pry the information out of her herself. As they say this, Imani steps out of her apartment, surprised to see him here and slightly hurt when he introduces her to Yuki as his subordinate. She properly introduces herself to Yuki before taking off, heading towards the Dive Bar to hang out with her and Sensei's friend group. Yuki tells Sensei to join her, saying she'll see him again soon. Sensei catches up with Imani, joining her for drinks. Along the way, he wonders if perhaps the reset is the cause for the Yamaguchi family's sudden change in dynamic. Nonetheless, he realizes it's good they managed to start patching things up without involving him – but at the same time, knows he's terrified of too much changing without him.",
+        "participating_characters": [
+            "Sensei",
+            "Yuki Yamaguchi",
+            "Yumi Yamaguchi",
+            "Imani Imai"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the following: Sensei's response to Kirin during Politics! Pleasure! Ponies! If the event Mating Season wasn't missed",
+            "Sensei's response to Kirin during Politics! Pleasure! Ponies!",
+            "If the event Mating Season wasn't missed"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Douchebag McDouchefuck",
+            "event_script_names": "yukidate20p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yumiapt"
+        ],
+        "music_tracks": [
+            "recovery.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Funeral Plans",
+        "next_event": "Pride & Joy"
+    }
+}

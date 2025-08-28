@@ -1,0 +1,64 @@
+{
+    "event_id": "goodnight",
+    "event_title": "Goodnight",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Goodnight",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.19.20",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Try. Try. Try. \" . This event belongs to an event chain started from \" Good Morning \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach",
+            "Beach - First Floor's Room"
+        ],
+        "synopsis": "Noriko approaches Maya on the beach, and they argue about who wronged whom in the past. Noriko blames Maya for Sensei abandoning her and her sister, calling Maya entitled. Maya says that Sensei chose her over Noriko, and Noriko asks what Maya was afraid of, given that Noriko wasn't as close to Sensei and given that there are plenty of other girls after him besides her. Maya says that that she was — and is — protecting Sensei, and that that Noriko would dredge up memories that would leave Sensei impossible to fix. She says that Noriko's entire existence is a memory of horrible times, while Maya herself is \"nothing\". Noriko says that Maya isn't nothing, but says that she has \"devoted herself to keeping the man she supposedly loves locked inside of a box\". Maya says that she has tried the alternative and it didn't work. Meanwhile, at the inn, Rin formally announces her new relationship with Otoha to some of the girls. Outside, Molly wishes she could \"reroll life\", while Tsuneyo says that she likes Molly as she is. Io and Kirin , in their respective rooms, are differently unhappy. More distantly, so is Sara . Osako finds Wakana with some pill bottles. Niki visits Sensei's room and asks if she can stay overnight.",
+        "participating_characters": [
+            "Noriko Nakayama",
+            "Maya Makinami",
+            "Rin Rokuhara",
+            "Otoha Okakura",
+            "Futaba Fukuyama",
+            "Nodoka Nagasawa",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Sana Sakakibara",
+            "Molly MacCormack",
+            "Tsuneyo Tojo",
+            "Osako Osaka",
+            "Sensei",
+            "Niki Nakayama"
+        ],
+        "trivia": [
+            "The line spoken to Sara is encoded with the Vigenère Cipher. Using 'XXX' as the key, it can be decoded as: \"tev albp bsbovqefkd exsb ql eroq pl jrze\" - why does everything have to hurt so much",
+            "\"tev albp bsbovqefkd exsb ql eroq pl jrze\" - why does everything have to hurt so much",
+            "Choosing not to help Maya twice at the start of the event causes the game to crash"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Goodnight",
+            "event_script_names": "secondbeach17",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "clearnightsky",
+            "goodnight"
+        ],
+        "music_tracks": [
+            "goodnight.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Try. Try. Try.",
+        "next_event": "All is Bright. All is Beautiful."
+    }
+}

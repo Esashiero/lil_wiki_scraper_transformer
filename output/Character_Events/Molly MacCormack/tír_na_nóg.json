@@ -1,0 +1,51 @@
+{
+    "event_id": "tír_na_nóg",
+    "event_title": "Tír na nÓg",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=T%C3%ADr_na_n%C3%93g",
+    "event_type": "Event",
+    "primary_character": "Molly MacCormack",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after Resurrection Sickness",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Molly Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi - Park"
+        ],
+        "synopsis": "Molly leads Sensei to a park and calls on her fae companions, asking them to grant her strength — if they exist. They talk for a while about myths and magic. Sensei suggests continuing on to the dorms, but Molly wants to sit and keep talking, since she will \"start thinking\" when she gets home. She talks about her mother, which shifts to a conversation about why Rin isn't interested in Molly. Eventually, they go to the dorms.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack"
+        ],
+        "trivia": [
+            "\"Go dtachtfadh an diabhal thú\" is Irish for \"may the devil choke you\"."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Tír na nÓg",
+            "event_script_names": "mollycafe25p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nightsky",
+            "mollywind"
+        ],
+        "music_tracks": [
+            "molly.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.20p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Resurrection Sickness",
+        "next_event": "Transmogrification"
+    }
+}

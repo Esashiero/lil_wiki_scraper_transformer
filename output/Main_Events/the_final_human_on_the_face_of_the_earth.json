@@ -1,0 +1,50 @@
+{
+    "event_id": "the_final_human_on_the_face_of_the_earth",
+    "event_title": "The Final Human on the Face of the Earth",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Final_Human_on_the_Face_of_the_Earth",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.8",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Visibly Impatient \" . This event belongs to an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "-10 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 2"
+        ],
+        "synopsis": "Sana sits alone in her dorm room, watching an unseen video on her laptop. Her session is interrupted though by Ayane suddenly returning home, complaining aloud about how everyone she knows is getting ready to enjoy Christmas. Sana, obviously disheveled and embarrassed, manages to close the notebook at the last second, awkwardly avoids any prying questions from Ayane and instead pushes the conversation along. Ayane elaborates on her earlier complaints, explaining that this morning she had plans to eat breakfast with Makoto and Maya . While Makoto ended up leaving with Miku to set up tonight's Christmas party, Maya didn't show up and has seemingly disappeared entirely. Unable to explain the true purpose behind their plans, Ayane lies and tells Sana it is about school, leading her to assume she's upset about Imani 's new position as their full-time teacher. Ayane corrects her, stating that Imani is only their teacher until Sensei returns and brings everything back to normal. Sana's slightly doubtful but is receptive to the idea, having gotten used to not learning things as often. Ayane agrees, expressing concern that she might be the only level-headed person left with everyone else racking their head so hard for answers – This tension, combined with Maya's sudden shift in personality and Sensei's complete departure has left Ayane feeling like she's the only real person around anymore. Sana is confused by Ayane's assertion that Maya is different somehow and struggles to understand the following explanation that the 'new Maya' is \"more Maya than normal\". Seeing it's futile trying to explain, Ayane moves on, saying she's just venting at the moment since she has no one else to turn to. Sensing the tension in her words, Sana outright asks Ayane if she's okay - She confesses she isn't, having to fight back tears while claiming she has no room to cry so long as she remains the 'final real human'. She does ask though that Sana slows down on her recent growth so she can adjust easier. Sana wishes she could and notes how much easier change is for her than she initially thought, attributing said ease to how subtle change is until it's over. She directs this point back to Ayane, pointing out how, from her perspective, Ayane's the one who's changed a lot recently. Likening the experience to a video game, she asserts that Ayane's seemingly gotten much stronger all on her own and suggests her sudden feeling of isolation is just because everyone else hasn't caught up. She adds that Ayane being so much stronger doesn't mean she alone needs to carry the burden of responsibility and charity, as change is so subtle that perhaps everyone else will be stronger than her before she realizes it. Feeling better, Ayane thanks Sana for such powerful words, assuring her she'll take a break once the Sensei situation is resolved – Sana hopes she figures it out soon, both for her friend's sake and to avoid classwork. Segueing to Christmas, Ayane realizes she still needs to buy a present for tonight, asking Sana for permission to use her laptop. Sana refuses.",
+        "participating_characters": [
+            "Haruka Hamasaki",
+            "Sara Sakakibara",
+            "Sana Sakakibara",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Final Human on the Face of the Earth",
+            "event_script_names": "springtime7",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "jillingforjesus"
+        ],
+        "music_tracks": [
+            "wewereangels.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Visibly Impatient",
+        "next_event": "Actual Jesus Quotes"
+    }
+}

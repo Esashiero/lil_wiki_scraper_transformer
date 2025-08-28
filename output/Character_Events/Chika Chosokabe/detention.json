@@ -1,0 +1,51 @@
+{
+    "event_id": "detention",
+    "event_title": "Detention",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Detention",
+    "event_type": "Lust Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Chika Lust or 10 Chika Lust The lust requirement changes depending on Sensei's choice during Behind The Curtain You must be on at least Day  139  to unlock this Event. You must have seen or permanently missed the following Events: Seen \" Schadenfreude \" from Chika Chosokabe Seen \" True Power: Unleashed \" from Chika Chosokabe",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first weekday on or after Day 139.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Sensei's Office"
+        ],
+        "synopsis": "Sensei is sitting in his office, waiting for Chika to arrive after she requested to see him during his counseling sessions. Arriving one hour too late, she finally enters and locks the door behind her, revealing that she only requested his service to spend more time with him and wonders if he has a TV or anything to entertain themselves in his office, but he informs her that this isn’t the case since his office also serves as a detention room. Chika remembers that Yumi mentioned something like this before and asks him if he can give her detention for ‘being a bad girl’. Sensei fulfills her request and quickly treats her like she actually has it. Two minutes later, Chika complains that he actually gave her detention instead of it being some kind of code he gave her in the dressing room . After flirting for a while, Sensei admits that he never intended to give her detention and only wanted to tease her before doing something fun with her.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on Sensei's choice during Behind The Curtain .",
+            "Before .10p1 , this was a missable event that would be replaced by And So We Fall Further ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Detention",
+            "event_script_names": "day139",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikafirstlust"
+        ],
+        "music_tracks": [
+            "phantomthief.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "True Power: Unleashed",
+        "next_event": "A Trip to the Moon"
+    }
+}

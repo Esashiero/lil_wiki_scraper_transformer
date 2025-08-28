@@ -1,0 +1,79 @@
+{
+    "event_id": "miserably_ever_after",
+    "event_title": "Miserably Ever After",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Miserably_Ever_After",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.20",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" You & Me Against the World \" . This event is the final event in an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Goodnight",
+                "effect": "'goodnight.mp3' will play during the Event"
+            },
+            {
+                "context": null,
+                "option": "Hallelujah",
+                "effect": "'hallelujah.mp3' will play during the Event"
+            },
+            {
+                "context": null,
+                "option": "Little Bunny",
+                "effect": "'littlebunny.mp3' will play during the Event"
+            },
+            {
+                "context": null,
+                "option": "No Music (If 3001AyaneAffection)",
+                "effect": "'yorunoakachan.mp3' will play during the Event"
+            }
+        ],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a",
+            "Apartment Building - Apartment #23",
+            "Tsukioka Hotel",
+            "Sensei's House - Sensei's Bedroom"
+        ],
+        "synopsis": "Before the Event begins, AUTO-PILOT informs the listener that they are unable to decide on a song for tonight's monologue, citing the collapsing state of \"Terminal 23\". After receiving an answer they relay a message from someone unseen. They first remind the listener that grief manifest in different ways, something they should've realized after the last couple of days. AUTO-PILOT insists this is true and further insists that, should the listener disappear tomorrow, they too would be grieved over – Though, such grief probably wouldn't manifest in the exact same way it did tonight . Most likely, the grief would make them give in to their sadness, contemplating if they can provide any kind of help. Only the listener can decide if someone can, because while people can sympathize with others, they will never understand the pain someone else is experiencing. However, even if no one else alive can understand it, they can tend the wounds; The listener just has to let them. The narration is interrupted by someone, who speaks directly to Sensei and declares they are coming for him. Disregarding the earlier note and disengaging AUTO-PILOT, knowing they will incur the wrath of Pareidolia , they claim it's worth it as long as both of THEM return to form. At the same time, Ami guides Sensei to bed and pleads with him to ignore the voices in his mind. She reveals to him that God is real and longs to use him for their bidding, begging him to fight against them and telling him to recognize the manipulation if he ever wants to be free. Following another brief interruption , AUTO-PILOT is being reactivated, because the host was deemed \"unfit\" to think for himself, and ordered to continue the narration without any kind of themes this time, as they were deemed \"unsafe\". The night ends, with no Christmas miracles to be found.",
+        "participating_characters": [
+            "Sensei",
+            "Yasu Yasui",
+            "Noriko Nakayama",
+            "Kirin Kanda",
+            "Ami Arakawa",
+            "Teacher"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on Sensei's choice during No One Can See Us ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Miserably Ever After",
+            "event_script_names": "springtime19",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "boysdontcry"
+        ],
+        "music_tracks": [
+            "goodnight.mp3",
+            "hallelujah.mp3",
+            "littlebunny.mp3",
+            "yorunoakachan.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "You & Me Against the World",
+        "next_event": "Episcopalis: Pickled Plums & Polyrhythmic Psalms"
+    }
+}

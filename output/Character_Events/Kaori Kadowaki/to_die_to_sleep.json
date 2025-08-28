@@ -1,0 +1,51 @@
+{
+    "event_id": "to_die_to_sleep",
+    "event_title": "To Die, To Sleep",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=To_Die,_To_Sleep",
+    "event_type": "Event",
+    "primary_character": "Kaori Kadowaki",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "15 Kaori Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" What Was \" Seen \" Abyss \" from Yumi Yamaguchi",
+        "to_get_this_event": "Call Kaori during weekend morning. This event start an event chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kaori Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi"
+        ],
+        "synopsis": "Sensei agrees to spend the day hanging out with Kaori (and John ). Kaori wants to purchase more chickens from the chicken alleyway . While they walk, they talk about the reason for Kaori's familiarity with hospitals, but he doesn't get much more information than that it started with \"WHAPAM! BOOM! KCHHHHHH!!\". When they get to where the chickens should be, however, they find that they are too late. Kaori is upset, and Sensei quotes a poem that he thinks might explain death a bit better than he can. They talk about grief and loss, and Kaori mentions that \"the people she used to live with\" when she was young got hurt more than she did, and disappeared forever. Kaori takes a stuffed rabbit from a nearby table (which Sensei thinks is \"eerily out of place\"), and asks Sensei to take her somewhere where she can have a good time despite her loss.",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki"
+        ],
+        "trivia": [
+            "Sensei's quote is from Henry Scott Holland."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "To Die, To Sleep",
+            "event_script_names": "kaoridate15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kaoribigdate"
+        ],
+        "music_tracks": [
+            "remember.mp3",
+            "contemplation.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Objects and Appendages",
+        "next_event": "Sad Girl Special"
+    }
+}

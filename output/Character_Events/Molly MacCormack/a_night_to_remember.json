@@ -1,0 +1,47 @@
+{
+    "event_id": "a_night_to_remember",
+    "event_title": "A Night to Remember",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Night_to_Remember",
+    "event_type": "Event",
+    "primary_character": "Molly MacCormack",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after Hook",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Haruka's House"
+        ],
+        "synopsis": "As the group leaves the restaurant , Haruka , now completely inebriated and barely able to walk, becomes Molly and Sensei 's responsibility. The trio makes their way back to Haruka's place, with Molly having to keep her propped up on her own. She complains about Sensei's lack of assistance, which he excuses based on prior experience with a drunk Haruka. The whole time, Haruka chatters ad nauseam, slowly draining Molly of her patience, until she makes her an offer she can’t resist. She guides Haruka into her room, asking Sensei not to follow them. As Sensei sits off to the sidelines, he briefly considers following them, but quickly remembers why he's so hesitant and heads to Haruka's living room to wait for Molly to return. Now laying in bed, Haruka continues the topic from earlier, drunkenly encouraging Molly to pursue what she wants, as there's no harm in trying. Molly answers that, while Sensei might not hold anything against her, the situation between them is more complicated than Haruka knows. In addition, she's not even fully over Rin yet, and Sensei's still unable to look her in the eye since the second Halloween party. She asks Haruka if it's even possible to fix their relationship, remarking that she contemplated playing a completely different game but always wants to play with the one person who doesn’t like games or her. Unfortunately, Haruka has fallen asleep at this point, and Molly steps back into the living room, joining Sensei on the couch. Now alone, Sensei himself asks about Haruka's earlier comments, confirming with Molly that she was telling the truth about her feelings for him. He advises her that he shouldn't even be a consideration for her, especially considering the circumstances between them. Molly reminds him that they've never cleared that up in the first place, settling on the fact they can't possibly know what happened during that Halloween. He presses the point, asking if it's simply due to his presence in her life – Molly denies this, saying it's because he appreciates her in a way no one else does. He reminds her that Tsuneyo, the manga club, and Rin all appreciate her and that they've never hurt her the way he has without exploiting her vulnerability. Molly puts her foot down, demanding they put the past behind them, and that he give her a straight answer for once; If he wants to push her away, he's more than welcome to, but she'd at least like to know why he treats her differently. She asks again if what he said before is still true, and tells him to turn her down or else she'll be the one to make a move. As Molly closes the distance between them, Sensei abruptly stands up and rushes out of the apartment, telling Molly to walk herself home. She begs him to stay but he refuses to listen. Sensei retreats to the park near his place, trying to write off her words as hormonal delusions, which makes him wonder how that differentiates her from the others. He tries to sleep on a nearby bench before giving up and returning home.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack",
+            "Haruka Hamasaki"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Night to Remember",
+            "event_script_names": "mollycafe30p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mollyharukahome"
+        ],
+        "music_tracks": [
+            "molly.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Hook",
+        "next_event": "Anar'alah Belore"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "event_id": "the_man_who_loves_nothing",
+    "event_title": "The Man Who Loves Nothing",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Man_Who_Loves_Nothing",
+    "event_type": "Event",
+    "primary_character": "Tsuneyo Tojo",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Tsuneyo Affection You must have seen or permanently missed the following Events: Seen \" A Short List \" from Tsuneyo Tojo",
+        "to_get_this_event": "Visit Tsuneyo at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Tsuneyo Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 6"
+        ],
+        "synopsis": "Sensei , visiting Tsuneyo 's dorm, tells her that the smiley face on her shirt is \"kind of creepy\". Tsuneyo disagrees, telling Sensei that he just hates joy — she brings up his comment that there isn't really anything he loves. The shirt was a gift from her father, whom Tsuneyo clearly respects, although she says that does not defer to him in everything. She has also been learning from Molly , although the protective \"spell\" she acquired is not sufficient to repel a confessed pervert like Sensei. Eventually, Tsuneyo asks Sensei to show her the way to a 24-hour convenience store — she has only just learned that they exist.",
+        "participating_characters": [
+            "Sensei",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Man Who Loves Nothing",
+            "event_script_names": "tsuneyodorm10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsuneyodormten"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Short List",
+        "next_event": "Seeds"
+    }
+}

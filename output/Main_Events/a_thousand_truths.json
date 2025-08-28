@@ -1,0 +1,52 @@
+{
+    "event_id": "a_thousand_truths",
+    "event_title": "A Thousand Truths",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Thousand_Truths",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.8",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Fetch Quest \" . This event belongs to an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach",
+            "Beach Hotel"
+        ],
+        "synopsis": "The girls sit around the table, getting ready to play another round of Truth or Date. As Nodoka’s perversion starts to slip in, Touka reminds her that she’s still banned from playing after the last time she played . Ayane also takes the time to establish some ground rules to keep Kirin from going too far. The group is surprised to see Maya sticking around, but she says she’s only here as her original plans just fell through unexpectedly.",
+        "participating_characters": [
+            "Molly MacCormack",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Kirin Kanda",
+            "Nodoka Nagasawa",
+            "Touka Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Thousand Truths",
+            "event_script_names": "beachmas8",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "beachmastod"
+        ],
+        "music_tracks": [
+            "christmasyay.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Fetch Quest",
+        "next_event": "The Bending of Italics"
+    }
+}

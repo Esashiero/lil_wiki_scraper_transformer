@@ -1,0 +1,52 @@
+{
+    "event_id": "rotting_from_the_inside_out",
+    "event_title": "Rotting From the Inside Out",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Rotting_From_the_Inside_Out",
+    "event_type": "Event",
+    "primary_character": "Maki Miyamura",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after either Stress Level Midnight or Shut Up & Cum .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maki Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tropical Resort"
+        ],
+        "synopsis": "Sensei is pulled outside the group's hotel room by Maki , and the two find themselves in an opening between the resort's various pools. As he waits for Maki to speak up, he ponders over the expression on her face, realizing that he's unable to discern how she's currently feeling. While he thinks to himself about how he'd like to help her, he loses this confidence when Maki asks him about Makoto . Trying to steer the conversation away, he reminds Maki of the last time they talked about Makoto like this, and how badly it went. Maki insists this time is different, explaining that as of recently, Makoto's become a lot happier and seems to have gotten over the initial grief of her father's passing , though Sensei is sure she’s only pretending. While Maki's happy about this, now that her attention isn't focused on helping Makoto recover, she worries her own feelings are starting to come back and are affecting her mood. Additionally, she's suspicious about the reason behind Makoto's sudden mood change. Sensei tries to tell her to simply accept the situation for what it is, but Maki thinks her happiness is too convenient and sudden to just accept it. Her theory is that her daughter has a boyfriend, which makes Sensei fall silent. She continues, pointing out the irony in her being uncomfortable, but also voicing how lost she is at handling the situation. When she realizes Sensei's silence, she tries to rope him in for some advice, but his responses are vague and circuitous. He tries to justify this by explaining he doesn't have a right to weigh in on parenting Makoto, but Maki insists he at least tries as she’s worried someone might’ve taken advantage of her daughter while she’s at her lowest. Sensei thinks about how desperately he wants to get out of this situation, and what he should do moving forward. While trying to buy himself time, he reveals to Maki his real name , but when she mirrors a certain line someone 's said, his confidence in himself shatters completely. Maki, meanwhile, still tries and pry some advice out of him, asking what he'd do if Ami were in the same situation. He bluntly tells her to just talk to Makoto, as it's better than having to constantly tiptoe around the subject. Maki puts up a small amount of protest at the idea, citing it as difficult and failure-prone, but Sensei reminds her that she wants to ensure her daughter’s safety and, in order to achieve it, has to take the hard road sometimes. The two return to the hotel room after Maki teases Sensei some more, and he falls asleep thinking about everything he's done wrong.",
+        "participating_characters": [
+            "Sensei",
+            "Maki Miyamura"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the follow: If Sensei pursued Maki during Special Occasions . If Sensei pursued Maki and pursued Haruka during either Invisible Worm or Roses .",
+            "If Sensei pursued Maki during Special Occasions .",
+            "If Sensei pursued Maki and pursued Haruka during either Invisible Worm or Roses ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Rotting From the Inside Out",
+            "event_script_names": "makihornytrip3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makiclearnight"
+        ],
+        "music_tracks": [
+            "starvingtodeathoutofreachofthesun.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.32."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Shut Up & Cum",
+        "next_event": "Wires...and the Concept of Breathing"
+    }
+}

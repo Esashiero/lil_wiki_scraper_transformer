@@ -1,0 +1,49 @@
+{
+    "event_id": "me_without_you",
+    "event_title": "Me Without You",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Me_Without_You",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.21",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Spotless Mind \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Niki Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel - Lobby"
+        ],
+        "synopsis": "While still reeling from the emotions the memory he saw brought, Sensei heads downstairs to Niki . On the way, he receives a text from Maya , who makes plans with him to meet on the roof later. Upon reaching the lobby, Niki, who knows Noriko 's given him her letters, immediately confesses she's still in love with him. She admits that the reason she became famous was so she could follow him in every way she could, since she couldn't do so in reality, immediately that this makes her sound crazy but not caring. Sensei tells her she'll regret that once she thinks rationally about it, but she retorts that she can't think rationally anymore because of their breakup. She pleads with him to get back together with her, saying she loves him again. He tells her he knows this, especially now that he's finally remembered something. Upon describing his memory to her, he learns what he saw was the evening of their first kiss. Niki's glad her letters have chipped away at his amnesia, but Sensei is disappointed he only got a small piece of them. She assures him they can make new memories together, especially if he agrees to date her again. He reminds her that she can't date with her current job but she negates this by saying she'll willing to retire for him. He tells her she shouldn't abandon something she enjoys so much, but she reminds me that she only became an idol to make him jealous and, since that didn't work, she has no reason to keep pursuing her career. As Sensei tells Niki he's not ready to make such a life-altering decision, Maya listens in. Niki's fine with waiting, but loudly reminds him of why they need each other. As she gets louder and louder, he tries to calm her down, but she refuses, telling him to kiss her if wants her to shut up. When he fails to initiate, she does so herself. While they kiss, Sensei thinks about how he wants to be with Niki, but that Niki wants the version of him she grew up with, not the version of himself he's become . Breaking apart, Niki accepts they can't be together yet, but wants to know why he's turning her down. He tells her he wants to wait until he's \"less numb\", an answer which annoys her because she's heard it so many times before. After poking fun at his clothes, she takes her leave, teasing him about what he's missing out on.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Niki Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Me Without You",
+            "event_script_names": "christmastwo18",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nikilove"
+        ],
+        "music_tracks": [
+            "memories.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Spotless Mind",
+        "next_event": "The Color White"
+    }
+}

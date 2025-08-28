@@ -1,0 +1,63 @@
+{
+    "event_id": "silhouettes_of_scorned_princesses",
+    "event_title": "Silhouettes of Scorned Princesses",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Silhouettes_of_Scorned_Princesses",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.49(Super Mega Ultimate Heaven & Hell).10",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Lovely Lawyers & the Laws of...Love! \" . This event belongs to an event chain started from \" Prepare for Battle! \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi - Streets",
+            "Koi Cafe"
+        ],
+        "synopsis": "While Sensei with the girls head to Koi Cafe, he had a time to enjoy the night sky and ponder about his beloved once again. In the meantime, Ami and Maya discussed the cuteness contest and their intricate relationship with each other. Sensei and Imani , on the other hand, were worried about Nodoka and her excessive calmness. Although, Sensei convinced Imani, that he shall deal with this. In was the right time for Imani to announce the upcoming event, which was the comedy battle between Touka and Futaba . More importantly, she had to specify the rules. The first to come to the stage was Futaba, and the class had to cheer her up and help to deal with the stage fright. During Futaba's preparation, Touka had a chance to question Chika about Ami and her behaviour, as well as Sensei and the love he radiates. Finally, Futaba gathered her strength and began to joke. But seemingly, her whole performance was based on self-loathing, so Imani quickly interrupted her and open young girl's eyes: it won't be funny in a kind and sincere way. It wasn't long until Touka took Futaba's place, though. Touka's entire set was original, unlike Futaba's, which already won a few points for her and her team. However, her comedy set included tons of humiliating and insulting jokes towards Ami, Sensei and Kirin. This gave Imani a food for thought and made her decision more troublesome. Either way, Touka still claimed a point for her team, as Touka's set was less questionable and fully original.",
+        "participating_characters": [
+            "Uta Ushibori",
+            "Maya Makinami",
+            "Tsuneyo Tojo",
+            "Rin Rokuhara",
+            "Yasu Yasui",
+            "Molly MacCormack",
+            "Nodoka Nagasawa",
+            "Makoto Miyamura",
+            "Futaba Fukuyama",
+            "Sensei",
+            "Kirin Kanda",
+            "Touka Tsukioka",
+            "Chika Chosokabe",
+            "Noriko Nakayama",
+            "Imani Imai",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Silhouettes of Scorned Princesses",
+            "event_script_names": "dormwarsfive9",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "clearnightsky",
+            "cafecomedytwo",
+            "black"
+        ],
+        "music_tracks": [
+            "youwerespring.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.48.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Lovely Lawyers & the Laws of...Love!",
+        "next_event": "A Ghost's Guide on Haunting"
+    }
+}

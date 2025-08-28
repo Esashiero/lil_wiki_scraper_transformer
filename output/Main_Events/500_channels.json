@@ -1,0 +1,50 @@
+{
+    "event_id": "500_channels",
+    "event_title": "500 Channels",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=500_Channels",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.37.4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" ...But Home is Nowhere \" . This event belongs to an event chain started from \" Episcopalis: Pickled Plums & Polyrhythmic Psalms \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Living Room",
+            "Sensei's House - Ami's Bedroom"
+        ],
+        "synopsis": "Ami responds negatively to Sensei 's proclamation that he wants to leave the house, shifting blame onto Ayane for suddenly changing his mood and \"tricking\" him into thinking he's mentally stable again. Sensei insists this decision was entirely his, prompting Ami to accuse him of lying to her even after she's spent so much time taking care of him. She throws her ire back towards Ayane, who tries to defend herself from this onslaught of accusations but ultimately fails. From here, Ami's speech spirals into a barely intelligible rant, trying to do anything she can to keep Sensei from leaving the house. As this rant becomes increasingly uncomfortable, Ayane leaves. Now alone with Ami, Sensei grabs her by the hand and leads her to her bedroom. She continues to insist that he will stay with her forever and never leave, arguing that all he needs to feel normal and complacent is already in their home. Shutting out the world has always been his preferred method of coping, and as long as he remains inside Ami can facilitate that method by locking him up and removing all distractions. Seeing this topic going nowhere, Sensei suggests that she's the one who currently needs protecting, an idea Ami finds absolutely ridiculous, especially when he's still obviously coping. She begs him to return to bed and cope the way he always has, but he refuses, saying that simply coping won't help anymore. Knowing full well that Sensei is far from healed and still insists to put himself in danger, Ami wants to know why he intends to hurt her like this. Sensei doesn't want to hurt her, even being very grateful for all the help she's given him so far, but tells her that he can't remain comatose or confined to his room anymore, and he's aware that it will be a long and arduous process to actually get better, a process he requests her help for. Ami tells him she can't help while he's outside, as it's full of people who are full of ulterior motives and are untrustworthy. She adds that, if he keeps \"kneecapping\" her like he is right now, she'll be unable to remain by his side throughout it all. Shutting her down, Sensei gives Ami the rest of winter break to be alone with him before he's going to go outside, with the stipulation that should he break again , he'll stay home until he wakes up again. Ami's unable to fight back against this, but says she'll never accept him willingly opening himself up to harm again. He finishes by telling her that she doesn't need to accept his decision, but simply be there for him. Sensei lays in bed that night, pleading himself to Ami alone for the next week. While he's sure Ayane will return tomorrow, with millions of questions and concerns, he's content to let Ami handle it for him. Instead, he laments how badly he doesn't actually want to leave his house, but accepts that it's necessary for things to continue.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Ayane Amamiya"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on Sensei's choice during No One Can See Us ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "500 Channels",
+            "event_script_names": "springend3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amibigmad"
+        ],
+        "music_tracks": [
+            "meanttobe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Okonomiyaki",
+        "next_event": "Wild Boar"
+    }
+}

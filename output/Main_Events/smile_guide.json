@@ -1,0 +1,50 @@
+{
+    "event_id": "smile_guide",
+    "event_title": "Smile Guide",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Smile_Guide",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.8.15",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Prisoner \" , or \" Back to Normal \" . This event belongs to an event chain started from \" What's Done is Done \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach - Sensei's Room"
+        ],
+        "synopsis": "As he's taking a nap, Sensei is suddenly awoken by someone. Upon opening his eyes, he finds Rin sitting at the foot of his bed, barely holding back tears. He asks what happened to her and Rin tells him nothing's happened yet. She asks if he already knows that she will meet Chika tonight, leading him to realize that she plans to confess to her. She confirms this but is unsure if she should or can do it. Sensei doesn’t see why it would be difficult to confess to her, but Rin explains that Chika accepting her confession would have a massive impact on her reputation, but she assumes this won’t happen since she's pretty sure Chika's into someone else, already having an idea who it is. She accepts this, seeing her rejection as an unavoidable fate that will help her to move on. She asks for his thoughts, which Sensei dismisses as unimportant, saying this isn't about him. Rin drops the topic, agreeing that she shouldn't drag him into more of her problems. He questions her about this, asking if that's why she's avoided telling him she's been hurting herself again. She's confused by this accusation, but once he explains that a friend saw her marks she realizes Molly told him and assures him that the marks she saw are old ones. She invites him to check but he refuses, choosing to trust her. She crawls onto his bed, sitting next to him and asking for his advice since she's \"on her deathbed\"; She knows she will shut down once the day is over, be it due to a broken heart or joy. The two begin to banter, making her appreciate their friendly relationship and using it to segue into asking for him to let her sleep in his room tonight, explaining that she's going to need his comfort and supervision. Plus, she thinks it'd be awkward sleeping in the same room as the girl who rejected her. She asks if he thinks she's being too rash, with Sensei asking if it’s even possible for her to wait any longer. She negates his question, recounting how hard it was to keep her composure just during a recent conversation , especially once Chika incorrectly guessed who she had a crush on. Suddenly getting serious, she presses him on the relationship between him and Chika. From here, the event diverges depending on if Sensei kept his promise and didn’t advance his relationship with Chika already: Eventually, Rin falls asleep, taking a quick nap before Sensei wakes her up. The two walk down the shoreline together, with Sensei ruminating how by the end of the night, one of them will be hurt.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "If Sensei kept his promise and received a reward during Side Event , he will acknowledge that something did happen between Chika and him, but since it had no impact on their relationship, he sees no reason to tell Rin about it."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Smile Guide",
+            "event_script_names": "beachvacation13",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "rinintheinn"
+        ],
+        "music_tracks": [
+            "lastdailysong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.8."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Reverse Cowgirl",
+        "next_event": "Prayer Position"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "event_id": "the_tenth_step",
+    "event_title": "The Tenth Step",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Tenth_Step",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.35.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Eggside Octopus \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate - Dojo"
+        ],
+        "synopsis": "Ami , Ayane , Maya , and Sensei arrive at the Amamiya Estate where the class's party is already in full swing. While the girls all talk amongst themselves about this year's strange decor, Sensei struggles to keep his mind focused on the event ahead. His attempts to appear like he's doing fine also fail and before any of the girls can convince him to take it easy, he rushes on ahead to begin making the rounds. Ami informs Maya and Ayane that he's been acting strange all day, even filling them in on his mistaken assumption that Ami was Maya. Hearing this, and now having an explanation for what \" dreamspeak \" is, Maya tries to defend herself but Ami refuses to hear her out. The two decide to drop the issue for now in hopes they can enjoy tonight instead. After being educated on the ten steps for how to enjoy \"the game, Lessons in Love\", Sensei walks up to Rin and Nodoka . He's surprised to see only the two of them together, prompting Rin to explain that Otoha is busy tonight, while Futaba has still yet to forgive both of them. Being reminded, Sensei tries to tell Nodoka to stop publishing her book. Rin tries to help as well, but their efforts end up being fruitless – Although, Nodoka does humor the idea of apologizing. Hearing that neither of them plans to, Sensei decides to go speak with Futaba himself. Futaba quickly realizes he was talking about her and, while she didn't want that, appreciates the sentiment. While she chose to still come tonight, she asks him if she can continue to be alone, as she'd much prefer that right now. Sensei obliges after quickly checking up on her mental state, confirming she still feels the way she did before. Moving on, he approaches Touka and Karin , both of whom he quickly annoys and embarrasses respectively. While he and Touka begin to playfully fight about his lack of cultural knowledge, he continuously throws compliments at Karin, causing her to repeatedly pass out from embarrassment. Touka quickly becomes fed up with this continuous exploitation of Karin's inexperience, asking him to stop before he causes serious trouble. Just as he agrees to, someone taps on his back.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Rin Rokuhara",
+            "Nodoka Nagasawa",
+            "Futaba Fukuyama",
+            "Karin Kanda",
+            "Touka Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Tenth Step",
+            "event_script_names": "halloweenfour2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "halloweenfourmingle"
+        ],
+        "music_tracks": [
+            "letsfuckingo.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.35."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Eggside Octopus",
+        "next_event": "BONE-TOWN"
+    }
+}

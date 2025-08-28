@@ -1,0 +1,48 @@
+{
+    "event_id": "first_hunt",
+    "event_title": "First Hunt",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=First_Hunt",
+    "event_type": "Invite Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" A Trip to the Moon \" from Chika Chosokabe",
+        "to_get_this_event": "Invite Chika Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Chika Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House"
+        ],
+        "synopsis": "Sensei invites Chika to his house again while Ami is out. Chika is pleased not to have Ami watching her like a hawk this time, although she says that she can understand Ami being protective. She says that during her supposed detention , she wanted to \"...you know, lick it and stuff\". After a bit of discussion about who is the predator and who is the prey in this scenario, she does so.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "First Hunt",
+            "event_script_names": "chikainvite2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikasecondvisit"
+        ],
+        "music_tracks": [
+            "asobeatsex5.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Trip to the Moon",
+        "next_event": "Baby it's Cold Outside"
+    }
+}

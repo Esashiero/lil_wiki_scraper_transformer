@@ -1,0 +1,55 @@
+{
+    "event_id": "the_need_to_be_hurt",
+    "event_title": "The Need to be Hurt",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Need_to_be_Hurt",
+    "event_type": "Lust Event",
+    "primary_character": "Haruka Hamasaki",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Haruka Affection 5 Haruka Lust You must have seen or permanently missed the following Events: Seen \" Invisible Worm \" from Haruka Hamasaki",
+        "to_get_this_event": "Have 5+ Haruka Lust and visit her at the Koi Cafe .",
+        "to_miss_this_event": "Choose \"Be a gentleman\" in Invisible Worm . Replaced by Hurt Me .",
+        "choices": [],
+        "effects": [
+            "+3 Haruka Affection",
+            "+1 Haruka Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "",
+        "participating_characters": [
+            "Sensei",
+            "Haruka Hamasaki"
+        ],
+        "trivia": [
+            "When choosing what",
+            "would like",
+            "to call him during any future intimate scenes, choosing the name Husband reveals a secret \"Happy Scene\" not listed as its own event, in which",
+            "eventually appears asking why the MC why he continues down this path of destruction."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Need to be Hurt",
+            "event_script_names": "harukafirstlust",
+            "event_missed_name": "Hurt Me"
+        },
+        "backgrounds": [
+            "harukafirstlust"
+        ],
+        "music_tracks": [
+            "cafe.mp3",
+            "asobeatsexdark.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Invisible Worm",
+        "next_event": "Bad Kitty"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "event_id": "ad_infinitum",
+    "event_title": "Ad Infinitum",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Ad_Infinitum",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "v0.26.4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Pursued Sara during either Carry Me Home or A Mostly Empty Home , and choose \"Put your arm around her\" during It Comes To Claim Us All . Autoplays after \" It Comes To Claim Us All \" . This event is the final event in an event chain started from \" How the World Works \" .",
+        "to_miss_this_event": "Do not pursue Sara during either Carry Me Home or A Mostly Empty Home , or choose \"LEAVE! DON’T DO IT! PLEASE!\" during It Comes To Claim Us All . Replaced by Gods Don't Smile Down .",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Dorms - Room 2",
+            "Sakaki-bar-a - Sara's Apartment"
+        ],
+        "synopsis": "Having calmed herself down but still feeling uneasy, Sana calls her mom to ask if she can sleep over for the night. Sara immediately accepts and offers to meet her halfway or send someone to pick her up, but Sana declines, wanting to get some fresh air by herself. Sara's a bit worried and thinks she should stay on the phone, but Sana reassures her she'll be fine and begins making her way over. While on her way, Sana encounters a variety of strange sights, sounds, and unexplainable phenomena. She struggles through it all, telling herself it's nothing but a dream. It's not the first time she's encountered things like this, but it's the most affecting experience yet. The walk is a reminder that the way the world is depends on the angle you view it — Even places like Kumon-Mi can appear entirely different from person to person. Sana, with some help, arrives at her mother's place, disoriented and confused. Worried about her muddled expression, Sara tries to pry an explanation out of her daughter. Sana's unable to give on, stumbling on her words before asking if Sara \"still sees things\". Upon hearing this, Sara immediately becomes concerned, asking for clarification Sana can't give. Sara grabs Sana by her shoulders and tells her to remember that whatever she thinks she saw was just \"in her head\". When Sana reluctantly agrees, Sara pulls her into a close hug, happy her daughter is safe.",
+        "participating_characters": [
+            "Sana Sakakibara",
+            "Sara Sakakibara",
+            "Pareidolia",
+            "Fred"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Ad Infinitum",
+            "event_script_names": "ayanesanabeach4",
+            "event_missed_name": "Gods Don't Smile Down"
+        },
+        "backgrounds": [
+            "itgoesdeeper"
+        ],
+        "music_tracks": [
+            "meanttobe.mp3",
+            "allofthesounds.mp3",
+            "ichiyarakka.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "It Comes To Claim Us All",
+        "next_event": "Taller"
+    }
+}

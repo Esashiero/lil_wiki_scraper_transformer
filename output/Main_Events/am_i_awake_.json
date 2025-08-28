@@ -1,0 +1,49 @@
+{
+    "event_id": "am_i_awake_",
+    "event_title": "Am I Awake?",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Am_I_Awake%3F",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.1.3",
+    "interactivity": {
+        "requirements": "You must be on at least Day  2  to unlock this Event.",
+        "to_get_this_event": "This Event will occur automatically on or after Day 2. Autoplays after \" A New You \" . This event belongs to an event chain started from \" Every Day I Grow Some More \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Sensei's Room"
+        ],
+        "synopsis": "Sensei has a dream about Ami , one that makes little sense to him. Afterwards, he wakes up to find Ami by his bedside, who tells him to get ready for school.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "This event shares its name with a song from the game's Soundtrack . Despite this, the aforementioned song does not play during the event."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Am I Awake?",
+            "event_script_names": "firstfriday, firstfridayx, amiwakesupyeah",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amidream",
+            "amiwakeup"
+        ],
+        "music_tracks": [
+            "amisings.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A New You",
+        "next_event": "First (?) Day of School"
+    }
+}

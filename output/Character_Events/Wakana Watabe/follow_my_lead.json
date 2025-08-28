@@ -1,0 +1,50 @@
+{
+    "event_id": "follow_my_lead",
+    "event_title": "Follow My Lead",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Follow_My_Lead",
+    "event_type": "Event",
+    "primary_character": "Wakana Watabe",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Human Error .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Wakana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi"
+        ],
+        "synopsis": "After a long walk, Wakana guides Sensei into a fancy-looking restaurant, and the two take their seats. Once he airs out his complaints about Wakana's bossy \"backseat driving\", Sensei asks about their location, having never seen a place like this in Kumon-mi before. She quickly explains that it's a favorite spot for her and Osako , even being the place where they had their first date during college. She denies there being any deeper meaning to her bringing him here, asserting it as a gesture of her appreciation meant to make him smile. While it fails to do the latter, Sensei admits he's happy to see her in such a good mood, something he notes has happened a lot more recently. As the two banter back and forth, Wakana continues to smile, happy that Sensei's started to forgive her even if he is an extremely boring person. He tries to poke fun at her for being similar, teasing her about her private school upbringing, but fails and instead gets caught up on why she and Osako are living in such small accommodations when her family is rich. She explains that the two of them refuse to rely on her family for their living expenses, both because it's more fulfilling to work on their own, and because it saves them from being screwed over should something go awry. Sensei applauds her for having such a large amount of willpower, something Wakana also berates him for lacking, especially in his relationships. While Sensei struggles to keep up with the sudden topic shift, Wakana segues into a blunt command that he stops using the admiration of his students to fuel his ego and instead focuses on the one person right in front of him - Imani . After admitting that he had a similar conversation with Rika before, Sensei confesses to Wakana that he does see Imani that way and it's the reason why he can't be with her. After Wakana begs him to explain it so a normal person can understand him, he explains that he cares too much about Imani to let her fall into a relationship with someone like him, because she'd inevitably grow to despise him when she realizes how awful he is – And while she would be able to move on from this after hurting for a while, he couldn't, and because he doesn't want to lose her or give her false hopes, it's better for both of them if their relationship doesn't change. Annoyed with this uncharacteristic amount of concern and maturity, Wakana relents, deciding to drop the topic from now on. She does, however, take the opportunity to ask about his relationship with Niki , which he clarifies as love. While Wakana mulls over a recent incident between her and Sensei, she takes the opportunity to poke fun at him and remind him of his failure to contact her during her recovery . He begs her to leave it behind since it’s been years since then, but she comments on how this couldn't be the case. This, however, leads Wakana to suddenly fall into silence as she starts to fixate on something in her head. She then suddenly asks Sensei if he's familiar with Ecclesiastes 3:1-8.",
+        "participating_characters": [
+            "Sensei",
+            "Wakana Watabe"
+        ],
+        "trivia": [
+            "The bible passage Wakana brings up at the very end of the event recounts how everything has its time. A link to this passage can be found here ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Follow My Lead",
+            "event_script_names": "wakanadate25p3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "wakanatreatsyou"
+        ],
+        "music_tracks": [
+            "hallelujah.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.34."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Human Error",
+        "next_event": "Enough is Not Enough"
+    }
+}

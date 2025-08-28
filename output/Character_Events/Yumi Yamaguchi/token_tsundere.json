@@ -1,0 +1,48 @@
+{
+    "event_id": "token_tsundere",
+    "event_title": "Token Tsundere",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Token_Tsundere",
+    "event_type": "Event",
+    "primary_character": "Yumi Yamaguchi",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "20 Yumi Affection You must have seen or permanently missed the following Events: Seen \" Snake Venom \" from Tsuneyo Tojo Seen \" Apples to Apples \" from Yumi Yamaguchi",
+        "to_get_this_event": "Visit Yumi at the City Streets after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yumi Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "City Streets"
+        ],
+        "synopsis": "Yumi is having a pizza with Sensei and complaining about how the cafe didn't appreciate her dedicated approach . They talk about what to do next in her job hunt, and Sensei suggests trying Tojo Ramen. She agrees, and says that she'll try to seem more \"normal\" this time.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Token Tsundere",
+            "event_script_names": "streets20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yumipizza"
+        ],
+        "music_tracks": [
+            "yumiska.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Apples to Apples",
+        "next_event": "Great Expectations"
+    }
+}

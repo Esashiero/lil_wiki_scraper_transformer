@@ -1,0 +1,53 @@
+{
+    "event_id": "fuck_the_police",
+    "event_title": "Fuck The Police",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Fuck_The_Police",
+    "event_type": "Event",
+    "primary_character": "Yumi Yamaguchi",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Yumi Affection You must have seen or permanently missed the following Events: Seen \" I See You \" from Yumi Yamaguchi",
+        "to_get_this_event": "Visit Yumi's dorm room on any evening except Monday after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yumi Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Yumi’s room",
+            "City Streets"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorm hallway and knocks on Yumi 's door. Yumi calls out, and Sensei tries to pretend to be a delivery man, only for Yumi to immediately call him out on his behavior, and tells him to leave, threatening to call the cops if he doesn't. Sensei immediately calls Yumi's bluff, and she rushes out the door, grabbing him by the collar and demanding he follows her if he wants to talk. He agrees, and she lets go, storming off outside. The two head to a closed shopping district, and Yumi immediately rounds on Sensei, yelling at him. He says he just wants to hang out, and she demands to know why when he already has the rest of the class to pick from. After Yumi rants about her guy friends only talking about girls as trophies, Sensei asks her if Chika is her only female friend, and Yumi demands to know his reasoning for asking the question. She's not satisfied when he says it just sounds lonely, and affirms she can do just fine on her own. Sensei says that's fine, and Yumi can feel as empowered about her independence as she wishes so long as she doesn't do anything that lands her in jail. Yumi snorts and says she should have been in jail years ago if the cops actually intended on following through. Yumi complains about trying to leave, and Sensei asks if there's anything he can do to get on her good side. She tries to use this as an opportunity to make him stop calling her to the office for bullying some of the other girls. Sensei immediately denies this and asks Yumi for an alternative, and she exasperatedly admits she can't give him one due to being used to their particular dynamic, and the conversation goes south when Sensei tries to subtly call Yumi a tsundere, only for Yumi to lose her temper on him a second time. Eventually, she calms down, and after an unexpected moment of vulnerability, Yumi admits a change in their dynamic wouldn't be so bad as long as Sensei doesn't try anything like she assumes he does with the others. Yumi threatens Sensei with violence if he kisses her again , and he agrees, before the two leave, and Sensei heads home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "Sensei will mention not wanting to stand in the hall with Chika nearby if the Event starts on Wednesday.",
+            "Depending on Sensei's relationship with Chika , his dialogue with Yumi regarding their previous interactions will vary."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Fuck The Police",
+            "event_script_names": "yumidorm5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ftpredux",
+            "yumioutside"
+        ],
+        "music_tracks": [
+            "yumiska.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.4."
+        ]
+    },
+    "navigation": {
+        "previous_event": "I See You",
+        "next_event": "Yumi Revitalization Project"
+    }
+}

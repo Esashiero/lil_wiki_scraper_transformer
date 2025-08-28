@@ -1,0 +1,48 @@
+{
+    "event_id": "dear_you",
+    "event_title": "Dear You",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Dear_You",
+    "event_type": "Invite Event",
+    "primary_character": "Niki Nakayama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Sisters \" from Niki Nakayama",
+        "to_get_this_event": "Invite Niki Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Niki Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Living Room"
+        ],
+        "synopsis": "Niki arrives at Sensei's place, having decided to come over before Sensei could actually invite her. Upon arriving, she asks if the two of them will be alone and asks him to watch a movie with her. As the two of them sit together, Sensei laments how 'alive' being with Niki makes him feel. She offers to blow him after seeing two characters have sex in their movie.",
+        "participating_characters": [
+            "Sensei",
+            "Niki Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Dear You",
+            "event_script_names": "nikiinvite2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nikicouch"
+        ],
+        "music_tracks": [
+            "comfort.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.21p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sisters",
+        "next_event": "What it Takes to Move Forward"
+    }
+}

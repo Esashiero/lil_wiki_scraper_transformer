@@ -1,0 +1,59 @@
+{
+    "event_id": "invisible_worm",
+    "event_title": "Invisible Worm",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Invisible_Worm",
+    "event_type": "Event",
+    "primary_character": "Haruka Hamasaki",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Haruka Affection You must have seen or permanently missed the following Events: Seen \" Drunk Again \" from Haruka Hamasaki",
+        "to_get_this_event": "Call Haruka at Night",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Fuck another man’s wife",
+                "effect": "Unlock The Need to be Hurt"
+            }
+        ],
+        "effects": [
+            "+1 Haruka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Haruka House"
+        ],
+        "synopsis": "Sensei goes over to Haruka 's place for the first time since she kissed him in the bar. She wants to talk about that. She tells Sensei that she made a stupid decision, and that nothing more should happen between them because she is married. However, she does admit to having no idea when (or whether) she will ever see her husband again, leaving her lonely and with no sex life. Sensei must decide whether to take advantage of her loneliness to begin a sexual relationship, or else maintain \"what little honor\" he has left by just staying friends.",
+        "participating_characters": [
+            "Sensei",
+            "Haruka Hamasaki"
+        ],
+        "trivia": [
+            "If you choose to be a gentlman you'll miss some future events",
+            "Haruka will comment on whether or not you showed interest in Sara in Milk, Eggs, and Water"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Invisible Worm",
+            "event_script_names": "harukadate5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "harukadatetwo",
+            "harukadog"
+        ],
+        "music_tracks": [
+            "lastdailysong.mp3",
+            "asobeatsexdark.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.6."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Drunk Again",
+        "next_event": "The Need to be Hurt"
+    }
+}

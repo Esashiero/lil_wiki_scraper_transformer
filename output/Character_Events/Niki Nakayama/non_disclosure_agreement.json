@@ -1,0 +1,56 @@
+{
+    "event_id": "non_disclosure_agreement",
+    "event_title": "Non-Disclosure Agreement",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Non-Disclosure_Agreement",
+    "event_type": "Lust Event",
+    "primary_character": "Niki Nakayama",
+    "chapter": "v0.33.9",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Sexy Swimsuit Showdown \" . This event belongs to an event chain started from \" Boner on the Bus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Niki Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach - Forest",
+            "Beach - Beach Inn"
+        ],
+        "synopsis": "Ami leads Ayane into the woods. Along the way the two talk, with Ami prying into the details of why she's been so distant lately. Ayane, barely containing her fear, insists that nothing has changed and that Ami's just as important as she always has been to her. As the prying continues, Ayane becomes increasingly uncomfortable, eventually deciding to take the blindfold she's been wearing off. Ami leaves her behind. Back at the inn, Imani leads both Sensei and Wakana to their room so they can relax after all the chaos of the swimsuit contest. Upon stepping inside, though, they find Niki there waiting.",
+        "participating_characters": [
+            "Sensei",
+            "Niki Nakayama",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Imani Imai",
+            "Wakana Watabe"
+        ],
+        "trivia": [
+            "The scene in which Ami and Ayane speak in the forest will not replay during Scene Replay.",
+            "There is variation in the dialogue depending on the name which Sensei asks Niki to call him. A full list of names with special dialogue can be found here ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Non-Disclosure Agreement",
+            "event_script_names": "nikifirstlust",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nikifirstlust"
+        ],
+        "music_tracks": [
+            "acoustic.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.33."
+        ]
+    },
+    "navigation": {
+        "previous_event": "How To Make Love Stay",
+        "next_event": "They Came Together"
+    }
+}

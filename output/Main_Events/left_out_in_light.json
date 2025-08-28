@@ -1,0 +1,53 @@
+{
+    "event_id": "left_out_in_light",
+    "event_title": "Left Out in Light",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Left_Out_in_Light",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.19.14",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Getting Comfortable \" . This event belongs to an event chain started from \" Good Morning \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Noriko , Niki Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "In the morning, Sensei goes outside. Noriko finds him, and they talk about Sensei's night. They are interrupted by Niki , who is at the beach for \"idol stuff\" and wants to know why Sensei and Noriko are there together. Sensei mentions that some of his students would be keen to meet Niki — including Ami , who Niki remembers from her time with Sensei. The three of them then head off down the beach.",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama",
+            "Niki Nakayama"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the following: Who won the Dorm Wars during War's End . Sensei's choice during No One Can See Us .",
+            "Who won the Dorm Wars during War's End .",
+            "Sensei's choice during No One Can See Us ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Left Out in Light",
+            "event_script_names": "secondbeach12",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikowakeup"
+        ],
+        "music_tracks": [
+            "wewereangels.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Getting Comfortable",
+        "next_event": "We Were Angels"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "event_id": "c_est_la_vie",
+    "event_title": "C'est La Vie",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=C%27est_La_Vie",
+    "event_type": "Lust Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "v0.17.12",
+    "interactivity": {
+        "requirements": "15 Futaba Lust You must have seen or permanently missed the following Events: Seen \" I See Everything \" from Nodoka Nagasawa",
+        "to_get_this_event": "Meet the requirements before starting the event chain. Autoplays after \" Why Now? \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "Fail to meet the requirements before Operation: Firestarter . Replaced by Mourir. Dormir. .",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel - Room #44"
+        ],
+        "synopsis": "Now that all three are in Sensei 's room, Nodoka continues to express her doubt about Futaba 's comments regarding their relationship. Nodoka claims that Futaba is far too sweet and innocent, and will remain so until Nodoka herself manages to sway her. After getting tired of her condescending tone, Futaba takes it upon herself to prove her wrong.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama",
+            "Nodoka Nagasawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "C'est La Vie",
+            "event_script_names": "futabalust15",
+            "event_missed_name": "Mourir. Dormir."
+        },
+        "backgrounds": [
+            "futabanodokahotel"
+        ],
+        "music_tracks": [
+            "acoustic.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Floral Aura",
+        "next_event": "Skin (Start Somewhere)"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "event_id": "bestial_vigor",
+    "event_title": "Bestial Vigor",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Bestial_Vigor",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "50 Futaba Affection You must have seen or permanently missed the following Events: Seen \" This Infected Wound \" from Futaba Fukuyama",
+        "to_get_this_event": "Visit the Library",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Library"
+        ],
+        "synopsis": "Upon entering the library, Sensei is confused to find no sight of Futaba. Instead, a suspiciously placed folder marked with the sign 'Out to lunch. Be back soon. (Do not move)'. Immediately disregarding this warning, he spots Futaba sat behind the front desk, reading some sort of book with barely restrained desire. He takes a moment to contemplate disturbing her, ultimately choosing to do so after a few more hushed sighs. Despite being embarrassed at having been caught indulging in one of her guilty pleasures, Sensei holds no restraint in moving to sit next to her and grab the book she was reading. He soon realizes the book she had been reading was a type of erotica and begins reading the passages aloud in order to embarrass her. Sensei questions why she'd spend her entire lunch break reading something like this in public rather than 'relive herself', to which she responds that they're a form of escapism for her; A way to become someone she isn't ashamed to be. As this trail of thought continues, she laments her fear and hesitation towards actually conquering her own self-doubt, deciding to finally take a step towards changing herself. She asks Sensei if she can come over soon.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Bestial Vigor",
+            "event_script_names": "library50",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "romancenovels"
+        ],
+        "music_tracks": [
+            "morningmoon.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "This Infected Wound",
+        "next_event": "Too Blind To See"
+    }
+}

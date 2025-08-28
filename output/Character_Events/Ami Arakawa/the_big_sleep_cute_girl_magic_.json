@@ -1,0 +1,53 @@
+{
+    "event_id": "the_big_sleep_cute_girl_magic_",
+    "event_title": "The Big Sleep (Cute Girl Magic)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Big_Sleep_(Cute_Girl_Magic)",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "35 Ami Affection You must have seen or permanently missed the following Events: Seen \" Third Place \" from Ami Arakawa Seen \" Stop Looking For Answers \" from Maya Makinami",
+        "to_get_this_event": "Call Ami in the afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shopping Mall"
+        ],
+        "synopsis": "Sensei and Ami meet at the mall to get her the new swimsuit she wanted . He observes that she has changed her hair. After a brief conversation (featuring a historical reference explained by a passing Molly ), they go into the store where Chika works. Ami gets Sensei to follow her to the dressing room, despite Chika's uncertainty about whether that's appropriate.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Molly MacCormack",
+            "Chika Chosokabe"
+        ],
+        "trivia": [
+            "There are some differences in this event depending on Sensei's relationship with Ami."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Big Sleep (Cute Girl Magic)",
+            "event_script_names": "amidate35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mall",
+            "amimalltwo"
+        ],
+        "music_tracks": [
+            "shiningstarinstrumental.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Third Place",
+        "next_event": "Heaven for Human Blood"
+    }
+}

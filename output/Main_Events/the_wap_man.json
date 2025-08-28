@@ -1,0 +1,50 @@
+{
+    "event_id": "the_wap_man",
+    "event_title": "The WAP Man",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_WAP_Man",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.16.1",
+    "interactivity": {
+        "requirements": "Wednesday You must be on at least Day  295  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Adult Supervision \" Seen \" Zanzibar (Counting Cats) \" from Chika Chosokabe Seen \" The Big Sleep (Cute Girl Magic) \" from Ami Arakawa Seen \" Something, Somewhere \" from Makoto Miyamura",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Wednesday on or after Day 295.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei's Office"
+        ],
+        "synopsis": "Sensei finds himself in his office with Chika , who sarcastically thanks him for ghosting her during Ami and his shopping trip , using this to segue into the reason why they were there – the upcoming beach trip. She intends to sneak into his room during the night, wanting to take advantage of them having advanced their relationship , but Sensei points out that this is a terrible idea considering that the seventeen other girls will notice her absence. She notes how it might be nineteen by then, having heard about the two additions to their class, something that is now public knowledge due to Miku . He asks if she knows anything about the new girls, but Chika doesn't know anything outside of what Makoto told him. Makoto knocks on his door and, after being called in by Chika, complains about her misusing Sensei's office before informing him that the mother of one of the girls has arrived. Due to her use of the word WAP, Chika knows it's Tsubasa and calls her in as well. The girls gather in front of his desk, and Makoto explains that Tsubasa's visit is in regards to Touka 's transfer, something Makoto tried to prevent due to Sensei's current way of teaching, but she feels like this environment will be ideal for her daughter, especially with Nodoka and Makoto, both of which have the highest scores of the district, being part of this class. While having both of them was one of the reasons she wants Touka to join his class, there is another important reason that influenced Tsubasa's decision  – Sensei being incredibly good in handling and bonding with his students. She elaborates that her daughter has a hard time connecting with others and since Sensei has a more personal connection with his students, she wants to trust him with the academic and social development of her daughter, though warns him that Touka might resist his methods at first. Sensei doesn't mind to let her hang out in his class, and Tsubasa is already fascinated with how casual he treats his students, with both Chika and Makoto assuring her that it works in a way. With everything said, Tsubasa wants to know if Touka can officially join his class on the upcoming Friday, stating that it will take that long to relocate her to her new home. Sensei wonders why she doesn't let her live inside the dorm, and Tsubasa, after learning what a dorm is, wants to wait until Touka agrees to stay in his class. The girls leave, but Sensei decides to stay a few hours longer and do some actual work, wanting to show how much he appreciate Makoto's support.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Makoto Miyamura",
+            "Tsubasa Tsukioka"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw Semblance of a Soul ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The WAP Man",
+            "event_script_names": "day295",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsubasaofficevisit"
+        ],
+        "music_tracks": [
+            "phantomthief.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Adult Supervision",
+        "next_event": "The Color of a Heart"
+    }
+}

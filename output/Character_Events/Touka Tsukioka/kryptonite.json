@@ -1,0 +1,49 @@
+{
+    "event_id": "kryptonite",
+    "event_title": "Kryptonite",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Kryptonite",
+    "event_type": "Event",
+    "primary_character": "Touka Tsukioka",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "20 Touka Affection You must have seen or permanently missed the following Events: Seen \" The Lucky Few \" from Tsubasa Tsukioka",
+        "to_get_this_event": "Visit Touka at the Archery Range after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Touka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Archery Range"
+        ],
+        "synopsis": "Sensei arrives at the Archery Range, finding Touka and Tsuneyo in the middle of practice. The former tries to help coach in place of Wakana but Tsuneyo refuses to accept her advice, immediately fumbling her subsequent shots. Sensei speaks up as Tsuneyo's shots continue to destroy property, prompting Touka to greet him and ask about his sudden affinity for Kyūdō, referring back to his recent visit . While he struggles to discern the reason for the bitterness in her voice, Touka sends Tsuneyo back to Wakana for coaching. Trying to appease her, Sensei compliments Touka but this isn't enough to dissolve her suspicions about him, causing him to ask why Tsubasa is given permission to visit but he isn't. She points out the significant difference between Tsubasa and him and asks if he has an actual reason for visiting. He clarifies that he does need something and asks her to follow him somewhere quieter. As the two take a seat behind the archery building, he first clarifies his relationship with Tsubasa, much to Touka's annoyance. She clarifies that while his sudden relationship with her mother is exhausting, she's just as exhausted with Tsubasa's sudden intervention with her real-estate ventures. Sensei sympathizes, revealing his involvement with this decision while also admitting he wants Tsubasa to drop it too. Touka's surprised to hear this, having assumed it to be a calculated move on both their parts, which reveals how uninformed she is regarding the plan. He explains that Tsubasa plans to use him as a means of forcing Chika and Chinami out of their current house and into the same complex as his apartment. Touka is initially satisfied with the idea and questions why Sensei is so hesitant, which he reveals is due to Chika's misunderstanding about the two of them . Hearing this, Touka asks for details, confessing she'd already been suspicious since becoming friends with Makoto . After first clarifying his feelings on the matter, she offers to give him advice, warning him he won't like it. Out of options, he concedes. She tells him to grow up, stressing how unimportant Chika's potential emotional response is when weighed against the value of her and Chinami's life. Touka admits while it's inevitable things will crumble between Chika and him if Tsubasa's plan is followed through – He tries to defend himself by clarifying how little he uses his apartment. She points out this as another reason for him to follow through with Tsubasa's plan, while also creating an incentive for him to not use the apartment more. Hearing all this, Sensei remarks how alike she and Tsubasa are, which she's happy to hear. As he walks away from the archery range, he thinks to himself how, even if Touka and Tsubasa are alike, the way they treat his feelings is entirely different.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Kryptonite",
+            "event_script_names": "toukaarchery20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "toukatsuneyoarchery"
+        ],
+        "music_tracks": [
+            "marshmallow.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .31.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Something Less Lonely",
+        "next_event": "For Want Of"
+    }
+}

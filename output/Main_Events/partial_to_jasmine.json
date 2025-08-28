@@ -1,0 +1,70 @@
+{
+    "event_id": "partial_to_jasmine",
+    "event_title": "Partial to Jasmine",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Partial_to_Jasmine",
+    "event_type": null,
+    "primary_character": null,
+    "chapter": "v0.49(Super Mega Ultimate Heaven & Hell).20",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" And Then There Were Two \" . This event is the final event in an event chain started from \" Prepare for Battle! \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            ""
+        ],
+        "synopsis": "WIP",
+        "participating_characters": [
+            "Uta Ushibori",
+            "Maya Makinami",
+            "Tsuneyo Tojo",
+            "Sana Sakakibara",
+            "Yumi Yamaguchi",
+            "Rin Rokuhara",
+            "Yasu Yasui",
+            "Molly MacCormack",
+            "Nodoka Nagasawa",
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Futaba Fukuyama",
+            "Ayane Amamiya",
+            "Io Ichimonji",
+            "Kirin Kanda",
+            "Touka Tsukioka",
+            "Chika Chosokabe",
+            "Noriko Nakayama",
+            "Imani Imai",
+            "Ami Arakawa",
+            "Otoha Okakura"
+        ],
+        "trivia": [
+            "WIP"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Partial to Jasmine",
+            "event_script_names": "dormwarsfive14",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sky",
+            "endofwarfive",
+            "black",
+            "bedroom_noon"
+        ],
+        "music_tracks": [
+            "fallishere.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.48.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Thessalonians 4 (Lust Like the Pagans)",
+        "next_event": "update xx.xx.xx"
+    }
+}

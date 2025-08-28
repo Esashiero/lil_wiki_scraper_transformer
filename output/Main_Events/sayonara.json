@@ -1,0 +1,48 @@
+{
+    "event_id": "sayonara",
+    "event_title": "Sayonara",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sayonara",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.18.6",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Backwards Dancing \" . This event belongs to an event chain started from \" The Price of Experience \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - School Rooftop"
+        ],
+        "synopsis": "Stepping on the roof, Sensei finds Maya sitting atop a blanket, with a full spread of food around her. She turns to him, impressed he reached her quicker than usual. He's surprised to hear this too, not remembering the trip himself. Maya explains that's normal for the first few trips, but that he'll get used to it and retain the memories eventually. She also confirms the food arrangement is to congratulate him for being the first iteration of himself to reach a third reset . He takes a seat across from her, making note that Maya stole the picnic blanket she's using from his place. He tries to ask about this, but she refuses to give a straight answer and shuts down any further unrelated topics. She reminds him that, following the reset, she's not sure what else could change in Kumon-mi. While Sensei doesn't mind the idea, Maya's much more pessimistic. She suggests a multitude of unexpected tragedies could strike at any moment, and with no precedent to work off of, all they can do is assume the worst. Segueing from that last point, she relays to him her experience during the Dorm Wars ' test of courage . Now aware of her potentially ephemeral presence in the loop, she's going to be more careful with her choices, such which method she uses to initiate the resets. The two spend some time in silence, taking in the starry sky of the apocalypse and polishing off their food. Having gotten their fill, the two stand up, and Maya asks him if he has any questions he'd like to ask this time too . While having nothing in mind, especially after learning she can't reveal too much , he makes some up on the fly. With no more questions, the two begin to prepare for the reset. Just as they wrap up their conversation, though, the two hear a voice from the stairwell. Upon turning, they find that Ayane 's somehow managed to make it to the roof. While extremely confused, the two rush over to her. Maya tries to ask her how she got here, but Ayane's confused by the question, claiming she just \"walked here\" — Maya presses, asking why she came specifically to the roof, which Ayane's unable to answer. Becoming increasingly panicked, Ayane asks why the two of them are up here, with Sensei explaining that it's the \"end of the world\". His \"help\" being useless, Maya shuts down the conversation, suggesting all three of them hug until they calm down. Realizing Maya's plan to start the reset without telling Ayane, Sensei opens his arms and allows the two girls to cling to him. As they hug, the reset commences.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sayonara",
+            "event_script_names": "thirdreset3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "picnicinspace"
+        ],
+        "music_tracks": [
+            "iloveyou.mp3",
+            "contemplation.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .18p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Backwards Dancing",
+        "next_event": "Food Groups"
+    }
+}

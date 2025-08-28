@@ -1,0 +1,50 @@
+{
+    "event_id": "no_extortion_necessary",
+    "event_title": "No Extortion Necessary",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=No_Extortion_Necessary",
+    "event_type": "Invite Event",
+    "primary_character": "Kirin Kanda",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Too Much, All at Once \" from Kirin Kanda",
+        "to_get_this_event": "Invite Kirin Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Kirin Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Sensei's Room"
+        ],
+        "synopsis": "Sensei invites Kirin over again, and thinks that Ami will definitely be gone this time. She immediately makes her plan known and asks him to not kick her out if he doesn’t like her performance. Once Kirin has entered his room, Sensei asks if she's sure she wants to go through with it, given her nervousness last time , but she assures him that her nervousness was only a result of her being unprepared and that she’s prepared this time. When she's done, she leaves with a smile.",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda"
+        ],
+        "trivia": [
+            "Kirin brings up Sensei's response to her offer during the beach vacation, and will also remember if he declared himself a proud brony ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "No Extortion Necessary",
+            "event_script_names": "kirininvite2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kirinfirstbj"
+        ],
+        "music_tracks": [
+            "asobeatsex3.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Too Much, All at Once",
+        "next_event": "Morals vs. Orgasms"
+    }
+}

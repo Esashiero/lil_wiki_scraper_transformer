@@ -1,0 +1,49 @@
+{
+    "event_id": "four_hand_massage",
+    "event_title": "Four Hand Massage",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Four_Hand_Massage",
+    "event_type": "Event",
+    "primary_character": "Kirin Kanda",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Wednesday 25 Kirin Affection You must have seen or permanently missed the following Events: Seen \" Temporary Bliss \" from Kirin Kanda",
+        "to_get_this_event": "Visit the Soccer Field",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kirin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Soccer Field"
+        ],
+        "synopsis": "Sensei decides to spend time with Kirin who is currently giving a shoulder massage to Miku . He offers to assist her with that, but Miku gets scared and tries to escape, which is prevented by Kirin continuing her massage. Kirin starts talking with Sensei about lewd stuff, assuring him that her massage skills put Miku in a trance and that she’s unable to comprehend anything they say. She tries to proof it and while asking her if she wants to cum works, Sensei assumes that this would’ve been the case even if her mind wasn’t compromised due to her lack of experience. She pushes her luck and confesses that she sucked Sensei’s cock . Much to Kirin’s shock, Miku breaks out of her trance but, due to her inexperience, thinks that Kirin sucked a rooster. A frustrated Kirin puts her back into her compromised state once the situation calmed down. Sensei worries about Miku’s fading consciousness and decreasing intelligence, but Kirin uses it to ask her if she should protect her from Sensei when he decides to take advantage of her coma, but assures him that she’s just joking. He tries to scold her, but his mind blacks out and, once he is back in control, finds himself sitting in front of Kirin. She offers him to jerk him off, but Sensei isn’t in the mood for it. Kirin apologizes for being too forward last time and makes it clear that she doesn’t want him to violate every woman he sees, but that he isn’t any less human when something bad happens while he isn’t in control. She also points out that Molly isn’t negatively affected by what he did, proving that it wasn’t that bad, and is desperately trying to get his attention, so she advises him to stop being depressed and to just talk with her. Sensei decides to be depressed for one more day but has still no idea how to approach Molly. As Kirin rests her head on his shoulder, Sensei realizes that, despite her outlooks and actions, she’s still a vulnerable teenager who tries to keep everyone at a distance. Despite what happened, he is thankful for her help with the current situation and sees her as the one girl he can talk to without feeling like a horrible person. Once he finishes his thoughts, Kirin confesses that she quits the club once summer arrives. She explains that seeing everyone else improve while she stays behind finally caught up to her and she doesn’t enjoy practice anymore. She tries to figure out which club she can join instead, but has no serious idea so far.",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Four Hand Massage",
+            "event_script_names": "kirinsoccer25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kirinmassage"
+        ],
+        "music_tracks": [
+            "soda.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.21p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Temporary Bliss",
+        "next_event": "Made Out of Nothing"
+    }
+}

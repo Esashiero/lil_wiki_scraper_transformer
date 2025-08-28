@@ -1,0 +1,48 @@
+{
+    "event_id": "our_fathers",
+    "event_title": "Our Fathers",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Our_Fathers",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.35.7",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The King of Thebes \" . This event belongs to an event chain started from \" Eggside Octopus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate - Dojo"
+        ],
+        "synopsis": "Uta and Noriko are standing alone, trying to guess the rationale behind the bizarre decor of this year's Halloween party. Uta calls this out as a strange topic to discuss, leaving Noriko to ask what else they should do while they wait for Sensei to come up to each of them. Uta tries to pretend she doesn't understand what Noriko's talking about, but the conversation continues under the guise of it all being hypothetical. Noriko asks Uta how long she thinks it'd take before she'd give up on a crush – Upon further questioning, she changes her question to how long it'd take before feeling like it's all hopeless and like you're facing death. Lately, Noriko's felt this hopelessness time and time again, and she's exhausted from standing still and waiting for something to happen. Uta feels that standing still is at least better than walking away, which is something she'd do in that scenario. Although, Uta struggles to feel the same sort of annoyance that Noriko does, because Noriko feels as though any frustrations she has are caused by selflessness, while Uta feels like hers are some sort of divine penance. She admits to believe in spirituality because if it's not true, it would mean they really are alone and only get what they currently have, which makes the way both of them are acting even more terrifying. After confirming that Uta feels like everyone else, Noriko humors the idea, wondering if her placement in life is itself a form of divine penance for something really awful she's done. Both girls lament that despite both their methods of dealing with it – Noriko's persistence and Uta's cowardice – they've both found themselves in the same situation. Noriko asks her question once again, elaborating this time and asking if it hurts to see something so tantalizing, always just out of reach. Uta admits it is, though she doubts that it's as bad as her pain, but Noriko explains that both feel the same amount of pain and she just had the misfortune of feeling it more often. Noriko passes on some encouragement, assuring her that she deserves to be happy just as much as anyone else. Happy to hear this, Uta thanks her and confesses how happy she is to have met everyone in class. Off to the side, Miku and Io are having their own conversation. Io asks her about her newly prescribed treatment and how it compares to the pills she'd been using before. Miku's unsure of the difference, though does feel this official prescription is much weaker, something that might be good considering how overboard she went with them last time. Miku thanks Io for helping be one of the pushes for her to approach her trauma more healthily, even if she struggled to actually do the \"right thing\". The two decide to keep talking, although keep their distance from each other in the coming months to avoid suspicion from Makoto . Io assures Miku this will be easy since she naturally pushes people away and has nothing that would make anyone want to stick with her. Miku points out to her how attached Uta seems to be to her, prompting Io to lament how awful it is for someone as great as Uta to be stuck with her.",
+        "participating_characters": [
+            "Uta Ushibori",
+            "Noriko Nakayama",
+            "Io Ichimonji",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Our Fathers",
+            "event_script_names": "halloweenfour7",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikutaikuioween"
+        ],
+        "music_tracks": [
+            "hallelujah.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.35."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The King of Thebes",
+        "next_event": "Eighth Eye of the Wolf Spider"
+    }
+}

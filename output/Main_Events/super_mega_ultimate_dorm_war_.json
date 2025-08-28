@@ -1,0 +1,66 @@
+{
+    "event_id": "super_mega_ultimate_dorm_war_",
+    "event_title": "Super Mega Ultimate Dorm War!",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Super_Mega_Ultimate_Dorm_War!",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Operation: Firestarter \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Classroom"
+        ],
+        "synopsis": "After some banter between Uta and Makoto , they begin to plan challenges and team-ups in cooperation with the other girls, trying to come up with some basic once before they agree to some of the more unique options the girls bring forward.",
+        "participating_characters": [
+            "Makoto Miyamura",
+            "Uta Ushibori",
+            "Rin Rokuhara",
+            "Otoha Okakura",
+            "Chika Chosokabe",
+            "Noriko Nakayama",
+            "Io Ichimonji",
+            "Yumi Yamaguchi",
+            "Ayane Amamiya",
+            "Molly MacCormack",
+            "Nodoka Nagasawa",
+            "Futaba Fukuyama",
+            "Ami Arakawa",
+            "Tsuneyo Tojo",
+            "Maya Makinami",
+            "Kirin Kanda",
+            "Miku Maruyama",
+            "Yasu Yasui",
+            "Sana Sakakibara",
+            "Touka Tsukioka"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei broke his promise to Rin by seeing Schadenfreude before What's Done is Done ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Super Mega Ultimate Dorm War!",
+            "event_script_names": "dormwar1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "dormdecisions"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Operation: Firestarter",
+        "next_event": "Pre-Game Show!"
+    }
+}

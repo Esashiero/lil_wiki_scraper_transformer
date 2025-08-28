@@ -1,0 +1,48 @@
+{
+    "event_id": "yumi_revitalization_project",
+    "event_title": "Yumi Revitalization Project",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Yumi_Revitalization_Project",
+    "event_type": "Event",
+    "primary_character": "Yumi Yamaguchi",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Yumi Affection You must have seen or permanently missed the following Events: Seen \" Fuck The Police \" from Yumi Yamaguchi",
+        "to_get_this_event": "Visit Yumi's dorm room on any day except Monday after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yumi Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Yumi’s room"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorm hallway and knocks on Yumi 's door. He has a monologue which concerns him, and tells her to let him on based off this. Yumi tells him to leave, but Sensei remains persistent, knocking on the door a couple more times and pretending to be a delivery man again , before she screams in frustration, getting up and finally letting Sensei into the room. Sensei remarks that Yumi, wearing her choice in pajamas - a red and black tracksuit - looks cute, and she immediately turns on him, accusing him of having weird fetishes. He tells her to calm down, saying that he's just here to hang out and that nothing is going to happen. He asks whether she has anything that would be interesting to do, and she tells him rather forcefully that he can leave whenever and that she doesn't want him in her room. Yumi complains that she was going to sleep due to not being able to figure out the password to Chika 's laptop, and when Sensei suggests the two of them go out on a walk like Yumi had initially wanted to before deciding to stay in the dorm, she declines, citing being too lazy to get back in her normal wear. Sensei turns around, looking at a warehouse shelf against the opposite wall with old copperbox TV sets sitting on it, and asks her what the purpose of them is. She tells him she sells them to make money, and he asks her why she doesn't try doing something else. Yumi fills in the blanks, and mentions how having a job is supposed to be off-limits for students, as well as the fact she already knows most places aren't likely to hire her based on her mannerisms. When Sensei asks Yumi why her parents don't chip in, she says she doesn't relate to them at all anymore, and that they may be even worse than Sensei himself. She mentions that she eats almost every day anyway so it doesn't matter, and when she says that one only really needs water, he comments on water bottles piled up on her desk. when she almost blows up on him for assumedly accusing her of being dirty, he has to clarify that he simply meant there were a lot of water bottles. Sensei expresses his concern and tells Yumi he's going to start helping her job-hunt so she doesn't have to skip out on eating, and Yumi is about to blow up, but calms down when she realizes he's genuinely trying to look out for her well-being. He dubs the effort the Yumi Revitalization Project , and tells Yumi despite her protests that she doesn't have to agree, since he could always report her absences to the principal. Yumi, now very shocked, thanks him for not doing that, and he grabs a coffee receipt, scribbling the words and a line and giving it to her to sign, as proof of her commitment to finding a job. Yumi expresses genuine concern over her chances at landing a job with her personality, and Sensei does his best to reassure her, even offering to give her some free lunch as part of the deal. Eventually, Yumi agrees to this, and signs the receipt. Sensei tries to hang out for a little while longer, but Yumi manages to push him out, and he heads home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Yumi Revitalization Project",
+            "event_script_names": "yumidorm10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yumifirstdorm"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.4."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Fuck The Police",
+        "next_event": "Worse Comes to Worst"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "event_id": "chaperone",
+    "event_title": "Chaperone",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Chaperone",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.9",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Ruthless Rhyme Rhomp! Rap Rampage! \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel - Lobby",
+            "Tsukioka Hotel - Hotel Room #24",
+            "Tsukioka Hotel - Hotel Room #25",
+            "Tsukioka Hotel - Hotel Room #44"
+        ],
+        "synopsis": "After reaching the hotel, Sensei joins Makoto , Noriko and Touka in the lobby. They discuss their stay at the hotel, which causes a debate between Noriko and Makoto on who would be allowed to stay in his room, and while Touka fails to keep up with the discussion, Sensei thinks it doesn't matter since she's at least included in it. She appreciates it and hopes that her upcoming challenge won't negatively impact her chances of being included more, but when Sensei asks what her challenge is, he only learns it’s “deadly”. He receives their room assignments and decides to pay the girls a visit before going to bed. Entering the room of the first floor, he's greeted by Chika and Sana . Both were discussing Sana's contest, and she apologizes in advance for disappointing him. Between getting no further information and Sana being embarrassed, he makes a wild guess on what her contest is, and while he knows his guess would've never been approved, he decides to stick with it until her contest happens. He then approaches Maya, who isn't happy to see him and asks if he's seen Ami anywhere, but he would like to know where she is, too, because he needs a phone charger and hopes she brought one for him. Maya thinks him going home would be a good idea instead, especially since he's basically a “dead opossum in a vulture’s nest” right now, though he feels like this is the best scenario for him. Maya asks him to leave and he does so to meet with the girls from the second floor. After entering their room, he's greeted by Nodoka and Otoha . While he discusses their contests with them, he wonders why both of them are friends considering their opposite personalities, though Otoha has no clue why, but remembers that Noriko asked for him and is currently waiting in the bedroom. After making his way there, he finds Noriko, Uta and Tsuneyo occupying the bed, with Uta and Noriko flirting with him as usual, while Tsuneyo stays further away to be safe from Sensei and to ensure the safety of the other girls. After celebrating the lead of their floor, Uta asks if Sensei has seen Io anywhere, because she ghosted her, but Sensei assumes she went back to the dorms to avoid both her and being cooped up in a room with the other girls. When Tsuneyo gets weirdly philosophical, he decides to call it a day and makes his way to his room. Inside his hotel room, he can still hear the girls through the thin walls, despite being on the opposite side of the hotel, yet appreciates that they're having fun with these events before going to sleep.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Makoto Miyamura",
+            "Noriko Nakayama",
+            "Chika Chosokabe",
+            "Sana Sakakibara",
+            "Maya Makinami",
+            "Nodoka Nagasawa",
+            "Otoha Okakura",
+            "Uta Ushibori",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the following: Who Sensei chose as the winner during Imouto Mode! . If Sensei meets the requirements to see What a Wonderful World .",
+            "Who Sensei chose as the winner during Imouto Mode! .",
+            "If Sensei meets the requirements to see What a Wonderful World ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Chaperone",
+            "event_script_names": "dormwar8",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "warhotelarrival"
+        ],
+        "music_tracks": [
+            "shiningstarinstrumental.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Ruthless Rhyme Rhomp! Rap Rampage!",
+        "next_event": "Why Now?"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "event_id": "shelter",
+    "event_title": "Shelter",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Shelter",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.22",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" I Will Deliver You to the Fireflies \" . This event is the final event in an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach",
+            "Tsukioka Apartment Complex - Sensei's Apartment",
+            "Kumon-mi"
+        ],
+        "synopsis": "In her limo, Touka takes Sensei to his gift. Along the way, she apologizes for ruining his moment with Maya , which he appreciates since he doesn’t have a lot of opportunities with her. When she asks if there’s something special about her, he tells her that there is but it’s too complicated to explain during the time they have left for their ride. She uses this moment to blindfold him to keep her present a surprise while also taking the time to tease him some more. As Sensei closes his eyes, the narrator takes over to show us how this trip ends for everyone else. Once Sensei is allowed to see again, he finds himself inside a random apartment. Touka reveals that his present is the unit, as she has bought the entire building and wants to improve her skills as a landlady. Sensei tries to get her to take it back, but Touka insists he keeps it as a refuge before deciding to test the bed. Touka and Sensei hang out in his new bedroom, Sensei still in shock at the absurdity of the gift. He admits only Noriko’s rivaled her, but remembers he abandoned her instead of spending the night with her. Touka reassures him by saying he can’t make everyone happy all the time, but Sensei complains that making someone happy once would’ve been nice. With that, Touka gets ready to leave, offering Sensei a ride back. He refuses and asks her to stay with him. Knowing that he wants to protect himself from new sensations, she boops his nose and tells him that she won’t let him take shelter from his feelings with her by indulging in his usual habits. She teases by telling him to kiss her next time , and leaves. Now alone, Sensei admits to himself that Touka was right. His thoughts drift to his relationship with Maya and why both of them were acting like they did when nothing happened between them so far. As he comes to a realization, he wonders if his new apartment contains a pen.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Noriko Nakayama",
+            "Kirin Kanda",
+            "Rin Rokuhara",
+            "Nodoka Nagasawa",
+            "Futaba Fukuyama",
+            "Yumi Yamaguchi",
+            "Chika Chosokabe",
+            "Maya Makinami",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Yasu Yasui"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Shelter",
+            "event_script_names": "beachmas20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "littlebunny"
+        ],
+        "music_tracks": [
+            "littlebunny.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "I Will Deliver You to the Fireflies",
+        "next_event": "To Catch Me If I Fall"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "event_id": "stronger_i_become",
+    "event_title": "Stronger I Become",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Stronger_I_Become",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.5.4",
+    "interactivity": {
+        "requirements": "You must be on at least Day  91  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" One to Seven \" Seen Main Events up to \" Girl-Talk \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event will occur automatically on the first weekday on or after Day 91.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Classroom"
+        ],
+        "synopsis": "Sensei observes the class doing their usual thing, but Ayane distracts him by asking him to come see a sword she's somehow managed to get into the classroom - likely due to her being rich - which he declines. After an inner monologue, Sana draws his attention with a quiet hand-raise, and he walks over to her desk to see what she needs. He is surprised she wants to talk to him because she thought he looked bored, and she also doesn't have any other friends to talk to just yet. Sensei realizes a golden opportunity with Rin looking out the window next to Sana, and calls Rin to get her attention, to Sana's reticent nervousness. Having taken Rin's attention upon himself, Sensei tells her there are more exciting things to do than look outside, and when he brings up talking to Sana instead, she says she'd always thought Sana didn't want to talk to anyone. He reassures Sana and walks back to stand next to Ayane and observe the pending conversation. Rin breaks the fourth wall before asking how Sana is doing and slowly working Sana back into her comfort zone, that being gaming. Sana asks what kind of games Rin plays, and when she makes a comment about FPS games, Sana becomes nervous. Rin apologizes and explains she didn't mean her comment literally. The two banter back and forth for a bit longer, before the fourth wall breaks itself . Sensei walks back over to Sana's desk to check in and see how she's handling the new experience. She's ecstatic about having made her first new friend. He confides in her that the first step in her journey is now complete, and the endgame of the questline is for her to develop a friendship with everyone in class, something which Sana finds very disconcerting, but Sensei, confident that she can handle it, walks back to his desk without giving her a chance to argue the point. Later, school ends for the day, and Sensei leaves to go about his evening.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Sana Sakakibara",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "Might be incorrect, but Ayane's sword in this Event might be a visual reference to the sword Umbra as depicted in The Elder Scrolls IV: Oblivion ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Stronger I Become",
+            "event_script_names": "day91",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "daynineone"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.5."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Milk, Eggs, and Water",
+        "next_event": "Recall"
+    }
+}

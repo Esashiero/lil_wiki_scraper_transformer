@@ -1,0 +1,59 @@
+{
+    "event_id": "alive_active_all_out_athletics_",
+    "event_title": "Alive & Active! All Out Athletics!",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Alive_%26_Active!_All_Out_Athletics!",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.5",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Imouto Mode! \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 First floor"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Park"
+        ],
+        "synopsis": "For the next contest, Sensei makes his way to the park to judge Miku 's and Kirin 's challenge. He assumes Miku will be the winner due to her excelling in sports, but, after remembering the first challenge , he also assumes Kirin has a trick up her sleeve to ensure her victory. After some smalltalk about the recent contest, Sensei asks what he needs to do in order to judge their contest, but Miku informs him that Karin takes the role of the judge. After being informed that there will be three tests, the contest begins. While the contest is going on, the following interactions between the students take place: With the contest over, Sensei informs Makoto and Uta about the result, with Makoto not being surprised about Miku winning, but is surprised on how she won. Uta already predicted this loss and takes solace in the fact that the next contest is more in their favor. With the sports contest being rapped up, the group makes their way to cafe.",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda",
+            "Miku Maruyama",
+            "Karin Kanda",
+            "Chika Chosokabe",
+            "Yumi Yamaguchi",
+            "Io Ichimonji",
+            "Rin Rokuhara",
+            "Otoha Okakura",
+            "Tsuneyo Tojo",
+            "Molly MacCormack",
+            "Makoto Miyamura",
+            "Uta Ushibori"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Alive & Active! All Out Athletics!",
+            "event_script_names": "dormwar4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "athleticstest"
+        ],
+        "music_tracks": [
+            "highspeedprinter.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Imouto Mode!",
+        "next_event": "Friend Zone Fight!"
+    }
+}

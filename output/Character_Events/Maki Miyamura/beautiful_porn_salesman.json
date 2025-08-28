@@ -1,0 +1,49 @@
+{
+    "event_id": "beautiful_porn_salesman",
+    "event_title": "Beautiful Porn Salesman",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Beautiful_Porn_Salesman",
+    "event_type": "Event",
+    "primary_character": "Maki Miyamura",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Fishing For Love \" from Makoto Miyamura Seen \" NTR & Pregnancy \" from Molly MacCormack",
+        "to_get_this_event": "Call Maki at night",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maki Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "Sensei invites Maki out for coffee — she asks if he's asking a married woman on a date, and is impressed with his honesty when he says yes. They meet at the Koi Cafe, and Sensei is surprised at how direct she is (especially given that she is Makoto 's mother). Despite earlier saying that she would support Sensei on his date, Molly decides that Maki is a succubus from whom Sensei needs protecting. Maki plays along until Molly gets flustered and retreats. Sensei and Maki talk for a while, and Maki mentions that her marriage is an open relationship.",
+        "participating_characters": [
+            "Sensei",
+            "Maki Miyamura",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Beautiful Porn Salesman",
+            "event_script_names": "makidate1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makifirstdate"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "Maki Miyamura's Mom-Mode Mission"
+    }
+}

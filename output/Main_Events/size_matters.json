@@ -1,0 +1,61 @@
+{
+    "event_id": "size_matters",
+    "event_title": "Size Matters",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Size_Matters",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.7.3",
+    "interactivity": {
+        "requirements": "You must be on at least Day  142  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" The Gem of the Emerald Isle \" Seen \" Back Out in the Heat \" from Ami Arakawa",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first weekday on or after Day 142.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Classroom",
+            "Kumon-Mi High - Hallway"
+        ],
+        "synopsis": "Most of the class suggestively ask Sensei how big the place they will be staying in for their beach trip is. He doesn't actually know, since he hasn't done anything more than talk with Ami about it, but Futaba knows, and Makoto is delegated to organise everything. Afterwards, Rin tells Sensei that she is \"not great\" at sleeping in new places, and asks him to look out for her if anything like last time happens.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Sana Sakakibara",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Maya Makinami",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Molly MacCormack",
+            "Makoto Miyamura",
+            "Miku Maruyama"
+        ],
+        "trivia": [
+            "If Detention happened, Sensei's comment about Chika will be different",
+            "Based on your progress with Chika, Sensei's conversation with Rin will change a little bit."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Size Matters",
+            "event_script_names": "day142",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "dayonefourtwo"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Gem of the Emerald Isle",
+        "next_event": "Tsuneyo Tojo, Stand-up Comedian"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "event_id": "everyone",
+    "event_title": "Everyone",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Everyone",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.27.8",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Burden to Bear \" . This event belongs to an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Floor One"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "Sensei takes a seat with Molly and Yasu as Tsuneyo 's routine begins. Her attempts at comedy quickly drain Molly of any faith she had in their victory, while the rest of the girls are confused by her attempts at humor. As the jokes continue, though, Tsuneyo finds her grove and manages to win over some of the audience. The jokes continue to land until she starts to joke about what she witnessed at last year's Halloween party . Sensei and Molly are completely shocked after being blindsided by her bringing it up while everyone else, barring Kirin who revels in the chaos, is either confused, in disbelief or fell silent until Imani manages to pull Tsuneyo off stage. Karin and Sana try to calm down Ayane , who is shocked by what she witnessed, by telling her that she basically won with Tsuneyo self-destructing on stage and assure her that what she said was just a tasteless joke. Imani begs Ayane to take the stage and safe the evening. After stifling a pang of anxiety and being cheered on by some girls from her floor, she begins her routine, which is much better received than Tsuneyo’s. As her routine comes to an end, Molly begs Sensei to not let this form another rift between them again, but he assures her that nothing will change between them. Imani approaches them and demands from Sensei that Ayane has to be the winner. After Imani names the obvious victor of the contest, Ayane begs Imani to give her some time with Sensei before he makes his way to the next contest. Imani begrudgingly agrees and throws everyone, including Haruka , out of the cafe. After both of them sit down, Ayane tells Sensei that she noticed his reaction during Tsuneyo’s jokes, but assures him that everything is okay. While she wants to spare him from doing anything that makes him uncomfortable, she needs to force him to hurt her. Sensei doesn’t want to, but she expects him to do it anyway, because he is the only thing binding her to this world and she needs to wake up from the illusion she blissfully lived in for now. She promises to keep her cheery appearance the entire time they’re together, knowing that it will shatter once she’s back home. Ready to face the pain after he reaffirms his love for her, she takes out the things he needs to fulfill her request – her pencil and a blank sheet of paper. Ayane wants him to make a list of everyone . Sensei tells her that she won’t like it, but she is aware of that and knows that the pain she will receive now will be worth in the long run. Sensei takes the paper and her pencil, though before he starts listing everyone, he pulls out a pen from his pocket and writes her name on the top of it.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack",
+            "Yasu Yasui",
+            "Tsuneyo Tojo",
+            "Kirin Kanda",
+            "Io Ichimonji",
+            "Uta Ushibori",
+            "Miku Maruyama",
+            "Ayane Amamiya",
+            "Karin Kanda",
+            "Sana Sakakibara",
+            "Imani Imai",
+            "Ami Arakawa",
+            "Chika Chosokabe",
+            "Sara Sakakibara",
+            "Haruka Hamasaki",
+            "Otoha Okakura",
+            "Rin Rokuhara",
+            "Touka Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Everyone",
+            "event_script_names": "dormwartwo8",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "comedywaragain"
+        ],
+        "music_tracks": [
+            "lifeismostlygood.mp3",
+            "meanttobe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Burden to Bear",
+        "next_event": "Midnight Mom Mosh"
+    }
+}

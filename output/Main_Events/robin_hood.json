@@ -1,0 +1,52 @@
+{
+    "event_id": "robin_hood",
+    "event_title": "Robin Hood",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Robin_Hood",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.13",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Toys \" . This event belongs to an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Sensei starts the day, making his way to the girl’s normal breakfast spot to say good morning. As he does, he receives a text from Maya, who’s angry about him bailing on their plans . He tries to explain himself, but she ends the conversation still angry. He finds three of the girls already up, with them all happy to see him after his unexpected disappearance . As the topic drifts, Io announces that she’s finally done what Sensei asked of her and made a new friend in Miku, with whom she’s been dealing doses of her medication after last time . Uta and, uncharacteristically, Sensei try and share their objections to this idea but Io firmly argues that the chance she’ll actually get into trouble for it is small. Miku backs her up by affirming that they’ve really been helping, having gone a whole month without a breakdown . Ami and Maya interrupt the three of them, the former upset that he’s finally shown up after disappearing randomly. He tries to explain himself again, but just like before Ami doesn’t believe him, sentencing him to three uninterrupted years of ‘Ami time’. Maya walks away after making her anger known. Ami begins to plan out how they’ll spend their allotted ‘Ami time’, and Sensei fights her on her more ridiculous ideas.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Uta Ushibori",
+            "Io Ichimonji",
+            "Miku Maruyama",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "If the player chose '...' during No One Can See Us , Ami will briefly snap in anger at Sensei."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Robin Hood",
+            "event_script_names": "beachmas12",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "anothermorningbeach"
+        ],
+        "music_tracks": [
+            "notabluearchivesong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "いないいない。。。ばあ！",
+        "next_event": "The Legacy of Thuam Pt. IV"
+    }
+}

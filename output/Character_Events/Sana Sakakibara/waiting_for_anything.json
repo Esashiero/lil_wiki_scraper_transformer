@@ -1,0 +1,50 @@
+{
+    "event_id": "waiting_for_anything",
+    "event_title": "Waiting for Anything",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Waiting_for_Anything",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Thursday 35 Sana Affection You must have seen or permanently missed the following Events: Seen \" Purest Intentions \" from Sana Sakakibara",
+        "to_get_this_event": "Visit Sana at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 2"
+        ],
+        "synopsis": "Sensei hopes that visiting Sana in her dorm will help assuage some of the jealousy she showed about his relationship with her mother and Ayane . However, he finds that both those people are already there with her and apparently inebriated. He still decides to enter. Ayane asks Sensei to tell Sana to change her sleeping attire to show more confidence, something Sara herself encourages, but Sana wants to stay like she is since she's feeling uncomfortable with what they want from her. Sara embarrasses her, and Ayane goes on a drunken rant before passing out. Sana tells her mother to let her make her own decisions with how she wants to behave and present herself and asks Sensei for confirmation, who, knowing he shouldn't add to her jealousy, agrees with her and admits he wanted to visit her tonight, with Sara confirming his honesty. She isn't surprised, though, stating it's his nature to protect someone as innocent as Sana. Hearing this, he knows that she's right, because he has an innate desire to protect her since their first meeting , but wonders how much this is influenced by her need to be, noting how even in the company of people she's close with she feels cornered due to them being physically and emotionally more developed than her. He remembers how this was true for him in the past as well, but something intervenes in this train of thought and gives him a headache. He forgets it. Sana states that she was serious about learning karate, to her mother's surprise, with her being even more surprised that they had more customers the other night. Sana assures her mother that she'll be fine during karate since Sensei will protect her, but he doesn't think she will be in any danger during practice, though Sana makes a joke about her joining a fight club since she might be as strong as a wrestler. This inadvertently causes her mother to remember something about their past with someone , but she stops dead in her tracks, starts to break into tears. Sana guides her out into the hallway to calm her down. Once they're gone, Ayane \"wakes up\" and wonders if they will be fine. She's feeling the effect of the two glasses of the wine she drunk, and when Sensei jokes about her intolerance, she informs him that she rarely drinks alcohol. He puts her to bed, with her falling asleep the moment her head hits the pillow, and leaves twenty minutes later once he realizes that Sana and Sara aren't returning any time soon.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Ayane Amamiya",
+            "Sara Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Waiting for Anything",
+            "event_script_names": "sanadorm35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sanadormgirls"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Purest Intentions",
+        "next_event": "Closer to Me"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "event_id": "the_smile_the_face",
+    "event_title": "The Smile, The Face",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Smile,_The_Face",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.15",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" New Age Entrepreneurs \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "Sensei decides to talk with Rin , Otoha and Nodoka . He immediately comments on Nodoka’s calm demeanor despite drinking for a while and mocks Otoha and Rin for not drinking, but they state that they didn’t like the taste when they tried it at the Dorm War's after party . Rin confesses that they kissed , much to Otoha’s dismay, and gives a detailed description of the event to Sensei and Nodoka. When Nodoka tries to get more information from her, Otoha changes the subject to Imani and wonders if her presence means Sensei's teaching methods will return to normal. Sensei assures her that Imani won’t change anything and that they don’t have to worry about this for the rest of their lives. Nodoka notices his phrasing and wonders if he’s hiding something, but he has no intention to share anything. At this moment, Otoha gets a text from her parents. She denies Rin’s request to greet them from her and especially Sensei’s request after his immaturity during the last time they called . Nodoka regrets that she couldn’t join him and offers to fool around now, but Otoha tells them to knock it off, saying her ears would be damaged by their \"joke\" and that she needs them for music. On that note, Rin compliments her musical talents and both of them start flirting in front of Sensei and Nodoka. Before Sensei can comment on that, he hears someone making ringing noises behind him. He turns around and, as the world seems to freeze in time, Yasu gives him a cryptic note, making him wonder if she finally snapped. After making more ringing noises, Yasu disappears as sudden as she appeared and, as time begins to move again, Otoha gets a phone call from her parents. Rin suggest to just ignore it, but Otoha says she can't, explaining her parents pay for her vocal lessons and phone bills, and have no issue cutting her of. As she speaks with her parents, Yasu speaks to herself, suddenly panicking when she loses the ability to hear \"the voice\" of her God. The call gets very heated and Otoha is forced to leave the party. Rin offers to accompany her home so she can introduce herself as her girlfriend, but Otoha declines since she doesn’t see a reason for her to meet them yet. During the conversation, Rin figures out that Otoha hasn’t told her parents about them and, when she asks why, learns that she can’t admit that she’s dating a girl since her life would be over the moment her parents find out about it. Rin, on the verge of tears, begs her to leave and, after Otoha is gone, gets consoled by Futaba . Sensei, being fully aware of how little freedom Otoha has, understands why she made the decision to keep Rin a secret and, even though her decision hurt Rin a lot, forgives her for her actions, aware that not everyone will.",
+        "participating_characters": [
+            "Sensei",
+            "Nodoka Nagasawa",
+            "Otoha Okakura",
+            "Rin Rokuhara",
+            "Yasu Yasui",
+            "Molly MacCormack",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Smile, The Face",
+            "event_script_names": "christmastwo12",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yuricouch"
+        ],
+        "music_tracks": [
+            "stpartynight.mp3",
+            "merrychristmasmrlawrence.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "New Age Entrepreneurs",
+        "next_event": "Shadowmeld"
+    }
+}

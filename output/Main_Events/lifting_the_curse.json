@@ -1,0 +1,50 @@
+{
+    "event_id": "lifting_the_curse",
+    "event_title": "Lifting the Curse",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Lifting_the_Curse",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.7.7",
+    "interactivity": {
+        "requirements": "You must be on at least Day  154  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Supreme Overlord \"",
+        "to_get_this_event": "Autoplay during weekday if requirements are met",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Tsuneyo Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Second Floor"
+        ],
+        "synopsis": "Sensei and some of his students help Tsuneyo move her things into her new dorm. She notices the bird which was there when Molly moved in , and suggests giving it a name — Noodles . When Sensei tells her that she needs some interests beside noodles, Tsuneyo gives a surprisingly direct response, but she doesn't actually know what it means. When Sensei refers to her words as a \"curse\", she drops her boxes, alarmed at having wished a calamity on him. The sudden crash upsets Miku , who tries to order Sensei to push-ups as punishment. Tsuneyo does them instead, lifting the \"curse\".",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama",
+            "Miku Maruyama",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Lifting the Curse",
+            "event_script_names": "day154",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsuneyomoves"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Supreme Overlord",
+        "next_event": "What's Done is Done"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "event_id": "third_wheel",
+    "event_title": "Third Wheel",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Third_Wheel",
+    "event_type": "Invite Event",
+    "primary_character": "Sara Sakakibara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" A Woman's Heart \" from Sara Sakakibara",
+        "to_get_this_event": "Invite Sara Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Sara Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House"
+        ],
+        "synopsis": "Sensei invites Sara to his house. Ami is surprised and annoyed to find a strange woman there, but Sara does a good job of winning Ami over by calling her cute and complimenting her ability to look after Sensei. Sara assures Ami that Sensei would never be interested in Sara when he has someone like Ami. Since Sara has to spend all her attention on making friends with Ami, Sensei ends up feeling ignored, but thinks that at least it will be easier to invite Sara over in future.",
+        "participating_characters": [
+            "Sensei",
+            "Sara Sakakibara",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Third Wheel",
+            "event_script_names": "sarainvite1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sarafirstinvite"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Zero Friction",
+        "next_event": "A Mostly Empty Home"
+    }
+}

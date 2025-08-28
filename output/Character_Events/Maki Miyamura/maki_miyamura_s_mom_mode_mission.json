@@ -1,0 +1,48 @@
+{
+    "event_id": "maki_miyamura_s_mom_mode_mission",
+    "event_title": "Maki Miyamura's Mom-Mode Mission",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Maki_Miyamura%27s_Mom-Mode_Mission",
+    "event_type": "Event",
+    "primary_character": "Maki Miyamura",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Maki Affection You must have seen or permanently missed the following Events: Seen \" Self-Medication \" from Sana Sakakibara Seen \" Bluejay \" from Makoto Miyamura Seen \" Beautiful Porn Salesman \" from Maki Miyamura",
+        "to_get_this_event": "Visit the Porn Shop",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maki Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Porn Shop"
+        ],
+        "synopsis": "Maki tells Sensei that Makoto will not be working at the shop for a while, since she has been \"out of it\" lately. Maki asks Sensei if anything has happened recently, but he can't think of anything. Maki says that although she'd do anything for her daughter's happiness, she often doesn't know how to help, and isn't very good at talking to Makoto. Sensei suggests that Makoto may want Maki to \"act a little more like a mom than a... Maki\", and that Makoto may be self-conscious when she compares herself to a \"mature version\" of herself. He also raises the possibility of just ignoring everything and letting Makoto work things out herself, which Maki calls a horrible idea — she resolves to sit down with Makoto and work things out.",
+        "participating_characters": [
+            "Sensei",
+            "Maki Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Maki Miyamura's Mom-Mode Mission",
+            "event_script_names": "makidate5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makiseconddate"
+        ],
+        "music_tracks": [
+            "citylife.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.11."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Beautiful Porn Salesman",
+        "next_event": "A Fair Trade"
+    }
+}

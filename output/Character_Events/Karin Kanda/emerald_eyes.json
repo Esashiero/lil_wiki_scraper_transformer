@@ -1,0 +1,54 @@
+{
+    "event_id": "emerald_eyes",
+    "event_title": "Emerald Eyes",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Emerald_Eyes",
+    "event_type": "Event",
+    "primary_character": "Karin Kanda",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "25 Karin Affection You must have seen or permanently missed the following Events: Seen \" Baby Steps \" from Maki Miyamura",
+        "to_get_this_event": "Call Karin in the afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Karin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Pool",
+            "Shopping Mall"
+        ],
+        "synopsis": "Since he can’t use being a coach as an excuse anymore, Sensei decides to ask Karin out directly. She gets startled and hangs up twice in a row when he asks her and apologizes after she called him back. Miku wonders who she’s yelling at and fears further competition from her when she learns that it’s Sensei. She’s doesn’t understand what she means and Sensei doesn’t tell her since she isn’t ready to hear what they did . When Ayane and Imani make their presence known, Sensei guesses that they’re at the pool and decides to join them. She isn’t sure if he really wants to, because they’re preparing something for Makoto , but he reaffirms that he wants to see her. She hangs up again, but Sensei predicted it this time. He reaches the pool and gets greeted by the girls, learns that he missed Geoffrey, who brought them a lot of home-made food, and gets scolded by Ayane for calling Karin instead of her. Sensei asks what they’re planing and learns that they’re preparing a care package with a signed card and several useful gifts to make her happy. He doesn’t believe that it will, but assume that she will appreciate it. He wants to know how he can help and Imani tells him to get lost so he can buy the gifts while she collects signatures with the other two girls. He reminds her that there are four girls present, but she assumes that he and Karin are going out on a date. Karin gets embarrassed, Miku understands Makoto’s jealousy and Ayane gets mad at him while Sensei congratulates Imani for sowing mistrust in her club. Karin agrees to go with him since her teacher wants her to, but Sensei notes that he’s a teacher as well and that Imani is just his servant, which he realizes was insensitive when she complains. She feels sad since he was her first, which makes Miku and Ayane think that they’re intimate as well, while Karin is confused. Sensei decides to head out before Imani makes the situation worse, but Imani offers him her phone number so he can call her once they’re done. Miku warns her that he will only use her for booty calls, but she informs her that he’s already doing that with pigeons and Sensei finally decides to leave with Karin and Imani’s number while leaving two sulking students behind. During their journey to the mall Sensei notices how innocent Karin still is and how she needs to understand her own feelings. They take a seat on Chika ’s bench and have a conversation about how people feel after loosing someone and how they move on from it. She acknowledges that she has no idea how to handle it but also doesn’t want anyone she loves to die to understand it. Sensei calls her desire selfless, but when she tries to confess an area where she’s selfish, they get interrupted by Kirin and Noriko . Sensei notices that Karin is unusually determined as she faces her sister. Kirin assumes that they’re on a date and claims that Noriko and her are shopping for underwear when they were actually going to the movies. Karin begs her to ask why they’re here instead of being jealous and manages to make her regret her behavior once she explains it. She also demands an apology from Kirin to Sensei for assuming that he would be attracted to her. Noriko thinks he would be while admiring her figure, but Kirin shuts her down even though Noriko has to endure her attraction to her sister all the time. She also offers to buy some of the goods for Makoto and, after Karin shows them the list, decide to handle the cosmetic stuff. Sensei and Karin take care of the rest and meet up with Imani again. Sensei is dismissed and goes back home thinking about emerald eyes.",
+        "participating_characters": [
+            "Sensei",
+            "Karin Kanda",
+            "Miku Maruyama",
+            "Ayane Amamiya",
+            "Imani Imai",
+            "Kirin Kanda",
+            "Noriko Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Emerald Eyes",
+            "event_script_names": "karindate25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "karinmalltrip"
+        ],
+        "music_tracks": [
+            "notabluearchivesong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sweet Tooth",
+        "next_event": "Wrong Places/Wrong Times"
+    }
+}

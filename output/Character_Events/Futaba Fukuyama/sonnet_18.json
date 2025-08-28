@@ -1,0 +1,49 @@
+{
+    "event_id": "sonnet_18",
+    "event_title": "Sonnet 18",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sonnet_18",
+    "event_type": "Invite Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" Fireworks etc... \"",
+        "to_get_this_event": "Invite Futaba Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House"
+        ],
+        "synopsis": "Futaba visits Sensei 's house, and to explain it to Ami , they pretend that it's to help Ami study. Futaba teaches Ami about iambic pentameter, and Sensei learns something about \"the old Sensei\". Ami ends up thinking that Futaba should take Makoto 's place as class-rep, although Futaba demurs. Sensei thinks that the visit has gone as smoothly as he might hope.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sonnet 18",
+            "event_script_names": "futabainvite1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "futabaamistudy"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Selfless",
+        "next_event": "Floral Aura"
+    }
+}

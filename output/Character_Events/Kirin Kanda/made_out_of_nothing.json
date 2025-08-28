@@ -1,0 +1,51 @@
+{
+    "event_id": "made_out_of_nothing",
+    "event_title": "Made Out of Nothing",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Made_Out_of_Nothing",
+    "event_type": "Event",
+    "primary_character": "Kirin Kanda",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must be on at least Day  410  to unlock this Event. 30 Kirin Affection You must have seen or permanently missed the following Events: Seen \" Four Hand Massage \" from Kirin Kanda Seen \" What a Wonderful World \" from Ayane Amamiya",
+        "to_get_this_event": "See What a Wonderful World before Four Hand Massage . Auto-play on Monday.",
+        "to_miss_this_event": "Miss seeing What a Wonderful World before Four Hand Massage . Replaced by At Least Someone Smiles .",
+        "choices": [],
+        "effects": [
+            "+1 Kirin Affection",
+            "+1 Kirin Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's Office"
+        ],
+        "synopsis": "After a normal day at school, Sensei retreats to his office for his usual counseling hours. His hopes of being able to return to his routine after all the distractions , though, are dashed as Kirin joins him soon after. Sensing his shift in mood, Kirin tries to pry about why he seems so dour, thinking he'd be happy to see his favorite \"addict\", noting that she edges out Ayane for the title because she's more \"open\". Sensei reminds her that Ayane might be more open if Kirin hadn't so brutally stampeded over her feelings back at the beach. She brushes the incident off as unimportant, though skews the blame entirely towards Sensei for his less-than-appropriate demeanor. From outside, Ayane hears her name and walks in initially excited to speak to Sensei only to have her mood flattened once she realizes Kirin is present. She attempts to ignore Kirin initially, throwing passive-aggressive insults at her when they're forced to speak to each other. As the two continue to fight, Sensei breaks the conversation up by asking Ayane why she's visiting the office. Ayane tells him she just wanted to walk home together, but sees he's busy, opting to walk with Ami and Maya instead. She reminds him she loves him before leaving. Alone together once again, Sensei, tired of the situation between the two of them, tries to find out why Kirin has such a vendetta against Ayane in the first place. She initially pushes back, trying to tell him it's none of his business and that she had no real reason for doing what she did - She traumatized Ayane because it got her what she wanted, but when Sensei doesn't believe this, she reveals her deep jealousy towards Ayane for being such a \"poster-girl of a happy teenager\". Sensei reminds Kirin that she doesn't know anything about Ayane, refuting her claim that she's happy by listing all the issues that Ayane deals with on a personal basis, and claiming that her problems are much more \"real\" than Kirin's. Offended by the belittlement, Kirin attempts to snap back by reminding Sensei that Ayane has constantly and publicly vocalized her desires aloud, but Sensei only sighs in response, amazed she's able to keep being so stubborn. At her wit's end, Kirin finally caves in, admitting that her desire to mess with Ayane came both from a prior crush on her, and having a chance to impress her parents stolen by Ayane. Sensei, despite finding this deeply endearing, reaffirms that it's still not an excuse. Kirin agrees with him, but also refuses to back down on ever doing something similar again. Now embarrassed, she asks Sensei to spend some more time alone with her, which he agrees to.",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Made Out of Nothing",
+            "event_script_names": "kirinspecial30",
+            "event_missed_name": "At Least Someone Smiles"
+        },
+        "backgrounds": [
+            "kirinayaneoffice"
+        ],
+        "music_tracks": [
+            "phantomthief.mp3",
+            "pianomelancholy3.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.21p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Four Hand Massage",
+        "next_event": "The Other Half"
+    }
+}

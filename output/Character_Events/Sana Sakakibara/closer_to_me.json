@@ -1,0 +1,52 @@
+{
+    "event_id": "closer_to_me",
+    "event_title": "Closer to Me",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Closer_to_Me",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "40 Sana Affection You must have seen or permanently missed the following Events: Seen \" Waiting for Anything \" from Sana Sakakibara",
+        "to_get_this_event": "Visit Sana at the Bar during the night after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a",
+            "Kumon-mi - Streets"
+        ],
+        "synopsis": "Arriving at the bar, Sensei notices that it's closed, yet still enters anyway, only to see that Sana is ready to leave. He asks why Sara decided to close so soon, and Sana says that she isn't feeling well, though Sara claims it's only to give both of them the opportunity to get some rest. While Sara decides to relax upstairs, Sana wants to return to the dorm and asks Sensei for his company, who agrees since he came here to spend time with her in the first place. Both leave the bar, but Sensei notices a change in Sara's expression when they do. Both walk silently for a while, much to Sensei's discomfort, until Sana breaks the silence. He points out how long it took for them to walk back to the dorm together, and Sana admits that she still feels weird about it, especially because Sensei could be her father. She gives him a synopsis of her actual father, though she only knows what Sara told her about him, describing him as unfaithful and deceiving, with Sensei seeing the obvious parallels to himself. This is why Sana sees him as a father figure, because compared to him, Sensei is the better one by default. He asks if Sara raised her alone, which she confirms. She also raised her brother alone as well, which is why she blames herself for accidentally reminding her mother of him the other night , apologizes for not saying goodbye to him after this, and reprimands herself for bringing up the past. Sensei thinks bringing it up is unavoidable, but Sana disagrees, claiming denial can help make life easier. Sensei agrees with this, but also states that it won't help in the long run since bottling up grief could kill the person in question, but Sana counters this by pointing out that grief itself can do this too, and after losing one third of their family, they can only try to ease each other's pain. She notices how awkward the conversation got and tries to change the topic, but Sensei tells her to see it as another practice to become more outgoing, pointing out how she could hold an entire conversation while giving him more information about herself. Sana fears that he will avoid her and spend more time with Ayane now. He thinks about adopting both of them, but doesn't want to marry Sara to do so, and Sana is grateful that he doesn't want to since she wants things to stay like they are. He wonders if she's serious, and she admits that it would be easier for her since she doesn't want to lose him to her friend or mother. She also tries to state what happens if he grows closer to her, but falls silent. Sensei already knows that she's scared to grow closer to him, comparing her situation between them with being trapped inside a triangle – Sana is trapped inside the lines of the relationship between him and the other girls, and she can only escape by breaking one of the lines, but since it would destroy everything, she stays inactive and waits for the problem to resolve itself. He calls it a horrible way to live, but knows that he's guilty of it himself.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Sara Sakakibara"
+        ],
+        "trivia": [
+            "There's a variation in the dialogue depending on if Sensei pursued Sara during either Carry Me Home or A Mostly Empty Home ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Closer to Me",
+            "event_script_names": "bar40",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "barwalkhome"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Waiting for Anything",
+        "next_event": "The Inside of a Triangle"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "event_id": "anywhere_at_all",
+    "event_title": "Anywhere At All",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Anywhere_At_All",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Sana Affection You must have seen or permanently missed the following Events: Seen \" Supermom \" from Sana Sakakibara",
+        "to_get_this_event": "Visit Sana at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - First Floor",
+            "School Dorms - Outside"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorms and knocks on Sana 's door, but is surprised when she comes out almost immediately, saying she doesn't feel comfortable with letting Sensei in her room again for the time being and would rather go outside, surprising him again. Sana asks Sensei where he would go if he could choose anywhere in the world, and he says he would go to a place where no one could reach him. Sana says they should go, and suddenly, the world glitches , leaving Sensei standing in front of a smiling Sana and a solitary area with nothing but a park bench and a dim light. Sana asks if this is what Sensei wanted, and if she needs to change anything. Outside of Sensei's vision, Sana asks about Sensei's pale complexion, growing concerned. In the vision, a mysterious girl appears, telling Sensei that a being known only as He wishes for Sensei to meet Him, but that Sensei must find the path to Him alone. Suddenly, the girl disappears, and Sensei comes back to the real world. He knocks on Sana's door again, and is internally shocked to find out over two hours have passed, but he and Sana go outside, where they attempt to carry on the conversation from earlier. After Sensei receives Sana's reply to her own question, she asks him what she can do to seem more normal, and he tells her she doesn't have to change how she appears to the outside world just because people don't see her for her . Sana is momentarily stunned by this, but after receiving confirmation, thanks Sensei for the compliment. She tries to ask him to tell her more about himself, only for Sensei to delay the request. Sana eventually figures out Sensei doesn't want to talk about it, and the two head to their respective residences to get some rest.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Yasu Yasui"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Anywhere At All",
+            "event_script_names": "sanadorm10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "giantleapredux"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3",
+            "newhope.mp3",
+            "thesleepingcity.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces One Giant Leap )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Supermom",
+        "next_event": "Carry Me Home"
+    }
+}

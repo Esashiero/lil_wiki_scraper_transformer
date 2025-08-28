@@ -1,0 +1,63 @@
+{
+    "event_id": "gold_digger",
+    "event_title": "Gold Digger",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Gold_Digger",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "v0.37.7",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" All Eyes On Me \" . This event belongs to an event chain started from \" Episcopalis: Pickled Plums & Polyrhythmic Psalms \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+10 Chika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Classroom",
+            "Kumon-Mi High - Sensei's Office"
+        ],
+        "synopsis": "Chika slams on her desk, seconds away from tearing into Ami for her disgustingly possessive speech . While Yumi , Noriko and Touka try to mediate the situation or convince Ami to go home, they're helpless to do anything as Chika refuses to let her go unscathed after her insults. The situation becomes more and more heated, to the point where Yumi considers getting another suspension to shut her up, but Chika commands everyone to stay back before marching towards Ami and threatening her. Imani and Sensei stand by, helplessly watching as the situation deteriorates. With Chika now threatening her directly, Ami tosses insults back, with the two devolving into petty insults and death threats. While Chika becomes angrier and angrier, Ami begins acting flippantly, pouting and smiling at every word thrown at her. To put an end to this argument, Ami pulls out her phone and shows Chika an unseen photo which makes her freeze in place. Having had enough, Sensei grabs both girls and drags them to his office to deal privately with the situation. Now that the three of them are alone, Sensei has to restrain Chika to keep her from actually hurting Ami, something the latter takes full advantage of by continuing to insult her. She asserts to Chika that no one else could possibly handle Sensei, due to the contrast between the stoic facade he puts on and the true self he hides. Throughout this exchange, Chika repeatedly attempts to break free of Sensei's restraints, trying to get him to understand how much of a threat Ami is to his way of living. He refuses to budge, and Chika's anger is slowly contained as Ami's final remarks reveal something about him. Sensei forces Ami to go home, and both girls give each other another set of threats before the situation is diffused. Now alone with Chika, Sensei apologizes to her for having to deal with all this drama. Chika refuses to accept this apology and yells at him about the prior reveal and how worried she has been about him. She tries to get answers about his disappearance , wanting to help him herself, but he confirms Ami's prior assertions – There's nothing anyone but Ami can do to help him. Both of them are still coping, in fact, but whilst Sensei's method included two months of being comatose, Ami's includes acting out as she attempts to force the world into the shape she wants it. Realizing this situation can easily devolve into more fighting, Chika drops the topic but pressures him into babysitting Chinami the following day as an apology. He begrudgingly accepts and gets told that Chika is living in her new apartment now, but before Sensei can ask if its in Touka's apartment complex , she shuts him down, wanting to keep it a secret until tomorrow. He is soon left alone with his thoughts, with the feeling little has changed, aside from having one less person to worry about.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Ami Arakawa",
+            "Yumi Yamaguchi",
+            "Noriko Nakayama",
+            "Touka Tsukioka",
+            "Imani Imai",
+            "Kirin Kanda",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Nodoka Nagasawa"
+        ],
+        "trivia": [
+            "Chika's Tagalog can be translated as: Kantotero – Fucker Anak ng puta – Son of a bitch Sipsipin mo ang titi ko – Suck my dick",
+            "Kantotero – Fucker",
+            "Anak ng puta – Son of a bitch",
+            "Sipsipin mo ang titi ko – Suck my dick"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Gold Digger",
+            "event_script_names": "chikaspring1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikafurious"
+        ],
+        "music_tracks": [
+            "sensei.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Our Time Atop This Mattress",
+        "next_event": "Original Sin"
+    }
+}

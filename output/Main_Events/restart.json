@@ -1,0 +1,57 @@
+{
+    "event_id": "restart",
+    "event_title": "Restart",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Restart",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.44-0.17",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" SENSEI-QUEST \" . This event is the final event in an event chain started from \" Rubik's Cube \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "SENSEI-QUEST - Meowri's Home",
+            "Kumon-mi High - Rooftop",
+            "Amamiya Estate - Dojo",
+            "Koi Cafe"
+        ],
+        "synopsis": "Having finished the main quest , Sensei makes his way to Meowri's house so she can summon the final boss. After listing his complaints about the game experience, Meowri takes the four orbs and intends to guide Sensei to the place where the final boss can be summoned, but warns him that defeat will result in him being send back to the beginning of the game, so she suggests he saves first. On the way to the final boss area, both end up in an accident and the game ends. Luckily, Meowri manages to rewrite the game, and Sensei finds himself in an environment that looks like the school rooftop at night. Meowri summons the final boss, the Ancient Orb, and the fight begins. After a long battle, the Orb completely overpowers Sensei, however the Orb is so powerful it ends up breaking the game. After the game gets rebooted, Sensei finds himself back at the Halloween party, however something is off – He was sent back to the first one . He's then approached by Makoto , who turns out to be the one from his timeline and asks if he was sent here with her. Meanwhile, the Ayane from Sensei's timeline finds herself on stage of the comedy contest during the Halloween Dorm Wars, confused on how she got there. Since she isn't performing, everyone else is wondering what's going on, and when Imani assumes she has stage fright, Ami suggests they cheer her on, which the class does shortly after. At another point in time, the Maya from Sensei's timeline finds herself sitting with Ami at the second Halloween party . Maya is confused why she's wearing a different costume all of a sudden, and Ami reminds her how the manga club agreed to dress as characters from Genshin Impact and how she wanted to dress as Mona Megistus. Seeing that she's not doing well, Ami asks if Maya needs to lay down, and Maya agrees after a bit of uncertainty.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Makoto Miyamura",
+            "Kirin Kanda",
+            "Molly MacCormack",
+            "Maya Makinami",
+            "Ami Arakawa",
+            "Imani Imai"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Restart",
+            "event_script_names": "endofgameworld",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "otohanodokaphone"
+        ],
+        "music_tracks": [
+            "8pox.mp3",
+            "glasswalker.mp3",
+            "letsfuckingo.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.44."
+        ]
+    },
+    "navigation": {
+        "previous_event": "SENSEI-QUEST",
+        "next_event": "Recap"
+    }
+}

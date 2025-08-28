@@ -1,0 +1,62 @@
+{
+    "event_id": "first_day_of_school",
+    "event_title": "First (?) Day of School",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=First_(%3F)_Day_of_School",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.1.4",
+    "interactivity": {
+        "requirements": "You must be on at least Day  2  to unlock this Event.",
+        "to_get_this_event": "This Event will occur automatically on or after Day 2. Autoplays after \" Am I Awake? \" . This event belongs to an event chain started from \" Every Day I Grow Some More \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi",
+            "Kumon-Mi High - School Hallways",
+            "Kumon-Mi High - Classroom",
+            "Kumon-Mi High - Sensei's Office"
+        ],
+        "synopsis": "Ami and Sensei make their way to school. Ami asks him if he will be alright, considering he still hasn’t got his memories back and, therefore, doesn’t remember anyone or could teach them, but Sensei, who memorized everyone’s name, assures her that he has a plan. Ayane joins them and immediately flirts with Sensei. While she’s a little scared after hearing about his memory loss, she relaxes when he remembers her name and uses the opportunity to get a date with him. Ami intervenes while Sensei humors her. Once they reach the classroom, Sensei separates from them, wondering if his plan will be successful  or massively backfire. His thoughts are interrupted by Makoto , who informs him about the preparations she made for his class. He says her first name aloud, surprising her in the process since he usually addresses them by their family name. Feeling weird at first, he informs her that it’s part of how he wants to handle teaching from here on out, though she doesn’t mind being called by her first name. After entering the classroom, Sensei allows Chika to leave and causes some commotion by letting her go and calling everyone by their first name. Once he manages to shut everyone down, he explains that he decided to change his approach to teaching them, ignoring Makoto’s concerns, and proclaims that he wants to get rid of their teacher and student dynamic, replace it with a more casual approach between them and will only focus on independent studies from here on out. Everyone, including Chika once she returns, seems to support his new teaching method, with the exception of Makoto who already decided that they have to talk in his office. In his office, Sensei waits for Makoto’s arrival. She enters shortly after and makes her displeasure with his changes know, thinking that changing the functioning system he created for his new approach which focuses purely on becoming friends with them is contra-productive, possibly forbidden and could lead to problems with other teachers. Sensei explains that he doesn’t intend to let them run wild but only wants to create an opportunity to relax a little. He asks what she does to relax, though when he learns that she spends all her time either studying or working, ignoring the fact that the latter is strictly forbidden, he decides to do something for her to help her relax a little. He gives her a shoulder massage and claims that it was long overdue for her to receive one considering how tense her shoulders are, but she says that the tenseness might have a different reason. While hesitant at first, she starts to enjoy it and gets more relaxed. After a while, Ami knocks on his door and enters soon after, forcing Makoto to separate from Sensei and leaves in embarrassment. Ami asks him for his key since she forgot hers, has no spare key since the old one was stolen and they still have none for the new lock, and need to prepare for the sleepover with her friends. Sensei hands her his key and waits for the day to end.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Makoto Miyamura",
+            "Chika Chosokabe",
+            "Miku Maruyama",
+            "Rin Rokuhara",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "First (?) Day of School",
+            "event_script_names": "amiwakesupyeah, thefirstclass, makotoofficemassx",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amiwakeup",
+            "newfirstday",
+            "firstclass",
+            "makoffice",
+            "makcouch"
+        ],
+        "music_tracks": [
+            "normalday.mp3",
+            "phantomthief.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Am I Awake?",
+        "next_event": "Slumber Party"
+    }
+}

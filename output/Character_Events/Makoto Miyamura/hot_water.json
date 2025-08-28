@@ -1,0 +1,49 @@
+{
+    "event_id": "hot_water",
+    "event_title": "Hot Water",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Hot_Water",
+    "event_type": "Lust Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "v0.19.16",
+    "interactivity": {
+        "requirements": "20 Makoto Lust",
+        "to_get_this_event": "Have 20+ Makoto Lust before chain starts. Autoplays after \" We Were Angels \" . This event belongs to an event chain started from \" Good Morning \" .",
+        "to_miss_this_event": "Have less than 20 Makoto Lust before Good Morning . Replaced by Cold Water .",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach - Hot Springs"
+        ],
+        "synopsis": "Makoto leads Sensei to a small hot-spring near the inn. They talk about their relationship and Makoto's rule-abiding nature. As the two hang out, Miku arrives, leaving the two feeling awkward until she eventually leaves.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Hot Water",
+            "event_script_names": "makotolust20",
+            "event_missed_name": "Cold Water"
+        },
+        "backgrounds": [
+            "makotolusttwenty"
+        ],
+        "music_tracks": [
+            "behindabathroom.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Something, Somewhere",
+        "next_event": "Whispers of the World"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "event_id": "a_mostly_empty_home",
+    "event_title": "A Mostly Empty Home",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Mostly_Empty_Home",
+    "event_type": "Invite Event",
+    "primary_character": "Sara Sakakibara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Third Wheel \" from Sara Sakakibara",
+        "to_get_this_event": "Inivte over Sara after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": "These choices will only appear if Sensei chose \"Leave the room\" during Carry Me Home .",
+                "option": "Stay friends",
+                "effect": "Locked out of Sara content. Event ends early"
+            },
+            {
+                "context": "These choices will only appear if Sensei chose \"Leave the room\" during Carry Me Home .",
+                "option": "Take things further",
+                "effect": "Sensei will pursue Sara. Event continues"
+            }
+        ],
+        "effects": [
+            "If \"Take things further\" is chosen +3 Sara Lust",
+            "If \"Stay friends\" is chosen +1 Sara Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Living Room",
+            "Sensei's House - Sensei's Bedroom"
+        ],
+        "synopsis": "Sensei invites Sara over again, this time without Ami present to supervise them.",
+        "participating_characters": [
+            "Sensei",
+            "Sara Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Mostly Empty Home",
+            "event_script_names": "sarainvite2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sarafirstinvitesex"
+        ],
+        "music_tracks": [
+            "asobeatsex7.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Third Wheel",
+        "next_event": "Medical Assistance"
+    }
+}

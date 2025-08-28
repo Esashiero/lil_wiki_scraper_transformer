@@ -1,0 +1,51 @@
+{
+    "event_id": "the_value_of_sharing",
+    "event_title": "The Value of Sharing",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Value_of_Sharing",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.10.1",
+    "interactivity": {
+        "requirements": "Friday You must be on at least Day  200  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" See You in the Morning \" Seen \" A Trip to the Moon \" from Chika Chosokabe Seen \" Drunk Again \" from Haruka Hamasaki Seen \" How to Date a Human \" from Kaori Kadowaki Seen \" Ten Steps Forward \" from Rin Rokuhara Seen \" Life is a Tomato \" from Sana Sakakibara Seen \" FLAVOR BEAM! \" from Maya Makinami Seen \" Moments Like This \" from Miku Maruyama Seen \" A Place Like This \" from Yumi Yamaguchi Seen \" Studious Teen Virgin \" from Makoto Miyamura Seen \" Beautiful Porn Salesman \" from Maki Miyamura Seen \" A Short List \" from Tsuneyo Tojo",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Friday on or after Day 200.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei's Room"
+        ],
+        "synopsis": "Ayane asks Sensei if he'd like to see her, Ami , and Sana in costumes, and Ami explains that there will be a Halloween party at Ayane's house. Ami is irritated and Sana is alarmed at Ayane's flirting with Sensei. Ayane wants Sensei to meet them tomorrow to shop for costumes. When Ami suggests that Sensei only take her, he replies that he loves her enough already. He then feels obliged to tell the other girls the same thing — Ayane is happy, while Sana faints.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Ami Arakawa",
+            "Sana Sakakibara"
+        ],
+        "trivia": [
+            "If Sensei does not have at least 10 Sara Lust , triggering this Event will fail Medical Assistance !",
+            "If Sensei does not have at least 10 Haruka Lust , triggering this Event will fail Bad Kitty !"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Value of Sharing",
+            "event_script_names": "halloween1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "firsthalloweenevent"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "See You in the Morning",
+        "next_event": "Guest of Honor"
+    }
+}

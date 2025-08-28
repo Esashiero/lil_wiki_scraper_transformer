@@ -1,0 +1,48 @@
+{
+    "event_id": "the_bending_of_italics",
+    "event_title": "The Bending of Italics",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Bending_of_Italics",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.9",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" A Thousand Truths \" . This event belongs to an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Tsuneyo Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Sensei manages to find Tsuneyo gazing at the ocean. He asks to join her, but she declines, taking him aback. He’s surprised she’d do so, after not turning down any recent offers to hang out with him, but she remarks that he simply didn’t understand her at all. She continues, expressing that everyone, even Molly and her father, struggles to fully understand her, feeling that it makes sense since she doesn’t even understand herself. She tells him that Molly’s asked her to apologize to Sensei about her stand-up routine but that she can’t understand the sentiment at all. She wonders if there were anything she could’ve done to help her understand, but Sensei remarks that it’s impossible, to which she agrees. She admits to feeling bad about troubling the two of them but refuses to apologize unless Sensei admits to what he did . He continues to insist he doesn’t know, but Tsuneyo says he must if even she has reached a conclusion. She tells him that either he’s a coward, or that he’s lying to them both, with only the latter being unforgivable. He remarks they’re both unforgivable, but she denies this, telling him being afraid is okay and that it’s simply his refusal to face the truth that makes her hate him. The two sit next to each other, taking in the silence for a few minutes. Eventually, Sensei admits that he believes she was right for doing what she did, but that just being in the right isn’t enough to make sure everyone comes out happy. He and Molly wanted to bury what happened in the past and move on, and Tsuneyo digging it up in front of everyone just made them feel worse about it. Tsuneyo questions why it should be buried in the first place, and Sensei asks her what else they could do, it’s not like he could apologize for something he isn’t sure he did. Tsuneyo says even just remorse would be enough. He snaps at her, questioning why she’s so sure he doesn’t feel bad about it; He felt awful, but unlike Molly had no one to confide in. He admits he’s afraid of truly finding out what happened between them, but is sure that he would never force someone he cares about. Tsuneyo is shocked to hear him so emotional, and happy to hear he seems to truly care about Molly. She accepts the situation as being behind them, choosing to trust Sensei’s word, despite his own suggestion that he could be lying. He sends her back to the hotel, but not before learning that Tsuneyo is also having trouble remembering the past few months. He watches her disappear down the shoreline before standing up to go search for the other girls.",
+        "participating_characters": [
+            "Sensei",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Bending of Italics",
+            "event_script_names": "beachmas9",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsuneyobeach"
+        ],
+        "music_tracks": [
+            "sensei.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Thousand Truths",
+        "next_event": "Treasured"
+    }
+}

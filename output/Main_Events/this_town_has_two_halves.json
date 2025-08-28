@@ -1,0 +1,50 @@
+{
+    "event_id": "this_town_has_two_halves",
+    "event_title": "This Town Has Two Halves",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=This_Town_Has_Two_Halves",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.3.2",
+    "interactivity": {
+        "requirements": "You must be on at least Day  44  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Walk in the Park \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first weekday on or after Day 44.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Old District"
+        ],
+        "synopsis": "Sensei finds himself in the second half of town, an area Ami had previously neglected to tell him about. He wonders how exactly he came to be here, but brushes it off and moves along. He is surprised to find Yumi nearby, standing against an unstable wooden railing and wondering why he's in the second half of town. Upon declaring that he doesn't know, Yumi tells him he shouldn't be here at all . Sensei questions why Yumi herself is in the area, and the fact that Yumi has not once opened up to him about anything , and thus he doesn't know anything about her, but all it takes is one decision from her to change that.  She starts going off on a rant about how Sensei is two different people - which is far closer to the truth than Yumi would want to actually know - but cuts herself off before she goes into too much detail. Sensei tries to figure out what to do, but once he's made his decision, he suddenly finds himself grabbing Yumi, and despite her vehement protests, promises to leave Futaba alone from now on, and even screams for help, Sensei simply can't let go for some reason unknown to even him. Now crying, Yumi asks why Sensei is suddenly pushing himself onto her, and he answers sincerely, saying he doesn't even know himself, though Yumi can't find it in herself to believe him, and he forcibly kisses her. Once it's over, Yumi, now completely distraught, repeatedly asks Sensei why, only for him to remain silent, through her ranting and threats, only for him to reply out of nowhere that this entire event \"wasn't supposed to happen\". Sensei finally lets Yumi go, and she spends a few more moments futilely trying to answer her own question, rebuffing Sensei's final attempt to talk to her in the process, before she runs off, leaving Sensei to go home and go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "The first Event containing psychological horror in the game, assuming the player has not yet seen the first Secret Event .",
+            "Sensei's internal dialogue at the beginning of this Event changes depending on Sensei's relationship with Chika .",
+            "The five blurbs of text in the flashing screens that appear should the player choose to leave Yumi alone read as follows: \"You can not choose\", \"You have already made your choice\", \"Throw your heart into the wishing well\", \"Here, only pain exists\", \"This town has two halves\", in order from beginning to end."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "This Town Has Two Halves",
+            "event_script_names": "day44",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yumi"
+        ],
+        "music_tracks": [
+            "blueair.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Saved by the Bell",
+        "next_event": "Little Girl"
+    }
+}

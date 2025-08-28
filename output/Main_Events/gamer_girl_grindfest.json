@@ -1,0 +1,62 @@
+{
+    "event_id": "gamer_girl_grindfest",
+    "event_title": "Gamer Girl Grindfest",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Gamer_Girl_Grindfest",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.27.4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" A Frame on a Shelf in a House \" . This event belongs to an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana , Molly Affection",
+            "+1 Second Floor"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Couch Potato"
+        ],
+        "synopsis": "Sensei arrives at the arcade, finding everyone already partying and still wearing their costumes. Molly explains that they’re still wearing them to even the playing field and asks if he remembers what the first contest is, which he does since they’re in an arcade. As Sana arrives with her mother, Molly takes off with her and leaves Sensei to socialice with everyone. Sara and Haruka are enjoying some drinks while also placing bets on who will win. As Molly and Sana begin, Sensei watches alongside Ami , Ayane , Maya and an unknown person dressed as a dolphin. While Sensei congratulates Molly, he gets a tap on his shoulder. He fears that he will be killed by the dolphin once he turns around, but it’s actually Uta , who hands him a note with the location of his first date. He leaves the arcade and gives his farewell to everyone, realizing that everyone knows where he’s going and that he just made most of them jealous.",
+        "participating_characters": [
+            "Sensei",
+            "Tsuneyo Tojo",
+            "Haruka Hamasaki",
+            "Molly MacCormack",
+            "Sana Sakakibara",
+            "Sara Sakakibara",
+            "Rin Rokuhara",
+            "Otoha Okakura",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Touka Tsukioka",
+            "Uta Ushibori"
+        ],
+        "trivia": [
+            "There's a small change in dialogue depending on Sensei's relationship with Sara"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Gamer Girl Grindfest",
+            "event_script_names": "dormwartwo4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "gamerbattle"
+        ],
+        "music_tracks": [
+            "anothernewsong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Frame on a Shelf in a House",
+        "next_event": "Hiding in Plain Sight"
+    }
+}

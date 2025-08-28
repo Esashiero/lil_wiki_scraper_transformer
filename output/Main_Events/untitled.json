@@ -1,0 +1,56 @@
+{
+    "event_id": "untitled",
+    "event_title": "Untitled",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Untitled",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.29.10",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" December 28, 2020 (Clay & Clockwork) \" . This event belongs to an event chain started from \" To Catch Me If I Fall \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Untitled Children's Show"
+        ],
+        "synopsis": "Now the unwilling contestant of an \"Untitled Children's Show\", Sensei is forced to answer a series of questions pertaining to the show's guests.",
+        "participating_characters": [
+            "Sensei",
+            "79",
+            "Angels",
+            "Yumi Yamaguchi",
+            "Tsuneyo Tojo",
+            "Maya Makinami",
+            "Ayane Amamiya"
+        ],
+        "trivia": [
+            "If the player has had their saved marked as a \"cheater\" through use of cheat codes at Sensei's laptop, they will be issued a series of punishments. They will have their affection levels with everyone reset back to zero. The only exception to this is Niki . Their affection with Ami will be raised to 1,000,000. Their save will be marked as \"punished\". This will prevent the player from further use of cheat codes.",
+            "They will have their affection levels with everyone reset back to zero. The only exception to this is Niki .",
+            "Their affection with Ami will be raised to 1,000,000.",
+            "Their save will be marked as \"punished\". This will prevent the player from further use of cheat codes."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Untitled",
+            "event_script_names": "slumberreset4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "wemadeit"
+        ],
+        "music_tracks": [
+            "happyhappysmile.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "December 28, 2020 (Clay & Clockwork)",
+        "next_event": "A Thousand Years"
+    }
+}

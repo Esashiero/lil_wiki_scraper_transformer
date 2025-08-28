@@ -1,0 +1,51 @@
+{
+    "event_id": "disaster_lesbian",
+    "event_title": "Disaster Lesbian",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Disaster_Lesbian",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Not Tuesday 55 Rin Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" No Strings Attached \" Seen \" Too Blind To See \" from Futaba Fukuyama",
+        "to_get_this_event": "Visit Rin at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - First Floor Hallway",
+            "School Dorms - Room 4"
+        ],
+        "synopsis": "Sensei knocks on the door to Room 4, expecting to hang out with Rin and being briefly confused upon seeing Rika instead. Taking note of the way she's dressed, in addition to Rika's comment about Rin having her laundry, he realizes she's one of Rin's mothers. After a bit of banter between the two, Rika invites him into the room. As they sit down on Rin's bed, Sensei admits how obvious the resemblance between Rika and her daughter is now that it's been pointed out. Rika denies this, stating Rin is much more level-headed and smart, like her other mother. Upon bringing her ex-partner up, Rika immediately screams in frustration, ashamed of how horrible her life has become. She reveals that she's begun living with Rin and Futaba as her ex-partner demanded she leave, and she's not willing to risk imprisonment a second time. Using this as a segue, Rika shares some stories from her rebellious youth, such as protesting, burning buildings, and breaking things. Upon realizing her life's gotten worse since then, though, she becomes depressed, lamenting how great things were only a few years ago. Sensei pries for details and Rika tells him that it was great for decades, but one day it just stopped and they only stuck together for Rin's sake, though they barely managed that; She had been anticipating the collapse of their relationship for a long time, but when it actually happened, she was less prepared than she thought. Wanting to get off these depressing topics, though, Rika asks Sensei how Rin's relationship with Otoha is going. He informs her that their relationship is fine, but that Otoha seems to still be uncomfortable with being in a same-sex relationship. Rika understands this, having had her own fair share of hesitant partners, but hopes Rin and Otoha work things out long enough to get a couple of decades together. Rin returns soon after, annoyed at her mother for answering the door, especially without proper clothes, and casually hanging out with Sensei. Rika tries to assuage these feelings by revealing she and Sensei are already friends , but only makes things worse. Rin demands the both of them get off her bed and fights off her mother's succeeding attempts at conversation, all of which only further exacerbate Rin's own frustration while making things awkward. It's only when Futaba steps in that the conversation finally reaches a lull, with Rika focusing on her. The two embrace while Rin glares at Sensei, directing her rage at him. Wanting to get away from the moment's chaos, Rin drags Sensei outside with her.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara",
+            "Rika Rokuhara",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Disaster Lesbian",
+            "event_script_names": "rindorm55",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mommyshome"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.26p3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Happiest Girl in the World",
+        "next_event": "Hot Boy Summer"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "event_id": "shut_up_cum",
+    "event_title": "Shut Up & Cum",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Shut_Up_%26_Cum",
+    "event_type": "Event",
+    "primary_character": "Maki Miyamura",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Choose to pursue Maki during Special Occasions Choose to pursue Haruka during either Invisible Worm or Roses",
+        "to_get_this_event": "Autoplays after Stress Level Midnight .",
+        "to_miss_this_event": "Choose not to pursue Maki during Special Occasions , or chose not to pursue Haruka during either Invisible Worm or Roses . Replaced by You Missed Something Again .",
+        "choices": [],
+        "effects": [
+            "+1 Maki , Haruka Affection",
+            "+1 Haruka Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tropical Resort - Hotel Room"
+        ],
+        "synopsis": "The group's day at the resort passes by uneventfully, with Sensei spending a large majority of it alone as Haruka and Maki either nap or enjoy the resort's many amenities. He ponders to himself the pros and cons of having so much free time, getting so lost in thought that the sun starts to set before he realizes it. He quickly finds the two girls and three return to their hotel room, where they attempt once again to fix Maki's slump .",
+        "participating_characters": [
+            "Sensei",
+            "Maki Miyamura",
+            "Haruka Hamasaki"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw Bad Kitty ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Shut Up & Cum",
+            "event_script_names": "makihornytrip2",
+            "event_missed_name": "You Missed Something Again"
+        },
+        "backgrounds": [
+            "makipegsherhomie"
+        ],
+        "music_tracks": [
+            "summerwind.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.32."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Maltese Falcon",
+        "next_event": "Rotting From the Inside Out"
+    }
+}

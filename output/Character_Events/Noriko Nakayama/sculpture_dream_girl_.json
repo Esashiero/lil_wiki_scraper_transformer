@@ -1,0 +1,48 @@
+{
+    "event_id": "sculpture_dream_girl_",
+    "event_title": "Sculpture (Dream Girl)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sculpture_(Dream_Girl)",
+    "event_type": "Event",
+    "primary_character": "Noriko Nakayama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" What Was \"",
+        "to_get_this_event": "Talk to Noriko in the dorm hallway",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Noriko Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Second Floor Hallway"
+        ],
+        "synopsis": "Noriko tells Sensei that he was very important in the lives of both herself and her sister , and that even if he doesn't remember it now, he will. She says that he was always good at teaching, and he is surprised when she mentions him tutoring Maya as well as herself. Sensei says that Maya hasn't told him anything except that Noriko will \" ruin everything \" for him. Noriko says that if there's anything he doesn't like about her, she'll happily change it (except getting rid of her knife). Before he goes, Sensei gets her phone number.",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sculpture (Dream Girl)",
+            "event_script_names": "norikofirsthall",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikohall"
+        ],
+        "music_tracks": [
+            ""
+        ],
+        "changelog": [
+            "This Event was added in Update 0.14."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "Nakayarakawayama"
+    }
+}

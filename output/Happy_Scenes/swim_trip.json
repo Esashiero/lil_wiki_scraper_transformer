@@ -1,0 +1,54 @@
+{
+    "event_id": "swim_trip",
+    "event_title": "Swim Trip",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Swim_Trip",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "Third",
+    "interactivity": {
+        "requirements": "Weekend Choose \"Yes\" during No One Can See Us . You must have seen or permanently missed the following Events: Seen \" No One Can See Us \" from Ami Arakawa",
+        "to_get_this_event": "During the morning of any weekend, select \"=D\".",
+        "to_miss_this_event": "Choose \"...\" in No One Can See Us . Replaced by You Don't Love Me, Do You? .",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House"
+        ],
+        "synopsis": "On a \"TV Set\" that resembles Sensei's house , Sensei , Ami , and Ayane get ready to spend the day at the beach - Though, the latter two's excitement end up upsetting the \"production crew\" when they start going off-script. On cue, Maya walks in, faux-surprised at the gathering. Excited to see her, Ami tries to get Maya to join them, but she refuses, not wanting to spend the day with Sensei. Taking note of his silence, Maya attempts to pry some words out of Sensei, being surprised when he responds somewhat coherently. Briefly, Sensei mistakes Maya for another girl , asking her for reassurance much to Maya's confusion. As Ami and Ayane continue to act and speak in outlandish and illogical ways, Maya asks him if all his dreams are as nonsensical as this. Surprised by her assertion that \"this is a dream\", he tries to pry more information out of her, but Maya only repeats the same line over and over, much to his annoyance. She claims she's only reading the lines written for her, to which Sensei accuses her of knowing more than she lets on, purposefully hiding information from him. She mocks him for believing she understands remotely what's happening. Sending Ami off to fetch some water, and with Ayane being forcefully dragged \"off-set\", Maya takes a seat next to Sensei. She asks him if any of today is familiar to him - Her interest in his thoughts surprises him and he tosses the same question back at her. She responds flippantly, reminding him that \"all of this\" will reset to normal soon and the two of them will go back to \"waiting\". Finished with the conversation, Maya leaves, asking him to bring her back a watermelon.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Swim Trip",
+            "event_script_names": [
+                "swimming"
+            ],
+            "event_missed_name": "You Don't Love Me, Do You?"
+        },
+        "backgrounds": [
+            "sitcom"
+        ],
+        "music_tracks": [
+            "oldweather.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": []
+    }
+}

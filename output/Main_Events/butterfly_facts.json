@@ -1,0 +1,54 @@
+{
+    "event_id": "butterfly_facts",
+    "event_title": "Butterfly Facts",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Butterfly_Facts",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.20.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Girls in Spandex \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Bar"
+        ],
+        "synopsis": "Arriving at Sara ’s bar, Sensei asks Sana if she needs help carrying down the Halloween decor or searching for a costume, but she assures him that she’ll be fine on both fronts, so Sensei decides to talk with Sara and Yuki while he has to wait for her. He’s surprised to see that Sara isn’t wearing a costume, and she explains she doesn’t need one because dressing up wouldn’t impress their patrons and Yuki is more effective in impressing them anyway. Sensei has a hard time believing this, until Yuki points out that her looks make her the closest thing to a man and since there are barely any left, women will automatically flock to her. Sara adds that Yuki also looks adorable in her uniform and seems to fall for her as well, with Sensei trying to convince them to kiss, but Yuki refuses outright. Sara asks Sensei if he wants to stay and act as additional eye candy for their patrons, but he declines since he intends to celebrate Halloween with his class. At that moment, Kaori enters the bar, ready to work as a temporary bartender. Sensei notices that Yuki looks like she saw a ghost, until he remembers that Kaori is related to Yumi and, therefore, also related to her, and also remembers that everyone who knew her is under the assumption that Kaori isn't alive anymore . With Yuki still being dumbfounded, Sensei decides to clear things up and tells them that Yuki knows Kaori, though she thinks it’s due to her Instagram pictures . Yuki confirms she’s Kaori’s aunt, which she finds hard to believe because she was told all of her realities are gone. While Yuki tries to communicate with Kaori, Sana returns with her costume, which is a weird combination of different unrelated items. After saying his goodbye to Sara, Sensei and Sana head out, but Yuki stops him and hands him a birthday present for her daughter, asking if he can deliver it for her. Once both are gone, a young woman enters the bar and takes a seat near the counter. Kaori notices her butterfly hair accessory and gives her some trivia about butterflies, which amuses the woman. After ordering some drinks from Yuki, she continues to talk with Kaori, already enjoying her time there.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Sara Sakakibara",
+            "Yuki Yamaguchi",
+            "Kaori Kadowaki",
+            "Imani Imai"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the following: If Sensei's seen Melatonin . If Sensei pursued Sara during either Carry Me Home or A Mostly Empty Home .",
+            "If Sensei's seen Melatonin .",
+            "If Sensei pursued Sara during either Carry Me Home or A Mostly Empty Home ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Butterfly Facts",
+            "event_script_names": "halloweentwo2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "halloweentwobar"
+        ],
+        "music_tracks": [
+            "letsfuckingo.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .20p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Girls in Spandex",
+        "next_event": "Immernachtreich"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "event_id": "my_heart_is_full",
+    "event_title": "My Heart is Full",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=My_Heart_is_Full",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.8.3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" All Along the Shoreline \" . This event belongs to an event chain started from \" What's Done is Done \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach - Girl's Room"
+        ],
+        "synopsis": "Sensei and Makoto walk into the place the class will be staying in for the weekend and check it out. Makoto is trying to relax for once, although her idea of relaxation still involves a lot of work. Since they're alone, she suggests that Sensei reward her for her diligence, and he agrees.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "My Heart is Full",
+            "event_script_names": "beachvacation3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotoinn"
+        ],
+        "music_tracks": [
+            "acoustic.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.8."
+        ]
+    },
+    "navigation": {
+        "previous_event": "All Along the Shoreline",
+        "next_event": "Extra French Fries"
+    }
+}

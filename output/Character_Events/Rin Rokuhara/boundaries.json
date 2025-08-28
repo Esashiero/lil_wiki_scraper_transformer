@@ -1,0 +1,50 @@
+{
+    "event_id": "boundaries",
+    "event_title": "Boundaries",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Boundaries",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Rin Affection You must have seen or permanently missed the following Events: Seen \" Rin's Secret \" from Rin Rokuhara",
+        "to_get_this_event": "Visit Rin's dorm room on any day except Wednesday after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Rin’s room"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorms and knocks on Rin 's door. After a quick bit of harmless banter, she hastily comes up with a deadpan excuse from the other side of the door to keep him from coming in, but when the excuse dovetails off of his observation from the last visit, Sensei decides to push the joke a little too far, and he comes in anyway, only to discover the reason Rin wasn't ready to let him in is because she's topless. Rin becomes very angry at this development, and Sensei tries to point out how she somewhat started the chain that led to this happening, but Rin angrily yells at Sensei, and he eventually leaves, waiting outside the door. He pretends like he's going to open the door again, only for Rin to threaten him by saying she'll find acid to throw at him. Rin lets him back in, and he apologizes in the most sincere way he can, before Rin slowly decides to let go of her anger, the event now in the past, and she halfheartedly jokes that everyone in the class has now officially seen her boobs. When she says she should probably start locking her door now, Sensei validly points out that she should have been doing so beforehand. After a bit of banter about Rin's potential arousal at stripping in front of the other girls and Rin jokingly congratulating Sensei for the new fantasies, Sensei asks where Futaba is, and Rin exclaims his interest in Futaba in faux-shock, before telling him Futaba happens to be hanging out with a friend from middle school who just so happens to be lesbian, and Sensei jokes knowing it's not a guy will help him sleep easier at night. They banter for a bit longer before Rin abruptly asks Sensei to leave, citing a prior engagement that she had already been getting ready for when Sensei had shown up. The two head out and Rin allows Sensei to walk with her for a short while, before Sensei splits off and heads home, discovering Rin's friend lives in the opposite direction.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "Rin's dialogue with Sensei regarding his sleep patterns changes slightly if he has met Haruka ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Boundaries",
+            "event_script_names": "rindorm15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "boundariesredux"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Window of the Waking Mind",
+        "next_event": "Nothing Was Missing, Except Me"
+    }
+}

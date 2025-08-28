@@ -1,0 +1,48 @@
+{
+    "event_id": "to_the_river",
+    "event_title": "To the River",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=To_the_River",
+    "event_type": "Event",
+    "primary_character": "Wakana Watabe",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" Lesbian Stuff \"",
+        "to_get_this_event": "Call Wakana during the morning after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Wakana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Wakana's Office"
+        ],
+        "synopsis": "Wakana is in her office at school, despite it being the weekend. She intends to put Sensei to work grading papers, but they end up talking about other things. Wakana says that the most satisfying part of teaching is the sense of having had an impact, but for some reason, it now feels as though the payoff is never actually arriving. Sensei wonders if this is a consequence of the time loops. They also talk about poetry — she doesn't think much of Sensei quoting Frost, and herself quotes Poe and Byron.",
+        "participating_characters": [
+            "Sensei",
+            "Wakana Watabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "To the River",
+            "event_script_names": "wakanadate1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "wakanafirstvisit"
+        ],
+        "music_tracks": [
+            "sleepystreets2.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "Soup, or Another Year With You"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "event_id": "redeemer",
+    "event_title": "Redeemer",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Redeemer",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.27.22",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Falling Asleep Standing Up \" . This event is the final event in an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "With the second Dorm War over, Imani and Sensei stand in front of the girls to announce the results. While a majority of the events were decided without Sensei’s input, his choices are able to tip the balance. With the Dorm War coming to a close, Chika has a conversation about the war with Uta and Io since Rin is still mad and Yumi isn’t here. Yumi just arrived next to them, though, and wants to do something before she joins her. She then makes her way towards Sensei. She pulls him aside and immediately cuts to the chase – Why he didn't try to stop Nodoka in the changing room and if everything decent he did to her was just part of a game. When he denies that this was a game to him, she asks why he didn’t do anything then and he thinks that he just didn’t want to. He admits that he’s an awful person, that he doesn’t regret any of the bad things he did and that he would do them again if given the chance. He also tells her that, unlike her, he can’t change anymore, calls her an idiot for ever trusting him and recommends her to never believe in him again. Yumi, who got more and more sad as he spoke and is now on the verge of tears, asks why he warns her now. Before both can say another word, Ayane interrupts them and says that there’s a problem. Sensei turns towards her and notices that they’re at the beach and the girls wear their swimsuits, with most of them acting like nothing extraordinary happened.",
+        "participating_characters": [
+            "Sensei",
+            "Imani Imai",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Nodoka Nagasawa",
+            "Chika Chosokabe",
+            "Uta Ushibori",
+            "Io Ichimonji",
+            "Sana Sakakibara",
+            "Molly MacCormack",
+            "Tsuneyo Tojo",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Miku Maruyama",
+            "Makoto Miyamura",
+            "Kirin Kanda",
+            "Noriko Nakayama",
+            "Touka Tsukioka",
+            "Yasu Yasui",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw Things That Hurt : If only Matador happened, Yumi will be neutral in terms of her emotional state. If Things That Hurt also happened, Yumi will take Sensei's inactivity more personal and is visibly upset.",
+            "If only Matador happened, Yumi will be neutral in terms of her emotional state. If Things That Hurt also happened, Yumi will take Sensei's inactivity more personal and is visibly upset."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Redeemer",
+            "event_script_names": "dormwartwo19",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "endofsecondwar"
+        ],
+        "music_tracks": [
+            "notabluearchivesong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Tip Your Bartender",
+        "next_event": "Walk Into The Water"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "event_id": "repentance",
+    "event_title": "Repentance",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Repentance",
+    "event_type": "Event",
+    "primary_character": "Yasu Yasui",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "10 Yasu Affection You must have seen or permanently missed the following Events: Seen \" The Hole That Swallowed Everything \" from Yasu Yasui Seen \" Loser \" from Touka Tsukioka Seen \" Something, Somewhere \" from Makoto Miyamura",
+        "to_get_this_event": "Visit Yasu's dorm room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yasu Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 9"
+        ],
+        "synopsis": "Sensei visits Yasu in her dorm room (after a brief mental detour). She is sitting in the dark, and says that sunlight hurts her eyes and skin (as well as being religiously unimportant). She has a sudden urge to go for a walk, and they go to the park where Sensei (and Sana ) first met her . They talk about Yasu's youth, the nature of souls, what happens after death, and the whispers which supposedly surround everyone. Sensei considers her views to be crazy, but she says that her views are a perfectly rational response to what she (and she alone) can see around her.",
+        "participating_characters": [
+            "Sensei",
+            "Yasu Yasui"
+        ],
+        "trivia": [
+            "The Latin on Yasu's board, vide et credere , means \"see and believe\"."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Repentance",
+            "event_script_names": "yasudorm10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yasufirstdorm"
+        ],
+        "music_tracks": [
+            "shiningstarvocals.mp3",
+            "undersea.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Armor of Older Gods",
+        "next_event": "Sakura Season"
+    }
+}

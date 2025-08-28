@@ -1,0 +1,52 @@
+{
+    "event_id": "toys",
+    "event_title": "Toys",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Toys",
+    "event_type": "Lust Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "v0.28.12",
+    "interactivity": {
+        "requirements": "49 Futaba Lust 49 Makoto Lust",
+        "to_get_this_event": "Have 49+ Makoto Lust and 49+ Futaba Lust before starting the event chain. Autoplays after \" いないいない。。。ばあ！ \" . This event belongs to an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "Have less than 49 Makoto Lust, or less than 49 Futaba Lust before Walk Into The Water . Replaced by Grounded .",
+        "choices": [],
+        "effects": [
+            "+5 Futaba , Makoto Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Sensei , Makoto , and Futaba all black out in the middle of their conversation. They wake up the next morning, confused. While the girls deal with the aftermath and send Sensei away, he acknowledges that he remembers what happened last night, but will never speak about it and hopes that the girls will never remember it.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Toys",
+            "event_script_names": "makotofutabafuntimelustevent",
+            "event_missed_name": "Grounded."
+        },
+        "backgrounds": [
+            "threesome",
+            "actualthreesome"
+        ],
+        "music_tracks": [
+            "sweetervermouth.mp3",
+            "merrychristmasmrlawrence.mp3",
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Too Blind To See",
+        "next_event": "Book Burning"
+    }
+}

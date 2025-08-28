@@ -1,0 +1,49 @@
+{
+    "event_id": "rough_cuts",
+    "event_title": "Rough Cuts",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Rough_Cuts",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "45 Chika Affection You must have seen or permanently missed the following Events: Seen \" How To Make Love Stay \" from Niki Nakayama Seen \" The Sun, And All Its Toxic Rays \" from Maya Makinami",
+        "to_get_this_event": "Visit the Shopping Mall after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Shopping Mall"
+        ],
+        "synopsis": "Wanting a break from both the mysteries of the universe and the \"Sensei Love Squad\" , Sensei decides to spend the afternoon hanging out with Chika at the shopping mall. Upon arriving, though, he quickly spots a familiar pair of scarves and is forced to abandon his hopes of normalcy. He greets Chika, who at first mistakes him for someone who'd “hit on” her earlier, before realizing her mistake and greeting him. She explains that, since a convention is in town, there's been a bigger influx of men around the mall and she had assumed he was one of them. They briefly talk about the convention, with Chika mentioning that she has no time for things like that, as her time is almost entirely filled up between Yumi , Chinami , Sensei, and work. Being reminded that Chinami recently came down with a fever , he asks Chika about her condition. Chika expresses confusion, explaining that Chinami hasn't been sick in months – With this, Sensei realizes that the recent reset must've also cured Chinami, something Maya alluded to a long time ago . Satisfied with Chinami being okay, the conversation drifts again, with Chika lamenting that she needs a change in her life – Her current job of folding things like scarves is easy, but it only allows her to scrape by, not save up. At the mention of scarves, Sensei asks Chika about the ones she's folding, with her realizing that they share a resemblance to Ami and Maya's. She dismisses the idea they might be the same ones, though, as this line of scarves was only recently released. Sensei remains adamant that they're the same ones, recounting the memory of buying them to himself, revealing that it was yet another meeting with the daisy girl. Once Chika calls him back to reality, he asks her if she knows about the employee he bought them from, but she can't give him a clear answer. Chika wants to know why he even cares about the scarves in the first place, but as Sensei tries to answer, he “blacks out”, coming to find him and Chika walking home after her shift. The two start to discuss other places Chika can work when they're suddenly interrupted by Uta and Io , who spot the two while shopping. Uta is happy to see them, but Io is less than enthused due to her experience with them . Chika and Uta talk amongst themselves, mentioning how the two of them should hang out more – This gives Sensei an idea and he suggests Chika to become a waitress at the maid cafe. Chika hesitates at first, due to having to be objectified, but becomes increasingly convinced upon hearing about Uta's salary. Uta offers to give Chika a tour anytime she wants, and Sensei returns home, happy that Chika's financial issues might get better soon.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Uta Ushibori",
+            "Io Ichimonji"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Rough Cuts",
+            "event_script_names": "mall45",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mall",
+            "chikascarves"
+        ],
+        "music_tracks": [
+            "mall.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Mating Season",
+        "next_event": "Curry Night"
+    }
+}

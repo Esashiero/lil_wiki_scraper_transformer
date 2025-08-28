@@ -1,0 +1,62 @@
+{
+    "event_id": "family_matters",
+    "event_title": "Family Matters",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Family_Matters",
+    "event_type": "Lust Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "v0.35.15",
+    "interactivity": {
+        "requirements": "50 Ami Lust Choose \"Go with Ami\" during the Event",
+        "to_get_this_event": "Autoplays after \" For More Than Just Me \" . This event belongs to an event chain started from \" Eggside Octopus \" .",
+        "to_miss_this_event": "Choose \"Stay here and party\" during the Event. Replaced by Fucking Die You Piece of Shit",
+        "choices": [
+            {
+                "context": null,
+                "option": "Go with Ami (If 50AmiLust)",
+                "effect": "Event continues"
+            },
+            {
+                "context": null,
+                "option": "Stay here and party",
+                "effect": "Event ends early and is marked as missed"
+            }
+        ],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Karaoke Bar - Booth 3"
+        ],
+        "synopsis": "As, Sensei tries to grab his phone, Ami quickly rushes to his side, having decided to not sing right now, causing Sensei to forget his nostalgia. Now having nothing to do, Ami demands he go with her somewhere, claiming she needs help \"carrying stuff\" before changing her excuse to being a private family matter. Sensei agrees to leave with Ami, and the two slide into a neighboring karaoke booth where she questions him on his relationship with Sana . When he fails to answer, she instead pretends to be Maya , hoping that will get him to stop ignoring her. It works due to his bad mental state, and he later realizes that he's done something bad again.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Maya Makinami",
+            "Sana Sakakibara"
+        ],
+        "trivia": [
+            "Ami asking Sensei for help and him making a choice will not replay during Scene Replay."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Family Matters",
+            "event_script_names": "amilust50",
+            "event_missed_name": "Fucking Die You Piece of Shit"
+        },
+        "backgrounds": [
+            "karaokeami"
+        ],
+        "music_tracks": [
+            "asobeatsexdark.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.35."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Worry Not, The Mason Jar",
+        "next_event": "The Caretaker"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "event_id": "all_for_you",
+    "event_title": "All For You",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=All_For_You",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.31.3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Worry Not, The Mason Jar .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shrine",
+            "Sensei's House - Sensei's Bedroom"
+        ],
+        "synopsis": "Maya and Ayane find themselves at the shrine, having been called there by Ami . After an hour of waiting for her, Maya is extremely frustrated, repeatedly attempting to call Ami to get an explanation. Ayane tries to reassure her that the situation must be a misunderstanding, but this only leads them to begin arguing with Maya telling her to keep quiet while the phone rings. The narrator begins to speak, seemingly to Sensei , about God and how his existence must encompass all things rather than being himself a separate entity. They ask him to think of the trinity, and how strange it is to accept there are three Gods when the Cross has four points. They know he's smart enough to know he's being lied to and asks who else he thinks is lying to him, even suggesting everyone he knows might be lying. If they had to guess, though, they believe there's at least one person he can trust – They can't tell him who, as it'd be against \"the rules\", so they recite a poem that states that someone cares about him and that he can pick up clues for that since they’re \"everywhere and dressed in blue\". Once again, Maya's call to Ami falls through, and she begins taking her anger out on Ayane. Understandably confused, Ayane asks why she has to bear the brunt of this tantrum, which Maya justifies by claiming this entire situation is her fault, accusing her of breaking their promise to avoid telling Ami about the resets – Ayane denies this but does admit that she joked about it on a few occasions. Still in the dark, though, Ayane asks why they even have to avoid telling Ami, having grown tired of Maya's constantly cryptic warnings. Hearing this, Maya becomes more infuriated, shouting at Ayane about how she doesn't enjoy being that way, but that she has to be so she doesn't risk destroying everything. As she gets even more agitated, she attacks Ayane on how she can \"relate to her\" despite the fact that Ayane can do things she can’t even think of doing without endangering Sensei. After venting her frustration, Ayane apologizes for not understanding her. After calming down, Maya adds that, in addition to wanting to keep Sensei from breaking, she's also been cryptic to avoid scaring Ayane even more. While touched by her consideration, Ayane assures Maya she can take one or two punches, but Maya makes it clear that Ami getting involved isn't just a punch - It's outright dangerous . Hesitantly, Maya reveals that, for some reason, whenever Ami becomes aware of the resets, she turns violent. Aside from all the girls who joined after Kumon-mi Academy sunk into the ground , Maya has seen each one of her classmates, even Sensei himself, suffer by her broken hands – Ami is completely under the \"illusion\" that she lives a perfect life, and she has no qualms about destroying anything that threatens it. Ayane can’t believe that Ami is capable of actually harming her friends, and Maya confirms that their Ami is a sweet and lovable girl who would never harm them – But the other Ami, the one they create , is both willing and capable of harming them, and Maya doesn’t blame her since it’s their fault. At Sensei's place, both he and Ami lay together in his bed. As Ami repeatedly asks him over and over for proof of his love for her, he thinks to himself about just how much he does love her.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on Sensei's choice during No One Can See Us ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "All For You",
+            "event_script_names": "amispecial50mainp1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "maineventthree"
+        ],
+        "music_tracks": [
+            "itsingsinitssleep.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .31.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "First Contact",
+        "next_event": "From the Desk of the Ninth God"
+    }
+}

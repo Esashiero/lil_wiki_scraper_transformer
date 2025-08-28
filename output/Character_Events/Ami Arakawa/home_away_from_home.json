@@ -1,0 +1,50 @@
+{
+    "event_id": "home_away_from_home",
+    "event_title": "Home Away From Home",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Home_Away_From_Home",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Ami Affection",
+        "to_get_this_event": "Visit Ami's dorm room on any day except Monday or Friday after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Ami’s room"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorm hallway and knocks on Ami 's door, but against his hopes, Maya is the one who answers. She tries to get him to go away, but Ami hears Sensei's voice from inside the room and becomes irate, demanding Maya let him in. Exasperated, Maya finally caves and allows Sensei to enter, since he had already promised he was only here for Ami and wouldn't speak to Maya. Ami is very excited to have Sensei in her dorm room, while Maya ignores the two of them. Sensei wonders how Ami could have afforded the couch on her side of the room, and when she points out that she, Maya, and Ayane grabbed it off the side of the road, and that getting it into the room was a hassle, Maya accuses Ami of not doing anything, only for her to point out how she spotted Maya and Ayane as they moved it. When Ami invites Sensei to chill and hang out with her and Maya, Maya predictably immediately storms out of the room, not interested in being anywhere near Sensei. Ami apologizes to Sensei for Maya's behavior, which he easily brushes aside, and she shows him her side off the room, particularly interested in her manga collection. Sensei questions her ability to get the money to purchase her own manga, but lets it go, and this turns into Ami asking if she can bring a cat home to keep as a pet, something Sensei is firmly against since it impacts him. Eventually, Maya returns and kicks Sensei out of the room, and he heads home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Home Away From Home",
+            "event_script_names": "amidorm5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "firstamidormredux",
+            "firstamidorm"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Queen of Spiders",
+        "next_event": "Something Darker"
+    }
+}

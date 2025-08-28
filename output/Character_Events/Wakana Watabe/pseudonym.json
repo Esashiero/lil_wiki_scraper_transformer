@@ -1,0 +1,47 @@
+{
+    "event_id": "pseudonym",
+    "event_title": "Pseudonym",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Pseudonym",
+    "event_type": "Event",
+    "primary_character": "Wakana Watabe",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "15 Wakana Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" The Road to Recovery \"",
+        "to_get_this_event": "Call Wakana in the morning",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Public Library"
+        ],
+        "synopsis": "Knowing that she works on weekend mornings, Sensei decides to give Wakana a call and, unsurprisingly, she’s currently doing research for school related activities in the library. Sensei suggests that she shouldn’t go to the school when she hasn’t anything important to do, to which she informs him that she’s at the public library and that, now that he knows where she is, should get over there if he wants to continue talking with her. Sensei tries to say something, but she hangs up. Sensei finds her in the poetry section and wants to know what she has to do research on and why. She explains that, being a mental masochist, she volunteered to start an annual poetry contest and needs to refresh her knowledge to accurately judge the submissions. When he asks what this year’s theme is supposed to be, she tells him that it’s Kumon-mi. She wouldn’t mind having him submit a poem under a pseudonym, but Sensei declines because he isn’t sure if he could do it, especially since he has not much to say about Kumon-mi. Wakana says that she already received submissions from his students and is surprised that they show more interest in participating then her own students. She offers him to read them with her so he can judge them as well. She’s a little disappointed that Makoto can’t submit anything, but Sensei sees her more as an intellectual then an artist. So far, Wakana received four submissions from Sensei’s students. The first poem is from Nodoka , which she has to disqualify since it only describes her desire for Wakana using dragonfruits as a metaphor. The second one is from Futaba , who submitted a poem on how she fell in love with it, even rhyming love with love, but Wakana assumes that she didn’t intend to write it like this. Noriko ’s poem is next, which is about flowers. Sensei fails to see a connection to Kumon-mi, but Wakana checked the validity and found out that she wrote about Hamori River, which had a lot of flowers before it was abandoned. The last submission is from Ami , which is about the missing seasons, longing for pain and loss. Wakana is surprised by her poem as it reminds her of a local poet who wrote “The Girl Who Cannot Breathe”, which had a similar self-destructive vibe. Sensei starts to remember something, which causes him to pin her to the wall. Wakana, who is surprisingly calm about this, especially after noticing his eyes, is flattered by what he does but thinks it’s the wrong place for that. A librarian asks if she needs help, but Wakana tells her that it’s just a lover’s quarrel and apologizes for the commotion. After a moment of silence, Wakana asks why he’s doing this, but when he tells her not to talk about it, she realizes that she might’ve triggered this reaction with what she said. She wants to know what she said before and, once she realizes that he can’t talk about it, lets him stay like this as long as he doesn’t go further. The day passes by and once Sensei finds himself in his bedroom, he’s unable to do his usual routine.",
+        "participating_characters": [
+            "Sensei",
+            "Wakana Watabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Pseudonym",
+            "event_script_names": "wakanadate15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "wakanalibrary"
+        ],
+        "music_tracks": [
+            "wewereangels.mp3",
+            "merrychristmasmrlawrence.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Soup, or Another Year With You",
+        "next_event": "Don't Hold Back"
+    }
+}

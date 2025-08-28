@@ -1,0 +1,50 @@
+{
+    "event_id": "horses_or_the_whispers_of_the_dead",
+    "event_title": "Horses or the Whispers of the Dead",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Horses_or_the_Whispers_of_the_Dead",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.16.6",
+    "interactivity": {
+        "requirements": "Friday You must be on at least Day  304  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Sounds of Cicadas \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Friday on or after Day 304.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+2 Yasu Affection",
+            "+1 Touka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Hallway"
+        ],
+        "synopsis": "Once classes are over, Sensei tries to get home quickly to avoid having to deal with Touka , who was glaring at him all day. She manages to catch up with him, dragging around Yasu by her collar and demanding from Sensei to help a girl in distress. Seeing her point, he ask if Yasu is alright, and while she has some trouble breathing right now, she's overall fine, though Touka was referring to herself as she barely gets any sleep due to Yasu being too loud while doing her prayers. She also feels like she's in danger when she continues to share a room with her, though Sensei points out that Yasu is the one being dragged around by her. Yasu acknowledges that she's too loud and promises to be more considerate towards her roommate. Declaring the issue solved, Sensei attempts to leave again, but, unfortunately for him, Touka still isn't satisfied with the situation and wants to switch her roommates for literally anyone, even Yumi . Sensei suggests to at least attempt to bond since both are basically friendless and inexperienced in forming bonds, and Yasu recommends they should learn to deal with each other flaws. Touka gloats that she doesn't have any, but when Yasu agrees and compares herself to a worm in her presence, she feels sorry for her attitude as she isn't supposed to put herself above others, and with Yasu self-deprecating she feels like she did just that. Yasu doesn't mind doing her prayers in the hallway if it helps them bond, but when Sensei wonders how it would, she explains that her religion has a way to connect them mentally. Touka refuses, fearing that following her religion will make her even more of an outcast. He wonders if she already knows about the dead animals , something he remembers clearly due to being scared of her at the time, but Yasu insist she isn't scary and only wants to help, being saddened by him refusing said help. Touka finds it weird how she can switch her emotions on a dime, but instead of addressing it, Yasu asks for advice on how she can become prettier, though Sensei zones out at that point. Once he stops zoning out, Touka has stopped holding Yasu and instead is trying to make her act more normal, but fails. Still scared, Touka asks if Sensei really thinks she should befriend Yasu since it would do more harm than good, and while Sensei agrees that this could be the case, he suggests to at least attempt it until she's sure it won't work. Touka intends to follow his advice, partly because her mother expects it from her , but requests he watches their progress closely, which he already intended to do. His final advice is for both to find similarities between them, and while both don't seem to have any, it ends kinda successful due to Yasu wanting to improve her behavior and to be friends with Touka. With their conflict somewhat settled, Sensei asks both girls to get along with each other and takes his leave, this time being able to do so without Touka shouting after him. He doesn't believe that both of them will ever get along, but acknowledges that only time will show how their relationship will develop.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Yasu Yasui"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Horses or the Whispers of the Dead",
+            "event_script_names": "day304",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yasutoukahall"
+        ],
+        "music_tracks": [
+            "oldweather.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sounds of Cicadas",
+        "next_event": "Operation: Firestarter"
+    }
+}

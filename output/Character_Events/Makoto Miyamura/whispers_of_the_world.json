@@ -1,0 +1,50 @@
+{
+    "event_id": "whispers_of_the_world",
+    "event_title": "Whispers of the World",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Whispers_of_the_World",
+    "event_type": "Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "v0.25.6",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Twisting Ivy \" . This event belongs to an event chain started from \" So Far Below \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Classroom"
+        ],
+        "synopsis": "Yasu heads over to Makoto and gives her her condolences, but, since it’s Yasu, she doesn’t pay it any mind. Suddenly, the PA system activates and calls Makoto to the front office, much to everyone’s confusion. Makoto approaches Sensei if he knows something, but he is as clueless as everyone else. Miku hopes that it has nothing to do with her job, but she wouldn’t be called in via the PA system if that were the case. Makoto is confident that she can handle whatever is awaiting her and leaves the classroom, while Sensei decides to clean up the remnants of the one-sided fight. Instead of helping him, Miku grabs his sleeve, because she’s worried that something terrible happened. Out of nowhere, an agitated Maki barges into class and demands to know where her daughter is. Sensei tells her, Maki leaves after telling him not to follow her and Miku thightly grabs his arm with tears in her eyes. She never saw Maki act like this before and wants Sensei to follow her, because they’ll need his help with whatever happened. Sensei isn’t sure if he can help in any way, but feeling needed he still follows them. He manages to find them inside the girls bathroom on the second floor, kneeing on the ground, crying their eyes out and trying to support each other, because they received the message that Makoto’s father passed away. Makoto is devastated and doesn’t want to believe it, especially since he never had the chance to see her improvements and changes over the years. Maki notices Sensei’s presence when he makes a noise, yells at him for following her and demands that he leaves. He does it, because he agrees with her that this doesn’t involve him. While she tries to calm her daughter down, Maki notices that someone entered the bathroom again and thinks that Sensei came back, but when she looks up to yell at him, she sees that it’s actually Miku, who was told by Sensei about their whereabouts. She learns about their loss and gets included in their family hug so they can help each other trough this rough time.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Yasu Yasui",
+            "Ami Arakawa",
+            "Miku Maruyama",
+            "Maki Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Whispers of the World",
+            "event_script_names": "sadgirls1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "fatesealedinradiowaves"
+        ],
+        "music_tracks": [
+            "thingsthathurt.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .25p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Hot Water",
+        "next_event": "Parallelogram"
+    }
+}

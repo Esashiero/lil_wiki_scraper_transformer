@@ -1,0 +1,58 @@
+{
+    "event_id": "the_legacy_of_thaum_pt_z_alentha_amastacia",
+    "event_title": "The Legacy of Thaum Pt. Z: Alentha Amastacia",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Legacy_of_Thaum_Pt._Z:_Alentha_Amastacia",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.14",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" In Some Cases, Love \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Second Floor"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Route 69 Diner"
+        ],
+        "synopsis": "The second day of the Dorm War begins with the girls gathered in the Route 69 Diner for Molly and Futaba 's Dungeons & Dragons duel. Molly plays as a monk character, the first character whose creation she took seriously, while Futaba uses Sana 's one-armed barbarian character. The rules for the duel are as follows – The battle will be a non-lethal one on one match, weapons are allowed, both characters are re-balanced at level 6, and whoever knocks out their opponent first wins. After a few rounds, both characters are low on HP and it's Futaba's turn, but since she uses Rin 's dice, most of her attacks start to miss due to her dice not working properly , and she fails to take out Molly's character, allowing her to turn it around and get the win. While this is going on, Sensei decides to join Niki and Kaori at the counter and learns that Niki used to play D&D during her high school days and doesn't care if he decides to make fun of her for this. They're joined by Otoha and Rin after a while, and Rin immediately approaches Kaori, being excited by the prospect of talking with her again , and Otoha joins her teachers. After Niki witnesses Rin's behavior, she wonders if Otoha is the only normal student in his class, which he confirms, but when she gloats about being better than him, he decides to drop an embarrassing fact about her, which annoys her and makes Otoha uncomfortable. Once the competition is over, Sensei joins the participants, but doesn't want to hear how it went down since he neither understands nor cares about it. Futaba is a bit worried due to the growing lead of the second floor, but he thinks they can still turn it around by winning the remaining contests. She agrees but feels like the next contest could be won by either side, but she can't tell him what it is. At that moment, Sensei receives a call, which he finds odd since his phone died and he couldn't recharge it yet. He answers it and hears Chika 's voice, being asked to make his way to her flat. As he leaves, he's surprised to see that no one is accompanying him for the first time in two days.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack",
+            "Futaba Fukuyama",
+            "Ami Arakawa",
+            "Sana Sakakibara",
+            "Niki Nakayama",
+            "Kaori Kadowaki",
+            "Rin Rokuhara",
+            "Otoha Okakura",
+            "Chika Chosokabe"
+        ],
+        "trivia": [
+            "Zagull (Sana's character, now played by Futaba) returns from The Legacy of Thaum Pt. II . Alentha Amastacia (Molly's shadar kai monk character) hasn't been seen before, since Molly was DMing the previous sessions."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Legacy of Thaum Pt. Z: Alentha Amastacia",
+            "event_script_names": "dormwar11",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "wienerfight"
+        ],
+        "music_tracks": [
+            "breeze.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "In Some Cases, Love",
+        "next_event": "Us"
+    }
+}

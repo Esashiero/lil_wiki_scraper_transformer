@@ -1,0 +1,49 @@
+{
+    "event_id": "run_rabbit_run_why_the_fieldmice_hide_",
+    "event_title": "Run, Rabbit, Run (Why the Fieldmice Hide)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Run,_Rabbit,_Run_(Why_the_Fieldmice_Hide)",
+    "event_type": "Event",
+    "primary_character": "Kaori Kadowaki",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Saturday 40 Kaori Affection You must have seen or permanently missed the following Events: Seen \" Mama's Girl \" from Ami Arakawa Seen \" Under My Wing \" from Touka Tsukioka Seen \" Human Females \" from Kaori Kadowaki",
+        "to_get_this_event": "Call Kaori during the night after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Kaori Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Apartment Building - Apartment #23"
+        ],
+        "synopsis": "Sensei decides to call Kaori , but he’s still on edge since Nao will be there as well and he still can’t get past her having the same eye colors as two girls he cherishes. Kaori answers but immediately silences him, revealing that she's teaching Nao how to read and his call is interrupting her. Increasingly worried about how well Kaori can teach, he decides to make his way over to her place. Along the walk, he finds himself in a much better mood than usual due to the sudden developments in his life regarding Ami , Maya , and Niki . Upon arriving at Kaori's apartment, he states he's arrived without anything following him. The girls are surprised to see him, having not heard him come in. He asks how Nao's reading lessons are going, learning that Kaori's been using manga to teach her. While he finds this technique worrying, he refrains from intervening, deciding she'll be okay so long as she doesn't end up like Molly . Kaori asks if he'd like to take over teaching but he declines, asking instead if she'd follow him outside. Both girls are confused by this suggestion, and even more confused when he continues to state that \"nothing followed him\". Sensing the seriousness of this request, Kaori obliges, leaving Nao to read on her own. Outside, Kaori is shocked nothing’s there, having assumed he was lying. He explains he just wanted some time with her away from Nao, though has trouble explaining why. The two stare at each other in silence for a bit, causing Kaori to become flustered by the intensity – Meanwhile, Sensei begs Kaori to keep talking, spiraling into an aimless rant about how he can't stop seeing \"her\" everywhere he goes and how he desperately wants to avoid talking or even thinking about \"her\". Seeing how distressed he is, Kaori agrees to spend the night with him, on the condition he tells her who he's afraid of. He refuses to do so and becomes increasingly scared as Kaori's eyes appear to change colors to a deep red. Sensei soon finds himself pushed up against the wall as Kaori pushes into a sudden kiss with him. While confused and unsure if this scenario is real, he slowly gives into the feeling, as it slowly kills off his fear and returns him to the numb state he prefers being in. Their kisses continue for a while longer, only stopping once Nao steps outside. Having apparently \"blacked out\" herself, Kaori has no memory of initiating the kiss or even the kiss itself, outright rejecting the idea since she doesn’t want a special friend. After Sensei tells her that Nao is looking at them, Kaori sends her back into the apartment before standing in front of him, flustered by what happened. Meanwhile, Sensei anticipates an apology, noting that he doesn't want one since Kaori helped him sort his thoughts out. The first thing Kaori says is how upset Niki's going to be when she finds out, leading him to ask about how often they speak. She reveals they talk often and that Niki usually spends the time talking about him. Fearing the worst, she asks if they can still be friends after this incident, which Sensei reassures her about. In the end, he decides to drop the possibility of future kisses and decides to return home after Kaori advises him to make himself look bigger the next time something follows him.",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Run, Rabbit, Run (Why the Fieldmice Hide)",
+            "event_script_names": "kaoridate40",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kaorireads"
+        ],
+        "music_tracks": [
+            "unmatchingeyes.mp3",
+            "undersea.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .31.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Human Females",
+        "next_event": "Tree Village (The Color Machine)"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "event_id": "living",
+    "event_title": "Living",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Living",
+    "event_type": "Invite Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" Fireworks etc... \"",
+        "to_get_this_event": "Invite Ami Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei House"
+        ],
+        "synopsis": "Sensei invites Ami to his house, which confuses her because she lives there and is already making dinner. They end up hanging out in Sensei's room, and Ami becomes suspicious about how nice he's being. She talks about how they lived before Ami moved in with him, saying that they were both \"kinda just drifting\" and needed something to snap them out of it. Their conversation is briefly interrupted due to a weak connection. Ami is feeling tired, and falls asleep shortly afterwards.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "61 6c 62 61 74 72 6f 73 73: albatross"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Living",
+            "event_script_names": "amiinvite1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amifirstinvite"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Everlasting Love",
+        "next_event": "Rising to the Challenge"
+    }
+}

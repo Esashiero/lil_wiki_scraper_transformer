@@ -1,0 +1,50 @@
+{
+    "event_id": "yuritopia",
+    "event_title": "Yuritopia",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Yuritopia",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.15.2",
+    "interactivity": {
+        "requirements": "Tuesday You must be on at least Day  281  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Annabel Lee \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Tuesday on or after Day 281.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Nodoka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's Office"
+        ],
+        "synopsis": "Sensei is waiting for Nodoka to arrive and tell him about the mission she mentioned . She enters shortly after and asks for his help in a kidnapping, but he refuses immediately. Taken aback by his decision, Nodoka explains that doing it would improve both the state of his class as well as the lives of multiple girls, and that her plan is only possible due to Sensei's teaching method. He asks her to elaborate, but she decides to let her assistant do that. With this, Rin and Noriko enter his office, though the latter is here because she wanted to see Sensei, but was informed by Rin that they have plans regarding Otoha , who happens to be a former member of their old band, and wants to support them. With everyone gathered, the girls explain the background and true nature of Nodoka's \"kidnapping\" plan: Otoha is being homeschooled since the fall of Kumon-mi Academy, but being cooped up with her overbearing parents all day has a negative effect on her, both mentally and academically, and she's on the brink of having to put her music career on hold until she graduates. Therefore, Nodoka wants her to transfer into Sensei's class so she gets an environment where she can thrive as a person and an artist. Unfortunately, Otoha refused their offer, and Nodoka assumes that she's scared that she can't keep her academic performance high enough to take advantage of the liberties being in his class would give her. Sensei fails to see what he can do to help, and Nodoka explains that he doesn't have to do much since the way he runs his class, specifically how he gives everyone high grades while they don't have to do anything to actually earn them, already gives her everything she needs – All he needs to do is to convince Otoha to take the opportunity. He asks when they plan to meet with her, and Nodoka suggests the next day since Otoha has some free time on Wednesdays and usually spends it in a park near their old school, which would be the ideal moment for them to see her. While Sensei feels like they just take advantage of him being an awful teacher, he agrees to these terms, much to the girls delight. Rin and Noriko leave shortly after, but Nodoka stays a bit longer to compliment him on doing something good and to reward him with some Nodoka points. Sensei still feels a bit weird about the \"kidnapping\", but he expects more weirdness to come his way once his class is almost completely full.",
+        "participating_characters": [
+            "Sensei",
+            "Nodoka Nagasawa",
+            "Noriko Nakayama",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Yuritopia",
+            "event_script_names": "day281",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nodokaoffice"
+        ],
+        "music_tracks": [
+            "phantomthief.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Annabel Lee",
+        "next_event": "Birdcage"
+    }
+}

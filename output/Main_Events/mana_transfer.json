@@ -1,0 +1,51 @@
+{
+    "event_id": "mana_transfer",
+    "event_title": "Mana Transfer",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Mana_Transfer",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.18.3",
+    "interactivity": {
+        "requirements": "Tuesday You must be on at least Day  340  to unlock this Event. You must have seen or permanently missed the following Events: Seen \" Crash of Thunder \" from Ayane Amamiya Seen \" Blood Everywhere \" from Uta Ushibori",
+        "to_get_this_event": "This event automatically occurs on Tuesday.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Molly , Tsuneyo Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School"
+        ],
+        "synopsis": "In their own distinctive way, Molly and Tsuneyo tell Sensei that they want to sleep over at his house on Saturday for a manga club event. He agrees. Yasu joins the conversation, guessing that Sensei has immoral plans and telling him that the act of \" transference \" should be saved only for those willing to follow the light. Her preaching is interrupted when Touka appears, apologizes for her, and leads her away again.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack",
+            "Tsuneyo Tojo",
+            "Yasu Yasui",
+            "Touka Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Mana Transfer",
+            "event_script_names": "day340",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mollytsuneyoproposal"
+        ],
+        "music_tracks": [
+            "oldweather.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .18p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Lesbian Stuff",
+        "next_event": "The Price of Experience"
+    }
+}

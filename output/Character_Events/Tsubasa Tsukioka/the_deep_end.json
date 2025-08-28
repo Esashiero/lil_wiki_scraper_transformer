@@ -1,0 +1,49 @@
+{
+    "event_id": "the_deep_end",
+    "event_title": "The Deep End",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Deep_End",
+    "event_type": "Event",
+    "primary_character": "Tsubasa Tsukioka",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after Everbloom (Pride of the Sinful Sort)",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Tsubasa Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Estate"
+        ],
+        "synopsis": "After passing a hallway full of expensive paintings and being unimpressed by all of them, Sensei finds himself in front of a heated, Olympic-sized pool. Tsubasa tells him that this place has no historic value and that it’s Touka ’s and her favorite place, though she has no time to enjoy it nowadays. He understands why and she tells him that she’s always doing something, including inspecting her onsens , even if it can get very loud , though Sensei blames the TV he had. Suddenly, Touka calls out to him from inside the pool and wants to know why he’s here. Tsubasa explains that she gave him a tour , which included the ceremony room and how she wants to get married there one day. Touka gets flustered, but Tsubasa wants her to get out of the pool if she wants to continue the conversation. She comes out of the water in an alluring way and Sensei tries to refrain himself from making comments about her body to prevent an erection, but fails once Tsubasa comments on her “development”. After having to endure being objectified, Touka wants to change into something more presentable, asks him to inform her when he visits her home next time and leaves through the hall of paintings. Tsubasa makes one last comment about her daughter's growth before she tells Sensei that she needs to discuss something with him. After taking a seat at the pool, she tells him that he wants to talk about him and Chika , which is a discussion he saw coming since Tsubasa and Chika are a surrogate family and she’s aware about their relationship. Tsubasa wants to know if he’s worried if their secret gets out and if he loves her, and he tells her that he is, but doesn’t do anything to prevent it except telling Chika to be cautious, and that he loves her, though it’s not the same love she feels for him. Sensei feels a little intimidated by her, but she isn’t appalled by his actions since she knows enough stories about young women being shipped to men way older than them and these stories leave her completely cold by now. What she cares about, though, is that, intentionally or not, Sensei will hurt Chika with his actions one day, and Sensei acknowledges that this will happen, but he won’t abandon her when that day comes, even if she doesn’t want him near her anymore, which satisfies her. She was worried that he was just using her and Sensei admits that this was the case at the beginning, but falls silent when she asks if it’s still the case. Tsubasa says that she picked a very interesting class for her daughter to enroll in and Sensei finally wants to know why she let her enroll in the first place, considering that she knows how far he goes with his students. She answers his question by explaining how Touka learned swimming. She was unable to learn it despite having professional instructors teaching her, so, inspired by a friend, Tsubasa threw Touka into the pool and forced her to learn it. She knows that Sensei is the exact opposite of what Touka needs, but this makes him the exact thing she needs the most - something uncomfortable she has to face in order to grow. They decide to stop the conversation when Sensei reminds her how deep his relationship with his students goes and wait until Touka comes back, as Sensei acknowledges that Tsubasa is another broken individual, even if the way she’s broken is way more beautiful.",
+        "participating_characters": [
+            "Sensei",
+            "Tsubasa Tsukioka",
+            "Touka Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Deep End",
+            "event_script_names": "tsubasadate1p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsubasapool"
+        ],
+        "music_tracks": [
+            "tsukiokamanor.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.23p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Everbloom (Pride of the Sinful Sort)",
+        "next_event": "Heart of Gold"
+    }
+}

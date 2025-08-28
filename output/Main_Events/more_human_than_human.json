@@ -1,0 +1,48 @@
+{
+    "event_id": "more_human_than_human",
+    "event_title": "More Human Than Human",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=More_Human_Than_Human",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.33.6",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Hyzenthlay \" . This event belongs to an event chain started from \" Boner on the Bus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Somewhere secluded, Sana struggles to come up with ideas for her fake confession. While she thinks about using her bond with Sensei to get the win, she worries it might give the impression she wants to get closer to him, only to admit that she’s like everyone else in that regard. She continues to struggle with her confession, becoming lost in thought . She snaps out of it when Yasu suddenly appears. Yasu initially interprets Sana's mumbles of confession as a plea for guidance and begins trying to coax one out of her, but when Sana explains that it’s for the contest, she apologizes, claiming her inhumanity makes it difficult to parse subtext. After taking a seat, Yasu explains that, unlike Sana and the rest of the girls, she's not human at all, just someone who walks among humans. If she were truly human, she wouldn't be able to see things others don't, or wouldn't be able to hold such a close relationship with God. Sana meanwhile assures Yasu she's human despite these things unless she also happens to be a shapeshifter. This comment reminds Yasu of Touka , and she begins to worry about all the trouble she brings by being so abnormal. In fact, normality is the only thing she can't understand, something she ascribes to the fact that she's only known God her whole life. Sana's surprised to hear this, asking about any potential family Yasu might have – Yasu denies having any relatives, claims she doesn't need one and that, even if she did, no one would want her around because she's a \"monster\". It's a title everyone in her life has given her at some point, always when she tries to share snippets and information from the \"other worlds\" that she constantly sees. She wonders aloud why this is when all she wants to do is share the beautiful things she sees. Hearing this, Sana's reminded of their first meeting , and asks Yasu what it is she saw all that time ago. Yasu interjects to clarify that she's not actually able to \"see\" anything, but instead just knows certain things or details. Sana continues, asking Yasu if she's able to communicate with someone she lost a long time ago. Shifting tones, Yasu tells Sana to speak with them herself. Sana insists she's unable to but Yasu refuses to believe that, claiming Sana's perfectly able to but refuses to learn. She ominously tells Sana that \"he\" has been watching her \" indulge \", and proceeds to insult her for being so indulgent. As Touka calls for Yasu from afar, she finishes up her speech by telling Sana to give in to her desires if she really wants to beat Otoha. When Touka finally joins the two girls, Yasu snaps back to normal. While Touka attempts to corral her, Sana, now terrified, tells Touka to keep Yasu away from her before running away.",
+        "participating_characters": [
+            "Sana Sakakibara",
+            "Yasu Yasui",
+            "Touka Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "More Human Than Human",
+            "event_script_names": "beachwars6",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sanayasubeach"
+        ],
+        "music_tracks": [
+            "behindabathroom.mp3",
+            "notabluearchivesong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.33."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Hyzenthlay",
+        "next_event": "Eyes Closed, Chin Up"
+    }
+}

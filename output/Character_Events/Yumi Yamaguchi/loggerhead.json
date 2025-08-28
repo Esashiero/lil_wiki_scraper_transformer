@@ -1,0 +1,49 @@
+{
+    "event_id": "loggerhead",
+    "event_title": "Loggerhead",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Loggerhead",
+    "event_type": "Event",
+    "primary_character": "Yumi Yamaguchi",
+    "chapter": "v0.29.4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Two Months of Nothing \" . This event belongs to an event chain started from \" To Catch Me If I Fall \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Chosokabe Flat",
+            "Old District"
+        ],
+        "synopsis": "Having gotten the rest of the day off, Chika takes over for Yumi , pushing both her and Sensei out of the apartment so they can talk. The two walk away, taking a seat against a nearby wall. As they sit in silence, Sensei realizes just how much he’s begun to value this “aware” version of Yumi and how much he'd hate it if this version disappears. Yumi’s the first to speak, asking if he still intends to coerce her into sleeping at his place. She doesn’t want to, especially when he mentions that he needs a new “strategy” to convince her, which gives her all the information she needed. He tells her that it’s not like it sounds, which she hopes because it sounds like he wants to take advantage of her, something she thought he didn’t want to do anymore. He assures her that this is the case, but when she asks if this is a promise, he retorts by asking if a promise would mean anything to her. Yumi negates that question, confessing that she stopped caring about promises after her mother broke her promise to take her to Okinawa, because she was too inebriated to remember it. Sensei asks her if she would go if she had the chance, which reminds her of a conversation they had on the roof , one that “feels like years ago”. Sensei remarks that it might’ve been and continues by asking how many birthdays she remembers having in this school year alone, to which she answers “more than makes sense”. As the weight of reality sinks in, Sensei informs her that she and everyone else in Kumon-mi are not only trapped in the city but trapped in time, but she doesn’t believe him. Trying to distract herself, Yumi confesses that she wanted to travel to Okinawa to see sea turtles. She disregards this dream as dumb, which Sensei disagrees with, calling it simply an “innocent wish” - one he’d help fulfill if he could. Yumi snaps at him for trying to get her to place her faith in him and remarks she’ll go herself someday. Sensei wishes her luck in making her dream a reality. The conversation drifts, and Yumi fills Sensei in on her reunion with her mother and Kaori . He tries to offer Yumi Kaori’s number, but she sees no point in trying to reconnect with someone who doesn’t remember her and when Sensei points out that her mother did just that and has a good relationship with her, Yumi sees it as a weak attempt to make up for her mistakes. Sensei still things she should take Kaori’s number, but when Yumi agrees, she spots something in the distance and rushes over to check it out. Following her, they find the corpse of a chicken .",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi",
+            "Chika Chosokabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Loggerhead",
+            "event_script_names": "yumislumber2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chickenscene"
+        ],
+        "music_tracks": [
+            "normalday.mp3",
+            "blueair.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Two Months of Nothing",
+        "next_event": "A Day in the Life"
+    }
+}

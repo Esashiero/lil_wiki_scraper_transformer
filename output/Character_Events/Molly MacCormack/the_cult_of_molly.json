@@ -1,0 +1,48 @@
+{
+    "event_id": "the_cult_of_molly",
+    "event_title": "The Cult of Molly",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Cult_of_Molly",
+    "event_type": "Event",
+    "primary_character": "Molly MacCormack",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "Monday You must have seen or permanently missed the following Events: Seen Main Events up to \" Lifting the Curse \"",
+        "to_get_this_event": "Talk to Molly in the dorm hallway",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Molly Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Second Floor Hallway"
+        ],
+        "synopsis": "Molly is being \"adventurous\" by leaving her room, but isn't going any further than the hallway. She tells Sensei that their meeting is a gift from the Heavens above or the Hells below, and when Sensei asks what happens if he doesn't believe in those, Molly tells him to find something to believe in. She suggests herself, because \"cute girls are more powerful than God\". They discuss the merits of her cult, and religion in general, until she is called away by a gaming commitment.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Cult of Molly",
+            "event_script_names": "mollyfirsthall",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mollyhall"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "NTR & Pregnancy",
+        "next_event": "Remnants of Forgotten Memes"
+    }
+}

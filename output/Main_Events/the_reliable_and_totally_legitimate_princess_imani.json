@@ -1,0 +1,52 @@
+{
+    "event_id": "the_reliable_and_totally_legitimate_princess_imani",
+    "event_title": "The Reliable and Totally Legitimate Princess Imani",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Reliable_and_Totally_Legitimate_Princess_Imani",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Three Amigos \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Uta Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Maid Cafe"
+        ],
+        "synopsis": "Sensei , Wakana and Imani are sitting on a table in the maid cafe. They have some smalltalk until Imani starts flirting with Sensei, which causes Wakana to mention Imani’s assumption about her and Sensei being sexually involved just as Uta and Osako arrive at their table. Osako checks on Wakana’s well-being before leaving with her for unknown reasons. Uta, having heard Imani name a dating app, wants to know if she and Sensei are here on a date, but before she can ask her directly, Sensei states that they aren’t dating. Ami joins them, emphasizes the ridiculousness of him dating and wants to know who Imani is. Sensei introduces her as Wakana’s substitute and she adds that she will be Sensei’s student teacher and start working in his class the following day. This information comes to everyone’s surprise as no other class gets student teachers, but Imani explains that she was put in his class to improve Sensei’s terrible teaching methods. Ami, out of jealousy, makes it clear that Sensei’s methods are fine and they don’t need her, but Imani assures her that she has no intentions to change anything and only wants to help students who need it. Ami talks herself into a trance as Uta and Imani start talking about their families. Sensei knows where this is going but is still surprised by how easily Uta can talk about her deceased grandfather without a hint of sadness. She claims that if he thinks that the death of her grandfather would traumatize her, then he doesn’t know Uta-chan very well. He reminds her that Uta-chan is someone who preys on people during karaoke , but an embarrassed Uta deflects that by saying that this was normal Uta who just got caught in the moment. Ami breaks free from her trance when she feels something that should upset her and Imani already has an idea why she ended in his class but still looks forward to work under him. Sensei wants to close that discussion and suggests that they should finally give their orders, but Uta needs to asks him something first. He agrees and leaves the table with her. Uta wants to know if he can visit her at the dorms after school the following day, phrasing it like she has the intention to be intimate with him. She clarifies that she is asking for Io , since she made a present for him, and Sensei is disappointed in himself for letting her toy with him again. When Uta asks if he would have come if it was only her, he says that he definitely would have. He notices her lack of flirting and flushed face, but when he points that out she assures him that it’s just an act. He still thinks that something is off, but she forces him to give her an answer as the present takes away what little space they have in the dorm room. He agrees to visit them and Uta comments that Io will be happy. When he asks her if she will be happy, she avoids answering him directly and leaves, even though he still hasn’t ordered yet.",
+        "participating_characters": [
+            "Sensei",
+            "Imani Imai",
+            "Wakana Watabe",
+            "Osako Osaka",
+            "Uta Ushibori",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Reliable and Totally Legitimate Princess Imani",
+            "event_script_names": "christmastwo2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "christmastwomaid"
+        ],
+        "music_tracks": [
+            "maidcafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Three Amigos",
+        "next_event": "Room to Grow"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "event_id": "acute_love_triangle",
+    "event_title": "Acute Love Triangle",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Acute_Love_Triangle",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Thursday 45 Miku Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Glued to the Sky \"",
+        "to_get_this_event": "Visit Miku's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Miku’s room"
+        ],
+        "synopsis": "Sensei knocks on Miku 's door, hoping he can advance their relationship after their kiss . He’s worried that Makoto could get involved and slap him again , but, because he hasn’t heard anything from her, he assumes that he won’t have to deal with her for now. Miku wants him to wait for a moment and Sensei, feeling like he jinxed himself, asks if Makoto is with her, which she denies. He's relieved to hear it, but once he enters, he sees that not only is Makoto there but they also want to hold an intervention. Miku wants them to settle the matter and, in response, Sensei chooses Makoto. Miku is shocked that he made a decision and, while she acknowledges that this would be the easiest solution, hoped they would at least talk a bit about. Sensei is surprised that Makoto isn’t angry and she explains that both Miku and he are equally at fault for their situation and she can’t ignore Miku’s feelings. However, she’s angry about him kissing Miku before her. He offers to correct that oversight, but Miku, now that she has Makoto’s consent to explore her feelings, wants to clear their situation instead. Sensei doesn’t understand what they want from him and Makoto explains that she’s fine with him dating Miku, while Miku adds that he should keep their feelings in mind when they spend time together and that they should be open with each other so no one gets hurt in the long run. Sensei is surprised how mature she is but isn’t sure how honest she intends to be with Makoto, especially since there’s one event she shouldn’t share . Sensei asks if him being here is necessary since this conversation seems to be more for them than him, but Miku wants everyone involved to be in the know so whatever happens won’t hurt as much. Makoto wants to hug her, but she notes that she should wait until everything’s settled. Sensei asks if they have any questions left and Miku wants to know why he hasn’t kissed Makoto after everything that happened between them and if he went straight to more intimate stuff to prevent her from going insane from being surrounded by porn every night. He confirms that, but Makoto gets angry and demands that she deserves a reward from him after all she did. Miku agrees, since she’s still on Makoto’s side, but feels weird about her mindset when Makoto explains that she won’t hinder her pursuit of Sensei but also won’t root for her success. Sensei is glad that they’re done now and hopes to never go trough this again, but Makoto assures him that he will face this again as soon as another pair of friends falls in love with him and he should be happy that it worked out well this time. Makoto has to leave for work and demands both of them to accompany her to prevent them from doing anything while she’s gone.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Acute Love Triangle",
+            "event_script_names": "mikudorm45",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "intervention"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Speed of Light",
+        "next_event": "Chrysalis"
+    }
+}

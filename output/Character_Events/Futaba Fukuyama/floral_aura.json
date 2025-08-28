@@ -1,0 +1,48 @@
+{
+    "event_id": "floral_aura",
+    "event_title": "Floral Aura",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Floral_Aura",
+    "event_type": "Invite Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Sonnet 18 \" from Futaba Fukuyama",
+        "to_get_this_event": "Invite Futaba Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Futaba Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Sensei's Bedroom"
+        ],
+        "synopsis": "With Ami safely out of the house, Sensei invites Futaba over again, this time to spend time alone together. Now, sat together on his bed, Futaba takes a moment to look around his room, being surprised by how immature it is- Though she admits that her room back home is probably the same, considering she hasn't seen it in years. Futaba reveals that, before moving into the Dorms , her parents had previously rented an apartment for her while she attended Kumon-mi Academy . The conversation shifts away from Futaba's family though as she starts feeling anxious since she expected something different from Sensei's impromptu invitation. The two spend some time alone before Ami comes back.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Floral Aura",
+            "event_script_names": "futabainvite2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "futabacun"
+        ],
+        "music_tracks": [
+            "asobeatsex1.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sonnet 18",
+        "next_event": "C'est La Vie"
+    }
+}

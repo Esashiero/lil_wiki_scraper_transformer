@@ -1,0 +1,59 @@
+{
+    "event_id": "on_the_fence",
+    "event_title": "On The Fence",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=On_The_Fence",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.16",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Legacy of Thuam Pt. IV \" . This event belongs to an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach Hotel"
+        ],
+        "synopsis": "Kirin and Noriko discuss how attractive each other’s sisters are, during which Imani joins them and agrees. As they talk, the girls lets her know that Sensei used to date Niki and that she’s only slightly younger than him, which surprises Imani as the rest of them can’t possibly compete with an idol. Hearing this, Noriko asks her if she’s also interested in Sensei. She tries to deny it, but her weak response doesn’t convince them. Noriko asks why she doesn’t pursue him despite the great chemistry between them. She tells her that romance isn’t her thing, that Sensei isn’t interested in romance as a whole and that no one in class would endorse it anyway. She appreciates their interest, but wants to get back to enjoying Christmas with them. Ami bursts into the room with Sensei, both being late due to passing out in the sauna . Sensei finds his way over to Ayane , Sana , and Miku , who he’s happy to see after being forced to spend the whole day with Ami. He ends up embarrassing Sana by subtly referring to Io’s run-in with her , making her retreat into another room. Ayane, having figured out why she ran away, asks him why he embarrassed her like that, to which he responds that she should remember her place as the innocent one. Ayane tries to reason with him by explaining that Sana is girl like everyone else, but he doesn’t want to hear it. Rin ends up interrupting them, tells Sensei that she’s on the verge of a nervous breakdown and begs him to follow her into the hallway. Once they’re alone, she stalls by talking in circles out of fear of losing him with what she needs to say. Sensei asks her to calm down, but when she struggles to do even that, she outright admits that she accidentally told Otoha about Chika and his relationship , which makes him finally understand her attitude during the war . Fearing that her slip-up will make everyone suffer, she bursts into tears, frantically apologizes and tries to explain herself. He reassures her that everything will be okay and that he’ll figure out a way to make Otoha stay quiet, which worries Rin as she overreacts. She suggests that Sensei should break things off with Futaba , because while she would be hurt by this, she can endure it, unlike Chika , who fully depends on him, and it would minimize the risk of her finding out about his other relationships. He tells her he won’t talk to her about this, which she understands. She frantically apologizes again and tells him to make sure to keep those he treasures the most close. As she starts to ramble, he brings her into a hug, shutting her up by telling her he’s following her advice. The two stay in the hallway as Rin cries into his shirt.",
+        "participating_characters": [
+            "Kirin Kanda",
+            "Noriko Nakayama",
+            "Imani Imai",
+            "Ami Arakawa",
+            "Sensei",
+            "Chika Chosokabe",
+            "Ayane Amamiya",
+            "Miku Maruyama",
+            "Sana Sakakibara",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "Sensei's homie status once again influences some of Rin's dialogue, though this time she doesn’t act mean or passive aggressive towards him, but tells him that her mistake is worse than his betrayal."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "On The Fence",
+            "event_script_names": "beachmas14",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "beachmasgathering"
+        ],
+        "music_tracks": [
+            "stpartynight.mp3",
+            "thingsthathurt.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Legacy of Thaum Pt. IV",
+        "next_event": "To the Future With a Smile"
+    }
+}

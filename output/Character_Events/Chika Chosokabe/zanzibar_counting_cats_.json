@@ -1,0 +1,52 @@
+{
+    "event_id": "zanzibar_counting_cats_",
+    "event_title": "Zanzibar (Counting Cats)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Zanzibar_(Counting_Cats)",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "v0.15.4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Three Words \" . This event is the final event in an event chain started from \" Little Miracles \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Onsen"
+        ],
+        "synopsis": "Sensei wakes up next to Chika . When she eventually wakes up, they talk about whether or not to tell anyone about the progress of their relationship — Chika wants to at least tell Yumi , but Sensei thinks that it would cause problems. They compromise — Chika won't actively tell Yumi, but won't lie about it either, and will make sure Yumi doesn't tell anyone else. Chika is a bit sad about having to leave the onsen after having so much fun. Before they go, they meet Tsubasa and Tsukasa , who heard them playing \"games\" overnight. Chika and Tsubasa exchange contact information.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Tsukasa Tsukioka",
+            "Tsubasa Tsukioka"
+        ],
+        "trivia": [
+            "Chika's first phone message is available after this event."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Zanzibar (Counting Cats)",
+            "event_script_names": "chikaonsen4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikawakesup"
+        ],
+        "music_tracks": [
+            "justlights.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Three Words",
+        "next_event": "The Princess & The Pauper"
+    }
+}

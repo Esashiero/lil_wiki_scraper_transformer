@@ -1,0 +1,49 @@
+{
+    "event_id": "hormones_running_wild",
+    "event_title": "Hormones Running Wild",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Hormones_Running_Wild",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Miku Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Parasite \" Seen \" You and Me and the Night \" from Miku Maruyama",
+        "to_get_this_event": "Visit the Soccer Field on a weekend morning after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Soccer Field"
+        ],
+        "synopsis": "Sensei visits the soccer field and finds Miku and Karin doing some warmup stretches together. The three discuss their plans for the morning, and Sensei is surprised to learn that Karin happens to also be on the school's softball team, and she managed to pull some strings and get some of their players to agree to a practice soccer game with the team. Miku invites him to watch once the afternoon rolls around, but Sensei says he'll see how he feels at that point. Karin lets Miku down, and Miku apologizes to Karin for not being able to help her the same way, since she's pretty sure Karin would crush her. Sensei points out the hypocrisy of Miku having tried to do the same thing to him , and Miku points out how badly that went. Miku then tells Sensei that Karin is probably stronger than he is, and Karin becomes flustered when Miku tells her to show Sensei her abs. Karin tries to recover, and Miku tells Sensei Karin has a habit of freezing up completely whenever she interacts with boys in most cases. Karin freezes up completely, as mentioned, when Sensei calls her reaction cute, and Miku comments on the situation, while Sensei is surprised at just how bad Karin really is with boys. Sensei calls Karin cute again, which overloads the poor girl, and Miku brings up becoming their coach again after Sensei wonders what would happen if he touched her. Sensei tells Miku not to look down, but Miku, intrigued, does so anyway, and becomes immensely shocked. Sensei's comments put Miku into just as bad a state as Karin, and Karin eventually manages to start breaking out, while Sensei beats a hasty retreat to take care of his problem while the two girls try to refocus themselves. Afterward, Sensei leaves to go about his day.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama",
+            "Karin Kanda"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Hormones Running Wild",
+            "event_script_names": "soccer15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikukarin"
+        ],
+        "music_tracks": [
+            "highspeedprinter.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.5."
+        ]
+    },
+    "navigation": {
+        "previous_event": "You and Me and the Night",
+        "next_event": "Moments Like This"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "event_id": "we_were_angels",
+    "event_title": "We Were Angels",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=We_Were_Angels",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.19.15",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Left Out in Light \" . This event belongs to an event chain started from \" Good Morning \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Several girls are chatting over breakfast. When Sensei , Nodoka , and Niki show up — Ami and Niki are very excited to see each other, and Niki says that she'd be happy to visit Ami at home sometime (but not Sensei). Noriko talks to Sensei about his past with her family. After Niki has to return to her shoot and the group disperses, Sensei runs into Makoto . Her schedule for the day seems to have been stolen, which leaves her with some unassigned time — Sensei may or may not be able to persuade her to spend it on him.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Karin Kanda",
+            "Touka Tsukioka",
+            "Uta Ushibori",
+            "Otoha Okakura",
+            "Futaba Fukuyama",
+            "Maya Makinami",
+            "Niki Nakayama",
+            "Noriko Nakayama",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "We Were Angels",
+            "event_script_names": "secondbeach13",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nikiami"
+        ],
+        "music_tracks": [
+            "remember.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Left Out in Light",
+        "next_event": "Lavender's Blue"
+    }
+}

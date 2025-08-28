@@ -1,0 +1,63 @@
+{
+    "event_id": "judgement_day",
+    "event_title": "Judgement Day",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Judgement_Day",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.33.15",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Too Many Cooks \" . This event belongs to an event chain started from \" Boner on the Bus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Conflicted onee-chan",
+                "effect": "+1 Second Floor"
+            },
+            {
+                "context": null,
+                "option": "A short girl in heat",
+                "effect": "+1 First Floor"
+            }
+        ],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Sensei turns around, finding the person tugging his sleeve to be Sana who's ready to begin her part of the confession contest. She's still nervous due to the nature of the contest and her inexperience, but Sensei assures her that he emphasizes with her since he only expressed his feelings once in the inn recently . When Sana asks if they should do the confession there, he starts to feel uncomfortable and decides to guide her away before something bad happens . As he guides her along the beach, he thinks to himself how he's losing control and how he desperately needs to get better at not hurting his students. He contemplates calling Niki again , but he's soon overcome with the desire to see Nodoka . By the time he snaps back to reality, he's been guiding Sana along the beach for half an hour. He apologizes and tells her to get her confession over with, though him bluntly stating that her confession is only for the contest and won't reflect her true feelings makes her hesitate. She asks him why he didn't bring her to the inn and points out how being alone on the beach isn't any different, which he interprets as an elaborate scheme to appeal to him, though she claims there is no plan to her confession. He further points out how much her behavior and wardrobe have changed, noticing how outgoing and bold she's become in contrast to the reserved and timid Sana he first met . Sana reminds him how much he's changed as well, and expresses how she likes both the old and new him and how she appreciates him understanding her more. She wraps up her confession with another awkward admission before taking a stand atop a rock hinting that, on top of becoming more outgoing, her perception of him has changed before sprinting away. He barely has the time to react before receiving a phone call from Otoha , who gives him a location to meet so she can deliver her confession. Before he knows it, he's arrived at the confession spot, with Otoha bluntly stating she doesn't want to do this. The two begin to talk, but Otoha's prying into his relationships leads him to mistake this confession as an attempt at blackmail. She denies this and, when her prepared confession fails, decides to recite another one, which Sensei easily deduces was written for someone else. In the end, Otoha admits it was an elaborate lead-in for her to vent about her problems, such as the guilt building up from her cheating on Rin . Sensei's shocked by this unexpected revelation, and she asks him what she should do from here, both in regards to Rin and the person she cheated with. Sensei questions why she's trusting him with such sensitive information, with Otoha telling him she has no one else she can vent to, likening him to a little brother, and, when he asks her to call it a day, asks if she can do it on a later date. Sensei blacks out and chooses a winner.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Otoha Okakura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Judgement Day",
+            "event_script_names": "beachwars14",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "confessionbattle",
+            "nodokascene",
+            "nikifirstlust",
+            "amiani"
+        ],
+        "music_tracks": [
+            "behindabathroom.mp3",
+            "kimitoakinobouken.mp3",
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.33."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Too Many Cooks",
+        "next_event": "Mother May I"
+    }
+}

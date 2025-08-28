@@ -1,0 +1,50 @@
+{
+    "event_id": "divergence",
+    "event_title": "Divergence",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Divergence",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "Not a Monday or Friday 20 Ami Affection You must have seen or permanently missed the following Events: Seen \" Cute Girls and Stuff \" from Ami Arakawa",
+        "to_get_this_event": "Visit Ami's dorm",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Maid Cafe"
+        ],
+        "synopsis": "Sensei knocks on Dorm Room #5 so he can visit the maid cafe together with Ami so she can apply for a position as a maid there. Maya answers trough the door and, after a while, both of them leave their room. Maya needs something to eat since she’s in a foul mood and Sensei, since he wanted to go there in the first place, decides to accompany both of them to the cafe. Maya is also fine with Ami getting her something from the cafe but wants something that wasn’t flavor beamed. Sensei doesn’t mind getting hers, infuriating Ami since he knows what that means and even thinks about having another girl do it for him if she refuses to do that if she gets the job. Once they arrive at the maid cafe Ami gets second thoughts about applying there while Maya thinks about ordering some chicken after Sensei teased Ami for chickening out. Uta comes to greet them and immediately thanks Sensei for his last order , causing him to flirt with her and annoying both Maya and Ami in the process. Uta is surprised to hear that he is related to Ami and thought that he came with Maya again. Before she can say it, Sensei quietly begs her to keep that part a secret. Uta teases him for his intentions to date smaller girls but promises to be quiet. Before Ami’s jealousy gets the better of her, Sensei states that she wants to apply as a maid. Uta takes her aside for a quick job interview. Once they are gone, Maya wants to re-assure if Sensei is really okay with Ami getting a job since that never happened before. Sensei is fine with it since it’s her decision and partly because he can see her wear the uniform, prompting Maya to call him disgusting. During her interview with Uta Ami states that she wants the job to have some spending money and to spend more time with Sensei. Uta mentions that he visited the cafe only once so applying here wouldn’t help with that. She still would like her as a colleague since she fits in well and her twintails would be a good asset for a maid. Ami is surprised to hear that Sensei hasn’t visited the cafe often due to how into it he seems to be, but Uta points out that a lot of people are like that. The conversation digresses with Uta telling about her life in Nara but gets back on track by promising to get her hired and even offers her one of her dresses to get a feel for the job. Ami is thankful for her efforts but asks if she has a costume for growing girls. Uta understands and tries to get one for her.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Uta Ushibori"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Divergence",
+            "event_script_names": "amidorm20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amimayamaid"
+        ],
+        "music_tracks": [
+            "shiningstarinstrumental.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Cute Girls and Stuff",
+        "next_event": "Such Small Hands"
+    }
+}

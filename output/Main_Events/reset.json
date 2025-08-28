@@ -1,0 +1,69 @@
+{
+    "event_id": "reset",
+    "event_title": "Reset",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Reset",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.5.7",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after Rewrite",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": "With Maya on rooftop:",
+                "option": "What happens next?",
+                "effect": "Progresses the event"
+            },
+            {
+                "context": "With Ami after reset:",
+                "option": "Let's just move on.",
+                "effect": "Progresses the event"
+            }
+        ],
+        "effects": [
+            "+5 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High",
+            "Kumon-Mi High - Rooftop"
+        ],
+        "synopsis": "Sensei \" wakes up \", but the world seems to have halted and he can not find anyone. Every day feels like the weekend and it just doesn't seem to end. Eventually, he finds a way to return to the school. Before making it to school, though, he decides to take a detour and meets \" Ami \" in her \" special outfit \". She says that it's so dark asks if he missed her, and doesn't believe his story about Maya . Ami brings up his early dream of sex with her , saying that she might get dream-pregnant with a dream-baby — that is supposedly how Maya was made, although Sensei says that Maya is a normal teenage girl. When Sensei points out Ami's odd appearance, she floats away in anger. At school, Sensei talks to empty desks. When it's suddenly night, Hope appears, although Sensei doesn't remember him. Hope isn't very informative, but mentions that \"the girl with the bell\" is still here. Sensei feels a sudden pain and is on the school roof with Maya, who was beginning to think he wouldn't show up. The sky is different. She tells him that what's happening is a regular occurrence — the end of the world. Now, she just needs to reset the world, and she'll do it in such a way that all Sensei's \"progress\" carries over into the next world. He closes his eyes, and Maya puts her arms around his waist, swearing that she is only doing it because it's necessary. Sensei wakes up in class just like his first day in Kumon-mi , and doesn't remember that he has already gone through it before until they get to the point where he meets Maya, when everything comes back to him.",
+        "participating_characters": [
+            "Sensei",
+            "Happy Ami",
+            "Hope",
+            "Maya Makinami",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Reset",
+            "event_script_names": "day103",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "reset",
+            "timetogrow",
+            "bathscenebutnomorebath",
+            "mayacg"
+        ],
+        "music_tracks": [
+            "normalday.mp3",
+            "iloveyou.mp3",
+            "10c.mp3",
+            "comfort.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.5."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Rewrite",
+        "next_event": "Cursed Birds"
+    }
+}

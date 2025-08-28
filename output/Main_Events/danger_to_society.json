@@ -1,0 +1,66 @@
+{
+    "event_id": "danger_to_society",
+    "event_title": "Danger to Society",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Danger_to_Society",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.33.20",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Flowerchild \" . This event belongs to an event chain started from \" Boner on the Bus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "The morning comes and Uta , Makoto , and Imani begin to announce the results of this year's contest. While a majority of contests were decided without Sensei 's input, his choices can tip the balance. With the winner announced, the girls all rush onto the bus to make it to school in time, with Noriko and Kirin opting to stay behind and enjoy the beach in peace.",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda",
+            "Noriko Nakayama",
+            "Karin Kanda",
+            "Uta Ushibori",
+            "Makoto Miyamura",
+            "Imani Imai",
+            "Futaba Fukuyama",
+            "Nodoka Nagasawa",
+            "Rin Rokuhara",
+            "Otoha Okakura",
+            "Miku Maruyama",
+            "Sana Sakakibara",
+            "Molly MacCormack",
+            "Tsuneyo Tojo",
+            "Io Ichimonji",
+            "Chika Chosokabe",
+            "Touka Tsukioka",
+            "Yumi Yamaguchi",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Danger to Society",
+            "event_script_names": "beachwars19",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "beachwarsend"
+        ],
+        "music_tracks": [
+            "summerwind.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.33."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Flowerchild",
+        "next_event": "Eggside Octopus"
+    }
+}

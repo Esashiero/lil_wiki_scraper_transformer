@@ -1,0 +1,67 @@
+{
+    "event_id": "misfit_maid_madness",
+    "event_title": "Misfit Maid Madness",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Misfit_Maid_Madness",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.27.12",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Way it Scatters \" . This event belongs to an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Maya",
+                "effect": "+1 First Floor"
+            },
+            {
+                "context": null,
+                "option": "Io",
+                "effect": "+1 Second Floor"
+            }
+        ],
+        "effects": [
+            "+1 Maya , Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Maid Cafe"
+        ],
+        "synopsis": "The maid contest kicks off at the Maid Cafe, with Imani MC-ing the contest while Ayane is away. Io , who refused to wear a maid costume and is doing the contest as a butler instead, comes out first and Sensei notices how nervous she is. As Uta calls Io away, Maya approaches Sensei, immediately grabbing his attention by actually dressing the part. She expresses her disgust at the idea of pampering him but says she'll push through due to Ayane's promise of buffet tickets. The contest begins, with Io and Maya tagging in and out rapidly, each spending only a few seconds with Sensei before being switched out. Io tries her best to fulfill her role as a butler, but the constant unpredictable switch-outs give her whiplash when she has to go back into character. Meanwhile, Maya takes every opportunity to insult Sensei for a few seconds then leaves - a set-up she's incredibly fond of. Starting to feel dizzy, Io takes a seat next to Sensei, and the two start to demand proper service from Maya. When Sensei pushes her buttons by telling her that she can kiss her buffet tickets goodbye if she doesn’t compete properly, Maya asks him to forget what they’ll see before activating her own maid persona – Moe Moe Maya, a maid on par with Uta-chan that combines a cheery and flirtatious personality, emotional manipulation and teasing into one perfect package that manages to wrap Sensei around her finger with ease. After Sensei chooses Maya as the obvious winner – or chooses Io to torment her - Chika reminds an entertained Nodoka that her contest is coming up and that Yumi decided to participate. Nodoka isn’t concerned by this since she’s confident that she will stay undefeated and hopes that a friendly competition will put their feud behind them. Chika asks Nodoka if she did something to provoke Yumi into beating her up and while she flat-out tells her exactly what she did – be it the blackmail or getting what she wanted – Chika dismisses her explanation as one of her usual perversions. Meanwhile, Futaba notices that Molly keeps her distance from Tsuneyo . She tells her that she wants to approach her about her screw-up during her stand-up routine but needs to find a charisma potion first. Futaba begs her to not get drunk again, but Molly assures her that she has no intention to get that drunk any time soon.",
+        "participating_characters": [
+            "Imani Imai",
+            "Uta Ushibori",
+            "Sensei",
+            "Io Ichimonji",
+            "Maya Makinami",
+            "Chika Chosokabe",
+            "Nodoka Nagasawa",
+            "Tsuneyo Tojo",
+            "Futaba Fukuyama",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Misfit Maid Madness",
+            "event_script_names": "dormwartwo11",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "maidwar"
+        ],
+        "music_tracks": [
+            "maidcafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Way it Scatters",
+        "next_event": "Somewhere Far From Here"
+    }
+}

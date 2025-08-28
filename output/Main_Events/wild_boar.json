@@ -1,0 +1,53 @@
+{
+    "event_id": "wild_boar",
+    "event_title": "Wild Boar",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Wild_Boar",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.37.5",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" 500 Channels \" . This event belongs to an event chain started from \" Episcopalis: Pickled Plums & Polyrhythmic Psalms \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+10 Imani , Rika , Wakana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi",
+            "Kumon-Mi High - Hallways"
+        ],
+        "synopsis": "The date is January 4th, and while it was a bit longer than initially planned, Sensei keeps his word and begins to commute to school with Ami . While on the way, Sensei is on the phone to announce his return to reality to Niki , who's annoyed that he once again decided to suffer in silence instead of letting her help him. After sarcastically apologizing for not planning out his mental breakdowns, he informs her that he's on his way to work, easing her subsequent concerns by clarifying it's just to let everyone know he's still alive. He also adds that she's the first to know he's back. The two share their plans for the day and, upon learning Sensei's include a night of brooding, Niki offers to help dampen the pain. He turns her down but does say he might speak to her soon. Noticing that Ami's getting impatient, Sensei says goodbye. While annoyed about him talking with Niki longer than the allotted minute, Ami gets over it and instead tries once again to get him to back out of this trip to school. He shuts each attempt down, telling her to be quiet and support him through this difficult decision. She refuses to do so and warns that the others might be upset with her after keeping him to herself for so long. Sensei expects this tension but is hopeful he won't be around long enough for it to explode in his face. Ami cryptically warns him that plans rarely play out how you expect them to. The walk to school continues, with Sensei managing to separate Ami from himself and send her along to class. While he had asked her to inform everyone ahead of time of his arrival, he is sure her recent streak of disobedience will continue so long as she continues to believe him unfit for society. He briefly considers bending to her whims but accepts both rebelling and submitting come with the same problem: Ami herself. In the halls of Kumon-Mi High , Wakana and Imani are discussing amongst themselves how to share hours at the school's gym in preparation for Sports Day. Rika , meanwhile, is on standby, having been called to help with preparations. As the three work out the details, Sensei walks up to them, with each woman slowly turning to face him with shock. Wakana is the first to act, handing off her clipboard to Imani before walking over, slapping Sensei across the face, and proceeding to tear into him verbally for disappearing and creating so much work for all of them. Imani tries to calm her down before they create a scene but ends up totally ignored as Wakana continues to chastise Sensei. She hugs him tightly and switches her criticisms from work to his friends, insisting that they all care about him and disappearing for two months worried them sick, while Imani and Rika try to comprehend what's happening in front of them. Rika joins the hug soon after, followed by Imani, who expresses her own anger at his prolonged absence. He apologizes to all of them, asking them to let go so he can begin explaining himself. Sensei recaps the three on what's happened, albeit without explaining what's made him so sad, only alluding that the topic makes him want to strangle himself. Hearing how bad his situation is, Rika assures him that he didn't need to show up today and could've just given them a call. He disagrees, feeling that getting outside again will probably be necessary for him to recover – Additionally, he owes it to them and his students to show up at least once after so long. Imani notes how miserable he seems to be, assuring him that all three of them are there for him if he needs their support, except for Wakana who's still angry and returns to her class. Sensei thanks them all for being so considerate, admitting that he has so many options on people to speak with that it makes choosing hard, especially when it feels like he'd just drag them all down with him. He suggests to both of them that they avoid him for a bit, and quickly assuages their fears that he doesn't want to be friends anymore. He apologizes to both women for how awkward things were before he left, taking the opportunity to self-deprecate. Rika accepts his apology but fails to understand why he's being so hard on himself now that he's trying to be better. He denies the notion that he wants to be better, instead feeling as if it's merely an act he's putting on to stay out of trouble.",
+        "participating_characters": [
+            "Sensei",
+            "Niki Nakayama",
+            "Ami Arakawa",
+            "Wakana Watabe",
+            "Imani Imai",
+            "Rika Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Wild Boar",
+            "event_script_names": "springend4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "back2school"
+        ],
+        "music_tracks": [
+            "wewereangels.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "500 Channels",
+        "next_event": "All Eyes On Me"
+    }
+}

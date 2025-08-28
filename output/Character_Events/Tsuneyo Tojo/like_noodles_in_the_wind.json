@@ -1,0 +1,48 @@
+{
+    "event_id": "like_noodles_in_the_wind",
+    "event_title": "Like Noodles in the Wind",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Like_Noodles_in_the_Wind",
+    "event_type": "Event",
+    "primary_character": "Tsuneyo Tojo",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "25 Tsuneyo Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" All is Bright. All is Beautiful. \"",
+        "to_get_this_event": "Visit the Tojo Ramen",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Tsuneyo Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tojo Ramen"
+        ],
+        "synopsis": "Tsuneyo is feeling sad because her restaurant is out of green onions, which she thinks is a symbol of her failure as acting manager. Moreover, nobody has come into the restaurant all day. Sensei suggests that she just go and get some more green onions from a convenience store, rather than wait for the next delivery. After checking with her father, she agrees. As they walk through the old district, they talk about the people there, her father, and appreciating life's beauties while you can.",
+        "participating_characters": [
+            "Sensei",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Like Noodles in the Wind",
+            "event_script_names": "ramen25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsuneyogreenonion"
+        ],
+        "music_tracks": [
+            "kashiwagi.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.20p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Blackout",
+        "next_event": "Green Onions and Contraceptives"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "event_id": "hail_mary",
+    "event_title": "Hail Mary",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Hail_Mary",
+    "event_type": "Invite Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "35 Ayane Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Fireworks etc... \" Seen \" Crazier Things Have Happened \" from Ayane Amamiya",
+        "to_get_this_event": "Invite Ayane Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Ayane Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei House"
+        ],
+        "synopsis": "Sensei 's plan of sneaking Ayane into his house without Ami noticing does not work out, but he rejects an opportunity to pretend that Ayane's presence is some kind of accident. Ayane appreciates that he did not dissociate himself from her to avoid Ami's wrath. Ayane proposes that all three of hang out together, and Ayane and Ami spend the rest of the night fighting over who is allowed to cuddle with Sensei.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Hail Mary",
+            "event_script_names": "ayaneinvite1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayanefirstinvite"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Crazier Things Have Happened",
+        "next_event": "One of Many Rooms"
+    }
+}

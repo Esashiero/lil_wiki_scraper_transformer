@@ -1,0 +1,52 @@
+{
+    "event_id": "saved_by_the_bell",
+    "event_title": "Saved by the Bell",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Saved_by_the_Bell",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.3.1",
+    "interactivity": {
+        "requirements": "You must be on at least Day  40  to unlock this Event.",
+        "to_get_this_event": "This Event will occur automatically on or after Day 40.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Classroom"
+        ],
+        "synopsis": "Upon Makoto 's request, Sensei has once again come to school early to handle school matters, this time relating to filing the grading paperwork. He wanders around to find an IT person who can reset his login information so he can perform his duties, but is disgruntled to learn the process will take more than an hour. He heads to the classroom to try and burn away some of that time before his login is reset, only to be surprised when he finds Chika near the back of the classroom studying on her own. Chika is also surprised to see him, and the two share their reasons - Chika because Yumi is being an incessant bitch in the dorms this morning, Sensei because of not having access to the grading system and trying to get that resolved. Chika explains to Sensei that Yumi, believe it or not, actually isn't always as bad as she seems to be to the class and Sensei. She confides in Sensei that she thinks, of anyone she's met, he would likely be the one person capable of breaking through Yumi's walls and actually being able to help her, though Sensei doubts this fact heavily. Afterward, Chika and Sensei engage in a bit of flirty banter, before she asks him to help with her algebra assignment, something he isn't willing to do, and Chika tries to ask a question Sensei would find virtually impossible to answer, before the bell rings, saving him from that fate as the rest of the girls begin to file into the classroom.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe"
+        ],
+        "trivia": [
+            "68 6f 70 65: hope",
+            "Chika references her difficulties in taking care of Chinami if Sensei has met Chinami ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Saved by the Bell",
+            "event_script_names": "day40",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikaclass"
+        ],
+        "music_tracks": [
+            "10c.mp3",
+            "bell.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Sidetracked )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Walk in the Park",
+        "next_event": "This Town Has Two Halves"
+    }
+}

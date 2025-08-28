@@ -1,0 +1,49 @@
+{
+    "event_id": "the_complete_absence_of_everything",
+    "event_title": "The Complete Absence of Everything",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Complete_Absence_of_Everything",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Thursday 45 Sana Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Sayonara \"",
+        "to_get_this_event": "Visit Sana's dorm room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+2 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sana’s room"
+        ],
+        "synopsis": "Yasu has been visiting Sana , and Sana tells Sensei that she doesn't actually mind. She thinks that some of what Yasu says is \"actually kind of interesting\", and although she isn't religious, she thinks that it's important to talk to people who have different views. However, she doesn't want to discuss what Yasu said the first time they saw her, and changes the subject. They talk about Sensei's own views on religion, about wishing for there to be something after death, and about what dying does to the people who are left behind. Sensei becomes philosophical and remembers something, but things are returned to the way they are meant to be and he goes home.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Yasu Yasui"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Complete Absence of Everything",
+            "event_script_names": "sanadorm45",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sanayasudormvisit"
+        ],
+        "music_tracks": [
+            ""
+        ],
+        "changelog": [
+            "This Event was added in Update .19p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sweet Vermouth",
+        "next_event": "Mine (Yours)"
+    }
+}

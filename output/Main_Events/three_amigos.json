@@ -1,0 +1,53 @@
+{
+    "event_id": "three_amigos",
+    "event_title": "Three Amigos",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Three_Amigos",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.1",
+    "interactivity": {
+        "requirements": "Thursday You must be on at least Day  455  to unlock this Event. You must have seen or permanently missed the following Events: Seen \" The Gap in the Door \" from Chika Chosokabe Seen \" See You Around \" from Yumi Yamaguchi Seen \" Loxosceles Reclusa \" from Noriko Nakayama Seen \" Dear You \" from Niki Nakayama Seen \" The Place She Falls Asleep At Night \" from Sara Sakakibara",
+        "to_get_this_event": "This event occurs automatically on Thursday. This starts the second Christmas chain-event.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Wakana , Imani Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Sensei's Office"
+        ],
+        "synopsis": "Sensei sits in his office and contemplates his mundane life as a teacher and the upcoming Christmas party. His thoughts are interrupted by Wakana , who was recently released from the hospital. She’s only visiting the school to take care of her plants and to personally apologize to Sensei for causing a commotion during the beach trip , but he assures her that an apology isn’t necessary. She disagrees but moves on, making a comment about his negligence in visiting her during her hospitalization. He tries to explain himself by saying he didn’t know how to approach her during her recovery, to which she points out that even a small confirmation of her well-being would’ve been enough. He asks her what happened that night and she explains that it wasn’t a suicide attempt but an accidental overdose on her pain medication . She has an emotional outbreak after a sarcastic statement from Sensei, as she’s fully aware that it was her fault, but Sensei assures her that, as long as she stays vigilant, everything will turn out well. They have a short moment of appreciating the other’s decent moments before another visitor knocks on his door. Imani enters and immediately starts bonding with both of them. When Wakana wants to know if Sensei and her are already acquainted, he explains that he met her during Noriko ’s heartfelt apology . Wakana, after being briefed about the unusual topics Imani taught her class, informs Imani that she will be put in a temporary position. After a discussion about potential positions for Imani and her country of origin, Imani admits that she doesn’t have any friends and wouldn’t mind befriending both of them. Sensei doesn't mind but is surprised when Wakana’s also agrees. She explains that she has nothing against anyone who isn’t one of her students and that, despite her complains, she visited him before taking care of her plants. Imani interprets that as Sensei and Wakana having a relationship and apologizes for interrupting their reunion, but Wakana informs her that she is in a relationship with another woman . Sensei keeps the conversation going for a while, finally making the suggestion that they either celebrate their new friendship or end the conversation and leave the office. Wakana instead offers to continue their hangout at the maid cafe as long as there are no more weird assumptions about their relationship. Sensei agrees and Imani cries tears of joy for being included, but tries to stop when Wakana threatens to end their friendship if she continues.",
+        "participating_characters": [
+            "Sensei",
+            "Wakana Watabe",
+            "Imani Imai"
+        ],
+        "trivia": [
+            "If Sensei does not have at least 20 Ayane Lust , triggering this Event will fail Out With the Old !",
+            "If Sensei does not have at least 20 Haruka Lust and 20 Sara Lust , triggering this Event will fail Engulfed !",
+            "If Sensei does not have at least 20 Kirin Lust , triggering this Event will fail The Other Half !"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Three Amigos",
+            "event_script_names": "christmastwo1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "wakanareturns"
+        ],
+        "music_tracks": [
+            "wewereangels.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Metal in Microwaves",
+        "next_event": "The Reliable and Totally Legitimate Princess Imani"
+    }
+}

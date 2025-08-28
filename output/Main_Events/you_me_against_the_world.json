@@ -1,0 +1,55 @@
+{
+    "event_id": "you_me_against_the_world",
+    "event_title": "You & Me Against the World",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=You_%26_Me_Against_the_World",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.19",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Rhythm of a Black Heart \" . This event belongs to an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "-10 Touka , Tsubasa , Tsukasa Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Sensei's Bedroom",
+            "Tsukioka Apartment Complex - Unoccupied Room"
+        ],
+        "synopsis": "Sensei once again vocalizes the decay of people's affection for him, all while Ami frantically attempts to comfort him. She apologizes profusely for leaving him tonight, explaining that she hadn't anticipated either of them being anywhere but the Christmas party. Filling in the gaps of Sensei's words once again, she agrees that this home is no longer safe, anticipating that more of the class will begin to pop up now that the first has already cracked. Unexpectedly, Sensei speaks up, cryptically asking where \" she \" is and claiming it's all his fault she's gone. Hearing this, Ami insists to him that he's never done anything wrong and that it's everyone else who is evil and out to get him. She claims they failed, though, as he still came running back to her when breaking. Ami begins to break, admitting that despite her best efforts, she still can't be the perfect replacement for her mother . She's stunlocked by \"Sensei's\" admission that he's seen her lately in his dreams. Ami similarly reveals that she sees her there too, sometimes with him, sometimes with her father. Despite her attachment, she feels Sensei's a much better father figure, as he's been with her longer and has seen her grow up into a \"special girl\" who'd do anything for him – If he wants someone gone, all he needs to do is ask. The only alternative is leaving town and escaping past the barrier. Sensei speaks up in protest at this idea, shocking Ami who quickly rationalizes this as a symptom of his decaying mental state. She asks him to close his eyes and picture the happiest moment in his life, confident it's a moment with her – Unbeknownst to Ami, Sensei pictures his birthday trip with Maya, recalling the moment they spent together watching the fireworks. Opening his eyes, he begins to cry, with Ami hastily trying to calm him down. He meekly asks if \" it \" is over and if Maya is really gone. Ami shuts down this topic immediately, not wanting to hear more about it and telling him that she's abandoned him because she never truly cared. While combating unheard voices, she dismisses his attempts to fight against this, declaring that she'll work harder at keeping \"bugs\" such as Uta and Io out. All these intrusions are undue obstacles in a life Ami desperately wants back – A life she'll fight tooth and nail for to preserve. She beckons Sensei to bed, telling him to close his eyes and drink his milk, reciting a rhyme as she retrieves another Christmas story. All the way across town, the Tsukiokas are gathered in a unit in Touka 's recently purchased apartment block. A narrator speaks up, claiming that this building was purchased not out of selflessness or to gain experience in real estate but to get closer to someone. They reveal just how truly selfish Touka's thoughts are and how desperately she attempts to fight them, shelving the feelings and disguising her relief behind faux apologies . Touka rarely lied, yet she's incredibly skilled at it, having inherited the ablilty from her mother . Tsubasa Tsukioka is an exceptional liar, so exceptional that she had all but convinced both her daughters of her own purity, all while harboring darkness in her heart that she already passed down to and slowly grows in both of them. The narrator dismisses the claim that such darkness has consumed Tsukasa yet. They assert the truth that, being the second child, Tsukasa was expendable, merely a failsafe in case some tragedy were to befall Touka. This was a truth the youngest knew quite well, and while she'd pray for such aforementioned tragedies at some nights and during fits of jealousy, she'd cry soon after, unable to truly despise her sister or her family. The narrator moves on, revealing tonight to be one of creation as Touka prepares something unsaid. They warn that these acts will attract people who want to feed on her kindness, unknowingly spreading their darkness across the world, though they can only make conjectures regarding the future since both the past and present often \"rewrite\" themselves. Tsubasa speaks up, confirming with her eldest daughter appointments for contractors to come by for repairs and inspections. She also asks if Touka's recently spoken with Chika , confirming that she hasn't as she's been far too preoccupied with the apartment building. Chika has been similarly busy, distracted almost entirely by Sensei's absence, which Tsubasa feels might explain her daughter's recent attitude. Touka insists she's perfectly fine but becomes increasingly frustrated by her mother's teasing and, especially, her prying. She questions her mother's personal interest in Sensei as well as her recent decision to have Tsukasa tutored by him, but Tsubasa justifies the former with her being friends with him and the latter with Tsukasa taking a liking to him, something the aforementioned girl corroborates. Fed up, Touka forces her mother and sister out of the housing unit.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Tsubasa Tsukioka",
+            "Touka Tsukioka",
+            "Tsukasa Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "You & Me Against the World",
+            "event_script_names": "springtime18",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amiconsoles",
+            "hanabi",
+            "horsing"
+        ],
+        "music_tracks": [
+            "thingsthathurt.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Rhythm of a Black Heart",
+        "next_event": "Miserably Ever After"
+    }
+}

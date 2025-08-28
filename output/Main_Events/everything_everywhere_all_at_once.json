@@ -1,0 +1,55 @@
+{
+    "event_id": "everything_everywhere_all_at_once",
+    "event_title": "Everything Everywhere All At Once",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Everything_Everywhere_All_At_Once",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.23.15",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Creatures of Habit \" . This event belongs to an event chain started from \" Wither \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High",
+            "Kumon-Mi High - Classroom"
+        ],
+        "synopsis": "Sensei walks down the school hallways, thinking how his live has mostly returned to normal and how some new developments, like Ayane teasing Maya , are a welcome distraction after all the drama of the last reset . This includes how they almost lost Maya, but he admits he wasn’t upset because it was her specifically since he would’ve been equally depressed if anyone else was in that situation. He still thinks everything will be fine after this before Wakana approaches him and asks if he can invite Imani to a night-out to the bar for her. Sensei is surprised to hear this, considering the disrespectful sign on her office , but she didn’t do it to offend her but to keep her away from her only place of rest inside the school. Sensei agrees to inform Imani but wants to know why he isn’t invited, and she tells him that she doesn’t want an older man ruining their fun. She uses this to start berating him for his incompetence until he decides to leave, only to be stopped by her when she needs another favor from him. She first asks him if he can support her as a secondary adviser during her club practices, but when he doesn’t give her a straight answer, she instead asks him to keep her club a secret to prevent Nodoka from joining it. He agrees in exchange for her age to see if she’s really younger than him, only for it to be confirmed when she reveals to be 28 years old. Meanwhile in Sensei’s class, the girls are occupied with the club migration.",
+        "participating_characters": [
+            "Sensei",
+            "Wakana Watabe",
+            "Chika Chosokabe",
+            "Yumi Yamaguchi",
+            "Touka Tsukioka",
+            "Yasu Yasui",
+            "Molly MacCormack",
+            "Ami Arakawa",
+            "Tsuneyo Tojo",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Everything Everywhere All At Once",
+            "event_script_names": "chapthree6",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "newsummerstuff"
+        ],
+        "music_tracks": [
+            "notabluearchivesong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .25p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Creatures of Habit",
+        "next_event": "Normal-ish"
+    }
+}

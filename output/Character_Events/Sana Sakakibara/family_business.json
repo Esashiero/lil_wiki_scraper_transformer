@@ -1,0 +1,48 @@
+{
+    "event_id": "family_business",
+    "event_title": "Family Business",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Family_Business",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Visit the Bar in the evening for the first time.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a"
+        ],
+        "synopsis": "Sensei visits a bar and discovers Sana working there. She is worried that Sensei will report her for breaking school rules, but he assures her otherwise. After Sana fetches Sensei a beer from the cooler, they discuss the bar, which is owned by Sana's mother and is not as successful as it once was. Sensei suggests that Sana should try to work on her social skills, and volunteers to help her do that. Afterward, Sensei leaves and heads home.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Family Business",
+            "event_script_names": "firsttimebar",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "firstbar"
+        ],
+        "music_tracks": [
+            "calmbar.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Learning to Talk )."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "Nothing to Do"
+    }
+}

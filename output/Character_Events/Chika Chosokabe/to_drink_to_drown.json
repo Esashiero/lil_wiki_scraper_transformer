@@ -1,0 +1,50 @@
+{
+    "event_id": "to_drink_to_drown",
+    "event_title": "To Drink, To Drown",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=To_Drink,_To_Drown",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 4",
+    "interactivity": {
+        "requirements": "Thursday You must have seen or permanently missed the following Events: Seen \" Della \" from Ami Arakawa",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event will occur automatically on the next available Thursday.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Light Music Club Room"
+        ],
+        "synopsis": "Another uneventful day of school without Sensei passes, which some narrator notes has left all girls in a state of restless listlessness. One such restlessly listless girl is Chika , who stares out a window, contemplating just why her days have lacked such excitement as of late. Her role as oldest and most liked or feared girl in class would leave the responsibility to reestablish order among the girls to her, but as she asks the nearby Rin about jumping off a bridge, it becomes clear she is unfit to lead. The narrator continues, informing the audience that Chika's recent lack of need to be on guard has sapped her of the motivation she once had, and, whilst she dreams at night of being whisked away by the wind, the only thing which will help her regain her momentum is herself. The narrator clarifies that the metaphorical field they're trapped in is actually a farm, and only those who realize they're big enough to jump over the fence surrounding them can move over it. After clarifying her earlier bridge comment, Chika asks if she can be allowed to vent a bit, lacking other friends to do so. Rin's fine with this, though warns she might be of little help. Chika prefaces that this will be about guys, something she assumes Rin will have trouble with due to her soreness over her breakup with Otoha . She reminds Chika that Otoha was a girl , though concedes the general topic of romance will be difficult given her own failures. Chika quickly assures her that the relationship failing was Otoha's fault, before moving on. To no one's shock, Chika reveals she's talking about Sensei. His two months of absence, combined with their last few interactions have given her the impression a gap has formed between the two of them. She specifically cites his recent promise to babysit, and how he disappeared hours prior without telling her. Rin can understand why he did this, pointing out that the entire class saw how miserable he looks after losing something important to him, and that demanding a favor from him in his condition was rather inconsiderate of her. Chika agrees, realizing she got too caught up in excitement to really consider how he'd feel. How Sensei feels has been a real concern for her as of late, recounting his recent denial of time together and worrying about the intricacies of his decision. In this regard, Rin is unable to help, and the conversation moves on. Chika decides to focus on what steps to take to avoid disaster instead, hoping this situation will soon blow over and she'll have more mistakes to learn from . Rin questions if there have been any mistakes on her part at all, feeling that she's extremely level-headed and rational. Chika asserts that small mistakes are inevitable in all relationships and that the real struggle will be accepting that Ami can help whilst she can't. She takes the opportunity to insult Ami, something Rin, while agreeing she crossed a line, objects to as Ami isn't around to defend herself, and she clearly needs serious mental help if her state of mind has led her to say uncomfortable and hurtful things to everyone in class. Chika quips that little exists that could defend Ami in her eyes, especially with the blackmail she's taunting with. She does, however, take comfort in the fact that Ami is unlikely to do anything that could seriously damage Sensei's image. Rin tells her that she's thinking too much about him and too little about herself, warning that such one-sided expectations are what caused lots of fighting in her own relationship. Chika dismisses this advice, claiming that Sensei isn't nearly as evil as Otoha, but Rin finds this hyperbolic, stating Otoha's only crime was not actually loving her – Chika retorts that the real crime was her pretending she did. Her venting finished, Chika asks Rin if she still intends to go to work or wants to see her new apartment instead. While Rin wants to see it, she chooses to got work as she's currently trying to get promoted and needs the hours to prove her worth, with Chika leaving her offer open. After Chika thanks her for listening, Rin takes off.",
+        "participating_characters": [
+            "Chika Chosokabe",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on Sensei's choice during Our Time Atop This Mattress . If Rin was chosen, Chika will inform her about her plan, with Rin having a hard time believing that Sensei chose her for it. After some convincing and embarrassment, both agree to postpone this discussion, because Rin needs some time to think about it. If someone else was chosen, no additional dialogue occurs.",
+            "If Rin was chosen, Chika will inform her about her plan, with Rin having a hard time believing that Sensei chose her for it. After some convincing and embarrassment, both agree to postpone this discussion, because Rin needs some time to think about it.",
+            "If someone else was chosen, no additional dialogue occurs."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "To Drink, To Drown",
+            "event_script_names": "chikaspring3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikarinmusic"
+        ],
+        "music_tracks": [
+            "ame.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Original Sin",
+        "next_event": "Rabies"
+    }
+}

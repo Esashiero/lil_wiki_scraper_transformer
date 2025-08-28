@@ -1,0 +1,48 @@
+{
+    "event_id": "opposites_attract",
+    "event_title": "Opposites Attract",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Opposites_Attract",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.12.4",
+    "interactivity": {
+        "requirements": "Monday You must be on at least Day  244  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Uta's Last Stand \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Monday on or after Day 244.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Front Gate",
+            "Bathhouse"
+        ],
+        "synopsis": "While exiting the main building after an uneventful day, Sensei is stopped by Uta , who pokes him in the chest in a weird attempt to ask for a favor. Once asked, she explains that she has a friend in another class and wants to try to get her transferred into Sensei's class. He's unsure if he could achieve this, but when Uta reveals that she's in Wakana 's class and already has her permission to transfer her friend, he feels like he can fulfill her request. Uta gets excited and guides him to her friend's home, which turns out to be a public bathhouse she's also employed at, so he can get a first impression of her. While on their way, Sensei hopes that having a friend of hers in his class will calm Uta down, being a bit tired of her being basically inseparable from him. After reaching the bathhouse, Uta introduces her friend Io Ichimonji , who's currently working as the receptionist. After revealing that she still remembers him from his last visit with Ayane , Io wonders what both are doing here, and Sensei explains that Uta tries to get her transferred into his class, which confuses her due to him not knowing anything about her. Sensei tells her that Uta vouching for her is all he needs, though asks that he keeps his last visit a secret, which she can do since it's none of her business. Io wonders when she can transfer into his class, being rather uncomfortable without Uta around. As the conversation goes on, she gets more and more excited about her transfer, which peaks when Sensei reveals that he has the smallest class in his year. Seeing how antisocial Io is, Sensei wonders how someone as sociable as Uta ended up becoming her best friend, and the girls explain that both met each other online, having convinced themselves that the other was a boy, and, despite the misunderstanding, became close friends once they met in person. Io changes the topic by asking if she gets a room in the dorms, and Uta reveals that getting Io in his class was also an attempt to get a roommate, only for that conversation to derail a bit when Io makes some questionable statements and starts spacing out after remembering a detail from Sensei's last visit. Sensei and Io come to an agreement, and Io sweetens the deal by revealing one of Uta's secrets, which causes a defeated Uta to call her mother.",
+        "participating_characters": [
+            "Sensei",
+            "Uta Ushibori",
+            "Io Ichimonji"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Opposites Attract",
+            "event_script_names": "day244",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "utapoachesio"
+        ],
+        "music_tracks": [
+            "oldweather.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.12p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Uta's Last Stand",
+        "next_event": "All Kinds of People, All Kinds of Things"
+    }
+}

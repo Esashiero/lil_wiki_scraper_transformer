@@ -1,0 +1,51 @@
+{
+    "event_id": "frogger",
+    "event_title": "Frogger",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Frogger",
+    "event_type": "Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must be on at least Day  55  to unlock this Event. You must have seen or permanently missed the following Events: Seen \" Rising of the Tide \" from Makoto Miyamura",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event will occur automatically on the first weekday on or after Day 55.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Pool"
+        ],
+        "synopsis": "Sensei Is preparing to head to the counselor's office after school ends, but Makoto appears and stops him. Noticing she's not wearing her glasses today, Sensei pretends not to know her, which aggravates Makoto until she blackmails him into acting normally by mentioning swimsuits. She mentions that it's their class's turn to clean the school swimming pool area, and when he points out his lack of swim trunks, she says she left some in his desk in the office. She tells him she'll be waiting, and despite him saying he doesn't know where the pool is , she heads off, leaving Sensei to get ready. Eventually, he manages to find the pool area, and Makoto tells him they only need to clean the perimeter, as the pool itself is professionally cleaned. Sensei asks Makoto for permission to say something mildly creepy, and after a moment's debate, she allows this. Surprised at how tame Sensei's comment is compared to what she was expecting, Makoto tells Sensei to get to work as she starts working herself. Sensei tries to take a break immediately, but Makoto calls him out, and he asks her why no one else is helping. She says Yumi and Chika were supposed to help, but Chika likely forgot, while both she and Sensei easily recognize that Yumi would likely never have shown up. After a bit of questioning as to Chika's living situation, Sensei goes quiet, surprised at how big Makoto's heart truly is. Makoto teases him for having gone quiet, but becomes shocked when he tells her just how good of a person she is. After a moment of silence and a retaliatory tease from Sensei, Makoto thanks him for the compliment, remarking how good it feels to be recognized by anyone since the rest of the class doesn't typically think about it. Makoto asks Sensei when he began to see her as more than simply the top student in class and his assistant, he says it's been a while, and Makoto remarks it has to have been even before he found out where she works. She asks him whether or not he's playing with her feelings, and when he tries to answer that he isn't and that that in itself is the problem, she pretends to fall into the pool and, despite his protests, drags him into the pool with her. After getting resituated, Makoto, noticing Sensei has become slightly aroused, tells him they'll need to talk later. She reassures him this will be a talk he will enjoy, and the two clean the pool before Sensei leaves to go about his evening.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura"
+        ],
+        "trivia": [
+            "If Chika has invited Sensei to meet Chinami , he and Makoto will discuss Chika's living situation in more detail.",
+            "Majin's Note: even without automatic tools to do it for you, cleaning swimming pools is way more boring than this in most cases. Trust me, I have personal experience with this. Also - not all pools, and especially not pools smaller than this, are cleaned by professionals."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Frogger",
+            "event_script_names": "makotonew1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotopool"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Rising of the Tide",
+        "next_event": "Sowing the Seeds"
+    }
+}

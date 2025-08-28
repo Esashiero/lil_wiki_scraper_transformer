@@ -1,0 +1,46 @@
+{
+    "event_id": "what_it_takes_to_move_forward",
+    "event_title": "What it Takes to Move Forward",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=What_it_Takes_to_Move_Forward",
+    "event_type": "Event",
+    "primary_character": "Niki Nakayama",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Saturday 20 Niki Affection Seen \" A Thousand Years \"",
+        "to_get_this_event": "Call Niki in the morning after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Playground"
+        ],
+        "synopsis": "Sensei calls Niki in the morning, hoping to make up with her after leaving her alone on Christmas. Immediately, she's fed up with him, and his shallow attempts at flattery push her to hang up. Panicking, he confesses he'd have gone with her had he had a choice . Taken aback, Niki gives him an address and tells him to meet with her in an hour. Arriving at a playground , and after commenting on her exhausted appearance, Sensei apologizes for Christmas, saying there are few things he'd rather be doing than be with her. Niki rolls her eyes, saying how he always squanders opportunities like that, especially since he always steps \"in the wrong direction\". She tells him that she's worried about him, that he's been a mess for a long time, but can't just stay mentally a teenager because he's afraid of growing up. Niki apologizes for being so blunt, but Sensei stops her, saying he appreciates her honesty when everyone else in his life tries to be gentle with him. She reminds him that she knows him better than anyone else would - After all, they were friends before they were a couple. As Niki takes the time to think back to how they used to be, she reveals the playground she brought them to is where they first met. They walk further along the sidewalk, taking a seat under an old tree. Niki comments that it's a nice view, especially since you can't see the border from it. Sensei quips she'd probably be allowed out due to her popularity, but Niki dismisses the idea, feeling she has to stick behind to look after him - Though she does joke it's so she can look after Noriko.\nNiki takes the opportunity to gush about her sister, being impressed by how independent she's become, but recognizing that no one is so independent as to not need help. And some of that help can only come from Sensei. He promises to do his best. Sensei thanks Niki for always putting up with his depressive episodes, but feels she'd be better off cutting him out of her life, as he deserves to suffer alone. Niki shrugs this off, saying how he needs someone like her even if he doesn't think he deserves it. Confused as to why he left Niki in the first place, Sensei hopes his memories fully return soon. Niki offers to help with that, asking him if he's free for the rest of the day.",
+        "participating_characters": [
+            "Sensei",
+            "Niki Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "What it Takes to Move Forward",
+            "event_script_names": "nikilovesyou1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nikitired"
+        ],
+        "music_tracks": [
+            "starvingtodeathoutofreachofthesun.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Dear You",
+        "next_event": "The End of the Tour (Glasswalker)"
+    }
+}

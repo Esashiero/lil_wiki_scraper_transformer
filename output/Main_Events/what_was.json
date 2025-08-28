@@ -1,0 +1,53 @@
+{
+    "event_id": "what_was",
+    "event_title": "What Was",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=What_Was",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.14.6",
+    "interactivity": {
+        "requirements": "Friday You must be on at least Day  271  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" What Is \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Friday on or after Day 271.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Noriko Affection",
+            "+50 Niki Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi - Streets",
+            "Studio"
+        ],
+        "synopsis": "Sensei and Ami walk home together once school is over, and Ami wants to know what he thinks of Maya 's new uniform and twists his answer into a compliment about herself. He finds it weird how she can do this so effortlessly with everything she hears, but she reminds him that she couldn't do so with the things Noriko said and demands an answer for her question on how she knows them , and Sensei tells her some of the information he received from Noriko the day before. It doesn't explain why Noriko knows her, though, and he assume they met once or twice during his time as her tutor. Unbeknownst to them, Noriko has followed them and uses their discussion about dinner to approach them, but Ami lashes out at her for inserting herself into their private time. Noriko begs Ami to let her borrow her uncle, and while Ami resist at first, Noriko being nice throughout the entire conversation makes it hard to stay mad at her and she reluctantly agrees. Noriko thanks her and pulls Sensei away. While on their way, Noriko tells him that she wants him to meet her sister, humming a song of hers along the way. Sensei is surprised to learn that his childhood friend is a musician, but Noriko is even more surprised that he doesn't know that already, considering that her sister is the famous pop-singer Niki Nakayama , and fears that his lack of knowledge will cause some issues. He wonders why Noriko wants him to meet her, and she explains that it's only fair when Niki also knows that he's back, because his disappearance hit her very hard, considering that they were together for five years. Inside an unknown studio, Niki is currently advertising a product for a commercial until Noriko interrupts the shoot. Niki is frozen in place after seeing Sensei, and he wonders if she will be relieved and glad about his return – She ends up being resentful and furious towards him instead. Both sisters start an argument when Noriko claims that Sensei is hers now, and the director wants everyone to take a break so Niki can calm down again. Still furious, Niki bombards Sensei with questions about his sudden return and tries to brag about her fame and how he probably regrets not trying to get back to her earlier, but Noriko informs her that Sensei has amnesia, is completely unaware of her success and has never heard her music before. Niki doesn't buy his amnesia story for a second and points out that one of her songs is playing right now, with Sensei vaguely recognizing the song and remembering his niece listening to it. Niki's mood changes immediately to concern after hearing about Ami, but once Noriko confirms that Ami is doing well, she switches back to being angry. Sensei feels like he should at least fake an apology, blaming his amnesia, but she doesn't accept it. She has to get back to work, but takes his phone and, after she unlocks his phone due to her somehow knowing his password, types in her number so he can at least contact her if he decides to disappear again. Once she slipped back into her idol role and enters the set, Noriko reaffirms that she will win Sensei this time, but he doesn't believe that Niki will try to get him back and only wants closure for their failed relationship.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Noriko Nakayama",
+            "Niki Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "What Was",
+            "event_script_names": "day271",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "reunion"
+        ],
+        "music_tracks": [
+            "wewereangels.mp3",
+            "shiningstarvocals.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.14."
+        ]
+    },
+    "navigation": {
+        "previous_event": "What Is",
+        "next_event": "Annabel Lee"
+    }
+}

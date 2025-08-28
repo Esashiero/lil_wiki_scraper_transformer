@@ -1,0 +1,50 @@
+{
+    "event_id": "between_the_slurps_of_pork_broth",
+    "event_title": "Between the Slurps of Pork Broth",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Between_the_Slurps_of_Pork_Broth",
+    "event_type": "Event",
+    "primary_character": "Tsuneyo Tojo",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Tsuneyo Affection You must have seen or permanently missed the following Events: Seen \" Snake Venom \" from Tsuneyo Tojo",
+        "to_get_this_event": "Visit the Tojo Ramen",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Tsuneyo Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tojo Ramen"
+        ],
+        "synopsis": "Sensei visits Tojo Ramen and has a philosophical conversation with Tsuneyo . She turns out to be hiding a knife behind her back — there is a boring explanation for it, but she makes an attempt to be \"quirky\". Sensei thinks it's \"actually kind of impressive\" how bad she is at communicating, unless she's actually very good at acting. She says that she will get better in time, and become \"more than just a mysterious noodle-woman\". She also says that she isn't as sheltered as he thinks, since she overhears a lot while working in the ramen shop.",
+        "participating_characters": [
+            "Sensei",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": [
+            "74 68 65 72 65 20 69 73 20 6e 6f 20 67 6f 64 20 68 65 72 65 2e 20 6a 75 73 74 20 6e 6f 6f 64 6c 65 73 2e: there is no god here. just noodles."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Between the Slurps of Pork Broth",
+            "event_script_names": "ramen5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsuneysecondramen"
+        ],
+        "music_tracks": [
+            "kashiwagi.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Life of a Blue Whale",
+        "next_event": "Drug Use & Jump-Rope"
+    }
+}

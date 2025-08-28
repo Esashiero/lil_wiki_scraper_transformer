@@ -1,0 +1,54 @@
+{
+    "event_id": "shohei_ohtani",
+    "event_title": "Shohei Ohtani",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Shohei_Ohtani",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.39(Sports Wars).4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Rivals (Taco Tuesday) \" . This event belongs to an event chain started from \" Ten Tips and Tricks to Make Even Straight Girls Want to Fuck You \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Manga Club Room"
+        ],
+        "synopsis": "After Uta and Chika mourn Sana 's \" death \", Io wonders why she has to compete against Makoto in the trivia quiz instead of Nodoka and why they even have one during a Sports Day. The girls explain that they had to pick someone who is smart enough to be a serious rival, with Makoto noting that Io has consistently high scores in their assignments to be one, while not being seemingly omniscient so Makoto won't die of shame after a second loss, whereas Imani reaffirms her intention to give non-athletic girls a fair chance. At that point, Yumi makes her presence known and reveals that Maya has left the school and will most likely not return, which annoys Chika since she and her floor will most likely play with a one point handicap for the whole contest. After some more banter and another failed attempt from Makoto to reveal the time loop, Uta explains that the quiz will play out similar to the first one , with one big difference being that the contestants have to pick the topic of each question for the other player, and whoever reaches ten points first wins, with optional sudden death rounds if both reach ten points at the same time. The contest begins, and Makoto picks bioengineering as Io's first topic, with Imani now officially allowing advanced questions that aren't covered in their curriculum to be asked as well, and Io can't answer what biotechnology is. Next, Io picks sports as Makoto's topic, and she needs to answer who's the home run leader in the NPB, but since she doesn't now anything about sports, she randomly picks Shohei Ohtani. Io is offended by her answer, revealing that it wasn't even close as the actual leader, Sadaharu Oh, has 868 home runs compared to Ohtani's 48. When multiple girls fawn over Ohtani, with even Yasu and Yumi showing their admiration, Io gets things back on track and has to answer what paradox of thrift is after Makoto picks economics, and Io gets it right. The contest gets sidetracked again when Io makes her desire to be left alone known, which causes a discussion on what separates her loneliness from Yumi's and how Chika sees Io's as toxic and condescending towards those around her, with Imani having to stop that conversation so they stay on schedule. Makoto offers some help by revealing that foreign language is another weak point of hers, though Io wants to do this without her support. Yasu notes how both of them are longing for being embraced and also released from their binding chains, and suggests she asks her about biology to achieve it. Fifteen minutes later, the competition comes to an end when Makoto wins 10-7. However the first floor can't really celebrate this too much as Maya's absence means they technically have zero points total. Yumi reaffirms how she's just wandering aimlessly around, whereas Touka assumes she wasn't feeling well, with Yasu confirming this.",
+        "participating_characters": [
+            "Uta Ushibori",
+            "Chika Chosokabe",
+            "Makoto Miyamura",
+            "Io Ichimonji",
+            "Touka Tsukioka",
+            "Imani Imai",
+            "Futaba Fukuyama",
+            "Yumi Yamaguchi",
+            "Miku Maruyama",
+            "Yasu Yasui"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Shohei Ohtani",
+            "event_script_names": "sportswars4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sportstrivia"
+        ],
+        "music_tracks": [
+            "everythingeverything.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .39.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "War Never Changes: Egg Time Madness",
+        "next_event": "Sea of Balls (Wise Turtle)"
+    }
+}

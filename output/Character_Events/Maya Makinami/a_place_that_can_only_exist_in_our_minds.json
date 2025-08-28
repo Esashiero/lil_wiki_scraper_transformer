@@ -1,0 +1,50 @@
+{
+    "event_id": "a_place_that_can_only_exist_in_our_minds",
+    "event_title": "A Place That Can Only Exist in Our Minds",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Place_That_Can_Only_Exist_in_Our_Minds",
+    "event_type": "Event",
+    "primary_character": "Maya Makinami",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Weekend 35 Maya Affection You must have seen or permanently missed the following Events: Seen \" What it Means to Be Destroyed \" from Maya Makinami Seen \" Like it's Any Other Day \" from Niki Nakayama",
+        "to_get_this_event": "Visit Maya's room on a weekend",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Maya’s room"
+        ],
+        "synopsis": "Maya is tired, but agrees to talk to Sensei if that keeps him away from Noriko . She decides to tell him that although she previously thought that Sensei wasn't really Sensei, she now thinks that he is. Sensei starts to see things, and she notices. He blacks out, and thinks about a baby bird he picked out of a nest. When he wakes up, Maya is distressed — she says that this why she doesn't want to tell him things, and why he should stay away from Noriko. She asks if he wants her instead of Noriko, and says that she'll do it if that's what it takes. Sensei is more interested in answers than her offer (and perceives her as a bird for a while), but she says that she has already told him too much. Sensei suggests that she needs some rest — she agrees.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Place That Can Only Exist in Our Minds",
+            "event_script_names": "mayadorm35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "imissyou",
+            "whygodwhy"
+        ],
+        "music_tracks": [
+            "beginningoftheend.mp3",
+            "painisreal.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Now More Than Ever",
+        "next_event": "Stop Looking For Answers"
+    }
+}

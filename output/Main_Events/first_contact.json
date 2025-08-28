@@ -1,0 +1,57 @@
+{
+    "event_id": "first_contact",
+    "event_title": "First Contact",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=First_Contact",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.31.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Where the Trees Live .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kaori Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi - Alleyway",
+            "Apartment Building - Apartment #23"
+        ],
+        "synopsis": "Kaori and Sensei , having returned from the forest , get caught in the rain while passing through a familiar alleyway . Sensei thinks to himself about why he bothers putting up with Kaori when her eccentric behavior always leaves him ragged, understanding now why she has no other friends. At the same time, he feels at ease with her, noting that her presence is familiar in a way he can't describe. Kaori apologizes, having interpreted the sudden downpour as a sign that the sky is \"sad\" because of her, which reminds her of her days in the hospital. Sensei asks if the experience has made her appreciate life more, which she struggles to answer due to having no prior memories. She does say, though, that she loves everything about her life and hopes someday to see the outside world, wanting to visit places like Australia and her hometown. She asks him if he has anything he wants, and, after falling silent for a moment, he admits that he wants to feel \"normal\" someday. Kaori struggles to understand this, which he expected and cites as why he might feel comfortable admitting this to her. He thinks back on how open he's become recently and asks Kaori if he's changed at all since they met . Kaori tells him he's the same as he was back then and that if he ever finds himself frustrated by her behavior, to tell her directly so she can learn. He accepts this, admitting to her that she's very difficult to deal with sometimes, especially when she drags him on wild treasure hunts at night. He adds that he probably won't ever leave her though, feeling something like an obligation to stick with her, but preemptively asks for forgiveness should he ever become angry at her. She understands why he finds her confusing, as she feels that something about her isn't quite the way it should be, despite her attempts to blend into society. The moment loops back to its start, but before they talk to each other, both of them look ahead to find something that shocks them. In front of them, they spot a young girl, who's sleeping peacefully against a table despite the onslaught of rain. What shocks both more is the symbol on her hoodie, which matches the map Kaori had been given. The girl stirs before slowly waking up, revealing that not only does she too have heterochromia, but that the colors match Ami and Maya 's eyes. Suddenly feeling scared, Sensei takes a step back while Kaori kneels to talk to the girl. After confirming that the girl isn't lost but cannot speak, Kaori gives the girl the temporary name of \"Nao-chan\", naming her after the kanji on her hoodie. While Kaori is satisfied having found their \"treasure\", Sensei tells her they need to take her to the police immediately. Nao expresses distress at this idea, prompting Kaori to instead suggest they take her back to her place for the night. He tries to stop her but is unable to dissuade her when Nao also expresses approval. Upon arriving at Kaori's apartment, Nao looks around excitedly before abruptly passing out on the bed. Meanwhile, Sensei struggles to convince himself that there's nothing suspicious about Nao. When Kaori declares her mission a success, he sarcastically quips about how weird this situation is, prompting her to suggest they go outside. Standing in front of her apartment door, she confesses that she knows this situation is weird, but can't accept abandoning Nao when it's clear she has no one else. Sensei tries to stress his point but she only becomes suspicious of his discomfort, asking if there's another reason he's so worried. He doesn't explain himself and tells Kaori to keep a close eye on her before deciding to return home. Along the way, he counts the streetlights, managing to convince himself there's nothing to be afraid of and that things will work out. The moment he returns home, though, the thoughts return.",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki"
+        ],
+        "trivia": [
+            "After the event, the game states that Sensei met everyone, meaning Nao is the last girl to join the cast.",
+            "Some of Kaori's dialogue is encoded in hexadecimal. A translation can be found below: \"74 68 65 20 73 74 69 6e 67 20 6f 66 20 64 65 61 74 68 20 68 61 73 20 72 6f 62 62 65 64 20 6d 65 20 6f 66 20 6d 79 20 6f 6e 6c 79 20 67 69 76 65 6e 20 6c 69 66 65\" - the sting of death has robbed me of my only given life \"74 68 65 73 65 20 73 70 61 72 65 20 70 61 72 74 73 20 6d 6f 76 65 20 6d 79 20 62 6f 64 79 20 79 65 74 20 73 68 69 66 74 20 6e 6f 74 68 69 6e 67 20 66 6f 75 6e 64 20 6f 75 74 73 69 64 65\" - these spare parts move my body yet shift nothing found outside \"65 76 65 72 79 20 74 69 6d 65 20 69 20 66 65 65 6c 20 61 20 74 68 6f 75 67 68 74 20 72 75 73 68 20 69 6e 20 69 74 73 20 6d 61 69 6d 65 64 20 61 6e 64 20 6c 65 66 74 20 62 65 68 69 6e 64\" - every time i feel a thought rush in its maimed and left behind \"6e 6f 77 20 69 20 63 61 6e 20 6e 6f 74 20 68 65 6c 70 20 62 75 74 20 77 6f 6e 64 65 72 20 77 68 79 20 69 20 6c 69 76 65 64 20 61 6e 64 20 6e 65 76 65 72 20 64 69 65 64\" - now i can not help but wonder why i lived and never died",
+            "\"74 68 65 20 73 74 69 6e 67 20 6f 66 20 64 65 61 74 68 20 68 61 73 20 72 6f 62 62 65 64 20 6d 65 20 6f 66 20 6d 79 20 6f 6e 6c 79 20 67 69 76 65 6e 20 6c 69 66 65\" - the sting of death has robbed me of my only given life",
+            "\"74 68 65 73 65 20 73 70 61 72 65 20 70 61 72 74 73 20 6d 6f 76 65 20 6d 79 20 62 6f 64 79 20 79 65 74 20 73 68 69 66 74 20 6e 6f 74 68 69 6e 67 20 66 6f 75 6e 64 20 6f 75 74 73 69 64 65\" - these spare parts move my body yet shift nothing found outside",
+            "\"65 76 65 72 79 20 74 69 6d 65 20 69 20 66 65 65 6c 20 61 20 74 68 6f 75 67 68 74 20 72 75 73 68 20 69 6e 20 69 74 73 20 6d 61 69 6d 65 64 20 61 6e 64 20 6c 65 66 74 20 62 65 68 69 6e 64\" - every time i feel a thought rush in its maimed and left behind",
+            "\"6e 6f 77 20 69 20 63 61 6e 20 6e 6f 74 20 68 65 6c 70 20 62 75 74 20 77 6f 6e 64 65 72 20 77 68 79 20 69 20 6c 69 76 65 64 20 61 6e 64 20 6e 65 76 65 72 20 64 69 65 64\" - now i can not help but wonder why i lived and never died"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "First Contact",
+            "event_script_names": "treasureisland",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "unmatchingeyes"
+        ],
+        "music_tracks": [
+            "rainloop.wav",
+            "itsingsinitssleep.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .31.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "White-Fronted Parrot",
+        "next_event": "All For You"
+    }
+}

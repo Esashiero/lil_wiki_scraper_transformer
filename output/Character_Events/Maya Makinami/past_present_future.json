@@ -1,0 +1,48 @@
+{
+    "event_id": "past_present_future",
+    "event_title": "Past/Present/Future",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Past/Present/Future",
+    "event_type": "Event",
+    "primary_character": "Maya Makinami",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Maya Affection",
+        "to_get_this_event": "Visit the Shrine on a weekend afternoon once all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shrine"
+        ],
+        "synopsis": "Sensei visits the shrine again, noting how the days are growing hotter and the stairs seemingly more difficult to climb. He also notes this is no longer sufficient burden to keep him from coming, and finds Maya taking shelter in the shade, seemingly meditating. Upon realizing Sensei will not leave her be, she opens her eyes, saying she'd hoped ignoring him would get him to leave. She tells him to sit if he wishes to speak with her, and he does so. Sensei sits, thinking on Maya's posture, and Maya asks from his thoughts - he replies that she wouldn't be interested in one, and she becomes surprised to learn said thought is simply Sensei admiring her posture and properness for what it is. Sensei asks why Maya always insists on being so hostile toward him, and she reiterates that she essentially doesn't need a reason, but also says she is simply disgusted by him. Maya then talks about Sensei's arrival in the world and how he should know by now he cannot fool her, and then asks whether being awake or asleep - something Sensei had asked her upon spotting her - really even matters. Sensei is thoroughly confused by this philosophy, and then becomes even more confused when Maya takes the opportunity to begin trying to explain her deterministic point of view in terms he can understand. He tries to figure out where this perspective came about, only for Maya to retort with an unnaturally dark comment, which she rescinds and apologizes for. Sensei tires to forget about that and figure out who Maya really is, to which she responds once again that she is just a normal teenage girl, but Sensei has immense trouble understanding that due to his own circumstances. After pondering and seemingly figuring out how Maya's perspective could be interpreted, he tries to ask a question, only for Maya to tell him off and appear to fall asleep sitting in the same position. Sensei stays around for another thirty minutes to test whether she's actually asleep, then gives up and leaves to go about his evening.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Past/Present/Future",
+            "event_script_names": "shrine10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mayasit"
+        ],
+        "music_tracks": [
+            "hammockofpeace.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Secrets Worth Keeping",
+        "next_event": "Rewind/Repeat/Refuse"
+    }
+}

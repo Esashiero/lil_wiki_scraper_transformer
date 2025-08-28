@@ -1,0 +1,52 @@
+{
+    "event_id": "loxonin",
+    "event_title": "Loxonin",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Loxonin",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "35 Miku Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" What Was \" Seen \" One. Two. Three. \" from Miku Maruyama",
+        "to_get_this_event": "Visit the Soccer Field",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Soccer Field"
+        ],
+        "synopsis": "Miku has hurt her ankle, and although she vetoes Kirin 's helpful suggestion that Sensei give her mouth-to-mouth, she does eventually accept a piggyback ride to the nurse's office. Once there, Miku declines Sensei's offer to try his \"miracle cure\", citing what happened when she got a massage . They talk a bit about Kirin (who Miku considers a good friend despite the rumors she hears), Makoto (who is still paying Miku to talk her up), and the various new arrivals in the class.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama",
+            "Kirin Kanda"
+        ],
+        "trivia": [
+            "Different dialogue if Kirin is still virgin",
+            "Loxonin, also known as Loxoprofen outside of Japan, is an NSAID used to treat pain and inflammation."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Loxonin",
+            "event_script_names": "soccer35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikuankle"
+        ],
+        "music_tracks": [
+            "highspeedprinter.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "One. Two. Three.",
+        "next_event": "To Sleep, Perchance to Dream"
+    }
+}

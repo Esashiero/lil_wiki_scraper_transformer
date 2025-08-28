@@ -1,0 +1,53 @@
+{
+    "event_id": "recall",
+    "event_title": "Recall",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Recall",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.5.5",
+    "interactivity": {
+        "requirements": "Monday You must be on at least Day  96  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Stronger I Become \" Seen \" You and Me \" from Maya Makinami Seen \" Imprinting \" from Ayane Amamiya",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Monday on or after Day 96.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kimon-Mi High - Front Gate",
+            "Convenience Store"
+        ],
+        "synopsis": "Sensei , Ami , and Maya leave school together. Sensei and Ami think Maya is behaving a little oddly, and Maya suddenly cancels her plans with Ami because she has somewhere else to be. Not wanting to walk in the heat, Ami gets a piggyback ride to the convenience store from Sensei. Ami asks Sensei what will happen at the end of the school year, which is not far away. Sensei tries to assure her that he might still be her teacher after that, but doesn't actually have a plan to achieve that.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami"
+        ],
+        "trivia": [
+            "Two scenes in the event will be extended if Sensei started an intimate relationship with Ami in No One Can See Us ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Recall",
+            "event_script_names": "day96",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "newrecall",
+            "amicon"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.5."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Stronger I Become",
+        "next_event": "Rewrite"
+    }
+}

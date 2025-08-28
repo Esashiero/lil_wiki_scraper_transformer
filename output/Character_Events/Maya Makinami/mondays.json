@@ -1,0 +1,48 @@
+{
+    "event_id": "mondays",
+    "event_title": "Mondays",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Mondays",
+    "event_type": "Event",
+    "primary_character": "Maya Makinami",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "Monday You must have seen or permanently missed the following Events: Seen \" A New Beginning \" from Maya Makinami",
+        "to_get_this_event": "Visit Maya in the School Dorms ' first floor hallway for the first time.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - First Floor Hallway"
+        ],
+        "synopsis": "Sensei arrives in the dorm hallway to find Maya at the entrance to her room, about to enter. He attempts to greet her, only to be harshly rebuffed and insulted. He laments the two people who hate him the most being in the hallway on the same evening, to which Maya's response is effectively the simple fact that the day happens to be a Monday. Sensei attempts to ask her what she's doing for the evening, only for her to launch into another tirade of plainly-delivered insults, before demanding he never speak of their conversation with anyone and promptly heading into her room. He leaves to head home and go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Mondays",
+            "event_script_names": "mayafirsthall",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mayahall"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Opening the Door )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A New Beginning",
+        "next_event": "Different Worlds"
+    }
+}

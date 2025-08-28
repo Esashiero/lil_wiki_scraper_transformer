@@ -1,0 +1,50 @@
+{
+    "event_id": "human_females",
+    "event_title": "Human Females",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Human_Females",
+    "event_type": "Event",
+    "primary_character": "Kaori Kadowaki",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Tuesday 40 Kaori Affection You must be on at least Day  609 to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" First Contact \" Seen \" Suffer the Same \" from Makoto Miyamura",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Tuesday on or after Day 609.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kaori Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Classroom",
+            "Kumon-Mi High - Sensei's Office"
+        ],
+        "synopsis": "As the bell rings for lunch, Makoto comes up to Sensei , inviting him to eat lunch on the rooftop. He initially rejects this sarcastically, apologizing when called out and explaining that he's been stressed lately due to a lot happening lately. She offers to let him talk about it, and he, feeling particularly talkative, accepts, beginning to recount the parts of his life he can remember – This is immediately interrupted by Kaori suddenly walking into his class, surprising them both. She confusedly asks Sensei for help \"sitting on a child\", leading him to tell Makoto to eat without him as he deals with this situation. Stepping outside, he finds Nao waiting patiently for him and Kaori. After lecturing the two on why appearing randomly at school is dangerous, he forces the two into his office to continue this discussion. While Nao rummages around Sensei's office, he and Kaori sit off to the side. She confides in him that taking care of Nao has been much more stressful than she thought and asks him if he knows what to do. When his suggestion of returning her to her family is deemed impossible, he tells her to find someone who can take care of Nao. As she suggests he join her in parenthood, Makoto walks in, demanding an answer as to what's going on. The two quickly fill her in on the details, leading her to first confirm that Nao's fine living with Kaori before accepting the situation, not bothering questioning anything at this point. Kaori continues her proposal for him to become Nao's surrogate father, citing Nao's fondness of him, although Nao herself shrugs when asked, and trying to bribe him with free food. Despite all this, Sensei rejects her idea, reminding Kaori that Nao's mature enough to function in the outside world and all she needs to do is educate her on the things she doesn’t know. Makoto's a bit annoyed by him giving Kaori genuine advice while she only gets unhelpful ones , but does step in to help, offering to take care of Nao herself. Kaori and Nao exchange surprised looks, before both erupting into a burst of emotion as they fear being separated – Having recognized that Kaori was simply stressed, Makoto decided to rile her up by threatening to take Nao away. Now determined to be a good parental figure, Kaori decides to return home and begin school Nao on all she can. As they leave, Kaori asks him to come visit whenever, saying she'd appreciate his presence even if he doesn't want to help parent. While Makoto starts to lecture him on getting involved with strange people, Sensei thinks to himself how they’re the ones getting involved with him and wonders how strange the world must be from the eyes of people as strange as them.",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Human Females",
+            "event_script_names": "kaorispecial40",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kaorischool"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .31.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Where the Trees Live",
+        "next_event": "Run, Rabbit, Run (Why the Fieldmice Hide)"
+    }
+}

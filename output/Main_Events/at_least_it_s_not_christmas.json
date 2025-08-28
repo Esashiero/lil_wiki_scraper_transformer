@@ -1,0 +1,54 @@
+{
+    "event_id": "at_least_it_s_not_christmas",
+    "event_title": "At Least It's Not Christmas",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=At_Least_It%27s_Not_Christmas",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.10.10",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Mechanical Bull \" . This event belongs to an event chain started from \" The Value of Sharing \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate"
+        ],
+        "synopsis": "Sensei walks around the Halloween party at Ayane 's house, talking to various girls. Ayane and Ami compliment each other's costumes, but agree that Maya 's is the best — she has come as Sensei. Rin and Futaba both have costumes reflecting their interests, and Futaba says that she'd have liked to see Sensei in a costume too. Makoto is still lecturing Miku about what happened that morning . Chika is busy on her phone, trying to convince Yumi to make an appearance. Sana is talking to Maya, but leaves after learning more about the costume she's in. Maya is annoyed that Sensei is not more annoyed at her costume choice.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Chika Chosokabe",
+            "Sana Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "At Least It's Not Christmas",
+            "event_script_names": "halloween9",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "halloweenparty"
+        ],
+        "music_tracks": [
+            "letsfuckingo.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Mechanical Bull",
+        "next_event": "Samhain"
+    }
+}

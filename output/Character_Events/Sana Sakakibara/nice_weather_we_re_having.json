@@ -1,0 +1,51 @@
+{
+    "event_id": "nice_weather_we_re_having",
+    "event_title": "Nice Weather We're Having",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Nice_Weather_We%27re_Having",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "20 Sana Affection You must have seen or permanently missed the following Events: Seen \" Scouting Mission \" from Sana Sakakibara",
+        "to_get_this_event": "Visit Sana's dorm room on any day except Friday after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sana’s room"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorm hallway and knocks on Sana 's door. She goes over and asks if it's him, and when he confirms, she lets him into the room, asking him how his day was. Surprised at the development, Sensei replies positively, before the conversation suddenly stalls. Sensei asks if Sana had been playing games, but she says she's been watching TV and texting Ayane . After a brief conversation, the two sit down. Sensei waits for Sana to say something, easily able to tell Sana is having a difficult time thinking of something to say. She comments on the weather, and Sensei internally winces, telling Sana that going that route for a conversation is usually a sign the other person can't think of anything to say. The two discuss Sana's trouble in holding a conversation, before Sensei tries to make a joke that doesn't fully land. He makes another, more suggestive joke, but Sana blanks out on him and he grabs her hand, getting her attention. Once she finally notices this, Sana flies off into a meta-breaking tangent which Sensei has to do his best to snap her out of. He lets go of her hand, and Sana becomes vaguely aware of her surroundings again, though she is clearly frazzled. This is proven to an extreme extent when Sana promptly falls off the couch and lands on the floor. Sensei tries to help her again, but she is unable to recover her faculties, and Sensei eventually heads home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara"
+        ],
+        "trivia": [
+            "This is the first time in the game the fourth wall has been broken to such an extensive degree in a single Event, and it can be theorized that some of the meta-discussion present in this Event is related to Selebus's own struggles with the Patreon platform."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Nice Weather We're Having",
+            "event_script_names": "sanadorm20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "weatherredux",
+            "onthecouch"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.5."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Scouting Mission",
+        "next_event": "Life is a Tomato"
+    }
+}

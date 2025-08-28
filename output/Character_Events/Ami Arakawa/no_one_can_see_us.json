@@ -1,0 +1,60 @@
+{
+    "event_id": "no_one_can_see_us",
+    "event_title": "No One Can See Us",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=No_One_Can_See_Us",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "Weekends 10 Ami Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" O World (In Our Final Moments) \" Seen \" Home Away From Home \" from Ami Arakawa Seen \" Something Darker \" from Ami Arakawa",
+        "to_get_this_event": "Visit Ami at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Yes",
+                "effect": "Sensei will pursue Ami. Event continues"
+            },
+            {
+                "context": null,
+                "option": "...",
+                "effect": "Locked out of Ami content. Event ends early"
+            }
+        ],
+        "effects": [
+            "+1 Ami Affection",
+            "Choosing not to pursue Ami here will fail 12 out of the, currently, 63 Missable Events!"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 5"
+        ],
+        "synopsis": "Sensei visits Ami in her dorm room, arriving later than usual. Maya is spending the night somewhere else, and Ami says that she's a bit nervous staying there by herself. She suggests that Sensei stay the night, and maybe \"cuddle\" a bit to help her fall asleep. Ami says that there's no one to see them, and she wouldn't care if there was. On the bed, she asks Sensei to imagine that they could be \"like this for the rest of our lives\", and asks what he'd do. She insists on a serious answer, even if it's \"something crazy\". Sensei then decides whether he wants to keep his current relationship with Ami, or change it in the way she seems to be suggesting.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "No One Can See Us",
+            "event_script_names": "amidorm10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amidormten"
+        ],
+        "music_tracks": [
+            "sensei.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Ode to a Marsh Warbler",
+        "next_event": "Walking on Air"
+    }
+}

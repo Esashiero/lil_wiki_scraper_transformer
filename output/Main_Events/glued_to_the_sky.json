@@ -1,0 +1,48 @@
+{
+    "event_id": "glued_to_the_sky",
+    "event_title": "Glued to the Sky",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Glued_to_the_Sky",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.23",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Color White \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel - Roof"
+        ],
+        "synopsis": "Sensei reaches the rooftop after the fireworks stop and finds Maya pointing her hand up and looking at the stars. After learning some facts about star gazing, he asks her if having her phone number and this sudden meet-up are signs they're getting closer. She tells him these things don’t mean anything but allows him to think whatever he wants. She decides to sit down and offers him a seat next to her. She tells him that she noticed his shift in personality and asks him what he did to cause it. He confesses that he hurt someone . She isn’t surprised to hear it, but the fact that he is this torn up about it still worries her. Since she asked about what's bothering him, he wants to know what’s bothering her. She feels her archetype crumbling, because, due to recent events, which also include the incident in her dorm room , she remembers how it feels to fear something. She also mentions that the next reset is approaching, which adds to her fears since she doesn’t want him to disappear. He assumes that she feels like that because she loves him, but she recommends him to worry about Niki ’s feeling. She admits that she saw them in the lobby and that he should be happy that only she saw them. She’s worried that her presence could bring back memories, but Sensei doesn’t mind since, due to Noriko ’s gift, he was able to remember something without his mind short-circuiting. Maya finds thsi hard to believe, getting upset how she has to walk on eggshells to make sure he doesn’t break while the Nakayama's are free to say whatever. He wonders if she’s just jealous, but she denies it since she did nothing when she saw him kiss Niki. He adds to this topic by bring up his time with Miku earlier, but she doesn't want to hear about it. He thinks she should just confess to him, but, even if she loved him, she wouldn’t tell him because it would be a massive risk at this point. He apologizes for her vulnerability, for being one cause of it and for not getting her Christmas presents twice in a row, but she doesn’t need his apologies for these things. Despite that, she has an idea of what he can do if he wants to make it up to her — She asks him to spend New Year's Day with her to celebrate her birthday. He accepts, but only if she’s wearing a yukata, which she would’ve done anyway. They separate after this, returning to their friends and eventually returning home. Alone in his room, he opens Molly 's present , revealing it to be a new blue shirt for him to wear. It reminds him that summer's fast approaching.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Glued to the Sky",
+            "event_script_names": "christmastwo20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "remembertoevent"
+        ],
+        "music_tracks": [
+            "hallelujah.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Color White",
+        "next_event": "The Light of Last Summer"
+    }
+}

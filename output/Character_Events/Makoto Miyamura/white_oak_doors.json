@@ -1,0 +1,54 @@
+{
+    "event_id": "white_oak_doors",
+    "event_title": "White Oak Doors",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=White_Oak_Doors",
+    "event_type": "Lust Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "v0.25.13",
+    "interactivity": {
+        "requirements": "30 Makoto Lust",
+        "to_get_this_event": "Have 30+ Makoto Lust before starting the event chain. Autoplays after \" Parallelogram \" . This event is the final event in an event chain started from \" So Far Below \" .",
+        "to_miss_this_event": "Having less than 30 Lust on Makoto before starting the chain. Replaced by Daddy's Girl",
+        "choices": [],
+        "effects": [
+            "+1 Maki Affection",
+            "+1 Makoto Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Porn Shop - Makoto's Room"
+        ],
+        "synopsis": "After struggling to answer Makoto's question , she suggests an alternative way of making her feel better. Sensei refuses, saying she's not in the right mindset for anything, but she forces him through blackmail. Afterwards, he quickly retreats from the Miyamura house, knocking a photo off the walls in anger.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Maki Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "White Oak Doors",
+            "event_script_names": "makotolust30",
+            "event_missed_name": "Daddy's Girl"
+        },
+        "backgrounds": [
+            "rhombus",
+            "makotocouch",
+            "makotonewthree",
+            "makotounderstars",
+            "bluejay"
+        ],
+        "music_tracks": [
+            "asobeatsexdark.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .25p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Parallelogram",
+        "next_event": "A Beautiful Mind"
+    }
+}

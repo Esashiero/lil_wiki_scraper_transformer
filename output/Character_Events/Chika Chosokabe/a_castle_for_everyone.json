@@ -1,0 +1,55 @@
+{
+    "event_id": "a_castle_for_everyone",
+    "event_title": "A Castle for Everyone",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Castle_for_Everyone",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "Not Monday or Wednesday 15 Chika Affection You must have seen or permanently missed the following Events: Seen \" Side Event \" from Chika Chosokabe",
+        "to_get_this_event": "Visit Chika at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - First Floor",
+            "City Streets",
+            "Chosokabe Flat"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorm hallway and knocks on Chika 's door. He waits a moment, then presses his ear to the door, wondering where Chika is, before she comes up in the hallway next to him, still in her uniform. She correctly guesses that he had wanted to hang out, and after a brief internal debate, invites him over to the second half of town to meet her family. Chika runs into her room to grab her overnight bag and a couple water bottles, and after that, the two leave the dorms. On the way to the second half of town, Chika begins to explain her family's situation a bit more upon Sensei's prompt. Sensei internally breathes a sigh of relief that the mysterious family member is female, and Sensei quickly picks up on the implication that said member is also a child - which alarms him when Chika mentions she has to go over some things with her, and that Yumi was supposed to instead but bailed at the last minute. Chika says Yumi's not as bad as most people think she is, especially around her little sister, and tells Sensei not to provoke her, and not to come around when sick, since her sister has both severe asthma and a compromised immune system. Sensei agrees, and the two of them head inside. Chika calls out her arrival, and briefly and quietly reminds Sensei not to do anything to rile her sister up, before her sister enters the room - Sensei is floored at how adorable she is and unable to muster a response, and she and Chika have a quick back-and-forth, where Sensei learns her name is Chinami . She gives Sensei an over-the-top introduction which Chika tells him to ignore, and Chika tells Chinami that Sensei is her teacher. Chinami tries to ask for Sensei to become her teacher, only for Chika to deny her and tell her to wait until she can attend school herself. However, Sensei and Chika are respectively thrown into a state of shock and panic when Chinami casually asks Sensei if he's Chika's boyfriend, and Chinami tells Sensei to treat her properly despite Chika's protests. After finally recovering from his shock, Sensei asks Chinami who else takes care of her aside from Chika and Yumi, and she runs back into another room for a moment. Sensei notices Chika look away, and when Chinami brings back a picture of their mother and Chika starts quietly crying, Sensei instantly understands what's going on. Chinami asks if her mother is pretty, and Sensei affirms this, saying both she and Chika look a lot like her. Chika, slowly recovering, asks Sensei if he means that. Chinami cuts in and says she thinks so too, and that one day she'll find a prince who will build her a castle. She tells Sensei that hopefully one day he can build a castle for Chika too, and Sensei internalizes that if he has to, one day, he'll build a castle for everyone . Chinami runs off and Chika apologizes, explaining Chinami gives a very strong first impression, and Sensei asks if he's earned bonus points for not riling the young girl up. Chika chuckles, wiping away her tears and making a remark about just how many Sensei might have, and she asks him what he intends to cash them all in on. He jokes that he might spend them all on a castle. Afterward, Chika has to start helping Chinami with some printout homework sheets, explaining how Chinami's immune system is so bad she can't even attend normal school, and mentioning how she and Yumi have spent the last two years homeschooling Chinami, and Sensei heads home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Chinami Chosokabe"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei triggers this event on a weekend."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Castle for Everyone",
+            "event_script_names": "chikadorm15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "castleredux",
+            "hellochinami"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3",
+            "gentle.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.4."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Side Event",
+        "next_event": "A Dog that Doesn't Do Math"
+    }
+}

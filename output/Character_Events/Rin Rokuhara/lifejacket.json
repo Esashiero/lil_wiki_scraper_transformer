@@ -1,0 +1,50 @@
+{
+    "event_id": "lifejacket",
+    "event_title": "Lifejacket",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Lifejacket",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after Transmogrification",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Rin’s room"
+        ],
+        "synopsis": "Sensei and Molly go to Rin 's room so that Molly can try to repair her friendship with Rin. Molly isn't sure about going through with it, especially after Rin doesn't respond to her knocking. Eventually, they go in. Rin has been hurting herself, and says that the craziest part is that she had no reason to do it. Sensei sends Molly for something to wrap Rin's arm with, and calls Futaba to ask her to come home. While they wait, Sensei and Rin talk about Rin's depression. Rin gets worried about what Otoha will think, and tells herself that she will stop in order to keep Otoha. Sensei, Molly, Futaba help bandage Rin's arm.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara",
+            "Molly MacCormack",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Lifejacket",
+            "event_script_names": "rindorm50special",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "rinisstillfine"
+        ],
+        "music_tracks": [
+            "thingsthathurt.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.20p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Technicolored Happiness Explosion",
+        "next_event": "The Happiest Girl in the World"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "event_id": "goodnight_moon",
+    "event_title": "Goodnight Moon",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Goodnight_Moon",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.16",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Legacy of Thaum Pt. V: The Faceless Empyrean \" . This event belongs to an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+10 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Sensei's Bedroom"
+        ],
+        "synopsis": "It sings in its sleep, not the mouth which Sensei may believe, but the distance between the four focal points on the uncapitalized letter T. A melody like milk – white but impure, delicious yet hard to swallow after abstinence – coats his tongue as he revels in the sensation of protection provided by its mucosal barrier. When he was younger, on nights when the light of the moon would hurt his eyes, he'd focus on little things like this in an attempt to protect himself from said light. Afraid of receiving even a single scratch from the divine, feeling like one of those would burn him from the inside out, these little things were torturous, yet he would still focus on them out of habit, such as mittens, a picture of a cow, and small mice. It was then that he realized his home felt more like a tomb. It was a feeling he felt before the sting of abandonment had touched him – He was far too young to understand something was wrong. The narrator speaks up, declaring that 'they' have watched him for all this time. In those days they'd rock their chair and hush his complaints, beckoning him to sleep and submit to the \"all-seeing eye\". Yet he never did, never feeling secure in security and always wondering why it was the all-seeing eye seemed to overlook him so frequently. The narrator declares they were similarly lost back then, unable to understand what made him so special at all. It was as the days went on that the reason became much clearer – It was that Sensei was small, and they were so big. Even all these years later, Sensei remains small, so tiny, insignificant, and caught up in routine that the creak of a door could ignite dormant habits. Back then, he believed in God, but the narrator guesses he only did so because he was asked to believe. In those days, a woman would crawl into his bed, embracing him tightly while screaming that he smelled like someone else. The woman would fall asleep, and he, unsure on what to do with his hands, ended up doing something that gave him the closest thing to comfort. The narrator wishes the world goodnight, declaring themselves to be the \"figure in the corner of the room\", the one who always watched over Sensei. They never spoke, it reveals, and wonders if that's why they still observe. The narrator's speech concludes as Ami 's story does, having finished recounting 'The Gift of the Magi' to Sensei, who remains unresponsive. She swoons over the story's conclusion, agreeing with the notion that true love involves great sacrifices, and, as such, she loves him most of all. She tells him not to worry about what she's sacrificing, such as her grades or hours at work, for as long as his checks continue to arrive in the mail the two of them can maintain their standard of living. She praises herself for being so thorough in modifying his room with extra locks and barred windows, insisting they'll keep him safe until he's all better once again. Throughout this entire conversation, Sensei doesn't say a word, with Ami filling in the silence herself. She reassures him that he's making excellent progress in his recovery, suggesting that she might open visits to him soon, so long as she supervises. The only potential candidate at the moment is Ayane , with Ami feeling she's slowly learning \"her place\" and won't try anything – She briefly humors the possibility that Ayane's merely pretending to be on good behavior, asserting that Ayane would never be able to hide something from her as she's much smarter than the class gives her credit for. Moving on, she speaks about Maya , thankful that she's stopped being so insolent. Ami responds to her made-up Sensei, assuring him that she'll never let Maya get close enough to hurt him again. After briefly trash-talking the girl, Ami moves on, with her mental Sensei asking to hear one of her own poems. While somewhat annoyed by this since plenty of others have been hounding her for more poetry since the poetry contest , she agrees to share her latest one. Once finished and praised for her work, Ami goes to leave, the mind-version of Sensei telling her he wants Christmas Cake and fried chicken.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Goodnight Moon",
+            "event_script_names": "springtime15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amisspecialxmasparty"
+        ],
+        "music_tracks": [
+            "itsingsinitssleep.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Legacy of Thaum Pt. V: The Faceless Empyrean",
+        "next_event": "Your Blood in Spring"
+    }
+}

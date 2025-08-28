@@ -1,0 +1,50 @@
+{
+    "event_id": "two_steps_back",
+    "event_title": "Two Steps Back",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Two_Steps_Back",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "Not Tuesday 30 Rin Affection You must have seen or permanently missed the following Events: Seen \" Nothing Was Different \" from Rin Rokuhara",
+        "to_get_this_event": "Visit Rin at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 4"
+        ],
+        "synopsis": "Sensei , remembering that Rin mentioned a get-together with Futaba recently, decides to visit them at the dorm. Futaba asks him to wait a moment, but Rin doesn’t mind him coming in now and he enters. Once he takes a seat in front of Futaba’s bed, he notices that Futaba wanted him to wait since Rin’s current look is a bit indecent, but Rin lacks the energy to care. Sensei wants to know if there is any significant update to Rin’s heartbreak, and the only thing of note is that Chika tried to get into contact with Rin via text, but Rin refuses to answer, feeling that talking to her would be impossible after running away during her confession . Sensei and Futaba try to encourage her by claiming that her confessing to Chika, regardless of the outcome, was still a big step forward and Chika attempting to get into contact with her shows that she cares about her, but Rin isn’t convinced. Instead, she tells them that her wish not coming true is like seeing her delusions being torn to shreds in a blender, though Sensei thinks that this might be a good thing. He reminds her of their conversation at the inn , where she claimed that being rejected might help her to move on, further explaining that love just happens and that another one will come one day. While he doesn’t believe a single word he says as he only prefers relationships without any attachment, he feels like Rin needs to hear this right now, but she rejects his advice since she can’t just cast away feelings she had for years. Sensei doesn’t expect her to, but only wanted to remind her that there's more to her life than this heartbreak, like him, Futaba and even Molly . Rin appreciates their support and acknowledges that she hasn’t experienced the end of the world, she just feels like she did, a feeling Sensei can relate to, having experienced the end of the world himself . After asking what the girls intend to do for now, Rin remembers a moment from her stay in Sensei’s room , where there was a moment where she could hear time itself run by followed by deafening silence. She asks the two if they've ever experienced anything like that, which both Sensei and Futaba deny. Hearing this, Rin writes it off as a delusion caused by emotional stress. Feeling he can leave Rin in Futaba's hands, Sensei decides to take his leave. The girl beg him to stay a bit longer, but he tells them he'd probably drag the mood down, noting to himself that he's on edge after hearing Rin's question. Before he leaves, he suggests taking the two of them out to help mend Rin's heart, an offer both girls take into consideration.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Two Steps Back",
+            "event_script_names": "rindorm30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "rinfutaba"
+        ],
+        "music_tracks": [
+            "closeto.mp3",
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Nothing Was Different",
+        "next_event": "Ten Steps Forward"
+    }
+}

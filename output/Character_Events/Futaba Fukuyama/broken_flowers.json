@@ -1,0 +1,50 @@
+{
+    "event_id": "broken_flowers",
+    "event_title": "Broken Flowers",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Broken_Flowers",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Futaba Affection You must have seen or permanently missed the following Events: Seen \" Self-Insert \" from Futaba Fukuyama",
+        "to_get_this_event": "Visit Futaba's dorm room on any day except Tuesday after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 4"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorms and knocks on Futaba 's door, and after a moment of banter, Futaba lets him in. Futaba is embarrassed to be in her evening attire again, but Sensei says he doesn't mind, since she also states she was going to work on some more writing for her story . Sensei is pleased to hear Futaba brought back Pedro as a character, and made several other changes, but is surprised when Futaba tells him the biggest changes she made were to the main character. Sensei, without even having read the new changes yet, remarks that Futaba's skill as a writer has skyrocketed since their last discussion on the topic, and Futaba abashedly dismisses the compliment. Sensei sees an opportunity, and reveals that he knows the main character is a reflection of Futaba herself, bringing up the same 'mutated reflection' speech he'd given in a previous visit. Futaba is shocked to hear Sensei's words, and begins to fall into her own insecurities, talking about her increasing number of flaws, but Sensei tells her he doesn't see it that way, saying that Futaba would have no interest in him if flaws were the only things that define a person or character. Futaba asks Sensei if they can take a breather outside, and Sensei remarks she should probably change, only for her to quietly pass off a flirtatious remark Sensei doesn't hear. Outside, Sensei wonders just how deep Futaba's feeling for him run, and Futaba begins to talk about how she doesn't think either herself or Sensei are as flawed as they may think themselves are, and the two try to find a way to say they'll be around one another until those flaws are discovered, which leads to an awkward silence. Shortly afterward, Futaba silently leaves Sensei to head back to the dorms, and he heads home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": [
+            "The wallpaper on Futaba's laptop in this Event is a picture of Lone Pine Peak, a landmark of the Sierra Nevada mountain range located in Inyo County, California, United States of America."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Broken Flowers",
+            "event_script_names": "futabanew1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "futabarevision"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Self-Insert",
+        "next_event": "Great Burdock Leaves"
+    }
+}

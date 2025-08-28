@@ -1,0 +1,49 @@
+{
+    "event_id": "true_power_unleashed",
+    "event_title": "True Power: Unleashed",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=True_Power:_Unleashed",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "20 Chika Affection You must have seen or permanently missed the following Events: Seen \" Schadenfreude \" from Chika Chosokabe",
+        "to_get_this_event": "Visit Chika at the Shopping Mall after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shopping Mall"
+        ],
+        "synopsis": "Chika has brought Chinami (in dog form again) to the mall to get a phone. Chika doesn't have much money available, and Sensei offers to pay her phone bills (which turn out to include not just her phone and Chinami's, but also Yumi 's as well). Chika argues for a while, but reluctantly accepts. She asks if it's okay to kiss him, but Sensei thinks that it isn't the right place for that. After they buy a phone for Chinami, the three exchange phone numbers.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Chinami Chosokabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "True Power: Unleashed",
+            "event_script_names": "mall20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chinamisphone"
+        ],
+        "music_tracks": [
+            "mall.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Schadenfreude",
+        "next_event": "Detention"
+    }
+}

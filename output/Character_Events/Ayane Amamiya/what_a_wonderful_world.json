@@ -1,0 +1,62 @@
+{
+    "event_id": "what_a_wonderful_world",
+    "event_title": "What a Wonderful World",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=What_a_Wonderful_World",
+    "event_type": "Lust Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "v0.17.10",
+    "interactivity": {
+        "requirements": "15 Ayane Lust 15 Kirin Lust You must have seen or permanently missed the following Events: Seen \" Prisoner \" from Ayane Amamiya",
+        "to_get_this_event": "See Prisoner and have 15+ Ayane and Kirin Lust before starting the event chain. Autoplays after \" Chaperone \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "Miss seeing Prisoner or have less than 15 Ayane or Kirin Lust before Operation: Firestarter . Replaced by The World is Bad! .",
+        "choices": [
+            {
+                "context": null,
+                "option": "Kirin wins",
+                "effect": "+1 Second Floor"
+            },
+            {
+                "context": null,
+                "option": "Ayane wins",
+                "effect": "+1 First Floor"
+            }
+        ],
+        "effects": [
+            "+3 Ayane , Kirin Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel - Room #44"
+        ],
+        "synopsis": "As Sensei begins to wind down for the night, he suddenly hears a knock on his door. Opening it, both Ayane and Kirin step in, ready to compete in a bonus competition.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Kirin Kanda"
+        ],
+        "trivia": [
+            "If this event is missed, the events Made Out of Nothing and Furlough (Tell the World) will automatically become missed."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "What a Wonderful World",
+            "event_script_names": "ayanelust15",
+            "event_missed_name": "The World is Bad!"
+        },
+        "backgrounds": [
+            "ayanekirinfuntime"
+        ],
+        "music_tracks": [
+            "asobeatsex8.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "One of Many Rooms",
+        "next_event": "Under the World Tree"
+    }
+}

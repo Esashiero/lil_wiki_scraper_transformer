@@ -1,0 +1,50 @@
+{
+    "event_id": "james_and_the_giant_peach_together_ish_",
+    "event_title": "James and the Giant Peach (Together-ish)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=James_and_the_Giant_Peach_(Together-ish)",
+    "event_type": "Event",
+    "primary_character": "Rika Rokuhara",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Back on Track \" from Rika Rokuhara",
+        "to_get_this_event": "Visit Rika at the Dive Bar after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Rika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Dive Bar"
+        ],
+        "synopsis": "It's trivia night at the dive bar and Sensei , Rika , Wakana , and Osako find themselves in the middle of it. After Wakana recaps Sensei's day for him, including the detail that Imani was initially supposed to be here instead of him, he teams up with Rika for the upcoming trivia game. To his surprise, Rika's extremely enthusiastic about the game, even starting to trash-talk Osako and Wakana before it starts. He tries to calm her down to discuss their strategy, but the game starts before he can say anything. The questions come pouring in, and Rika easily manages to answer all of them. Meanwhile, Wakana purposely avoids helping Osako, curious about what their punishment will be if they lose. Osako tries to make up for this but is rendered immobile by Wakana's teasing. After getting no satisfying punishment for their loss, Wakana decides to handle Osako’s punishment herself, and the two step away for some privacy. With no opposing team, the trivia game announcer also opts to take a break, leaving Rika and Sensei alone. He commends her for her trivia knowledge, something that seems to contrast her numerous claims of not being smart. She admits it's nothing special, believing it came from all the game shows she used to watch with her ex-wife. She asks for a change in topic though so she won’t end up crying again. Offering him anything, Sensei takes the opportunity to hit on her, something she initially misinterprets before becoming somber. Realizing he's struck a nerve, he tries to backpedal, but she bluntly asks if he thinks she's easy. He has trouble denying this, reminding her of all her stories and their first meeting . She admits that's fair, but clarifies her free lifestyle didn't follow her into her marriage, having abandoned it for her family. She tries to move on, prying into Sensei's relationship with Imani instead. He denies there being anything between them, which comes as a surprise to Rika, who thought they were already together. She asks why he hasn't ever gone for it, as it's obvious how much Imani likes him, always pondering if she should invite him when he's not around and perking up when he is. He's surprised to hear this but admits that while he does like Imani, he cares too much about her and their current dynamic that he doesn’t want to risk ruining it by pursuing her. Rika connects the dots, realizing he doesn't care about her since he's willing to pursue her. Sensei tries to deny this but she refuses to hear him out, saying she understands why he sees her as an easy target and doesn't hold it against him, but she doesn’t want to be one anymore. Feeling awkward now, though, she opts to leave early, apologizing on the way out. Sensei continues the trivia game alone, and while he ends up winning the game, he doesn’t feel like a winner.",
+        "participating_characters": [
+            "Sensei",
+            "Rika Rokuhara",
+            "Wakana Watabe",
+            "Osako Osaka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "James and the Giant Peach (Together-ish)",
+            "event_script_names": "rikadive1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "bartrivia"
+        ],
+        "music_tracks": [
+            "letsfuckingo.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .31.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Back on Track",
+        "next_event": "Ten Tips and Tricks to Make Even Straight Girls Want to Fuck You"
+    }
+}

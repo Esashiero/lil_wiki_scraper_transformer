@@ -1,0 +1,48 @@
+{
+    "event_id": "residual_sadness",
+    "event_title": "Residual Sadness",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Residual_Sadness",
+    "event_type": "Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "Not Tuesday 20 Makoto Affection You must have seen or permanently missed the following Events: Seen \" Aftermath \" from Makoto Miyamura Seen \" Beautiful Porn Salesman \" from Maki Miyamura",
+        "to_get_this_event": "Visit Makoto at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 3"
+        ],
+        "synopsis": "When Sensei visits, Makoto is taking a break from studying. She doesn't want to talk about school or work, and doesn't want to have sex. When they talk about their relationship, she asks to be Sensei's girlfriend, although immediately acknowledges that he can't say yes to that. She also talks about her parents' open relationship, saying that it made for a strange childhood, but that she still misses her father. Makoto tells Sensei that although her problems are \"infinitesimal\" compared to others, she still hurts sometimes, and he shouldn't think of her as invincible.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Residual Sadness",
+            "event_script_names": "makotodorm20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotocouch"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Aftermath",
+        "next_event": "Service Charge"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "event_id": "wither",
+    "event_title": "Wither",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Wither",
+    "event_type": "Event",
+    "primary_character": "Kaori Kadowaki",
+    "chapter": "v0.23.1",
+    "interactivity": {
+        "requirements": "TL;DR: SEE EVERY CHAPTER 2 EVENT PRIOR TO WITHER, The Light of Last Summer , AND Outcry of the Hunted Hare IF YOU'RE TOO LAZY TO CHECK EVERY EVENT. NOTE: WHITE, BLUE, AND PINK EVENTS ARE NOT SEEN SO PLEASE REMEMBER THAT THOSE NEED TO BE SEEN AS WELL. IF IT IS NOT GREEN, OR RED, YOU DIDN'T SEE THE EVENT. See or miss every main event up to Glued to the Sky See or miss every happy event up to XIII See or miss every Chika Chosokabe event up to The Gap in the Door See or miss every Yumi Yamaguchi event up to See You Around See or miss every Ayane Amamiya event up to Out With the Old or In With the New See or miss every Sana Sakakibara event up to Melatonin or Why Don't You Ever Lock the Door? See or miss every Makoto Miyamura event up to Hot Water or Cold Water See or miss every Miku Maruyama event up to The Devil & God Are Raging Inside Me See or miss every Futaba Fukuyama event up to Hall of Mirrors See or miss every Rin Rokuhara event up to The Happiest Girl in the World or The Raw Sting of Lacerated Skin See or miss every Ami Arakawa event up to Conscious or Not or A Hallway Full of Eyes See or miss every Maya Makinami event up to Everlasting Mercy See or miss every Molly MacCormack event up to Walkthrough See or miss every Tsuneyo Tojo event up to Things Like Stairs See or miss every Uta Ushibori event up to Blood Everywhere See or miss every Io Ichimonji event up to Another Man's Treasure See or miss every Nodoka Nagasawa event up to I See Everything See or miss every Otoha Okakura event up to Vanilla Bean See or miss every Touka Tsukioka event up to Something Less Lonely See or miss every Yasu Yasui event up to Sakura Season See or miss every Noriko Nakayama event up to Loxosceles Reclusa See or miss every Kirin Kanda event up to The Other Half or Eternally Empty See or miss every Sara Sakakibara event up to Engulfed or Swallowed Whole See or miss every Haruka Hamasaki event up to Unfiltered Tap Water See or miss every Kaori Kadowaki event up to Såsom i en Spegel See or miss every Chinami Chosokabe event up to Happy Hour See or miss every Karin Kanda event up to Sweet Tooth See or miss every Maki Miyamura event up to Special Occasions See or miss every Yuki Yamaguchi event up to A Thing of the Past See or miss every Niki Nakayama event up to Dear You See or miss every Wakana Watabe event up to Soup, or Another Year With You See or miss every Osako Osaka event up to Floating Forever, Unfulfilled See or miss every Tsubasa Tsukioka event up to The Deep End",
+        "to_get_this_event": "Call Kaori at night on a Saturday. This starts the 4th Reset chain-event.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kaori Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "The Old District",
+            "Tojo Ramen"
+        ],
+        "synopsis": "Sensei calls Kaori to see if she's available, wanting to spend some time with her not in distress . When she answers, she informs him that she's currently lost after chasing a cat and, paradoxically, cannot use her phone's GPS because her phone is dead. After asking her to describe her location to him, Sensei realizes that she's on a familiar bridge in the Old District, and tells her to wait for him to arrive. Quickly locating her, Sensei warns Kaori that she shouldn't wander off like this too often, as he might not always be available to find her. Kaori apologizes for inconveniencing him but says she doesn't think that's true - That, even if he weren't trying to, he'd always find her. He finds this claim dubious, but isn't able to convince her otherwise and relents. The two stare up at the sky in silence for a while, before Kaori abruptly announces she's hungry. Not knowing of any other place, Sensei suggests they head to Tojo Ramen , much to her reluctance. The two arrive just before closing time, finding Tsuneyo and Yuki there already. Sitting down to order, Kaori inexplicably orders tori shio ramen, under the idea of ensuring the chickens used in the process won't go to waste. Tsuneyo is surprised by this, as that item was not on the menu, and she has never prepared it before. She tries to press Kaori for how she knows of the dish, with Kaori insisting she was only thinking of the chicken's well-being. The conversation between the two is abruptly cut off as the power goes out again . The emergency backup power kicks in, revealing that Kaori has inexplicably vanished. Yuki and Sensei rush outside to look for her as Tsuneyo goes to fix the power. In the end, neither of them can locate her and Sensei returns home.",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki",
+            "Tsuneyo Tojo",
+            "Yuki Yamaguchi"
+        ],
+        "trivia": [
+            "Following this chain-event, winter ends and summer returns to Kumon-mi ; Chapter 3 will begin in the middle of this chain-event. As such, it is recommended to make a save here incase you miss some events in Chapter 2.",
+            "As such, it is recommended to make a save here incase you miss some events in Chapter 2."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Wither",
+            "event_script_names": "kaoridate25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kaoribridge"
+        ],
+        "music_tracks": [
+            "blueair.mp3",
+            "kashiwagi.mp3",
+            "sanctuary.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Såsom i en Spegel",
+        "next_event": "Where the Trees Live"
+    }
+}

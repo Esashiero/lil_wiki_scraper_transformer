@@ -1,0 +1,57 @@
+{
+    "event_id": "a_tree_falls_in_the_forest",
+    "event_title": "A Tree Falls in the Forest",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Tree_Falls_in_the_Forest",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "Not Wednesday You must have seen or permanently missed the following Events: Seen \" Under the Table \" from Futaba Fukuyama",
+        "to_get_this_event": "Visit Futaba at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 4"
+        ],
+        "synopsis": "When Futaba doesn't respond to Sensei knocking on her door, he goes in anyway for a \"wellness visit\". Futaba is asleep, and Sensei doesn't think she looks well. He wakes her and asks what's wrong, but she doesn't want to tell him — she initially claims just to be hot, and then says that it's just a fever from overwork or stress. She tells him that it will probably happen again in future, and that he shouldn't worry about it.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the following: If Sensei has seen Two Hours . If Sensei triggers the event on a weekday or weekend.",
+            "If Sensei has seen Two Hours .",
+            "If Sensei triggers the event on a weekday or weekend.",
+            "A set of images with text flash quickly at the end of the event. Below is a transcript of them in order: \"IF A TREE FALLS IN THE FOREST\" \"646F6573206974206576656E206D616b65206120736f756e643f\" - does it even make a sound? The poem \"A Divine Image\" by William Blake. A transcript can be found here \"everything is connected - signed, the concerned\"",
+            "\"IF A TREE FALLS IN THE FOREST\"",
+            "\"646F6573206974206576656E206D616b65206120736f756e643f\" - does it even make a sound?",
+            "The poem \"A Divine Image\" by William Blake. A transcript can be found here",
+            "\"everything is connected - signed, the concerned\""
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Tree Falls in the Forest",
+            "event_script_names": "futabadorm30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "futabasleep"
+        ],
+        "music_tracks": [
+            "lastdailysong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Under the Table",
+        "next_event": "No, You"
+    }
+}

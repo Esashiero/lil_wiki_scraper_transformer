@@ -1,0 +1,55 @@
+{
+    "event_id": "happy_memories",
+    "event_title": "Happy Memories",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Happy_Memories",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.35.13",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Girls Just Want to Have Fun \" . This event belongs to an event chain started from \" Eggside Octopus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate - Dojo"
+        ],
+        "synopsis": "Yasu exclaims \"Twenty-three\" just as Sensei snaps back to reality. As she vaguely explains the significance behind this number, he tries to get information about what happened to him since he was in the infirmary . She explains that he's been in front of her all along, but has simply moved everywhere else as well while she was busy focusing on her God. Unfortunately, her God is sleepy, and it is time for them to slumber as Summer comes to an end. Sensei denies this being the case, as when the season ends everything returns to normal and he will be fixed. Yasu asserts that this won't happen unless he intends to completely destroy and rebuild himself from the ground up. Hearing this, he attempts a last-ditch effort to fulfill his \" assignment \", but Yasu claims he lost his light and, therefore, can't fulfill it anymore  – She assures him though that when the summer returns, should he pass the trials handed to him, he could regain his light. Now only more confused, Sensei desperately asks Yasu what's going on with him. She claims that he's disobeyed and broken too many rules when all he should've done is spread himself out. Now, as a consequence of his incompetence, everyone will be doomed to crumble as he falls into darkness and forgets who he was. She asks him if such impudence was worth it in the end, and to write down all the happy memories he's made so he can look back on them after \"the darkness he's let in\" has been purged. Having fallen silent, Yasu asks Sensei if she can shepherd him one final time before the rain washes their doubts away, which he lets her do because he doesn't understand anything anymore. She tells him that, although he does not understand what is happening, he can still enjoy his life; His time has run out, so she advises him to spend his final moments with those he cherishes most. She asks him once again if he's made happy memories in Kumon-mi , confirming that she already has just as Molly calls for her off-screen. Molly and Tsuneyo both approach the duo, the former complaining about how often Yasu seems to disappear unprompted. Tsuneyo says hello to Sensei, pointing out that he's been gone a long time, although denies she was specifically looking for him. Uta soon joins the four of them, asking if any of them have seen Io , who suddenly disappeared sometime tonight without a word. Yasu informs everyone that Sensei knows where she is, but his explanation is just as vague and unhelpful as everyone else's. Just as everyone begins to walk away, Tsuneyo asks to pull Sensei aside, needing to discuss something with him. After distracting Molly and Yasu, and once Sensei confirms Tsuneyo's not asking about what happened earlier with Sana and Rin , she bluntly asks why she has memories of the two of them riding a Ferris wheel when they've never done this. He confirms that they have, but her memory of it was erased due to the world's \"memory magic\", an explanation Tsuneyo accepts surprisingly easily. When questioned about this abnormal acceptance, she explains that she's felt unusual as of late, like how she feels closer to him all of a sudden, and Sensei's explanation would make these feelings more plausible, which is why she knows he's telling the truth. Thankful for helping explain this to her, she offers her ear for one of his problems, and he takes the opportunity to ask Tsuneyo if he's a better person than when they first met. He frantically explains that, while he's still awful and not worthy of wasting words on, he's still changing for the better so there's no reason for him to be sent back. Tsuneyo doesn't understand what he's asking, and he clarifies that, since this morning, he's felt his every thought being replaced with the feeling that tonight is the end – That when morning comes, the memories he regained with the help of others will be gone once again. Tsuneyo assures him that, should he wake up without his memories, the same people will help him regain them again. Thankful for this assurance, he invites her to ride the Ferris wheel with him again should tomorrow come. She turns him down. Ayane calls Sensei from behind, leading Ami , Maya , and Sana in tow as it's time for their planned afterparty . As he's guided away from the party by the girls, he reminds himself of the advice Yasu gave him, trying in vain to convince himself that tonight is merely the final hurdle to the quiet life he's always wanted.",
+        "participating_characters": [
+            "Sensei",
+            "Yasu Yasui",
+            "Molly MacCormack",
+            "Tsuneyo Tojo",
+            "Uta Ushibori",
+            "Ayane Amamiya",
+            "Maya Makinami",
+            "Ami Arakawa",
+            "Sana Sakakibara"
+        ],
+        "trivia": [
+            "Yasu calls Sensei Svarog a few times during this event. Svarog being Clara's Robot protector in Star Rail."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Happy Memories",
+            "event_script_names": "halloweenfour13",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "whensummerends"
+        ],
+        "music_tracks": [
+            "ame.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.35."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Girls Just Want to Have Fun",
+        "next_event": "For More Than Just Me"
+    }
+}

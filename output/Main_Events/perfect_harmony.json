@@ -1,0 +1,58 @@
+{
+    "event_id": "perfect_harmony",
+    "event_title": "Perfect Harmony",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Perfect_Harmony",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.42(Spring Beach Trip).14",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" As You Wish \" , or \" As You Wash \" . This event belongs to an event chain started from \" Doomsayer \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane Lust",
+            "+2 Makoto Lust",
+            "+1 Ayane , Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach Inn - Sensei's Room",
+            "Beach"
+        ],
+        "synopsis": "After a monologue about torii gates and the desire to build one big enough to let the gods travel to their world, Sensei is woken up by Sana , who reminds him that he promised her a talk. While he's too tired to have it right now and also doesn't want to have it in a room where other girls are sleeping, she suggests both of them take a walk at the beach for it and offers to help him wake up, which ends with him begrudgingly following her without any additional help. Now sitting at the shore, Sana wonders how true the stuff Ayane told her is, and when Sensei confirms that all of it is, since he experienced it himself and has someone inside his mind tormenting him because of it. He knows it sounds crazy, but Sana disagrees as she hears her brother in her mind, too, and thinks it sounds interesting, though she can only give her full opinion once she sees it herself. She still wonders why he would dislike living forever when it works in his favor, but he tells her that they can always be turned back to their old selves, with Sana asking him to make her \"wake up\" as soon as possible if it ever happens to her, so she doesn't waste her time again and can try getting closer to him sooner. Sana asks if he's scared of dying, and since Sensei is a bit uncomfortable, she decides to sit in his lap to help him stay calm. He wraps her arms around her, probably as a response to how he felt about her future self , though remembers Nodoka 's theory and wonders if it was a vision of the future and what steps he needs to do to reach it. Answering her own question first, she confesses that she isn't scared of death but of living, because there are lots of dangerous things out there and few people to make her feel safe, and most of them she has to fight for Sensei's affection. Sensei, however, is scared of dying, or at least the death of his self caused by the time loop. While discussing his life in the time loop, Sana asks if he had a favorite moment, and though a scene of a past date with Maya plays in front of his eyes, he claims there wasn't one. She offers to make him one, and while he assumes she never wanted to talk about the time loop with him and only had that in mind, she explains that she still needed to hear it from the one person she wants a future with to actually believe it, and now that they're done, they can do something more fun. He, of course, accepts her offer. Meanwhile, Ayane is woken up by a familiar girl who asks her to follow her somewhere safe, though the girl can't tell Ayane what's going on and can only bring her along. Back at the beach, Sensei and Sana witness what's going on – the appearance of three moons, each of them surrounded by one of the three times of the day: morning, afternoon, and night. Seeing this, Sana admits she's scared of dying now, before they pass a torii gate. Narration on the audio track then informs the listener that events after \"Perfect Harmony\" (i.e. this event) have been redacted by the \"entities currently residing here\" if they have been deemed \"useless\", and that this is in \"everyone's best interests\" as witnessing them would result in several characters being reset since \"you\" -- possibly meaning either the player, or Sensei, or both -- are \"not yet strong enough\" to \"bear the truth of God's left hand\". In addition, the narration says a \"rabbit runs free down the shores of this repair\" -- likely a reference to the antics of said familiar girl -- before concluding with a wish to continue enjoying Lessons in Love while \"growing closer\" to Sensei and the cast. A second narration then says, \"What happens near the ocean stays in the sand. When the trees that surround you sing the names of your long departed ghosts, it becomes easy to understand just what you have lost and why. But you do not want to lose any more, do you? You have struggled so greatly already. One more loss would equal two -- then you'd be gone, as well. Follow the sea and embrace this perfect harmony lest you wash us all away.\" A third narration, in the voice of a male child, says, \"Only the spiders can save you now, frog boy. May you find yourself in their web and be tucked tightly into your final sleeping bag. When your lungs turn to liquid and your heart turns hollow, you need to remember this. This is the realm of the most holy and you are nothing but a heretic. You'll receive no relief, for you'll never repent. And those who do not repent shall never be forgiven. Praise be to the finished ones. Praise be to the those who seek the means to an end.\" It's now Monday morning, and Sensei is with Makoto and Ayane, the latter being disappointed that her plan didn't bear any fruits, because Yumi is the only one who's \"aware\" and has no interest in joining them. When Ayane asks Sensei how she should handle Yumi, he ignores it since he feels like they lost time all of a sudden. Ayane reminds him that he spend a lot of time with her last night, and Makoto reveals she did the same earlier that day, both in the morning and afternoon, which makes Ayane envious and she wants to even the score, though Sensei refuses since he's suffering from a headache.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Makoto Miyamura"
+        ],
+        "trivia": [
+            "There's variation in the dialogue depending on if Sensei saw As You Wish .",
+            "After this event, the game will skip forward 9 days, whilst still setting the current day to a Monday. This is only evident in the game files. This is to reflect a whole week being skipped, whilst accounting for the Saturday and Sunday the event takes place over."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Perfect Harmony",
+            "event_script_names": "beachfive16",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "onthebeach"
+        ],
+        "music_tracks": [
+            "yorunoakachan.mp3",
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .42.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Pros, Cons, and Countermeasures",
+        "next_event": "Rubik's Cube"
+    }
+}

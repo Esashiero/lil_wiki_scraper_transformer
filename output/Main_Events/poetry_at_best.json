@@ -1,0 +1,58 @@
+{
+    "event_id": "poetry_at_best",
+    "event_title": "Poetry at Best",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Poetry_at_Best",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.49(Super Mega Ultimate Heaven & Hell).2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Prepare for Battle! \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi - Streets",
+            "Dive Bar"
+        ],
+        "synopsis": "It has been raining, and Sensei was on his way to Dive Bar, deep in his thoughts. When he arrived, Wakana immediately started joking with him. Imani was also glad to see Akira, and she got more uplifted when he agreed to be present at the Dorm Wars, unlike the previous year. Wakana and Sensei traded barbs for a while, and soon Osako showed up. She reminded Akira about the talk they had the other day and questioned his motives once again. Meanwhile, the others headed for the bar counter, where Rika was sitting alone. She was alarmed with the new twists of relationship between Osako and Sensei, and was quick to make assumptions. Wakana and Imani tried to parry the suspicions, but evenually, Wakana explained why Osako was spending more time without her, which made everyone a bit sad. Right at this time, Sensei got a phone call from Nodoka , who was curious about something. After they've finished talking, Imani showed up to speak with Sensei in private.",
+        "participating_characters": [
+            "Rika Rokuhara",
+            "Nodoka Nagasawa",
+            "Sensei",
+            "Wakana Watabe",
+            "Osako Osaka",
+            "Imani Imai"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Poetry at Best",
+            "event_script_names": "dormwarsfive2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sky",
+            "noonsky",
+            "nightsky",
+            "raincheck",
+            "dormwarsbartime"
+        ],
+        "music_tracks": [
+            "10c.mp3",
+            "11c.mp3",
+            "thesleepingcity.mp3",
+            "ame.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.48.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Prepare for Battle!",
+        "next_event": "Beach(?) Babe Breakfast Barrage!"
+    }
+}

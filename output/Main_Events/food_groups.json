@@ -1,0 +1,59 @@
+{
+    "event_id": "food_groups",
+    "event_title": "Food Groups",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Food_Groups",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.19.1",
+    "interactivity": {
+        "requirements": "You must be on at least Day  351  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Sayonara \" Seen \" Blood Everywhere \" from Uta Ushibori",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first weekday on or after Day 351.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Uta , Miku , Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi High - Classroom",
+            "Kumon-mi High - Entrance",
+            "Shopping Mall"
+        ],
+        "synopsis": "During another day in school, Sensei notices that the last reset didn’t do anything noticeable to his students – Except that Ayane took the day off due to “mental health reasons”. He randomly thanks Makoto for her efforts, but before she can talk about the possibility of him being a normal teacher again, he gets approached by Ami , Noriko and Kirin and gives them his attention instead. The three want to check on Ayane and ask if he wants to accompany them, but he declines, thinking that they should let her be for now. The girls still go to visit her and Sensei leaves the class room once the day comes to a close. Wanting to take the day off early, he makes his way to the exit, but gets intercepted by Uta . She and Futaba want to do something fun with him, though not in a way he prefers. They’re joined by Miku , whose appearance means that all food groups are covered now, but when Uta explains what that means, it enrages Miku. Once she calms down, Uta explains that Futaba and she want to try on new swimsuits for the upcoming trip and want Sensei’s opinion on how they look, which he’s immediately ready to do. Miku decides to tag along too since she wanted a new swimsuit as well. After making their way to a clothing store inside the shopping mall, the girls pick up multiple swimsuits and bring them to the dressing room. While Sensei waits outside, he dozes off and is greeted by a heavenly sight once he wakes up. He compliments them on their selections, having to fight against Miku’s and Futaba’s insecurities and being surprised that Uta is the most embarrassed out of all of them, though she claims that the heat in the dressing room only makes it look like she is. After having to deal with the girl’s insecurities again, Sensei manages to convince the girls to buy the swimsuits they selected. While all of them walk through the mall with nothing else to do, Uta tries to make further plans with Sensei. She’s interrupted when Miku sees someone she recognizes. That person turns out to be Maki , who, after a brief introduction, asks Sensei if she can talk with him right now and he agrees, feeling like he should use the opportunity. Uta watches him go with a hurt look until Miku snaps her out of her trance.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Ami Arakawa",
+            "Noriko Nakayama",
+            "Kirin Kanda",
+            "Uta Ushibori",
+            "Futaba Fukuyama",
+            "Miku Maruyama",
+            "Maki Miyamura"
+        ],
+        "trivia": [
+            "There is different dialogue depending on Kirin's history with Ayane."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Food Groups",
+            "event_script_names": "day351",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "impromptumalltrip"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sayonara",
+        "next_event": "Permission Slip"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "event_id": "a_book_about_dragons",
+    "event_title": "A Book About Dragons",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Book_About_Dragons",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "25 Futaba Affection You must have seen or permanently missed the following Events: Seen \" Clam's Tongue \" from Futaba Fukuyama Seen \" Only Child \" from Futaba Fukuyama",
+        "to_get_this_event": "Visit the Futaba at the Library after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Library"
+        ],
+        "synopsis": "Sensei finds Futaba reading a book she remembers from her childhood, and she asks him if he was an avid reader when he was young. As she nervously starts to ask another question, Sensei guesses that she's going to confess her feelings to him, telling her that it's fairly obvious where their relationship is going. However, Futaba says that a confession \"comes later\", and what she's actually doing is inviting him to visit a new bookstore with her.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Book About Dragons",
+            "event_script_names": "library25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "morningmoon"
+        ],
+        "music_tracks": [
+            "gentle.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.5."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Only Child",
+        "next_event": "Two Hours"
+    }
+}

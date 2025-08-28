@@ -1,0 +1,52 @@
+{
+    "event_id": "national_tsukasa_day",
+    "event_title": "National Tsukasa Day",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=National_Tsukasa_Day",
+    "event_type": "Event",
+    "primary_character": "Tsukasa Tsukioka",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Monday You must have seen or permanently missed the following Events: Seen \" 1999 PC Classic, Rollercoaster Tycoon \" from Io Ichimonji Seen \" Emerald Eyes \" from Karin Kanda",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Monday on or after Day 530.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Classroom"
+        ],
+        "synopsis": "Sensei is on his way to class, although unwillingly and in a bad mood since he’s forced to attend due to a “special guest”. Turns out that Tsukasa requested a holiday for herself, using it to visit Touka ’s class and see how lessons in a public school look like. Imani is impressed by Tsukasa’s ability to use her wealth to change how time works, and Ayane quips that she can have this ability with some help from Sensei , but neither of them is interested in making this happen. Tsukasa demands that both of them do their job and teach her something, but Imani isn’t sure how they could do that since she lacks the experience and maturity to understand high school material at her age. She takes offense to that, claiming that she’s highly educated already and challenges them to ask her anything, confident she can answer it. Sensei asks a random question and, to their surprise, she manages to get it right – Unless Sensei feels cruel and decides to prove her childlike naivety by asking the one question he shouldn’t ask a child, much to the disapproval of Imani and his students. Sensei and Imani still have no clue how to handle her, and Tsukasa, hating being ignored, vents about the current state of the education system. Chika joins her at her table and starts a casual conversation with her. When Tsukasa mentions her business relationship with Chinami , Chika invites her over so she can play with her, but is forced to cover Tsukasa’s mouth when she mentions the “game” at the onsen . Hearing this, Imani wants to know if Sensei intended to turn Chika into a time traveler as well, to which he feigns ignorance, and is miffed that he didn’t invite anyone else to the onsen yet, to which he jokingly states that he’ll put her at the top of his prospective onsen visit list. Chika releases her grip on Tsukasa after begging her to not bring up the onsen again. Once free, Tsukasa threatens to decapitate her for her insolence, but Chika counters this by pointing out that killing the relative of her business partner will negatively impact their relationship. Tsukasa acknowledges that but demands something to secure her personal safety, so Chika offers to not cover her mouth again and to treat her to some cereals during her visit. Tsukasa agrees under the condition that Touka can accompany her to get some firsthand experience alongside her. Chika doesn’t mind but wants Sensei to be present as well since she wants to take care of something during their visit and needs someone like him, who is well-versed in handling her sister and the devices in her home, to watch over them. While Sensei isn’t particularly happy having to watch over Chinami and Tsukasa at the same time, he still intends to do it, taking solace in the fact that Touka will be present as well.",
+        "participating_characters": [
+            "Sensei",
+            "Tsukasa Tsukioka",
+            "Touka Tsukioka",
+            "Ayane Amamiya",
+            "Ami Arakawa",
+            "Imani Imai",
+            "Maya Makinami",
+            "Chika Chosokabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "National Tsukasa Day",
+            "event_script_names": "tsukasaspecial1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsukasaday"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "Jeeves Tsukioka XIII"
+    }
+}

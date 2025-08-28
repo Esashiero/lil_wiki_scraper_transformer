@@ -1,0 +1,49 @@
+{
+    "event_id": "what_is",
+    "event_title": "What Is",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=What_Is",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.14.5",
+    "interactivity": {
+        "requirements": "Thursday You must be on at least Day  270  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" What Could Have Been \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Thursday on or after Day 270.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's Office"
+        ],
+        "synopsis": "Sitting in his office, Sensei tries to digest the events and revelations of the previous day . Not only did he get a reminder that he's living in someone else's body, not only does he have to deal with another girl who's very direct with how much she likes him, but he also is worried about Maya . She hasn't appeared in class today, which isn't unusual on its own, but it can't be a coincidence this time due to her outburst the day before. His thoughts are interrupted when Noriko comes into his office. Noriko still feels weird for crying so much during their reunion, but intends to not cry like this again, instead wanting to focus on getting his memories back. She confesses that her memories of him managed to keep her sane, though others seem to question her sanity due to her carrying a pocket knife for self-defense, something she does even now. Sensei also feels like she's somewhat insane between everything he saw from her, but Noriko finds his assessment unfair, pointing out that Maya was the one who lashed out at and insulted her. She once again states how happy she is to be reunited with him and confesses that she was her girlfriend before he left, but when Sensei asks what their actual relationship was like, she admits that they were neighbors in the old district and that he visited her family on a regular basis to see her older sister, at least until some unknown tragedy happened, most likely the accident that killed Ami 's parents, and he never came over again. He's surprised to learn that their past goes back that far and wonders if they never saw each other again before now, but she negates this, informing him that he became her tutor a few years after his first disappearance, and she was only looking for him for what felt like an eternity when he disappeared a second time, though the fact that he gained so much information about his past scares him a bit. Noriko reaffirms her feelings for him and promises to do everything to win his heart, and when he remarks that he hasn't much of a heart left to win, she notes how this sounds like something he would say during their tutoring sessions. They're interrupted by Maya walking through the door, and, after a brief hostile exchange, Noriko leaves. After Sensei notices that Maya is wearing a personalized uniform now, something she apparently did for character development, she asks him to stay away from school until the next reset occurs. Sensei doesn't intend to do what she wants without an adequate reason as to why he should, but she has a hard time explaining it due to her personal feelings towards Noriko and the fact that she was so accustomed to things never changing that she never expected to confront her own past again. At the end, she explains her reason with a thought experiment – If the current Sensei isn't the original one, there would be no reason for him to learn about Sensei's past since it wouldn't change the way he would behave, something he admits himself, and, therefore, there would be no reason for him to learn more about it or to associate with a person who tries to make him remember it, especially when the person in question is a potential danger to his life. Sensei points out that her scenario would only work if Maya actually knows that Noriko is a danger to his well-being, and since she doesn't, he sees no reason to head her warning and writes it off as her being scared of change. She admits she is, mostly because this version of him already lasted longer than most and managed to come out of situations unscathed where others have failed, which is why it would lessen her fear if he stops associating with Noriko. Sensei recognize that Maya is sincere right now, but without any proof that he's actually in danger, he doesn't see a reason to follow her advice, and Maya can tell without him having to say it. She states how her philosophy of having to do something uncomfortable to move forward backfired on her again and leaves his office. Sensei notices that Maya's hand was shaking a bit while trying to open the door, but assumes that she will be fine.",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "What Is",
+            "event_script_names": "day270",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikomayaoffice"
+        ],
+        "music_tracks": [
+            "phantomthief.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.14."
+        ]
+    },
+    "navigation": {
+        "previous_event": "What Could Have Been",
+        "next_event": "What Was"
+    }
+}

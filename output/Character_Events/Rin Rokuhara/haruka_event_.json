@@ -1,0 +1,51 @@
+{
+    "event_id": "haruka_event_",
+    "event_title": "Haruka (Event)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Haruka_(Event)",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": null,
+    "interactivity": {
+        "requirements": "10 Rin Affection",
+        "to_get_this_event": "Visit the Koi Cafe on a weekend morning after all Requirements have been met.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "Unusually sluggish owing to difficulty sleeping the previous night, Sensei drags himself into the Koi Cafe for some desperately needed caffeine, prepared to meet Rin at the counter, but encountering someone closer to his own age instead. When the two exchange greetings and Sensei catches her automatic response to his question, he is surprised to hear she already knows of his presence in the store, though he finds the way she refers to him as a male amusing. After Rin calls out in response to Sensei trying to appease the woman's apparent ego, she introduces herself as Haruka , and Sensei introduces himself in return, asking for a black coffee. He is made to repeat himself on his order when Haruka seems to be stuck on his name of choice. Once he has finally received his order of black coffee - the first time he's ever actually received his order in the cafe - he sits down at Rin's table, and the two briefly banter over the fact Haruka is still staring at Sensei, as well as he and Rin's mutual issues getting out of bed some mornings. They also talk about Rin's relationship with Futaba . After chatting for a bit more, Rin asks Sensei for his honest opinion of Haruka - Sensei thinks it's a trick question, but Rin assures him he can tell her - and he states he finds Haruka to be both attractive and very well endowed, which Rin wholeheartedly agrees with. She tells him that Haruka has a husband, who was one of the many males who was drafted to fight in the space war, and hasn't been seen for several years. Afterward, Rin tells Sensei - after his assurance he won't tell the subject about the conversation - that Futaba has a pretty substantial crush on him. When Sensei sniffs that Rin may be trying to set the two of them up, Rin tells him it doesn't matter what the circumstances are, as long as the two of them are happy, though she does acknowledge the school would definitely not approve. She is startled by Haruka calling out from the counter that her break was over five minutes ago, and after a quick farewell and assurance Sensei won't tell Futaba, Rin heads back to work, while Sensei leaves to go about his day.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara",
+            "Haruka Hamasaki"
+        ],
+        "trivia": [
+            "Sensei has some additional internal dialogue in this Event depending on Sensei's relationship with Futaba ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Haruka (Event)",
+            "event_script_names": "cafe10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "cafeten"
+        ],
+        "music_tracks": [
+            "cafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Flavor of Love",
+        "next_event": "Locked Out"
+    }
+}

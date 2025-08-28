@@ -1,0 +1,60 @@
+{
+    "event_id": "good_morning",
+    "event_title": "Good Morning",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Good_Morning",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.19.1",
+    "interactivity": {
+        "requirements": "Saturday You must be on at least Day  370  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Permission Slip \" Seen \" Sweet Tooth \" from Karin Kanda Seen \" Happy Hour \" from Chinami Chosokabe Seen \" Blood Everywhere \" from Uta Ushibori Seen \" Mine (Yours) \" from Sana Sakakibara Seen \" Floating Forever, Unfulfilled \" from Osako Osaka Seen \" All That is Contaminated \" from Kirin Kanda",
+        "to_get_this_event": "This event occurs automatically on Saturday. This starts the Winter Beach chain-event.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Sensei's Room",
+            "Sensei's House - Ami's Bedroom",
+            "Sensei's House - Living Room"
+        ],
+        "synopsis": "Sensei gets woken up by Maya , an occurrence that gives him the feeling that this will be a day full of losses. He wonders why she woke him up, but when Maya mentions that he can find out why by going into Ami ’s room and comments that it won’t be like last time , he figures out that the beach trip is coming up. Since this still doesn't explain why she woke him up, she explains that she wants to get something for breakfast and offers to treat him, but retracts her offer when he makes another stupid comment. Before she leaves, Sensei notices that her hair is up and her scarf is missing, and Maya tells him that, since she can’t tell what’s going to happen from here on out, she wanted to try adapting to the unknown without the risk of losing her scarf. Sensei makes his way to Ami’s room and is greeted by Ami, Ayane and Sana in their swimsuits. After acknowledging that Ayane is feeling better after his last visit , he compliments them on their swimsuits and tries a trick that failed before , but Ami prevents it from happening. The doorbell rings and Ami assumes it’s Karin , who wanted to come with them to the beach. Sensei decides to greet her, ignoring Ami’s pleas to let her handle it so Karin doesn’t suffer a panic attack. While Karin doesn’t suffer a panic attack, she’s still embarrassed in his presence and can’t talk with him properly. When she asks where Ami is, he jokingly states that they’re alone and that he wouldn’t mind spending the day with her before they go to the beach, which ends in Karin’s legs giving up under her, though she’s a little upset when he tells her the truth. Maya returns with a watermelon, but when she sees Karin, she gets defensive and hides her melon. Once she’s back, all three have a short conversation until Ami comes out of her room, at which point Maya asks if they can make their way to the beach so she can eat her melon soon. As the only one left who has to get ready, Sensei gathers his belongings and makes his way to the bus stop with the girls. During their ride, he receives a text from Niki asking if he's busy — he replies that he is, but that they can do something when he gets back.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Ami Arakawa",
+            "Sana Sakakibara",
+            "Karin Kanda"
+        ],
+        "trivia": [
+            "There is minor dialogue variation depending on Ayane's experiences with Kirin.",
+            "If Sensei does not have at least 20 Kirin Lust , triggering this Event will fail Taking the Reins !",
+            "If Sensei does not have at least 20 Chika Lust , triggering this Event will fail Into the Woods !",
+            "If Sensei does not have at least 20 Makoto Lust , triggering this Event will fail Hot Water !"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Good Morning",
+            "event_script_names": "secondbeach1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "goodmorning1blur",
+            "goodmorning"
+        ],
+        "music_tracks": [
+            "goodmorning.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Permission Slip",
+        "next_event": "Egg Tossing"
+    }
+}

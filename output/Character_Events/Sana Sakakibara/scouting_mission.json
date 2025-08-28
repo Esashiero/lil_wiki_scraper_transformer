@@ -1,0 +1,51 @@
+{
+    "event_id": "scouting_mission",
+    "event_title": "Scouting Mission",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Scouting_Mission",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "20 Sana Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Girl-Talk \" Seen \" Carry Me Home \" from Sana Sakakibara Seen \" The Queen of Spiders \" from Ami Arakawa",
+        "to_get_this_event": "Visit the Bar on any evening after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a"
+        ],
+        "synopsis": "Sensei heads over to the bar, and immediately has to duck his head when he notices Sana and Sara locked in an argument behind the counter. He reflects on his relationships with the two girls, and Sana walks up to greet him. She says she doesn't have to work tonight, and after telling him they've been given some kind of mission, she runs upstairs to change into a different set of clothes. He walks over to talk to Sara and try to get information on the argument, and she explains the situation and mission to him, complaining that she was supposed to go with him, but that Sana put her foot down when the idea was proposed. After a brief discussion regarding what Sana's presence instead of Sara's might change during the mission and a surprising revelation regarding Sara's experiences in high school, Sana returns in her normal wear, ready to go, and she and Sensei head out. Upon their arrival and seating at what Sensei immediately figures out is *NOT* a bar, he throws away any plans for the night. Sana tries to thank Sensei for coming with her, but hasn't yet realized that they are in fact inside a *restaurant*, a fact Sensei has to point out. After a thanks from Sana and a bit of waiting, Sensei is both surprised and slightly annoyed to find their waitress is Kaori . Sensei tries to resolve Kaori's immediate questions for him, and Sana attempts to ask for a glass of water, but becomes severely flustered at the sudden look Kaori gives her. After Sensei asks for the recommended dish and a beer, Kaori walks off, and Sensei gives Sana the all-clear, prompting her to ask him a flurry of questions regarding Kaori. After Sensei does his best to assuage Sana's concerns on that front, he teases Sana about refusing to allow Sara to come in her place, which turns into Sensei trying to run damage control as Sana forgets her volume control and starts panicking. However, it's too late, and by the time Kaori's even walked back to their table, Sensei already knows they've been kicked out. He takes a flustered and remorseful Sana and leaves, dropping her back off at the bar before heading home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Sara Sakakibara",
+            "Kaori Kadowaki"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Scouting Mission",
+            "event_script_names": "bar20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "scoutredux",
+            "sanabartwenty"
+        ],
+        "music_tracks": [
+            "calmbar.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.5."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Shaking The Tree",
+        "next_event": "Nice Weather We're Having"
+    }
+}

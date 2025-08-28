@@ -1,0 +1,52 @@
+{
+    "event_id": "reverse_cowgirl",
+    "event_title": "Reverse Cowgirl",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Reverse_Cowgirl",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.8.13",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Die For What You Believe In \" . This event belongs to an event chain started from \" What's Done is Done \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika , Tsuneyo , Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "After Maya 's melon incident , Sensei makes his way over to the trio of girls laying on the beach and speaks to them. Tsuneyo is mad at him for prompting her embarrassing question at breakfast, and in the ensuing discussion, Miku turns out not to know certain terms as well. Chika firmly changes the subject by asking Sensei what he did last evening, which leads to conversation about how Tsuneyo got to bed after getting drunk and why Sensei met Sana in the middle of the night. Chika says that she's going to meet Rin later, and shares her suspicion that Rin has a crush on Sensei — this does not strike Sensei as a good sign, since Chika has clearly not picked up on Rin's hints.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Tsuneyo Tojo",
+            "Miku Maruyama"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei's seen Schadenfreude ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Reverse Cowgirl",
+            "event_script_names": "beachvacation12",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sunbathing"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.8."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Die For What You Believe In",
+        "next_event": "Smile Guide"
+    }
+}

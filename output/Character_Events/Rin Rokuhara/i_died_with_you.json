@@ -1,0 +1,51 @@
+{
+    "event_id": "i_died_with_you",
+    "event_title": "I Died With You",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=I_Died_With_You",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "35 Rin Affection Didn't see Schadenfreude prior to What's Done is Done You must have seen or permanently missed the following Events: Seen \" Under the Table \" from Futaba Fukuyama Seen \" Ten Steps Forward \" from Rin Rokuhara",
+        "to_get_this_event": "Don't see Schadenfreude prior to What's Done is Done . Visit Rin at Koi Cafe after all Requirements have been fulfilled.",
+        "to_miss_this_event": "See Schadenfreude prior to What's Done is Done . Replaced by Love Life, Let Go .",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe",
+            "Outer-Barrier - Park"
+        ],
+        "synopsis": "Because he was forced to take a detour due to construction work, Sensei arrives at the cafe later than usual, but Futaba tells him that he’s just in time for Rin ’s post-heartbreak excursion, something he completely forgot about. He learns that Rin’s mood already improved significantly, and while Sensei feigns ignorance, Futaba reminds him that he forced Rin to have a talk with Chika , which went very well. Rin finally joins, and all of them compliment her for overcoming her heartbreak. The girls explain that they want to go to the outer-barrier, the area near the wall where their former school and homes are located, and when Sensei learns that it also has a high school, he wonders why they didn’t enroll there, but both girls, visibly uncomfortable with the topic, brush it off and want to start the excursion instead. The group visits multiple clothing stores, but the girls don’t find anything, which leaves Sensei with mixed feelings since he basically wasted his time but at least he doesn’t have to carry the girl’s new clothes around. As they make their way to a dessert place, Rin and Sensei get into a small argument over who did the most work when Molly moved to the dorms . Rin gets miffed as a result, but Sensei knows he’ll make it up to her once she drains his savings at the buffet, but Futaba volunteers to pay for that. Rin insists that Sensei pays for it, but when he tries to complain, she pretends not to hear him over the guitar play, until she wonders where the music comes from. They see a girl playing at the park, and Rin is immediately smitten by her performance. Sensei and Futaba decide to get closer to the girl and watch her play so Rin can enjoy her music. While they watch the performance, the girl notices Rin, causing her to panic for a moment. As the girl finishes her song, Rin asks for Sensei’s help to start a conversation with her. Wanting to test the limits of her vulnerability, he agrees to give her some lines to get her attention. While the first two work perfectly, the last line makes things awkward as he told her to ask for a kiss, which is resolved by Futaba pushing them towards the girl. Rin apologizes, but the girl shrugs it off since she’s used to lines like this and starts to talk with the girls, in which they learn that she is an acquaintance of Nodoka . She introduces herself as Otoha Okakura and wonders how Sensei is related to them, only to give him a confused look when he reveals that he’s their teacher, a reaction he expected. Otoha takes her leave, having other things to do, but she invites them to visit her on the weekends, promises Futaba to gives her regards to Nodoka and asks Sensei to take care of his students. The group reaches the dessert place shortly after and Sensei is glad he spent the day with them and met Otoha. While he doesn’t think he will see her again any time soon, because he doesn’t intend to travel that far only to meet her, he’s still glad she managed to make Rin as happy as she was.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Otoha Okakura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "I Died With You",
+            "event_script_names": "cafe35",
+            "event_missed_name": "Love Life, Let Go"
+        },
+        "backgrounds": [
+            "firstotoha"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Ten Steps Forward",
+        "next_event": "Sketchy Basement"
+    }
+}

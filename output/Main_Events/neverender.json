@@ -1,0 +1,47 @@
+{
+    "event_id": "neverender",
+    "event_title": "Neverender",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Neverender",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.18",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" To the Future With a Smile \" . This event belongs to an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Io drags Uta away from the concert watch party in order to talk to her about something bothering her. Uta confesses she has something to talk about as well, and the two of them return to the place they spoke last year , this time without Yasu’s interruption. Uta is the first to speak, confessing that as she was getting ready to bathe she got a text from an unknown number, containing a picture of her. Io, aware of the situation, asks if she knows who it was but Uta informs her it was from a disposable, online number. Io complains about how unfair the world is, while Uta starts to worry that the people she knows will find out about the photos. If everyone did, she wouldn’t even have the luxury of moving, as Kumon-mi is completely closed off. She asks Io what she should do if anyone does find out, but Io’s unable to give any advice, simply reminding her that if they ever track the person down, she’ll make them regret messing with her best friend. Feeling better about the situation, Uta allows Io to speak. She talks about her visit to Sensei’s place , honing in on Sensei’s attempt to deepen their relationship. Uta is, at first, worried Io went along with it but she assures her that she left before anything happened. Io continues, wondering how any sort of relationship can work between her and Sensei if she’s disgusted by the concept of intimacy he has. She briefly entertains the idea of inebriating herself before every visit, but Uta reprimands her for such an unhealthy idea. Unable to relate, Uta gives Io the best advice she can, telling her that she’s sure Sensei won’t abandon her just because she’s not interested. Io entertains the idea of being in a three-way relationship with Uta, Sensei, and herself, but shoots the idea down since Uta’s not interested in Sensei at all. Uta is shocked to hear this suggestion and remains so even as Ayane calls the two back to the hotel room.",
+        "participating_characters": [
+            "Uta Ushibori",
+            "Io Ichimonji",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Neverender",
+            "event_script_names": "beachmas16",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "proxy"
+        ],
+        "music_tracks": [
+            "justlights.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "To the Future With a Smile",
+        "next_event": "Moon-Touched"
+    }
+}

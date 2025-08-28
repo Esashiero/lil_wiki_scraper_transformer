@@ -1,0 +1,50 @@
+{
+    "event_id": "_but_home_is_nowhere",
+    "event_title": "...But Home is Nowhere",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=...But_Home_is_Nowhere",
+    "event_type": "Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "v0.37.3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Okonomiyaki \" . This event belongs to an event chain started from \" Episcopalis: Pickled Plums & Polyrhythmic Psalms \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+10 Ayane Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Living Room",
+            "Sensei's House - Sensei's Bedroom"
+        ],
+        "synopsis": "Sensei watches as Ami leaves his room, taking note of all the locks she's installed on his door. He's sure the call to Ayane will be layered with clauses and stipulations but is hopeful that Ayane's desperation will win out in that battle of will – his own desperation already has. Grimly, he notes how fragile the state of his mind currently is, confident that soon it will shatter and send him spiraling down into a never-ending depression, so, as selfish as it is, he might as well let her try to save his sanity. Sometime after, Ayane arrives, asking if Ami's certain she's allowed to see Sensei today. Ami confirms this begrudgingly, adding that while he specifically asked for her today, he's been murmuring another name in his sleep. She warns Ayane that should she hurt Sensei, intentionally or otherwise, she'll never see either Arakawa again. Before she leaves to speak with Sensei, Ayane confirms with Ami that she loves her, even despite all the tantrums and personal interference . This surprises Ami, but she clarifies that she'd trade Ayane's happiness away in a heartbeat if it gave Sensei a sense of contentment. She tells Ayane not to try and \"rescue\" him from his bedroom, believing him returning to school would ruin everything and break him once again. Ayane's unsure how Ami can possibly know this when she's unaware of what happened in the first place. While Ayane tries to talk about the incident, Ami cuts her off and clarifies she doesn't care about what happened, but more so why Ayane knows and she doesn't – In her mind, Ayane has drifted away from the role she's \"supposed\" to occupy and feels it's only an omen of bad things to come. As she goes to leave, Ayane tells Ami how pitiable she is, because despite thinking she understands love, she's never actually felt it. Ami ignores her. Once Ayane steps into Sensei's room, all words leave both of them. Conflict crosses Ayane's face while uncertainty floods Sensei's mind, unable to decide on his first words after months in absentia. She ends up being the one to speak first, allowing him to easily reveal the details of his disappearance, including his previous unresponsive state . Ayane has her own reveals, announcing that Makoto made it to the rooftop during the last reset, giving her someone to talk to while Sensei was gone. She also explains how different the \"new Maya\" is, who blends in easier with the class now that she isn't riddled with knowledge of Kumon-mi's true nature – On the surface, though, she hasn't changed much. Chika , meanwhile, has been holding up terribly without him around, skipping class frequently and seeming generally miserable. She was, however, the one to present an idea for how to let Sensei know how worried everyone is about him – That being a card written collectively by the class. While Ayane wasn't able to get input from everyone, having only been told of the idea last night, she still managed to put her own thoughts down albeit disorganized and frantic, quipping that all her experience writing letters for her mom didn't help her one bit. Sensei's impressed by the level of boldness she's displaying by using this to flirt with him, quipping that Ami's most likely sitting outside. She knows she is, but assures him that Ami's no threat to her, even if her love for him makes her act crazy at times. Sensei begins to read the letter. Just as Ayane said, it's frantic and disjointed, mostly acting as a recap of all that's happened in the past two months, but conveys the same level of honesty Niki 's letters did. He mentally takes note of a smudged teardrop in the corner of the page, being able to deduce that Ayane was crying a lot during his absence, and he decides to hold her close, which makes him momentarily forget the grief that's strangled him so far. This reprieve ends once he reads the letter's ending, as it consists entirely of details about Maya. In the letter, Ayane suspects that Maya also misses Sensei, even if she won't admit that aloud. Finished with the letter, he thanks Ayane for writing it and subsequently agrees with her various suggestions on how to treat her better, including the one she never expected him to agree with, which catches her off-guard. Before she's able to ask if he was serious about that one, he asks her to help him with speaking to Ami.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "...But Home is Nowhere",
+            "event_script_names": "ayanespring1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayanecameback"
+        ],
+        "music_tracks": [
+            "meanttobe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Dizzy On The Comedown",
+        "next_event": "Doomsayer"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "event_id": "yellow_cactus_flower",
+    "event_title": "Yellow Cactus Flower",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Yellow_Cactus_Flower",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Not Tuesday or Friday 35 Io Affection You must have seen or permanently missed the following Events: Seen \" Hold You Over \" from Io Ichimonji",
+        "to_get_this_event": "Visit Io at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Second Floor",
+            "Low-Income Housing Complex - Yuki's Apartment"
+        ],
+        "synopsis": "Sensei knocks on the door of Room 7, intending to hang out with Io and prove to himself he can keep his promise from last time. However, he is instead greeted by Uta , who has shifted into her \"Uta-chan\" mode. After he confirms he's here for Io, much to her disappointment, he explains he needs to discuss her proposal with her. Uta's surprised she told him about it and expresses her own concern with the idea, believing that it'd just lead to one of them getting hurt. Uta ends up getting flustered as the conversation continues though and tells Sensei that Io's gone over to Yuki 's apartment before abruptly returning to her room to hide her embarrassment. Having nothing else to do, Sensei returns home, surprised that Uta is the one uncomfortable with Io’s idea when, a few a months back, it would’ve been the other way around. Meanwhile, Io finds herself in front of Yuki's apartment, starting to feel awkward about showing up unannounced and with bags full of food. Just as she decides to go home instead, Yumi shows up, also here to visit Yuki. She attempts to strike up a conversation with Io, something she's incredibly uncomfortable with, especially when Yumi turns out to be a lot more reasonable than she expected. She invites Io into the apartment and, while she initially declines on account of Yumi's history of violence , she's persuaded to stay when Yumi makes it clear that she learned her lesson and has no intention to hurt anyone who won’t hurt her. The two step into the apartment, which Io finds to be much nicer than she anticipated. Yumi quips the charm would wear off if she actually lived here before directing Io to the fridge so she can store all the groceries she's brought. She also asks Io to retrieve a water bottle for her, which she refuses to do, claiming that Yumi shouldn't mooch off someone else's hard work. Yumi negates this by claiming Yuki owes her, given the negative impact her mother's had on her entire life. Moving on, Yumi attempts to ask Io why she's so negative all the time, which Io shoots down as she doesn't know Yumi well enough to open up about her past. Yumi sees that as reasonable, and apologizes, having only wanted to make conversation – The only thing they have in common is their \"douchebag teacher\". Io rushes to Sensei's defense, claiming that even if he's older than them, some people just take longer to figure themselves out. Yumi asks her if she worries about ending up like Sensei, someone with no direction in life and bound to remain a failure forever. Io responds that she's already accepted that possibility as inevitable, confessing she doesn't even believe she'll make it past 30. Yumi initially interprets that as an omen of suicide, but Io clarifies that it isn't anything but a vague feeling she has about her future, likening it to the feeling Yumi has about becoming a failure – Due to the subjective nature of reality, in addition to how little people can truly influence the world around them, the things she does won't truly matter in the grand scheme. Yumi finds this idea dumb and fails to see the resemblance to her worry, quipping that Io's simply talking nonsense. Io admits that might be true as she never truly learned how to express herself and that, while some might be inclined to keep trying regardless, she'd much prefer to give up. Yumi's able to understand this, recounting the story of her childhood and her mother's constant negligence. Without a real paternal figure, she struggled for years to express herself in some way that wasn't anger, and only recently has she started to try and fix that , and Yuki trying to return to her life only makes it feel like all her struggles were meaningless. To Yumi's confusion, Io, her eyes devoid of life, starts to snicker, bursting into full-on laughter at what she feels is such a boring \"backstory\". Yumi starts to get angry but shuts up when Io admits she would've loved to experience what she did instead. She cryptically warns Yumi to never learn what happened to her.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji",
+            "Uta Ushibori",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei initiated the event during a weekday."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Yellow Cactus Flower",
+            "event_script_names": "iodorm35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iovisityuki"
+        ],
+        "music_tracks": [
+            "SweetVermouth.mp3",
+            "hometown.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.32."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Hold You Over",
+        "next_event": "Two Of Us Are Thinking"
+    }
+}

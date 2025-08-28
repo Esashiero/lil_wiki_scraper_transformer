@@ -1,0 +1,48 @@
+{
+    "event_id": "unexpected_profession",
+    "event_title": "Unexpected Profession",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Unexpected_Profession",
+    "event_type": "Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Visit the Porn Shop in the evening for the first time.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Porn Shop"
+        ],
+        "synopsis": "Sensei decides to check the Porn Shop and finds none other than Makoto at the register. In an extremely embarrassing situation, Sensei asks Makoto for porn recommendations. Shocked by the question, Makoto first tries to look for something that Sensei likes, but ends up pushing him out of the store. However, before leaving, he takes a random porn DVD from one of the shelves.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Unexpected Profession",
+            "event_script_names": "firsttimepornshop",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "pornshop"
+        ],
+        "music_tracks": [
+            "citylife.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.1."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "Teacher's Pet"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "event_id": "somnambula",
+    "event_title": "Somnambula",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Somnambula",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "v0.23.5",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" My Life With You \" . This event belongs to an event chain started from \" Wither \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi"
+        ],
+        "synopsis": "Sensei and Ami board a bus, making their way back home after spending the day together. While they sit in silence, Ami asks Sensei if he believes in God, and what his thoughts on the afterlife are. As the bus ride continues, Sensei blackouts, and his delusions continue to get more and more intense as they draw closer to home.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Somnambula",
+            "event_script_names": "amidate50p4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amibus"
+        ],
+        "music_tracks": [
+            "newhope.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "My Life With You",
+        "next_event": "No One Can Hear Us"
+    }
+}

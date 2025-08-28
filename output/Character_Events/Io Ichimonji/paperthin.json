@@ -1,0 +1,49 @@
+{
+    "event_id": "paperthin",
+    "event_title": "Paperthin",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Paperthin",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "10 Io Affection You must have seen or permanently missed the following Events: Seen \" Viva la Revolución \" from Io Ichimonji Seen \" The Girl with the Dragon Tattoo \" from Io Ichimonji",
+        "to_get_this_event": "Visit Io's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Io’s room"
+        ],
+        "synopsis": "Sensei and Io sit on Io's bed, which both of them say isn't weird. Sensei says that people probably expect him to be up to something anyway, which prompts Io to criticize people for interfering in Sensei's business. However, Sensei argues that it's just human nature. When Io says something critical of Ayane , Sensei stops her and asks why, and she says that she was trying to make herself more interesting. Sensei tells her that she can do that without making other people seem small, and that Io is underestimating how much she has impressed him already. Io apologizes, and Sensei says that although she messed up, she's learning.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Paperthin",
+            "event_script_names": "iodorm10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iodormten"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3",
+            "io.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.12p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Unnamed Wooden Robots",
+        "next_event": "Turn On The Lights"
+    }
+}

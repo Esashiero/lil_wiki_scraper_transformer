@@ -1,0 +1,59 @@
+{
+    "event_id": "trauma_bond",
+    "event_title": "Trauma Bond",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Trauma_Bond",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.39(Sports Wars).15",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Radio Silence \" . This event belongs to an event chain started from \" Ten Tips and Tricks to Make Even Straight Girls Want to Fuck You \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi - Club"
+        ],
+        "synopsis": "After Yumi and Chika discuss how Yumi seems to get more involved in their group activities and what happened to Yasu , Imani explains the rules for the Newlywed Game – Two contestants will be chosen by name drawing and one of them has to answer questions about the other, though due to time constraints they can only do one round rather than the usual two rounds where both participants change their roles. Otoha feels like she would be screwed in this contest, but Nodoka reminds her that reading her book would've helped her as it contains both the background of the girls in their class as well as the interesting stories they shared with the Sensei . Nodoka is the first contestant for the second floor, and the second one is Io , who is anything but enthusiastic about this. Yumi is the first contestant for the first floor, something she feared would happen, and she has to team up with Makoto . Ten minutes of preparation later, the contest begins. Yumi manages to answer one question correctly by luck, but intentionally fails every other question to prevent being seen as Makoto's friend. Meanwhile, Nodoka has to answer questions about Io and gets all of them right, including what Io's most precious memory is, revealing she hasn't one. Io is unimpressed by this, saying that any decent psychologist could've answered that last question after a few meetings with her and further states that knowing stuff about her isn't the same thing as understanding her. Nodoka offers a personal session to fix this, but when Io shows her usual disdain, she tries to figure out where her hatred for women comes from, coming to the conclusion that her being abused as a child might be the most logical source, which shocks Io and everyone else. As Nodoka tries to figure out if her mother or a family friend abused her, seeing her mother as the more plausible option, Io storms out of the room. An infuriated Uta confronts Nodoka, who shows no remorse for what she did and even acts like she did nothing wrong, tells her that she never felt this level of disgust in her life, knowing that Nodoka is aware of her secret as well. Nodoka asks her to see it form her perspective, but Uta slaps her across the face, tells her to leave Io alone and storms off. Unfazed by this, Nodoka says to Otoha how she has caused another disturbance, but Otoha just tells her how disappointed she is in her, and Imani forces her to leave. Nodoka does as she's told, but states how her event isn't canceled because of this and will await those who agreed to participate.",
+        "participating_characters": [
+            "Chika Chosokabe",
+            "Yumi Yamaguchi",
+            "Imani Imai",
+            "Rin Rokuhara",
+            "Sana Sakakibara",
+            "Molly MacCormack",
+            "Tsuneyo Tojo",
+            "Ayane Amamiya",
+            "Futaba Fukuyama",
+            "Makoto Miyamura",
+            "Otoha Okakura",
+            "Nodoka Nagasawa",
+            "Uta Ushibori",
+            "Io Ichimonji",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Trauma Bond",
+            "event_script_names": "sportswars15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "newlywedgame"
+        ],
+        "music_tracks": [
+            "anothernewsong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .39.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Priestess of Fallen Snow",
+        "next_event": "Irregular Heartbeat"
+    }
+}

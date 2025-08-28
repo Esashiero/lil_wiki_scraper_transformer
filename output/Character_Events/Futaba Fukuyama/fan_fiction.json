@@ -1,0 +1,48 @@
+{
+    "event_id": "fan_fiction",
+    "event_title": "Fan Fiction",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Fan_Fiction",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Futaba Affection",
+        "to_get_this_event": "Visit the Library on a weekend morning after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Library"
+        ],
+        "synopsis": "Sensei pays another visit to the library in the morning, and arrives to find Futaba staring off into space. He tries to get her attention multiple times, but is unsuccessful, and she barely notices him after a particularly morbid attempt. Futaba hastily asks for the time and is aghast to learn now only is it almost the afternoon, but that she has neglected to help several people who have needed assistance, forcing Sensei to do the job himself. Futaba and Sensei get up to head to the shelves, where Futaba immediately works on reorganizing them, Sensei providing moral support and companionship to help pass the time. Sensei asks Futaba about the notebook from earlier, and Futaba hesitantly explains the purpose of and stigma surrounding fanfiction, and how she likes to write some in her spare time when she's not reading. Sensei explains that Futaba should try her hand at writing some more original content, especially if it has the potential to draw her attention away from the real world for minutes at a time, and when Futaba doubts whether other people will enjoy it, Sensei retorts by asking why anyone does anything in life, and that what others think shouldn't matter so long as she enjoys what she does. After a few more minutes of conversation and Sensei's encouragement, Futaba steels herself and prepares for her new writing assignment, while Sensei leaves the library to go about his day.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Fan Fiction",
+            "event_script_names": "futabafall",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "newfall"
+        ],
+        "music_tracks": [
+            "morningmoon.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces A Fall from Grace )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Impossible Blossoms",
+        "next_event": "Upside Down"
+    }
+}

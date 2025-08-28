@@ -1,0 +1,51 @@
+{
+    "event_id": "fruits_of_the_two_seasons",
+    "event_title": "Fruits of the Two Seasons",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Fruits_of_the_Two_Seasons",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "v0.23.3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Outcry of the Hunted Hare \" . This event belongs to an event chain started from \" Wither \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "The Entertainment District"
+        ],
+        "synopsis": "Ami drags Sensei into a manga store in order to pick up the newest volume of a series she likes, 'My Sweet Prince'. As they search for it, Ami attempts to get Sensei to have an interest in her hobbies. As she lists off various genres, Molly pops up for another 'weebnote', who is quickly joined by Tsuneyo. After Ami informs them that they've just gotten back from a trip to visit her parents, Molly hugs her in support. The two make plans to hang out on their own soon.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Molly MacCormack",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Fruits of the Two Seasons",
+            "event_script_names": "amidate50p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sky",
+            "amianime1"
+        ],
+        "music_tracks": [
+            "amiamiami.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Outcry of the Hunted Hare",
+        "next_event": "My Life With You"
+    }
+}

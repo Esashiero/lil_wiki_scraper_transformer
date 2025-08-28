@@ -1,0 +1,53 @@
+{
+    "event_id": "tell_me_when",
+    "event_title": "Tell Me When",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Tell_Me_When",
+    "event_type": "Event",
+    "primary_character": "Sara Sakakibara",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "25 Sara Affection You must have seen or permanently missed the following Events: Seen \" A Thing of the Past \" from Yuki Yamaguchi",
+        "to_get_this_event": "Visit Sara at the Bar during the night after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a - Living Room"
+        ],
+        "synopsis": "Sensei enters the bar, despite it being closed, and makes his way to the second floor in search of Sara . He finds Sana and her watching a movie in their newly decorated living room. Sara immediately notices him and asks him to pour her a glass of wine, but he refuses to do that, blocks their view of the TV and tells her to do it herself. Sana points out that they aren’t open tonight, but Sensei tells her that he’s basically an employee so he can come whenever he wants, while Sara calls him out for being a terrible employee. She doesn’t mind his presence since he’s pretty much Sana’s father at this point, but Sana doesn’t want to talk about that again and Sensei has no interest in joining their family. She’s still convinced that it will happen and requests him to give her a heads-up if he decides to leave her and Sana one day. He states that Sana could take care of herself if she had better communication skills, but she takes offense to that and informs him that she’s making progress. Sara contributes her progress to Sensei and compliments his efforts as her father, but when both of them beg her to stop. She tells them that it would be nice to have someone else in the family and tries to say that they didn’t have a male in their family since her brother died, but Sana cuts her of and says that they didn’t have one since her actual father left them. Sensei assumes that she did it to protect her mother, but he knows that they can only run from the truth for so long and thinks that they should accept it before it does more harm then good. Sara complains about her teacher and Sensei sees a lot of parallels between him and that teacher. Sara agrees to stop trying to make Sensei a part of her family but she will always see him as someone close enough to be one. He is surprised to hear that since she should be closer with her friends, but she assures him that both her and Sana like him more than them, while an embarrassed Sana wants her to stop. Sara tells her to share her secrets so he can decide which of them he likes more, but Sensei doesn’t want to make such a decision and decides to like both of them while keeping them as far away as possible, which Sana is glad to hear. Their time together comes to a close as the movie enters its final act. Sensei feels sorry for interrupting their plans, but Sara is confident that she can spend more time with her daughter once she can hire another employee. Sana wants to see the end of the movie without them talking and, once the movie ends, leaves them to get back to the dorm.",
+        "participating_characters": [
+            "Sensei",
+            "Sara Sakakibara",
+            "Sana Sakakibara"
+        ],
+        "trivia": [
+            "Sana mentions that the ending of the movie shows the destruction of the Death Star, meaning that the movie is most likely Star Wars: A New Hope .",
+            "There is variation in the dialogue depending on if Sensei saw Melatonin : If seen, Sana pulls Sensei away from Sara for a moment to clarify and apologize for her misunderstanding in the aforementioned event. Sana doesn't completely let Sensei off the hook, though, claiming he'll never be free until he disappears completely out of her life. She takes her leave after, telling him that she doesn't mind only having her mother as a parental figure.",
+            "If seen, Sana pulls Sensei away from Sara for a moment to clarify and apologize for her misunderstanding in the aforementioned event. Sana doesn't completely let Sensei off the hook, though, claiming he'll never be free until he disappears completely out of her life. She takes her leave after, telling him that she doesn't mind only having her mother as a parental figure."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Tell Me When",
+            "event_script_names": "sarabar25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "saranewapt"
+        ],
+        "music_tracks": [
+            "sidecharacter.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .21p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "She's Always a Woman",
+        "next_event": "The Place She Falls Asleep At Night"
+    }
+}

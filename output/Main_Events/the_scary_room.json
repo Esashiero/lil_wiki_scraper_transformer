@@ -1,0 +1,79 @@
+{
+    "event_id": "the_scary_room",
+    "event_title": "The Scary Room",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Scary_Room",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.17",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" First Last Date \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 First Floor"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate",
+            "Amamiya Estate - The Scary Room"
+        ],
+        "synopsis": "Inside the dojo of the Amamiya estate, Ayane welcomes everyone who didn't go to see the date war and explains the contest – On both sides of the dojo is a door that leads into a “scary room” that was prepared by Ami and Molly respectively. Both rooms are filled with things that are supposed to scare both contestants, and whoever manages to stay inside their room longer, wins. Maya is surprised to hear it's only one room, and Ayane explains that she spent most of her money to renovate the dojo and so they only could afford one room for each contestant. Since this implies that there won't be a lot to see, Maya wants to know how they can tell if it's safe for them to exit, and Ayane, not having thought about it, suggests to wait until someone knocks on their door. While the contestants enter their respective room, the following interactions take place: Inside Maya's room, she aimlessly walks around in the dark for minutes on end before she finds something. A projector starts, illuminating an eery room , and shows something only meant for Maya. She's shocked by what's shown to her, apparently showing frames that shouldn't exist anymore, while Angels mock her in the background. She gets desperate when someone initiates the factory reset of a certain terminal, which is most likely Sensei's terminal , and Maya desperately pleas for the reset to be aborted, only for it to be ignored. Before the timer hits zero, the initiation of the reset stops, and Maya is congratulated for passing the test of courage. Stepping outside her room, Ami asks Maya what she thought of her work, apparently having decorated the room with different horror-related items, because she couldn't think of anything else to scare her. She also informs her that she won, because Tsuneyo ran out of her room after 30 seconds when a trap ruined a bowl of ramen. Shell-shocked, Maya decides to return to the dorm and lay down.",
+        "participating_characters": [
+            "Ayane Amamiya",
+            "Uta Ushibori",
+            "Ami Arakawa",
+            "Tsuneyo Tojo",
+            "Maya Makinami",
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Sana Sakakibara",
+            "Yasu Yasui",
+            "Rin Rokuhara",
+            "Molly MacCormack",
+            "Noriko Nakayama",
+            "Kirin Kanda",
+            "Angels"
+        ],
+        "trivia": [
+            "The Angels dialogue is encoded in a Caesar Cipher with a right-shift of 7. A translation of their dialogue can be found below: \"Kv fvb aopur zol jhu zll bz?\" - Do you think she can see us? \"Kvlz pa thaaly lpaoly dhf?\" - Does it matter either way? \"Aol zllk ohz illu wshualk.\" - The seed has been planted. \"Zol iljvtlz jvtwshjlua pu aol jfjsl.\" - She becomes complacent in the cycle. \"Aoha pz uva mvy bz av kljpkl.\" - That is not for us to decide. \"Fvb'yl ypnoa. Dl hyl aol dhajolyz.\" - You're right. We are the watchers. \"Sla bz dhajo oly iylhr avnlaoly.\" - Let us watch her break together. \"Aol ulea zspkl pz tf mhcvypal.\" - The next slide is my favorite. \"Tpul hz dlss.\" - Mine as well. \"H zova myvt ilaaly khfz.\" - A shot from better days. \"Wyhpzl il.\" - Praise be. \"Ho, ovd dvuklymbs pa pz av il fvbun.\" - Ah, how wonderful it is to be young. \"Zol'z wylaaply dolu zol pz pu aol johpy.\" - She's prettier when she is in the chair. \"Fvb'yl zbjo h wlyc.\" - You're such a perv.",
+            "\"Kv fvb aopur zol jhu zll bz?\" - Do you think she can see us?",
+            "\"Kvlz pa thaaly lpaoly dhf?\" - Does it matter either way?",
+            "\"Aol zllk ohz illu wshualk.\" - The seed has been planted.",
+            "\"Zol iljvtlz jvtwshjlua pu aol jfjsl.\" - She becomes complacent in the cycle.",
+            "\"Aoha pz uva mvy bz av kljpkl.\" - That is not for us to decide.",
+            "\"Fvb'yl ypnoa. Dl hyl aol dhajolyz.\" - You're right. We are the watchers.",
+            "\"Sla bz dhajo oly iylhr avnlaoly.\" - Let us watch her break together.",
+            "\"Aol ulea zspkl pz tf mhcvypal.\" - The next slide is my favorite.",
+            "\"Tpul hz dlss.\" - Mine as well.",
+            "\"H zova myvt ilaaly khfz.\" - A shot from better days.",
+            "\"Wyhpzl il.\" - Praise be.",
+            "\"Ho, ovd dvuklymbs pa pz av il fvbun.\" - Ah, how wonderful it is to be young.",
+            "\"Zol'z wylaaply dolu zol pz pu aol johpy.\" - She's prettier when she is in the chair.",
+            "\"Fvb'yl zbjo h wlyc.\" - You're such a perv."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Scary Room",
+            "event_script_names": "dormwar14",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "testofcourage"
+        ],
+        "music_tracks": [
+            "soda.mp3",
+            "contemplation.mp3",
+            "strawberry.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "First Last Date",
+        "next_event": "Fallen Angels"
+    }
+}

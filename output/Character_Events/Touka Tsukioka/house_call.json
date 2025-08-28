@@ -1,0 +1,52 @@
+{
+    "event_id": "house_call",
+    "event_title": "House Call",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=House_Call",
+    "event_type": "Event",
+    "primary_character": "Touka Tsukioka",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Thursday 10 Touka Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Glued to the Sky \"",
+        "to_get_this_event": "Visit Touka's dorm room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Touka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 9"
+        ],
+        "synopsis": "Sensei knocks on dorm room #9 and is surprised to her laughter from the other side. He doesn’t get an answer and decides to enter anyway since it could result in either a good or bad ending. It ends badly this time as Touka , who’s taking care of Yasu ’s hair on her bed, is visited by Tsubasa , who is confused by his appearance. Touka comes up with an excuse and tells her that he came for their regular tutor session. Tsubasa wonders what she’s struggling with and, after Sensei makes something up, Touka says that he teaches her English. Yasu comments on that, but Touka shuts her down. Tsubasa admires his dedication to her education and invites him over to take a seat between them as Touka sends Yasu back to her chair. Because Touka “forgot” that their session was on the same day Tsubasa wanted to visit her, they try to figure out how to deal with it. She gives him a glance indicating that he owes her a favor, and while he’s grateful that she covers up his lecherous behavior, he isn’t keen on owing her and to counter it he decides to “postpone their session” in favor of their slumber party. She feels a catch coming up, but he assures her that there isn’t one. Tsubasa is happy that she can spend time with her older daughter and he wonders why she doesn’t visit her more often, especially with Yasu being another obstacle. Tsubasa likes her, though, and let her visit the mansion already. Touka tells him that this isn’t possible due to all their obligation as members of the Tsukioka family. He assumes that Tsubasa just watches over her younger daughter , but Tsubasa corrects him and states that she oversees the hospitality and real estate branches of the company. The girls start reminiscing about their summer vacations and Touka wonders if she can visit her during summer break, but Sensei isn’t sure if there will be one. Tsubasa rather wants her to experience how commoners spend their summer and, since she is unsure how to do that, recommends her to ask Sensei to educate her. He’s fine with helping her, but when he suggests her to do it with other girls instead, she doesn’t let him finish that thought since she still has no one she could ask. Sensei decides to leave on that note, but the Tsukioka’s follow him and he gets a reminder on how well-endowed both of them are. Tsubasa thanks him again for letting her spend time with her daughter and for agreeing to show Touka some summer activities. Since the weather is getting better, Touka suggests to do it the next time they meet. She also thanks him for skipping their lessons tonight, but Tsubasa lets her know that she wasn’t fooled by her lie. Touka recommends him to run away, which he does immediately.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Tsubasa Tsukioka",
+            "Yasu Yasui"
+        ],
+        "trivia": [
+            "If Sensei decides to “teach” her in Economics, he points out her lack of understanding the value of money when she massively overspend on her Christmas exchange gift for Makoto ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "House Call",
+            "event_script_names": "toukadorm10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "toukahair"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Loser",
+        "next_event": "A Commoner's Tour of Summer"
+    }
+}

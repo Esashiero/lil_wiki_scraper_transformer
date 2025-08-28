@@ -1,0 +1,51 @@
+{
+    "event_id": "walking_on_eggshells",
+    "event_title": "Walking on Eggshells",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Walking_on_Eggshells",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.13",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Other Half \" , or \" Eternally Empty \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "While Sensei and Kirin exit the boiler room, they run into Io and Sensei already assumes that this will be tough to explain. Io is confused to find him exiting a boiler room with another girl and begins to panic about why. Sensei calls her out for overanalyzing the situation and freaking out for no reason. He criticizes Kirin too once she joins the conversation, telling her to stop making things worse. Uncomfortable, Io tries to leave, with Sensei trying to reassure her and make her stay. Io explains she was on her way out, because her anxiety got the better of her, and just wanted to wish Sensei Merry Christmas on the way. But after seeing them, she starts talking about how they can spent next Christmas together and how she has no intention of giving up on him. Kirin realizes how much Io likes him and wants to know why. She confesses that he makes her feel comfortable, which he finds hard to believe since she’s always feeling uncomfortable whenever she’s near him. She reminds him that she is a broken mess that still likes him a lot, but that she’s incapable of ignoring all the time he spends with other people and is equally terrified he'll abandon her for someone more open. Kirin recommends she be more open, but before Io can explain herself, Sensei stops her, saying she doesn't need to justify herself to him or Kirin. Kirin tries to calm her down by assuring that nothing is going on between them, but Sensei points out that this won’t help since Io wants him to be with her and no one else. Io asks if that’s bad and he answers that it is once it hurts his relationship with other people. He makes it clear that she needs to change if she wants to prevent herself from having an emotional breakdown, that he won’t make every decision with her in mind and that she'll have to feel uncomfortable from time to time, but promises to try take her to an amusement park if she attempts to be better. While Io is happy to hear that, she doesn’t think that she’s capable of change at this point. Io still decides to leave and tolerates Kirin going with her after some convincing from both Sensei and her. After they leave, Sensei goes back to the hotel room and runs into Ami , Maya and Karin . He explains to them that he was with Kirin and Io near the boiler room and that both left. Maya asks if them leaving had something to do with what happened near the boiler room, which he answers ambiguously. Moving on, she asks about his plans for the evening, and he jokes that he'll probably be pulled into more drama before suddenly meeting her on the roof. She retorts that the roof is closed.",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda",
+            "Io Ichimonji",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Karin Kanda"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Walking on Eggshells",
+            "event_script_names": "christmastwo10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ioxmashall"
+        ],
+        "music_tracks": [
+            "closeto.mp3",
+            "stpartynight.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Fear of Missing Out",
+        "next_event": "New Age Entrepreneurs"
+    }
+}

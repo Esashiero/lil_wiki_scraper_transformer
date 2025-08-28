@@ -1,0 +1,54 @@
+{
+    "event_id": "the_way_it_scatters",
+    "event_title": "The Way it Scatters",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Way_it_Scatters",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.27.11",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Secret Weapon \" . This event belongs to an event chain started from \" A Walk Through Hell \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Old District"
+        ],
+        "synopsis": "As the day begins, Ami and Kirin ’s contest is revealed to be a scavenger hunt. Ami and Ayane will compete against Kirin and Noriko to find a trophy hidden in the old district, which Kirin wants to get over with quickly so she doesn’t miss the maid contest. Makoto and Miku explain the rules and offer both teams a map of the area. Noriko tells them that they don’t need one, because she grew up in the old district and, therefore, knows the area like the back of her hand. She and Kirin start flirting with each other, much to Ami’s annoyance. Ami recommends that Ayane and her should take the maps and split up to cover more ground, but a distracted Ayane thinks they should stick together instead. After around an hour, Kirin and Noriko have sit on a roof without looking for the trophy. Noriko reveals that the trophy is in a bush directly below them and since they can claim their victory at any time, she wants to use the opportunity to talk about her date . Kirin tries to weasel out of the conversation, because nothing serious happened and she isn’t interested in romance, but Noriko's persistence makes her concede. Noriko tells her that she sung her song to him, which influenced his final decision. Meanwhile, Ami and Ayane are completely lost and Ayane isn’t much help since she’s distracted by her own thoughts. After they searched some more without finding a single clue, Ayane wants to talk with Ami about something important but doesn’t know how to break it to her. When Ami says that she can talk about everything with her since they’re best friends, she confesses that she knows about her and Sensei. Ami snaps immediately and admits everything she does with and has done for Sensei, that this is the only way for her to live on and that she won’t allow anyone to interfere, no matter how much other people judge her. Ayane admits that she’s a little grossed out, but she only wanted to make sure that she’s doing it out of love and not as the only way to deal with her trauma. Since it’s the former, she accepts their relationship and Ami feels sorry for lashing out at her.",
+        "participating_characters": [
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Noriko Nakayama",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Kirin Kanda"
+        ],
+        "trivia": [
+            "The second half of the event only occurs when Sensei started a relationship with Ami in No One Can See Us . If this isn't the case, the next event will play after Noriko’s and Kirin’s conversation."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Way it Scatters",
+            "event_script_names": "dormwartwo10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "scavengerhunt"
+        ],
+        "music_tracks": [
+            "soda.mp3",
+            "blueair.mp3",
+            "ibelieve.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .27.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Midnight Mom Mosh",
+        "next_event": "Misfit Maid Madness"
+    }
+}

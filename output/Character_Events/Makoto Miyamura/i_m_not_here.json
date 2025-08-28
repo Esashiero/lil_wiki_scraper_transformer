@@ -1,0 +1,55 @@
+{
+    "event_id": "i_m_not_here",
+    "event_title": "I'm Not Here",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=I%27m_Not_Here",
+    "event_type": "Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "v0.16.3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Humans With Hollow Bones \" . This event belongs to an event chain started from \" Condoms in the Sand \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Sensei and Makoto walk along the beach, where the sky is somewhat strange. Makoto doesn't remember what she was saying before her migraine appeared, and returns to their conversation about how Sensei treats her. She says that some of the girls he is involved with are less well equipped than her to deal with the sadness they will face. She says that she's curious to know what it would take for him to drop everyone else and be with only her, but suddenly, Sensei is talking to Hope . Hope asks about how many hands a clock has, and says that Sensei thinks too much about the wrong ones. When he is back with Makoto, she considers him to have answered her question. Before they go back, Makoto tells him the results of some investigations she made regarding Yasu , Noriko , Maya , and Niki .",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Hope",
+            "Angels"
+        ],
+        "trivia": [
+            "Some of Sensei's dialogue is encoded in a Caesar Cipher with a right-shift of 7. Below is a translation of this text: \"dolyl kpk fvb jvtl myvt?\" - where did you come from? \"zv thuf ohukz. hss vm aolt pucpzpisl.\" - so many hands. all of them invisible. \"zluk tl ihjr.\" - send me back.",
+            "\"dolyl kpk fvb jvtl myvt?\" - where did you come from?",
+            "\"zv thuf ohukz. hss vm aolt pucpzpisl.\" - so many hands. all of them invisible.",
+            "\"zluk tl ihjr.\" - send me back."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "I'm Not Here",
+            "event_script_names": "makotowinterbeach3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotounderstars"
+        ],
+        "music_tracks": [
+            "undersea.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Humans With Hollow Bones",
+        "next_event": "Something, Somewhere"
+    }
+}

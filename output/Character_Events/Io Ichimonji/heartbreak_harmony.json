@@ -1,0 +1,48 @@
+{
+    "event_id": "heartbreak_harmony",
+    "event_title": "Heartbreak & Harmony",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Heartbreak_%26_Harmony",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Not Friday 25 Io Affection You must have seen or permanently missed the following Events: Seen \" Work Less, Not Hard \" from Io Ichimonji",
+        "to_get_this_event": "Visit Io at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorm - Room 7"
+        ],
+        "synopsis": "Sensei knocks on the door to Dorm Room 7 to visit Io , a little surprised to hear humming followed by her slurred speech. He enters anyway though, finding her sitting on the floor, over-medicated and, as a result, lounging in a drunken-like state. Sensei sees it as an improvement to the last time where she was close to death. He tries to pry the details of her medications out of her, but Io rebuffs these attempts. Instead, she suggests that he get \"fucked up\" with her, something Sensei has no intention of doing as she clearly needs supervision and not someone else addled on pills. She clarifies she wasn’t talking about her pills since she needs them herself, and instead offers him a bottle of sake she got from a customer. He is more open to that, but still hesitates due to her lack of control and worries that something might happen. Io doesn’t think that anything that happens in their inebriated state would matter or mean much of anything, managing to convince him to drink by being pushy. While she gets the bottle, Sensei is worried about her current state, because while it seems better than her feverish state, it’s actually worse due to her letting her guard down completely and he doesn’t want to hurt her in case he loses control like he so commonly does. These thoughts disappear once he begins to drink, feeling that should anything happen tonight, it will not break him or Io more than they already are. The two talk throughout their indulgence, with Io hoping he feels better with the alcohol to help encourage him; He feels no difference, though does note she's much more animated and lively. Io agrees, claiming it to be something Uta enjoys as it allows the two to more easily 'sync up' socially. After being reminded of, and getting some clarity on, Sensei's recent visit to the archery range , she asks him if he's depressed. He admits it's likely, but also that he doesn't care to learn. He instead turns the question back at her, causing her to become defensive and rant about Kirin , who asked the same question, and how readily people are to diagnose themselves and each other with it. After making a note to not say something like that again, Sensei asks Io what she does have aside from the already-known 'anxiety'. Io herself is unsure, having gotten so used to her dosages and medications that she pays no mind to what they're for anymore. As Sensei pours himself another drink, Io asks him to let her have a sip, something he initially refuses to do but relents on. He does, however, add that if she dies he'll take Uta with him as compensation. Io passes out soon after, and Sensei puts her to bed before taking his leave.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Heartbreak & Harmony",
+            "event_script_names": "iodorm25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iooutofit"
+        ],
+        "music_tracks": [
+            "io.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Work Less, Not Hard",
+        "next_event": "1999 PC Classic, Rollercoaster Tycoon"
+    }
+}

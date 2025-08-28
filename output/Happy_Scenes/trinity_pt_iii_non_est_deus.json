@@ -1,0 +1,49 @@
+{
+    "event_id": "trinity_pt_iii_non_est_deus",
+    "event_title": "Trinity Pt. III: Non Est Deus",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Trinity_Pt._III:_Non_Est_Deus",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "Tenth",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" Mysterious Abundance of Chickens \" Seen Trinity Pt. II: Hell is Empty",
+        "to_get_this_event": "Call \"xxxxxxxxxxxxxxxx\" on Saturday night or Sunday night.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            ""
+        ],
+        "synopsis": "There is a classroom. A voice in the background is talking about users and terminals. Memories of family flood back. A small version of Maya appears. As previously established , the world was created by a lonely ball of light called Nozomu, who is \"kind of\" dead now. Maya isn't a god — she's completely normal, and doesn't have enough eyes. The first god has a lot of eyes. The second has none, but makes up for it by having a lot of wires. Maya says that it isn't a game. Some things are the way they would be in a world you make for yourself, but what if someone else makes the world? What if the world was a fruit that fell off a tree made by GOD (who is, of course, three gods who joined forces to plant the seed). Sensei's story won't come to an end when everyone else's does, because he's meant to fix the world, and is the only one who can truly kill God. He is told so by an unnamed baby. Sensei meets Hope again, who says that Sensei won't get home. Hope says that Maya has lived more lives than Sensei can possibly imagine — in contrast to Hope, who has lived one, eternal life. Sensei, being nothing, should live for Hope. Down here, at the bottom of everything, only those Hope believes in can open their eyes. Sensei may sleep, and have his way with anyone, provided he surrenders both himself and them to Hope. It will be Sensei's last meeting with Hope for some time, since Hope has more important matters to attend to — Sensei thinks that they involve a \"plethora of wires\". After change in terminal control, Sensei gets a brief message.",
+        "participating_characters": [],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Trinity Pt. III: Non Est Deus",
+            "event_script_names": [
+                "trinity3"
+            ],
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "concerned"
+        ],
+        "music_tracks": [
+            "Contempt.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": []
+    }
+}

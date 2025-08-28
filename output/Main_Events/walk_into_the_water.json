@@ -1,0 +1,56 @@
+{
+    "event_id": "walk_into_the_water",
+    "event_title": "Walk Into The Water",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Walk_Into_The_Water",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.1",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Redeemer . This starts the Christmas-Beach event chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane , Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "After suddenly being teleported to the beach, Ayane , Maya , and Sensei group up behind the bathroom stalls and discuss what just happened. Sensei assumes a reset, but Maya dismisses the idea before he can ask. Ayane suggests that they should just enjoy being at the beach, but Maya thinks that they should worry about how they ended here instead. When Sensei asks why she’s sure that it wasn’t a reset, she reminds him that she’s able to sense when they’ll happen, that it only works on the rooftop and that Ayane should’ve been reset since she doesn’t meet the condition for staying anymore, not carrying that she hurt her feelings. Maya gets frustrated, because suddenly traveling through time and space never happened to her before, but remembers something when Sensei compares it to some of his own experiences. When Sensei can’t check his phone due to it being somewhere else, Ayane suggests to just ask the other girls and try to get the necessary information from them, though she thinks that they traveled back in time since they always visited the beach in August. Since mulling it over doesn’t get them anywhere, Sensei suggests to just follow Ayane’s advice and get information from the others while also taking a break after the Dorm War, which would give him the opportunity to look for Yumi , who he was talking to while the transition happened. Maya begrudgingly agrees but demands a date with Sensei for the upcoming evening before leaving them behind. Ayane, still reeling from Maya’s blunt invitation and confused from her relationship with Sensei, asks if he forgot to add her to the list , but Sensei assures her that he isn’t that close or if he even could get that close with her. Unbeknownst to the three of them, Yasu is eavesdropping on the conversation just around the corner. Touka quickly finds her, with Yasu telling her that she had drawn into the shade after remembering ‘the way water slides off (her) skin”, and apologizing for misbehaving. Touka doesn’t mind but also doesn’t think she should eavesdrop on a private conversation. When Yasu’s behavior gets weirder, Touka regrets that she refuses to see a doctor before telling her that they should enjoy the beach since they can only do until the end of Christmas.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Yasu Yasui",
+            "Touka Tsukioka"
+        ],
+        "trivia": [
+            "This event marks the first time two chain events occur consecutively in the game. As a result, the player must have fulfilled the following requirements before A Walk Through Hell as well. If Sensei does not have at least 50 Futaba Lust and 50 Makoto Lust , triggering the Dorm War will fail Toys ! If Sensei does not have at least 35 Ami Lust , triggering the Dorm War will fail No One Can Hear Us !",
+            "As a result, the player must have fulfilled the following requirements before A Walk Through Hell as well. If Sensei does not have at least 50 Futaba Lust and 50 Makoto Lust , triggering the Dorm War will fail Toys ! If Sensei does not have at least 35 Ami Lust , triggering the Dorm War will fail No One Can Hear Us !",
+            "If Sensei does not have at least 50 Futaba Lust and 50 Makoto Lust , triggering the Dorm War will fail Toys !",
+            "If Sensei does not have at least 35 Ami Lust , triggering the Dorm War will fail No One Can Hear Us !"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Walk Into The Water",
+            "event_script_names": "beachmas1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "beachmasintro"
+        ],
+        "music_tracks": [
+            "notabluearchivesong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Redeemer",
+        "next_event": "Imaginary Veins"
+    }
+}

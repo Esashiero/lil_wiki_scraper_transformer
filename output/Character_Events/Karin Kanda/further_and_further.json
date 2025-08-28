@@ -1,0 +1,50 @@
+{
+    "event_id": "further_and_further",
+    "event_title": "Further and Further",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Further_and_Further",
+    "event_type": "Event",
+    "primary_character": "Karin Kanda",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Coach \" from Miku Maruyama",
+        "to_get_this_event": "Call Karin in the afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Karin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Park"
+        ],
+        "synopsis": "Karin is planning to go for a run in the park, and as newly-appointed coach of the soccer team , Sensei tells her that he'd like to watch. Karin is initially nervous about it, but Sensei tells her that she's already doing better than usual. She spends a while running laps while Sensei times her. Afterwards, she becomes flustered when Sensei compliments her and says that he would like to do it again sometime.",
+        "participating_characters": [
+            "Sensei",
+            "Karin Kanda"
+        ],
+        "trivia": [
+            "If seen Partners in Crime Karin will question your affirmation on her been the second one of the team."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Further and Further",
+            "event_script_names": "karindate1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "karinjogs"
+        ],
+        "music_tracks": [
+            "retrospect.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.6."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "Walking Penis Monster"
+    }
+}

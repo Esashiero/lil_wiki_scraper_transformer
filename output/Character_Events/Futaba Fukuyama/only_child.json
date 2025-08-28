@@ -1,0 +1,49 @@
+{
+    "event_id": "only_child",
+    "event_title": "Only Child",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Only_Child",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "20 Futaba Affection",
+        "to_get_this_event": "Visit the Library on a weekend morning after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Library"
+        ],
+        "synopsis": "Sensei catches Futaba as she is on her way out of the library. Futaba tells Sensei the library is closed for cleaning for the day so he wouldn't have been able to stay anyway - not that he had any interest in being in the library by himself to begin with - and she invites him to hang out, which he readily accepts. Once they arrive at their destination and order their food, Futaba thanks Sensei for the excursion, but Sensei stops her right as she's about to make an excuse for him, saying there's no need for one. While she has trouble believing Sensei, she ultimately accepts it, and the topic turns to Futaba's family, who Futaba is surprised to find out Sensei is interesting in hearing about. She starts by telling him about her parents, and by extension her rather unique financial situation, explaining they send her a stipend which she lives off of while attending school. Afterward, Sensei asks Futaba whether she has any siblings - she replies that even though she doesn't, Rin is probably closer to a sister than anyone else she knows. She says she would have liked to have had a brother, which leads into a conversation Futaba comes out the other side of very flustered. The two talk for a while longer as they finish their food, before they head out, and Sensei leaves to go about his day.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Only Child",
+            "event_script_names": "library20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "onlychildredux",
+            "futabaday"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Legs of a Dying Spider",
+        "next_event": "A Book About Dragons"
+    }
+}

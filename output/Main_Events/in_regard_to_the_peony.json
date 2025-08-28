@@ -1,0 +1,53 @@
+{
+    "event_id": "in_regard_to_the_peony",
+    "event_title": "In Regard to the Peony",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=In_Regard_to_the_Peony",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.10",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Actual Jesus Quotes \" . This event belongs to an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "-10 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Apartment Building - Apartment #24",
+            "Kumon-mi - Unknown Fashion Boutique"
+        ],
+        "synopsis": "Meanwhile in the apartment of the person Nodoka was referring to , Wakana ruminates over a notebook of Ami 's poetry, whereas Osako tries to get her girlfriend to take a step back from her recent obsession. Wakana largely ignores her request, asking for help in identifying the meaning behind a particular line. Osako continues to plead with her, depressed at the thought of not spending Christmas together like always . Wakana assures her that there will be other opportunities to be together, whilst her research requires extreme attentiveness, especially if she doesn't want to risk losing a potential lead and to ensure the well-being of a close friend . Osako asks if she's really that worried about him, which she confirms, though wonders why Osako seems unfazed by the disappearance of someone who's supposedly her friend, with her retorting that he's a grown man who doesn't need such overblown concern. Wakana refutes this explanation, angrily stating that Sensei cannot possibly be so easily brushed aside when the slightest allusion to his past nearly breaks him . After apologizing for this slight outburst, she reminds Osako about the potential link between him and the elusive poet, \" The Girl Who Cannot Breathe \", whose poetry centers around a consistent muse the poet was apparently infatuated with, believing Sensei was this muse. Having heard this theory more than enough, and failing to see the point in confirming this connection when the author is long gone, Osako tries once more to get the topic dropped. Wakana refuses since her influence is still harming two people she sees every day, blaming herself for not paying enough attention to them and preventing the Arakawa's isolation. While Wakana goes over Ami's poetry one more time, trying to figure out the meaning behind the \"one loss acquiesced\", specifically who this could be referring to and why it affected Sensei's mental state all of a sudden, Osako, done with this conversation, tells her to be dressed by the time she returns before stepping outside to make a call. Osako steps out the front door of her apartment, calling Rika in the hope she'll be able to keep her company until Wakana finishes up. While initially claiming to be free to talk, Rika is revealed to be shopping with Rin , the aforementioned girl interjecting to rebuke her mother's claim. The two begin to bicker as Osako slowly gives up on her idea, saying she'll call again if her plans with Wakana fall through. She hangs up after assuring Rika she'll come to her if the situation becomes too much to bear. Now alone with her daughter, Rika asks Rin to do the same, reminding her how much she loves her even if she isn't always the best mother. The two are soon after thrown out by staff for causing too much commotion.",
+        "participating_characters": [
+            "Osako Osaka",
+            "Wakana Watabe",
+            "Rika Rokuhara",
+            "Kaori Kadowaki",
+            "Nao-chan",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "In Regard to the Peony",
+            "event_script_names": "springtime9",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "wakanaresearchxmas"
+        ],
+        "music_tracks": [
+            "hallelujah.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Actual Jesus Quotes",
+        "next_event": "When the Sun Sleeps"
+    }
+}

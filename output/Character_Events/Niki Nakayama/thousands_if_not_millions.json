@@ -1,0 +1,49 @@
+{
+    "event_id": "thousands_if_not_millions",
+    "event_title": "Thousands, If Not Millions",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Thousands,_If_Not_Millions",
+    "event_type": "Event",
+    "primary_character": "Niki Nakayama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "10 Niki Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" All is Bright. All is Beautiful. \"",
+        "to_get_this_event": "Call Niki in the morning",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Niki Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Route 69 Diner"
+        ],
+        "synopsis": "Sensei meets Niki at one of the places where Kaori works. Kaori's comments about their current relationship prompt them to start talking about their past, which Kaori decides isn't conversation she should be part of. Niki tells Sensei that although she spent a long time dreaming of punishing Sensei by forgetting him like he forgot her, she now finds that she doesn't want to. She says that she doesn't want to get back together with him (and can't anyway), but she does tell him not to do anything with Noriko .",
+        "participating_characters": [
+            "Sensei",
+            "Niki Nakayama",
+            "Kaori Kadowaki"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Thousands, If Not Millions",
+            "event_script_names": "nikidate10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nikidateten"
+        ],
+        "music_tracks": [
+            "remember.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.20p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Like it's Any Other Day",
+        "next_event": "Hotel Rooms"
+    }
+}

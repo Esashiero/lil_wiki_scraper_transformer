@@ -1,0 +1,52 @@
+{
+    "event_id": "into_the_woods",
+    "event_title": "Into the Woods",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Into_the_Woods",
+    "event_type": "Lust Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "v0.19.12",
+    "interactivity": {
+        "requirements": "20 Chika Lust",
+        "to_get_this_event": "Have 20+ Chika Lust before the event chain starts. Autoplays after \" Torrential Downpour. Child of Man. \" . This event belongs to an event chain started from \" Good Morning \" .",
+        "to_miss_this_event": "Have less than 20 Chika Lust before Good Morning . Replaced by Out of the Woods .",
+        "choices": [],
+        "effects": [
+            "+1 Chika Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach Woods"
+        ],
+        "synopsis": "Chika wants to do something for Sensei to improve his mood. While doing so, she gets out her phone to provide some light, and inadvertently begins streaming the event — Miku and Kirin notice, although only Kirin figures out what is going on. Chika notices and turns her phone off. When they are finished, they split up to return to the inn.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Miku Maruyama",
+            "Kirin Kanda"
+        ],
+        "trivia": [
+            "A phone message from Chika is available after this event."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Into the Woods",
+            "event_script_names": "chikalust20",
+            "event_missed_name": "Out of the Woods"
+        },
+        "backgrounds": [
+            "chikawoods"
+        ],
+        "music_tracks": [
+            "asobeatsex2.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Princess & The Pauper",
+        "next_event": "In Search of Summer"
+    }
+}

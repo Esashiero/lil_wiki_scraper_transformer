@@ -1,0 +1,48 @@
+{
+    "event_id": "shades_of_green",
+    "event_title": "Shades of Green",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Shades_of_Green",
+    "event_type": "Invite Event",
+    "primary_character": "Haruka Hamasaki",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" Fireworks etc... \"",
+        "to_get_this_event": "Invite Haruka Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Haruka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei House"
+        ],
+        "synopsis": "Despite some misgivings over what will happen if Ami finds out, Sensei invites Haruka to his house. When Ami inevitably discovers them, Ami's usual displeasure about someone stealing Sensei is heightened by obvious envy of Haruka's chest. Ami makes a point of being rude to Haruka to prevent her returning, while Haruka calmly returns fire. At the end of the evening, Sensei reflects that at least no one died.",
+        "participating_characters": [
+            "Sensei",
+            "Haruka Hamasaki"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Shades of Green",
+            "event_script_names": "harukainvite1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "harukafirstinvite"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Watching TV Alone",
+        "next_event": "Roses"
+    }
+}

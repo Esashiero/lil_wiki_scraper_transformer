@@ -1,0 +1,51 @@
+{
+    "event_id": "bad_kitty",
+    "event_title": "Bad Kitty",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Bad_Kitty",
+    "event_type": "Lust Event",
+    "primary_character": "Haruka Hamasaki",
+    "chapter": "v0.10.16",
+    "interactivity": {
+        "requirements": "10 Haruka Lust",
+        "to_get_this_event": "Have 10+ Haruka Lust before The Value of Sharing . \nAutoplays after \" Kadrillionbilliontrillion \" . This event is the final event in an event chain started from \" The Value of Sharing \" .",
+        "to_miss_this_event": "Have less than 10 Lust before The Value of Sharing . Replaced by Fixing Pipes after seeing Kadrillionbilliontrillion .",
+        "choices": [],
+        "effects": [
+            "+1 Haruka Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Haruka's House"
+        ],
+        "synopsis": "Arriving at her apartment , Sensei spends some time with Haruka and Maki .",
+        "participating_characters": [
+            "Sensei",
+            "Haruka Hamasaki",
+            "Maki Miyamura"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei pursued Sara during either Carry Me Home or A Mostly Empty Home ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Bad Kitty",
+            "event_script_names": "harukalust10",
+            "event_missed_name": "Fixing Pipes"
+        },
+        "backgrounds": [
+            "harukamakithreesome"
+        ],
+        "music_tracks": [
+            "asobeatsex2.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Need to be Hurt",
+        "next_event": "Performance Review"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "event_id": "rising_of_the_tide",
+    "event_title": "Rising of the Tide",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Rising_of_the_Tide",
+    "event_type": "Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Makoto Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Walk in the Park \"",
+        "to_get_this_event": "Visit Makoto at the Porn Shop after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Porn Shop",
+            "Porn Shop - Back Room"
+        ],
+        "synopsis": "Sensei visits the porn shop, much to Makoto 's chagrin. He asks if there's anything he can do to pick up business, since he doesn't really see any other customers, and Makoto says the vast majority of the sales the shop generates come from women. Makoto becomes flustered, not willing to answer any more questions, and accidentally lets slip the existence of the back room. Sensei becomes insistent on seeing it, despite Makoto's attempts to deflect, and frustrated, Makoto eventually leads him to the room. As soon as she shows him, Makoto immediately tries to leave, only for Sensei to use his photo of her to get her to stay. She reluctantly sits down, and after an argument over what the room is actually used for, the two watch the video on screen. Makoto becomes increasingly flustered and begins asking questions and making comments on the video, which a disinterested Sensei answers, his intrigue with the video having already diminished to basically zero. Makoto is flustered to be talking about the topic with Sensei, and Sensei gives her a suggestion she absolutely hates due to its accuracy. Sensei asks when he'll get to meet her mother, but has to internally reconcile his situation in the world when Makoto says her mother is a member of the PTA and Sensei should already know her. Later, as he asks her why she hasn't relaxed more, reality glitches and almost makes him do something unsavory. He quickly apologizes, affirms Makoto's strength, then leaves, immediately going home and going to bed to try to forget what almost happened.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Rising of the Tide",
+            "event_script_names": "pornshop10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "pornshop",
+            "pornshopten"
+        ],
+        "music_tracks": [
+            "citylife.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Responsible Girl )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Completely Platonic",
+        "next_event": "Frogger"
+    }
+}

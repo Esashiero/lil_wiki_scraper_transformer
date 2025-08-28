@@ -1,0 +1,48 @@
+{
+    "event_id": "nothing_is_real",
+    "event_title": "Nothing is Real",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Nothing_is_Real",
+    "event_type": "Event",
+    "primary_character": "Maya Makinami",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "20 Maya Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" See You in the Morning \" Seen \" Takoyaki \" from Maya Makinami",
+        "to_get_this_event": "Visit the Shrine",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shrine"
+        ],
+        "synopsis": "Maya says that she isn't the mood to talk, but Sensei talks anyway. When she tells him that he doesn't know who he is, he says that her cryptic approach doesn't help. She replies that she actually needs him to fail somewhat, and that she has has less ability to change things than he thinks (being, of course, a normal teenage girl). She asks Sensei whether a world containing people who are \"identical copies equipped with altered minds\" is still the same world, and tells him that \"this isn't a game\". He says that he doesn't think it is, and that the progress he has made with people is real. When he adds that she feels real, she says that she is \"tired of hearing that line\", which is \"all part of the cycle\". She ends the conversation by telling him that he'll be needed to carry more boxes sometime.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Nothing is Real",
+            "event_script_names": "shrine20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "shrinetwenty"
+        ],
+        "music_tracks": [
+            "shrinesong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Takoyaki",
+        "next_event": "Close Your Eyes"
+    }
+}

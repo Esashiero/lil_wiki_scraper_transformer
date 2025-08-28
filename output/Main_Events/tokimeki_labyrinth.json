@@ -1,0 +1,57 @@
+{
+    "event_id": "tokimeki_labyrinth",
+    "event_title": "Tokimeki Labyrinth",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Tokimeki_Labyrinth",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.7",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Everything Evil \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane , Ami , Sana , Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Living Room"
+        ],
+        "synopsis": "Off the heels of his talk with Molly , Sensei arrives at home to find the Pre-Christmas party in full swing. Feeling dissatisfied from how easy the situation with Molly was resolved, he decides to call it a day, but is stopped by Ami and Ayane who want to watch Niki ’s upcoming performance with him. Before he can make a decision, the performance starts and Sensei is forced to watch it with Amy and her friends. At the same time, Noriko and Kirin are watching Niki’s performance as well. Kirin expresses her physical attraction towards her, while Noriko is both jealous of her beauty and worried about Sensei falling for her again. She also expresses her anxiety regarding the gift she wants to give him during tomorrow's Christmas party, but Kirin is completely dismissive of her worries. Rin , Otoha , and Futaba make plans to go Christmas shopping before tomorrow's party. As Futaba steps outside to wish her parents Merry Christmas, Otoha takes the opportunity to kiss Rin. Once the performance is over, Maya decides to head to bed after being teased by Sensei and Ayane. Sensei, having no reason to stay up further, decides to do the same and locks the door to prevent Ayane from waking him up in the middle of the night .",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Maya Makinami",
+            "Sana Sakakibara",
+            "Kirin Kanda",
+            "Noriko Nakayama",
+            "Futaba Fukuyama",
+            "Otoha Okakura",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Tokimeki Labyrinth",
+            "event_script_names": "christmastwo6",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "christmashome"
+        ],
+        "music_tracks": [
+            "christmasyay.mp3",
+            "tokimekilabyrinth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Everything Evil",
+        "next_event": "Love Set to Max (Class Warfare)"
+    }
+}

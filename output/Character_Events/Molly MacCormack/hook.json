@@ -1,0 +1,47 @@
+{
+    "event_id": "hook",
+    "event_title": "Hook",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Hook",
+    "event_type": "Event",
+    "primary_character": "Molly MacCormack",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Friday 30 Molly Affection You must have seen or permanently missed the following Events: Seen \" White People \" from Otoha Okakura Seen \" How To Make Love Stay \" from Niki Nakayama",
+        "to_get_this_event": "Visit Koi Cafe at night after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "Sensei arrives at the cafe after closing hours, finding Molly and Haruka ready to head home for the night. Having been a while since he last checked in with them, he asks Haruka about business lately, mentioning Molly's unexpected professionalism during the late-night rush he, Rin , and Otoha encountered the other night . Haruka, too, was impressed, although somewhat skeptical, by Molly's composure and endurance. Molly tries to downplay this achievement by mentioning she had Rin assist, but Haruka nonetheless praises her, offering to take her and Sensei out for dinner. Molly's initially reluctant to accept the offer, wanting to head home and enjoy her backlog of anime, but is eventually convinced by Sensei when he likens the offer to a “bonus event”. The three ride a bus and head to a restaurant near Haruka's place, with Haruka ordering bottles of wine for the three of them. Molly and Sensei both bluntly refuse the offer to drink due to their past experience with it . Haruka picks up on the barely concealed tension in Molly's voice, trying to pry for details on what's bothering her. She's reluctant to answer, wanting to completely avoid talking about herself at all, as she feels it's unimportant. Haruka reassures her that her feelings are important and that she cares about her despite their usual dynamic. Unused to the sudden barrage of affection, Molly quickly becomes flustered, asking the topic to be dropped before she faints from excitement. Haruka's encouragement continues, with her assuring Molly that even if she does faint, Sensei would be able to look after her. Equally as uncomfortable with where the conversation is heading, Sensei also tries to get Haruka to drop the topic, especially once she begins to speculate on Molly's feelings for him. Molly confirms that, while she has no intention to deepen her relationship with him, he would be the “next in line” candidate after her falling out with Rin . When Sensei fails to reassure Molly in any way, Haruka snaps at him for failing to take such an obvious chance to make her feel better, causing the two to begin to argue about how Sensei treats her. Molly tries to break the situation up by firmly stating that Sensei has no reason to pay her any attention, especially when she lacks any appeal like the rest of the girls in his life. Sensei objects to this, saying that there's nothing wrong with her specifically, just that the circumstances she's been thrust into are heavily weighed against her. The situation is mostly defused, and the three of them spend the rest of the night eating and idly chatting.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack",
+            "Haruka Hamasaki"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Hook",
+            "event_script_names": "mollycafe30p1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mollyharukacafenight"
+        ],
+        "music_tracks": [
+            "cafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Walkthrough",
+        "next_event": "A Night to Remember"
+    }
+}

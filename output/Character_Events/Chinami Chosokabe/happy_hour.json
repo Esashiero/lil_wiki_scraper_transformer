@@ -1,0 +1,51 @@
+{
+    "event_id": "happy_hour",
+    "event_title": "Happy Hour",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Happy_Hour",
+    "event_type": "Event",
+    "primary_character": "Chinami Chosokabe",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "20 Chinami Affection You must have seen or permanently missed the following Events: Seen \" Pool Party (Love & Puppies) \" from Chinami Chosokabe",
+        "to_get_this_event": "Call Chinami in the afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chinami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shopping Mall"
+        ],
+        "synopsis": "Chinami is at the mall in her dog mask , and Sensei ends up babysitting again. This time, they are found by Rin and Otoha , whom Sensei eventually persuades them to sit with them. Otoha ends up playing along with Chinami's barking. Chinami eventually identifies herself as Chika 's sister, prompting a resurgence of Rin's sadness about how her crush worked out. Otoha admits to feeling uncomfortable being there, and Rin leaves with her. Chinami is aware that the situation was awkward, and Sensei tells her that she handled it really well.",
+        "participating_characters": [
+            "Sensei",
+            "Chinami Chosokabe",
+            "Otoha Okakura",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Happy Hour",
+            "event_script_names": "chinamidate20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chinamimeetsalesbian"
+        ],
+        "music_tracks": [
+            "happyandplotting.mp3",
+            "gentle.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Pool Party (Love & Puppies)",
+        "next_event": "Death Trap"
+    }
+}

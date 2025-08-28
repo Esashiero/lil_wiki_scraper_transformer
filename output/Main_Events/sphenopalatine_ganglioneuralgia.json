@@ -1,0 +1,61 @@
+{
+    "event_id": "sphenopalatine_ganglioneuralgia",
+    "event_title": "Sphenopalatine Ganglioneuralgia",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sphenopalatine_Ganglioneuralgia",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.7",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Friend Zone Fight! \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Second Floor"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Library"
+        ],
+        "synopsis": "Inside the library, Uta explains that Makoto and Nodoka will answer trivia questions, with Uta reading the questions gathered by the second floor girls to Makoto, while Ami will do the same for Nodoka with questions contributed by the first floor. Makoto manages to answer the first two questions successfully, while Nodoka isn't even close with her answers. As a result, Makoto is confident that she will win, but Uta reveals that the first questions were only a warm-up and that every question from now on will be random stuff they found online, all of which are nigh impossible to know. This is confirmed when Makoto's next question demands the scientific name and location of the first potted plant. Makoto doesn’t bother answering it, but Nodoka, despite not getting a point for it, answers it and also the next two questions correctly. On the sideline, Otoha informs Rin that this was her plan all along – Playing dumb at the beginning before completely dominating the competition to relish the spotlight. Sensei , who's standing between both girls, asks why they bother keeping him company after ruining his morning , and they explain that they want to make up for doing it by cheering him up. Ten minutes later, Nodoka leads 9 to 4 and is one correct answer away from winning. Her question is to state the scientific name for brain freeze. After giving a condescending speech to Makoto, Nodoka answers the question and wins the contest. Makoto takes her loss personally, and any attempt to console her fail. Uta asks everyone who wants to attend the rap contest to follow Sensei, and while he guides some of the girls to the maid cafe, the rest, including Nodoka, go to the hotel after cleaning the library.",
+        "participating_characters": [
+            "Sensei",
+            "Uta Ushibori",
+            "Molly MacCormack",
+            "Ami Arakawa",
+            "Miku Maruyama",
+            "Makoto Miyamura",
+            "Nodoka Nagasawa",
+            "Futaba Fukuyama",
+            "Maya Makinami",
+            "Tsuneyo Tojo",
+            "Yasu Yasui",
+            "Otoha Okakura",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei broke his promise to Rin by seeing Schadenfreude before What's Done is Done ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sphenopalatine Ganglioneuralgia",
+            "event_script_names": "dormwar6",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "knowledge"
+        ],
+        "music_tracks": [
+            "happyandplotting.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Friend Zone Fight!",
+        "next_event": "Ruthless Rhyme Rhomp! Rap Rampage!"
+    }
+}

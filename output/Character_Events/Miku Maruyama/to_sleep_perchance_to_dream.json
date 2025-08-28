@@ -1,0 +1,51 @@
+{
+    "event_id": "to_sleep_perchance_to_dream",
+    "event_title": "To Sleep, Perchance to Dream",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=To_Sleep,_Perchance_to_Dream",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "v0.16.4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" I'm Not Here \" . This event belongs to an event chain started from \" Condoms in the Sand \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach - Hotel Bedroom"
+        ],
+        "synopsis": "When Sensei and Makoto get back to the inn, they find Miku already asleep. The three share the bed but, in the middle of the night, Miku accidentally wakes Sensei up as she shifts around.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Miku Maruyama"
+        ],
+        "trivia": [
+            "Although this is one of Miku's events, all the other events in the chain belong to Makoto (the previous one being I'm Not Here and the next one being Something, Somewhere )."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "To Sleep, Perchance to Dream",
+            "event_script_names": "mikuwinterbeach1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikusleeping"
+        ],
+        "music_tracks": [
+            "asobeatsex8.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Loxonin",
+        "next_event": "Triple Whammy"
+    }
+}

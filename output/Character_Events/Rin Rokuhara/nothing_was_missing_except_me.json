@@ -1,0 +1,50 @@
+{
+    "event_id": "nothing_was_missing_except_me",
+    "event_title": "Nothing Was Missing, Except Me",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Nothing_Was_Missing,_Except_Me",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "20 Rin Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Missing \" Seen \" Window of the Waking Mind \" from Rin Rokuhara Seen \" Imprinting \" from Ayane Amamiya",
+        "to_get_this_event": "Visit the Koi Cafe on a weekend morning after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "Sensei arrives in the cafe to find Rin is back to work after a long stretch of not appearing, either in class or work . She notices him, but to his surprise, she turns around instead of greeting him, pretending to clean something. She tries to placate his obvious worries, but her efforts find no purchase. Sensei asks her to turn around, and after a moment of prodding and a quick reassurance, she does so, and Sensei is surprised to find she looks like she's missed sleep for several weeks. Rin asks him how bad her appearance is, and after he deflects with a euphemism, he inquires as to the wisdom of her decision to work today. She tries to tell him to forget seeing her in her current appearance, but he quickly tells her that's not possible. She tries to stave off his increasing concern for her well-being, but is interrupted when Haruka , who had been listening to the conversation from the backroom, runs over, telling her to go home and that Molly is going to cover her shift. Rin, starting to become emotional, begs Haruka to let her work through her shift and tells her things are fine, but Haruka is having none of it, and tells her she's clearing Rin from the schedule until she's able to work again. Rin tears up and bids both of them a quick goodbye before gathering her things and leaving. Sensei and Haruka reflect on Rin's condition and how she appears at work versus at school. Haruka, suddenly nervous, asks if it's okay for Sensei to take her phone number so that he can report Rin's status back to her, something Sensei finds no issue with. After a bit more small talk and an awkward stumble on Haruka's part, Sensei leaves to go about his day without having ever purchased a drink.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara",
+            "Haruka Hamasaki"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Nothing Was Missing, Except Me",
+            "event_script_names": "cafe20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "cafetwentyredux",
+            "cafesad"
+        ],
+        "music_tracks": [
+            "lastdailysong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Boundaries",
+        "next_event": "Delirium"
+    }
+}

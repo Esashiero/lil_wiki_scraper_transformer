@@ -1,0 +1,48 @@
+{
+    "event_id": "stray_cat",
+    "event_title": "Stray Cat",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Stray_Cat",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.11.5",
+    "interactivity": {
+        "requirements": "Friday You must be on at least Day  218  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Tradition \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Friday on or after Day 218.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Shopping Mall"
+        ],
+        "synopsis": "Sensei , Ami , and Maya go shopping for winter clothes, but Sensei gets ditched once Ami has his credit card. He goes off on his own to get a slightly thicker shirt. For some reason, he also finds himself compelled to buy two green scarves, which he gives to the girls when they are reunited. Maya has an unexpectedly strong reaction, but regains her composure and denies that anything happened. They continue shopping.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Stray Cat",
+            "event_script_names": "day218",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "green"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3",
+            "memories.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.11."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Tradition",
+        "next_event": "There is Nothing"
+    }
+}

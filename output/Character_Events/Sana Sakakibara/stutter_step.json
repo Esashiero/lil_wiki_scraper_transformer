@@ -1,0 +1,51 @@
+{
+    "event_id": "stutter_step",
+    "event_title": "Stutter-Step",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Stutter-Step",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "v0.37.10",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Taller \" . This event belongs to an event chain started from \" Episcopalis: Pickled Plums & Polyrhythmic Psalms \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a",
+            "Sakaki-bar-a - Living Room"
+        ],
+        "synopsis": "Sensei and Sana arrive at Sara 's bar , the former taking note of the increased foot traffic through the place. He briefly ponders if his absence is what's generated such success, but this pang of narcissism crashes immediately, leaving him instead ruminating on his previous conversation with Sana. He struggles to believe her so-called \"growth\" is growth at all when he's seen no impetus to spark it, finding himself unable to understand her at all as a result. Sana announces her return and the arrival of a guest to her mother, who's currently too swamped with orders to pay attention. She initially believes the guest is Ayane , but is shocked upon looking up to see Sensei instead. She rushes over to him, bombards him with questions in regards to his disappearance, to which he gives her brief responses to all of them, and asks what she can do to make him feel better. Sana suggests to let him drink for cheap tonight, as he's struggling through something right now. Sara goes further with this idea, declaring the bar to be closed tonight and kicking out all the patrons so the three of them can drink for free and in peace. Whilst her mother begins preparations to wrap up the work day, Sana grabs Sensei by his wrist and guides him upstairs to wait. This level of familiarity surprises Sensei, reminding him of how welcoming the two Sakakibara women are to him. Rather than being comforted by this, though, he's filled with guilt for spending longer with this fake family than his real one . Time passes, and Sara joins the two upstairs, changing into something comfortable and pulling out drinks for all three of them. He tells himself that he shouldn't drink, but succumbs to the memory of all the mistakes he's made thus far, asserting another will mean nothing. As he reels from his internal monologue, Sara quips on if he'll be sticking around or disappearing again and leaving her all alone. He reminds her how many people she has to keep her company, but is unable to actually answer her question as he's completely lost on what to do anymore. This leads to him and Sana revealing that Sensei's taking leave from work, with him trying to focus on Ami instead, a situation he fills her in on. Sara suggests that she try and talk with Ami, hopeful a motherly figure might help coax her feelings out. Sensei feels the idea is good, but will ultimately fail as Ami is currently perceiving everyone as a threat to her way of life; Her current clinginess is unlike any other incident and while he'd like to help her overcome her reliance on him, he can't help but feel guilty considering how reliant he is on her. Sara recommends therapy, but Sensei points out that this can only work if Ami realizes she has a problem, but she's convinced that she's the only sane one. The topic is dropped when both Sana and Sara realize how complicated this situation is. The trio continues to drink into the night, with Sara passing out on the couch and Sana passing out against Sensei's shoulder. The latter is merely an act, however, and Sensei sees through it quickly. Having witnessed how drastically Sana's changed in his absence, he decides to finally ask about last Halloween . Sana's happy to recount it.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Sara Sakakibara"
+        ],
+        "trivia": [
+            "During this Event, various Minor Characters make small cameos. The only exception to this is Random Karate Person , who makes their first appearance here. Before v 0.24.0 , Random Karate Person did have minor roles in the events Martial Arts and The Battle for Kumon-mi before they were removed and updated respectively.",
+            "Before v 0.24.0 , Random Karate Person did have minor roles in the events Martial Arts and The Battle for Kumon-mi before they were removed and updated respectively."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Stutter-Step",
+            "event_script_names": "sanaspring2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "barreunited"
+        ],
+        "music_tracks": [
+            "calmbar.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Taller",
+        "next_event": "Weak Man, Weak Boy"
+    }
+}

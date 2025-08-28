@@ -1,0 +1,51 @@
+{
+    "event_id": "abyss",
+    "event_title": "Abyss",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Abyss",
+    "event_type": "Event",
+    "primary_character": "Yumi Yamaguchi",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Saturday 35 Yumi Affection You must have seen or permanently missed the following Events: Seen \" Tech Support \" from Yumi Yamaguchi",
+        "to_get_this_event": "Call Yumi at night.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yumi Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Old District"
+        ],
+        "synopsis": "Sensei calls Yumi and says that he's going to visit the Chosokabe flat, but Yumi instead tells him to meet her on the bridge. Sensei isn't sure if that's a good idea, given that his tendency to have what Yumi called \"mind-comas\" around Yumi and in the old district, but he loses control over his words and legs, and is somehow at the bridge. He mentions to Yumi that he doesn't even remember how he got there, and she tells him that if he isn't lying about not being a junkie, he ought to go to hospital — his blackouts are getting out of hand, and she doesn't want it to happen in front of Chika or Chinami . Sensei finds himself in an abyss talking with someone who has a temporary appearance. He is offered the chance of going somewhere outside this half of town, but instead asks to go back to Yumi (who is also known by a different name). Yumi has pulled him out of the way and propped him against a railing on the bridge — he thanks her for that. Before she goes, Yumi tells him not to do anything which will hurt Chika.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "If the player views this event after viewing the chain event that started Little Miracles , they will fail Things That Hurt !!",
+            "There is variation in the dialogue depending on if Sensei has seen the chain-event starting from Little Miracles ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Abyss",
+            "event_script_names": "yumicallnight35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yumiknows"
+        ],
+        "music_tracks": [
+            "blueair.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Tech Support",
+        "next_event": "Reconciliation"
+    }
+}

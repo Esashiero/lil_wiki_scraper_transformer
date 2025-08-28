@@ -1,0 +1,49 @@
+{
+    "event_id": "no_you",
+    "event_title": "No, You",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=No,_You",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "35 Futaba Affection You must have seen or permanently missed the following Events: Seen \" A Tree Falls in the Forest \" from Futaba Fukuyama Seen \" Ten Steps Forward \" from Rin Rokuhara",
+        "to_get_this_event": "Visit the Library",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Library"
+        ],
+        "synopsis": "Futaba and Rin are talking in the library when Sensei arrives. Sensei notes that between him, Rin, and Nodoka , Futaba is getting a lot of visitors — she attributes it to having let her hair down lately. Sensei and Rin talk about Futaba's recent illness despite her protests that it's nothing, and Futaba she eventually snaps at them to drop the subject. She apologizes for being abrupt, but says that they only make things harder for her by trying to get involved, even if she appreciates the sentiment behind it. Rin tells Futaba that people wouldn't be so worried if she actually started taking care of herself. Futaba wants to talk to Rin alone, and although Rin wants Sensei to hear it too, Sensei decides that it's Futaba's call. Alone, Rin and Futaba talk about Futaba's eating disorder — Rin is very worried for Futaba, and asks Futaba to work with her to find a better way of dealing with it. Futaba agrees to try, for Rin's sake.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "No, You",
+            "event_script_names": "library35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "futabarinlib"
+        ],
+        "music_tracks": [
+            "morningmoon.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Tree Falls in the Forest",
+        "next_event": "Overload"
+    }
+}

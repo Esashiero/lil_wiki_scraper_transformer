@@ -1,0 +1,47 @@
+{
+    "event_id": "in_some_cases_love",
+    "event_title": "In Some Cases, Love",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=In_Some_Cases,_Love",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.13",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" C'est La Vie \" , or \" Mourir. Dormir. \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel - Room #44"
+        ],
+        "synopsis": "Sensei wakes up early and is lost in his thoughts until a voice from his left catches his attention. Turns out, Io sneaked into his room and is lying on the floor, citing her wanting to get away from the other girls while also being as close to him as possible as the reason why. She's a bit upset that he accidentally stepped on her leg when he turned on the AC in an attempt to freeze both of them to death, but Sensei assumes he was just too tired to notice her. She suggests both of them escape this nonsense, preferably to an amusement park, and when Sensei asks what he gains from doing this, she offers her company, even though it isn't worth much. He wonders how she's even awake with so much energy when she apparently didn't sleep at all, and Io explains that being stepped on and lying on the ground made it hard to sleep, and while she contemplated lying next to him on the bed, she decided against it to not make it weird once he wakes up. He appreciates it, considering both haven't seen each other much over the last day, but she blames him for not approaching her, especially with Uta trying to make her cooperate . After learning what both did after the rap battle and a conversation about time, Io asks if he can use his shower to get ready for their plans, but Sensei reminds her that he has other girls who also want his attention and have made plans with him beforehand instead of wanting him to spontaneously join him to ditch others. He wants her to participate as well, but she begs him not to as she already talked with Chika , which was more participation than she planned to do. They're interrupted by a knock on the door. It's Chika, who wanted to see Sensei while the rest is still asleep. Having to act fast, Sensei carries Io and her stuff into the bathroom and locks her inside before letting her in. Chika quickly shows her assertiveness, but since Io can hear literally everything, he resists and tries to make her stop, which she does shortly after. Being satisfied with waking him up and still having some preparations to make, she leaves his room, but not before announcing their relationship. Io comes outside once Chika is gone, and Sensei waits for her to find the words to address the obvious. She wants him to explain how this came to be, but he tells her it's complicated and she probably shouldn't get involved in this, and while she admits she doesn't want to, she would rather hear the truth from him than having to think about it all day. She gets upset and wants to know why he likes her or blondes in general, but when he reminds her that she stated how this is none of her business, she agrees it isn't, yet it still become hers due to who she is and how she feels. He's aware of this, which is why he won't lecture her this time. After one last failed attempt to make him run away with her, Io admits how she promised to herself to pretend like nothing happens but broke her promise anyway due to personal reasons, which she will probably tell him at the worst possible time, and Sensei promises to listen to her when this happens and that he won't hate her afterwards. Io decides to skip the shower and get some sleep instead, and Sensei gets ready to attend the next competition once she goes back into the bathroom to give him some privacy. As he leaves, he hears water running from the shower, realizing that that Io can't even keep smaller promises, though, after what she had to endure, he can excuse it.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji",
+            "Chika Chosokabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "In Some Cases, Love",
+            "event_script_names": "dormwar10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "goodmorningio"
+        ],
+        "music_tracks": [
+            "io.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Why Now?",
+        "next_event": "The Legacy of Thaum Pt. Z: Alentha Amastacia"
+    }
+}

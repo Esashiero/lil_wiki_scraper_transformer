@@ -1,0 +1,50 @@
+{
+    "event_id": "worse_comes_to_worst",
+    "event_title": "Worse Comes to Worst",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Worse_Comes_to_Worst",
+    "event_type": "Event",
+    "primary_character": "Yumi Yamaguchi",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Yumi Affection You must have seen or permanently missed the following Events: Seen \" Yumi Revitalization Project \" from Yumi Yamaguchi Seen \" Nothing Was Missing, Except Me \" from Rin Rokuhara",
+        "to_get_this_event": "Visit Yumi's dorm room on any day except Monday after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yumi Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Yumi’s room"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorm hallway and knocks on Yumi 's door. After an inner monologue and Yumi makes her exasperation known, Sensei is invited in. He greets Yumi, but quickly tries to get her to contribute to the conversation. She replies by immediately insulting him, something which he pretty much asked for. She tries to get him to leave, but when he doesn't bite on the bait, she eventually resolves to talk to him since he hasn't really disturbed her thus far. Sensei starts asking Yumi about their joint efforts to find her a job , and Yumi becomes shocked when sensei asks what kind of job she would like to work at. Despite her initial surprise, when Yumi expresses that she doesn't know where she wants to work or how to put in the work to get a job to begin with, Sensei suggests she work at a maid cafe, to hilarious effect. After a moment of reflection, Sensei suggests working at a regular cafe instead, and Yumi asks whether it's like the cafe Rin works at. Yumi is still very much on the fence, asking about having to memorize drinks on the menu and mentioning her subpar short-term memory, and Sensei agrees, mentioning her difficulty in securing enough money to properly feed herself. She lashes out at him, but he quickly tells her that he's not teasing, but instead motivating her to change her situation for the better. Eventually, once Sensei asks Yumi about her opinion on the cafe a second time, she goes quiet to think about her options. Yumi moves to sit on her bed, still thinking, and reflects on her own personality, making points Sensei has to concede are valid, but he can see the path her thoughts are leading her down, and he cuts her off, asking whether it's better to not even try in the first place. Startled and shocked, Yumi goes quiet, before eventually relenting and agreeing to go to the cafe to try getting a job. She still tells Sensei she hates him, though, and shortly afterward, Sensei heads home to go to bed.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "If Sensei has met Chinami , he will bring her into the conversation as a means of motivation for Yumi."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Worse Comes to Worst",
+            "event_script_names": "yumidorm15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yumidormonefive"
+        ],
+        "music_tracks": [
+            "yumiska.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.5."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Yumi Revitalization Project",
+        "next_event": "Apples to Apples"
+    }
+}

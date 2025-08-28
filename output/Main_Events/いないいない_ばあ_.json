@@ -1,0 +1,51 @@
+{
+    "event_id": "いないいない_ばあ_",
+    "event_title": "いないいない。。。ばあ！",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=%E3%81%84%E3%81%AA%E3%81%84%E3%81%84%E3%81%AA%E3%81%84%E3%80%82%E3%80%82%E3%80%82%E3%81%B0%E3%81%82%EF%BC%81",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.28.11",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Treasured \" . This event belongs to an event chain started from \" Walk Into The Water \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "The Plants convene for another meeting to discuss the plot, joined this time by Yomiel, one of Yasu’s stuffed bunnies. The group discusses things without focus, jumping from debating about the name of Ami’s mother to lusting over Imani and Tsuneyo to Yomiel's recent falling out with their god. As one of the plants takes a jab at the other’s conspiratorial take, the scene flips upside down and the group moves on to the meeting's main topic. They get ready to discuss all they know about Sekai, but Yomiel refuses to share more any information about her, causing a fight among them all. The meeting draws to a close, and Yomiel warns the group that they need to leave as ‘she’s coming’. Sensei , having been watching the entire exchange, suffers from another blackout. He monologues about the upside-down view of the world, and how he doesn’t understand anything, and no one understands his metaphors. Or, at least, no one alive does. It’s as he says this that apparitions of a woman start to speak to him, asking and taunting him with how he can so sure she’s dead when nothing in this world is permanent. The apparitions continue and grow in number until the scene changes entirely. He falls them deep into the woods, with the apparition asking Sensei to leave behind his life and live with her again, away from society and consequences. She suggests the two of them play a game they used to play when he was young, and as the narration begs her to stop, her face is fully revealed. The scene changes. Futaba and Makoto find Sensei passed out in the sand, having disappeared hours ago. As he gets to his feet, the three find a place to sit, and Sensei wonders why the two of them are out so far away from the hotel. Makoto reveals that the two of them were discussing their relationship with him, which she demands an explanation about. Sensei bluntly says he doesn’t have a good excuse, and that he’s fine if they want nothing to do with him now, but that he does care about them beyond a superficial way. Futaba assures them that they’re not mad at him, a point Makoto rejects, but that they just want to understand him better. Sensei wonders why they even bother with someone like him, someone who’s lied and manipulated them for his own good. If he’s that deplorable, they’d have been better leaving him in the sand. Futaba retorts that since he woke them up, it’s only fair they wake him up.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Futaba Fukuyama",
+            "Plants"
+        ],
+        "trivia": [
+            "The title of this event is Romanized as \"Inai inai...baa!\", which basically means \"Peek-a-boo!\". Additionally, there is a TV-show for little kids in Japan, that holds the same name."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "いないいない。。。ばあ！",
+            "event_script_names": "beachmas11",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "wearethechildren"
+        ],
+        "music_tracks": [
+            "sleepsong.mp3",
+            "goodmorning.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .28.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Treasured",
+        "next_event": "Robin Hood"
+    }
+}

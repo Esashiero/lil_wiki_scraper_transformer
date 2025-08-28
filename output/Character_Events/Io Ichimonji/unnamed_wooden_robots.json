@@ -1,0 +1,48 @@
+{
+    "event_id": "unnamed_wooden_robots",
+    "event_title": "Unnamed Wooden Robots",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Unnamed_Wooden_Robots",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "5 Io Affection You must have seen or permanently missed the following Events: Seen \" The Girl with the Dragon Tattoo \" from Io Ichimonji",
+        "to_get_this_event": "Visit Io's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Io’s room"
+        ],
+        "synopsis": "When Sensei knocks on Io 's dorm room door, she only responds when she realizes that it's him. Her part of the dorm room contains a lot of tools, and she reminds him that making things is one of her hobbies. She offers to make him something sometime to show him that she's worth his time, and he asks what she means by that last bit. She tells him that it's important to be good for something, and to make a positive contribution to the world, but also admits that she is \"all talk\" and doesn't see things through.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Unnamed Wooden Robots",
+            "event_script_names": "iodorm5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iofirstdorm"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.12p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Girl with the Dragon Tattoo",
+        "next_event": "Paperthin"
+    }
+}

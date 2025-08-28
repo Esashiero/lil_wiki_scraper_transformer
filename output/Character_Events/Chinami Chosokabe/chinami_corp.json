@@ -1,0 +1,50 @@
+{
+    "event_id": "chinami_corp",
+    "event_title": "Chinami-Corp",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Chinami-Corp",
+    "event_type": "Event",
+    "primary_character": "Chinami Chosokabe",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Chinami Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Everything Horrible \" Seen \" 5,000 Year-Old Wizard \" from Chinami Chosokabe",
+        "to_get_this_event": "Call Chinami in the afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chinami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Chosokabe Flat"
+        ],
+        "synopsis": "Sensei calls Chinami and is promptly sold some giraffes by Chinami-Corp. He heads over to the Chosokabe flat, where Chinami blackmails him into telling her a story about a \"little girl who grows up to be the CEO of Chinami-corp, the biggest Japanese dealer of cute animals\". She has a lot of opinions about the plausibility of the story Sensei tells, but doesn't get to hear its conclusion — Yumi comes back and throws Sensei out.",
+        "participating_characters": [
+            "Sensei",
+            "Chinami Chosokabe",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Chinami-Corp",
+            "event_script_names": "chinamidate5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chinamistorytime"
+        ],
+        "music_tracks": [
+            "happyandplotting.mp3",
+            "yumiska.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.11."
+        ]
+    },
+    "navigation": {
+        "previous_event": "5,000 Year-Old Wizard",
+        "next_event": "Giant Pool of Jell-O"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "event_id": "the_gap_in_the_curtain",
+    "event_title": "The Gap in the Curtain",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Gap_in_the_Curtain",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Auto-play after Self Care",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika Affection",
+            "+1 Chika Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shopping Mall"
+        ],
+        "synopsis": "After being confronted by Chinami and Yumi , Chika and Sensei have a talk about how to handle the situation between them. Sensei initially struggles to find the words to say, choosing, in the end, to be blunt and ask her to restrain herself more. Relieved that Sensei isn't breaking things off entirely, Chika promises him that she'll be more careful with her feelings in the future, admitting that almost being caught by Chinami was already a good enough incentive. She explains that, because she's never been so close to anyone before, she's been getting caught up in the excitement, as well as been desperate to prove her worth to Sensei. He reminds her that she doesn't need to be anything but herself for him, just that he doesn't want her to accidentally sabotage herself. Happy to hear how considerate Sensei's being, Chika feels better about moving forward. The group eats lunch together, during which Sensei notes Chika's already begun to distance herself from him.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Chinami Chosokabe",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Gap in the Curtain",
+            "event_script_names": "mall40p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikawallfuck"
+        ],
+        "music_tracks": [
+            "asobeatsex5.mp3",
+            "mall.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .21p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Self Care",
+        "next_event": "The Gap in the Door"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "event_id": "a_dog_that_doesn_t_do_math",
+    "event_title": "A Dog that Doesn't Do Math",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Dog_that_Doesn%27t_Do_Math",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Chika Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Scientific Research \" Seen \" A Castle for Everyone \" from Chika Chosokabe",
+        "to_get_this_event": "Visit the Shopping Mall",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shopping Mall"
+        ],
+        "synopsis": "Visiting the boutique where Chika works, Sensei finds Chinami there. To protect her fragile health, she is wearing a helmet/mask that covers her whole head, and which looks like a dog's head. Chika strikes on the idea of using Sensei as a babysitter for Chinami. They run into Ami and Maya , who think that walking around the mall holding hands with a barking young girl in a dog mask is weird behavior even by Sensei's standards.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Chinami Chosokabe",
+            "Ami Arakawa",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Dog that Doesn't Do Math",
+            "event_script_names": "mall15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "whyissheadog"
+        ],
+        "music_tracks": [
+            "mall.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.6."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Castle for Everyone",
+        "next_event": "Schadenfreude"
+    }
+}

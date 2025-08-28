@@ -1,0 +1,49 @@
+{
+    "event_id": "something_darker",
+    "event_title": "Something Darker",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Something_Darker",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Ami Affection",
+        "to_get_this_event": "Visit Ami in her bedroom after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Ami's Bedroom"
+        ],
+        "synopsis": "Sensei walks into the living room and is greeted by extremely loud music, which he quickly pinpoints as coming from Ami 's room. He attempts to knock on Ami's door and get her to turn the music down, but is unsuccessful, and tries again. When he receives no response for a second time, he opens the door and finds Ami humming to her music while getting changed. He asks her to turn the music down, ignoring her embarrassment. The two quickly end up in a discussion over Ami's overall development, and Sensei makes a joke which prompts Ami to stop him in anger, before he reassures her that she's perfectly fine the way she is, and that he'd actually be concerned if Ami suddenly developed overnight into something closer to the way one of the other students looks. Sensei basically confirms through the resulting conversation that Ami purposefully set this situation up, and questions Ami thoughts on family. Ami attempts to be coy with Sensei, but he \"blacks out\" and stumble forwards. When he comes to, he's entrapped Ami, and while she's at first shocked, she soon becomes strangely at peace. He questions this, asking whether or not she's scared of him hurting her, which she retorts is something neither of them can do. Hearing this, Sensei finds the strength to pull himself together and leave the room, telling Ami to keep the music down from now on.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Something Darker",
+            "event_script_names": "amisroom10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amichange"
+        ],
+        "music_tracks": [
+            "shiningstarvocals.mp3",
+            "comfort.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Messing Around )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Home Away From Home",
+        "next_event": "Couple's Discount (Sea of Diamonds)"
+    }
+}

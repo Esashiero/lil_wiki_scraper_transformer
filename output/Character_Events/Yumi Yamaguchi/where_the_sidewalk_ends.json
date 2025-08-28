@@ -1,0 +1,50 @@
+{
+    "event_id": "where_the_sidewalk_ends",
+    "event_title": "Where the Sidewalk Ends",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Where_the_Sidewalk_Ends",
+    "event_type": "Event",
+    "primary_character": "Yumi Yamaguchi",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Seen day272 - (Auto-start event during week day) 30 Yumi Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" What Was \"",
+        "to_get_this_event": "Visit the City Streets . This Event requires Sensei to have been invited to the onsen by Chika. The scene in which this occurs (\"day272\") autoplays on the first school day after What Was , which should be a Monday. It doesn't technically count as an Event, so it doesn't have a proper name and isn't in Chika's list of Events, but you still have to have it.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yumi Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "City Streets"
+        ],
+        "synopsis": "The world looks strange again — Sensei thinks about a poem by Shel Silverstein, and about falling. Yumi interrupts to ask what he's doing. He notices that she seems to be around quite frequently when he has his \"momentary lapses of judgement\", but strangely enough, she denies having any supernatural powers. Yumi will be watching Chinami while Chika is with Sensei at the hot spring, and doesn't get why Chinami seems to like Sensei — or why everyone else does. She isn't close enough to her classmates for her opinion of Sensei to carry much weight with them, but when Sensei suggests that she could change that, she tells him that she likes being alone — Sensei is dubious.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "The event's title and opening dialogue are a reference to \"Where The Sidewalk Ends\" by Shel Silverstein"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Where the Sidewalk Ends",
+            "event_script_names": "streets30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "wherethesidewalkends"
+        ],
+        "music_tracks": [
+            "justlights.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Caught in the Vortex",
+        "next_event": "Walls Too Thick to Hear Through"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "event_id": "take_me_anywhere",
+    "event_title": "Take Me Anywhere",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Take_Me_Anywhere",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.20.4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Immernachtreich \" . This event belongs to an event chain started from \" Girls in Spandex \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate - Garden",
+            "Amamiya Estate - Dojo"
+        ],
+        "synopsis": "Finding himself near a familiar pond , Sensei reminisces about his last visit here before focusing on Noriko and wondering what she could want from him. Noriko fails to find a decent lead-in to her question, but when Sensei tells her to just get to the point, she bluntly asks if he’s getting back together with Niki . Having noticed that Niki was in an unusual good mood when she picked up her costume, and unable to get a straight answer as to why, Noriko deduced that something meaningful must've happened between her and Sensei. Being faced with the prospect of being left behind yet again, she starts to panic and begs him to not get back with her sister, and Sensei, unable to handle her emotional outbreak, wants to know if Niki told her what happened between them. Since she didn’t, he confirms what happened between them and how it did nothing to rekindle their relationship. This fails to calm Noriko down and she begs him to do it to her as well. Between her plea being done out of desperation, emotional instability, and the fact that everyone is only a few feet away, he tells her he won’t do it, pointing out that anyone could come in at any moment. This is proven correct when Makoto and Miku walk outside after hearing Noriko’s desperate plea. Noriko makes an escape, and Makoto suggests to leave her be for now and go back inside instead. After going back inside, Sensei is approached by Yasu , who immediately starts to preach again. He wants to know where her guardian is, and, after a bit more preaching, Touka appears besides her. Sensei is surprised by her get-up, but she confesses that she loves Halloween and horror, which reminds him of Sana , and while he starts to get an idea on how to improve both their friendship situations, he fails to finalize that idea. Suddenly, Uta calls out to Sensei, and once he turns around, he’s greeted by her adorable cat costume and an apathetic Io in casual clothes. When he asks Io why she isn’t dressed up, she goes on a rant on how Halloween is just a corporate scam, drawing Uta’s ire. Sensei wants to know if he can adopt Uta, but she negates that question and offers an alternative \"kitty\" to his left, and when he turns around, he finds Tsuneyo wearing her samurai costume with added cat accessories. Both her and Uta give their best cat impressions, which annoys Io and she asks Sensei if he can accompany her outside. He agrees, seeing no issue leaving since he just did so.",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama",
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Yasu Yasui",
+            "Touka Tsukioka",
+            "Uta Ushibori",
+            "Io Ichimonji",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Take Me Anywhere",
+            "event_script_names": "halloweentwo4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikosadhalloween"
+        ],
+        "music_tracks": [
+            "closeto.mp3",
+            "letsfuckingo.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .20p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Immernachtreich",
+        "next_event": "Anglerfish"
+    }
+}

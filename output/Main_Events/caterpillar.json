@@ -1,0 +1,54 @@
+{
+    "event_id": "caterpillar",
+    "event_title": "Caterpillar",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Caterpillar",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.12.6",
+    "interactivity": {
+        "requirements": "Thursday You must be on at least Day  247  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" All Kinds of People, All Kinds of Things \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Thursday on or after Day 247.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Classroom",
+            "Kumon-Mi High - Hallway"
+        ],
+        "synopsis": "Sensei gives Io a quick rundown on how he runs his class before she introduces herself to her new peers. He asks if she still intends to be a loner, and she confirms that she does to see who's worth her time, something Sensei can relate to, though this view is starting to crumble after spending so much time with everyone. He wants her to do her introduction now, but Io starts to get cold feet, fearing that the others will dislike her for who she is, and wonders if Sensei would try to change her, but he doesn't even know if or how she needs to change, considering that every interaction between them gave him a different impression of who she is. Io points out how he can still cancel her transfer until the end of the day, how everything is trash and that they should've ditched class to get breakfast instead, which makes Sensei wonder if she's alright. Ignoring his question, she intends to go inside and introduce herself in a friendly manner, but warns him that she will probably quit halfway through and leave, though Sensei reminds her that she can just do that if she wants, which just reconfirms her point on how she can't push him away. She takes this as her cue to introduce herself, confident that she can assimilate enough to the class, and Sensei wonders why she just doesn't stop \"being trash\" if she hates feeling like it, only too realize he's worse than her in that regard. After an uncomfortable amount of silence, in which Sensei notices how much she must suffer right now, Io quickly states her name and leaves, claiming she's feeling unwell. While Uta deals with the confusion of the class, Sensei follows her to make sure she's okay and finds her sitting on the stairs near his classroom, with her joking how her \"normal-girl act\" still needs work. Sensei assures her that the hardest part is over now, but Io disagrees, reminding him that she dislikes people and girls especially. Sensei wants to know why, and she explains that every girl her age is one massive project – They all have problems that need to be fixed, and while she does like fixing things, some things are unfixable and those that are get tiring when there are too many projects at once, which is why she wants to avoid getting close to others and save herself the hassle. She asks one more time to get breakfast with him, but he wants to address one flaw in her argument first – If every girl her age is a project, so is she. She's aware of this, even claiming she's roughly ten projects at once, and gives him one last chance to drop her so she doesn't get too hurt when he does. Sensei wonders what happened to her to give her such a negative attitude at her age and how she expects to get by, but, after seeing how desperate she looks at him, only knows he wants to help her grow and states that he will be another person in her life. Io finds this weird, but appreciates it and asks him to handle her gently due to her being delicate. Sensei concludes that Io doesn't realize how delicate she already is, and, due to her weird self-perception, assumes that Io Ichimonji doesn't exist, and whoever is in front of him needs his help finding her.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji"
+        ],
+        "trivia": [
+            "The poem is \"How sweet I roam'd from field to field\" by William Blake"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Caterpillar",
+            "event_script_names": "day247",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iointro"
+        ],
+        "music_tracks": [
+            "normalday.mp3",
+            "heartbeat.mp3",
+            "allofthesounds.mp3",
+            "blueair.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.12p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "All Kinds of People, All Kinds of Things",
+        "next_event": "Let Me Die in Spring"
+    }
+}

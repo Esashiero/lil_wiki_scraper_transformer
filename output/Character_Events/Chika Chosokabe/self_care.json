@@ -1,0 +1,47 @@
+{
+    "event_id": "self_care",
+    "event_title": "Self Care",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Self_Care",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "40 Chika Affection You must have seen or permanently missed the following Events: Seen \" In Search of Summer \" from Chika Chosokabe",
+        "to_get_this_event": "Visit the Shopping Mall",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Shopping Mall"
+        ],
+        "synopsis": "",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Self Care",
+            "event_script_names": "mall40",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikashopping"
+        ],
+        "music_tracks": [
+            "mall.mp3",
+            "asobeatsex5.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .21p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "In Search of Summer",
+        "next_event": "The Gap in the Curtain"
+    }
+}

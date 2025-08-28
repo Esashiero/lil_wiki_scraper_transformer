@@ -1,0 +1,55 @@
+{
+    "event_id": "how_the_world_works",
+    "event_title": "How the World Works",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=How_the_World_Works",
+    "event_type": "Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "v0.26.1",
+    "interactivity": {
+        "requirements": "45 Ayane Affection You must have seen or permanently missed the following Events: Seen \" Chronokinetics (Hell Exists) \" from Ayane Amamiya Seen \" Black Sandy Beaches \" from Sana Sakakibara",
+        "to_get_this_event": "Call Ayane during the morning after after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House",
+            "Kumon-mi - Amamiya Limousine",
+            "Beach"
+        ],
+        "synopsis": "Sensei calls Ayane and immediately gets the instruction to get his swimsuit and be ready to leave in thirty seconds. Not sure what’s going on, he gets his stuff, but the commotion activated Ami ’s defense mode and she comes out of her room wanting to know what’s going on. Sensei assumes that Ayane invited him to the beach and Amy isn’t happy to hear about them spending time without her. She’s even less happy when Ayane enters their house and tries to kidnap him, but she stops her resistance when Ayane offers her a clone of her uncle as compensation, though, similar to Ayane , she wants three. Ayane drags Sensei into a limo and, to his surprise, Sana is with her, though she’s too occupied with her new game to pay attention to them. To make up for his kidnapping, Ayane offers him the opportunity to be the first to see her and Sana’s new swimsuits, which he is eagerly accepts once he hears that both of them have bikinis now. Once they reach the beach, the girls get changed and Sensei compliments both once he got a good look at them. An embarrassed Sana seeks a quiet, shadowy place to continue playing while Ayane leads Sensei near the shore to get some sunlight. As she shows her appreciation for summer, she points out how weird time has gotten since not only is their third Christmas party approaching but it also happens during a summer cycle, which is something she tried to make others aware of, but everyone just ignores it. Sensei notices how much information she already took in and she explains that she’s curious about and questions everything that comes her way. She wonders if Maya would show her how to initiate the reset but Sensei doesn’t think she would since she doesn’t like change. She tells him that no one likes change, including herself as she feels like she goes insane being the only one who notices how the world works, though he feels like she’s still sane. Ayane brings up Makoto ’s dad and how him passing never happened before, though Sensei heard from Maya that someone dying happened before and were apparently reverted as well, making her wonder how many tragic incidents happened and were reverted already, how their memories get altered and how new things happen where they can’t even be sure if they’re actually new. Sensei asks her if she doesn’t worry about learning or knowing to much, because he is on account of his mind short-circuiting when he does, and if she believes that everything is controlled and altered by some godlike being. She can’t see how someone couldn’t be worried in their situation and doesn’t believe in godlike beings, because if the time loop is controlled by one, she fails to see what their end goal would be. Both decide to stop thinking about it for now and Ayane focus on getting her mind away from these thoughts and tries to relax as Sensei, wondering how she can be so selfless even during a time where she should care more about herself, leaves the sunlight and tries to find the one who avoided it to begin with.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Ami Arakawa",
+            "Sana Sakakibara"
+        ],
+        "trivia": [
+            "If Sensei did not pursue Sara during either Carry Me Home or A Mostly Empty Home , triggering this event will fail Ad Meliora and Ad Infinitum ! There's an additional requirement for Ad Infinitum dependent on a choice during the event chain.",
+            "There's an additional requirement for Ad Infinitum dependent on a choice during the event chain."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "How the World Works",
+            "event_script_names": "ayanesanabeach1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayanebeachtrip"
+        ],
+        "music_tracks": [
+            "summerwind.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Chronokinetics (Hell Exists)",
+        "next_event": "Chiburi"
+    }
+}

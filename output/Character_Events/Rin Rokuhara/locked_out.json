@@ -1,0 +1,48 @@
+{
+    "event_id": "locked_out",
+    "event_title": "Locked Out",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Locked_Out",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "Wednesday",
+        "to_get_this_event": "Visit Rin in the School Dorms ' first floor hallway for the first time.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - First Floor Hallway"
+        ],
+        "synopsis": "Sensei arrives in the dorm hallway to find Rin sitting on the floor in front of her door, seemingly staring off into space. He tries to get her attention, but is ignored, and comments about Rin's fashion accessories, which successfully brings her attention onto him. Rin apologizes for ignoring him, and he inquires as to the reason, but Rin deflects and makes a comment about Sensei's presence in the hallway instead. He asks her why she isn't in her room instead, and she tells him she lost her keys at school and is waiting for Futaba to arrive to let her in. Rin makes a comment on the school security, only for Sensei to point out that there pretty much isn't any security. Sensei asks why Rin hasn't invited Chika - who is also in the hallway - over to hang out, only for Rin to become flustered and begin loudly protesting once Sensei notices this sudden shift in behavior. Futaba then sends Rin a message letting her know she's about to arrive, and Sensei and Rin mutually decide it's time for him to make himself scarce for the time being.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Locked Out",
+            "event_script_names": "rinfirsthall",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "rinhall"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Lost Keys )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Haruka",
+        "next_event": "Skulls"
+    }
+}

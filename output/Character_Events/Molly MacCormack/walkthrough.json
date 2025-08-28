@@ -1,0 +1,49 @@
+{
+    "event_id": "walkthrough",
+    "event_title": "Walkthrough",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Walkthrough",
+    "event_type": "Event",
+    "primary_character": "Molly MacCormack",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Wednesday, Thursday or Friday 30 Molly Affection You must have seen or permanently missed the following Events: Seen \" Lifejacket \" from Rin Rokuhara",
+        "to_get_this_event": "Visit Molly at the Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Molly Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 6",
+            "Kumon-Mi - Streets"
+        ],
+        "synopsis": "Molly 's computer screen is showing a graphic example of her desire to romance fictional characters, which she doesn't bother hiding from Sensei . She says that she has given up on forming a relationship with a real person. They talk about placing yourself in the position of fictional characters and seeing things from their perspective. Molly gets dressed and they go for a walk. She says that wanting a romance with Rin was a mistake, and that she should just have stayed in her fictional worlds. Sensei disagrees, and says that she should try for the real thing. He also says that instead of acting like a passive heroine in one of her games, she should start acting more like a protagonist — and that she has at least one \"path available\" in him. She wants to sleep on it.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Walkthrough",
+            "event_script_names": "mollydorm30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mollyporn"
+        ],
+        "music_tracks": [
+            "thesleepingcity.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.20p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Transmogrification",
+        "next_event": "Hook"
+    }
+}

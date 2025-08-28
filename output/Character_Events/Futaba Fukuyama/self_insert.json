@@ -1,0 +1,49 @@
+{
+    "event_id": "self_insert",
+    "event_title": "Self-Insert",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Self-Insert",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Futaba Affection You must have seen or permanently missed the following Events: Seen \" Cutting Through Cocoons \" from Futaba Fukuyama",
+        "to_get_this_event": "Visit the Library on a weekend morning after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Library"
+        ],
+        "synopsis": "Sensei visits the library once again, where Futaba is waiting for him, her actual book they had tried to read the last time in hand and looking a bit nervous. Sensei grills her briefly over the general details of the story she's written, and what exactly it entails. After a moment of this, Sensei begins reading the notebook, almost immediately drawing parallels between the characters in the story and himself and Futaba. He also notices that as he reads, Futaba becomes gradually more nervous. Sensei turns to her in the middle of the story and asks about the premature death of an early character, whose death he points out didn't really add anything to the story. However, he tells Futaba she did an admirable job given the circumstances, and she asks him whether the character in the book is someone he'd like to be around in real life, a question he immediately links to the characters in the story being in a relationship and Futaba's own crush on him. Futaba's excitement is almost tangible when he tells her he's interested in getting to know the character further and disappointed at the point in the narrative the story ends, and she thanks him for helping her to slowly build up her own self-confidence. The two talk for a few more minutes before Sensei excuses himself and leaves to go about his day.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Self-Insert",
+            "event_script_names": "library15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "insertredux",
+            "story"
+        ],
+        "music_tracks": [
+            "morningmoon.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Cutting Through Cocoons",
+        "next_event": "Broken Flowers"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "event_id": "delinquent",
+    "event_title": "Delinquent",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Delinquent",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.1.8",
+    "interactivity": {
+        "requirements": "You must be on at least Day  8  to unlock this Event.",
+        "to_get_this_event": "This Event will occur automatically on or after Day 8.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sensei’s office"
+        ],
+        "synopsis": "Sensei is waiting for Yumi in his office after normal school hours, and is surprised to find she actually shows up, though this wears off when she immediately becomes hostile. She launches into a tirade filled to the brim with constant insults at Sensei's demeanor and new method of teaching the class, and rudely questions whether Sensei will even punish her conventionally, which he gives a non-answer to. Yumi then starts insulting Futaba again and asking how Sensei knows about yesterday's gym class incident , and she launches another tirade of insults, this time directed at both Sensei and Futaba, and Sensei questions how he's even supposed to talk to Yumi, only for her to harshly rebuke him. After a short lecture worded specifically to Yumi's desire to have nothing to do with Sensei, he allows her to leave, packing up and leaving school himself.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Delinquent",
+            "event_script_names": "day8",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yumioffice"
+        ],
+        "music_tracks": [
+            "phantomthief.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Super Secret Sex Dungeon",
+        "next_event": "Mitochondria"
+    }
+}

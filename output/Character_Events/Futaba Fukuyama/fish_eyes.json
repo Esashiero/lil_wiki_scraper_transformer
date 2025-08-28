@@ -1,0 +1,53 @@
+{
+    "event_id": "fish_eyes",
+    "event_title": "Fish Eyes",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Fish_Eyes",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Pg. 99 .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Classroom",
+            "Kumon-Mi High - Sensei's Office"
+        ],
+        "synopsis": "It's the middle of the school day, and Sensei is standing off to the side as Imani pushes the class through one of her, now routine, lectures. Just as the class begins to erupt into chaos at Kirin 's typical mischief-making, Futaba walks into the classroom, tugging on Sensei's sleeve and asking him to follow her. Both Imani and Sensei quickly realize something is wrong, evident by the bags under her eyes and her unkempt hair, but Futaba refuses to talk about it in class. Sensei allows himself to be pulled along, and Futaba drags him into her office. Once she opens her eyes, Sensei takes note of the hopelessness in her expression, quickly realizing things are much worse than he believes. After first confirming Futaba isn't aware of the resets , she reveals to him that Nodoka knows everything about them. Hearing this, he realizes Futaba's learned about Nodoka's book , and she explodes at him for being fine with it. While trying to keep her calm, he tries to assure her that while dangerous, the book's contents would only throw suspicion onto him and not anybody else. Futaba points out how it isn't just his secrets that are being divulged, and that people like Chika and Ami wouldn't just do nothing if they learned what he's hiding. She berates him for only thinking of himself when she's just as much a target, perhaps more so because she's not as strong-willed as the rest of the class. She begins to panic, frantically advising him on how they can damage control by first listing out everyone who knows about the book – Hearing this, he informs her that Rin and Otoha know as well. Hearing this, she snaps, breaking down into laughter at how no one but her seems to care. She reveals that Nodoka not only did a great job recounting their lives, but also wrote it so well that it will captivate everyone who reads it, which also happened to her. Sensei attempts to reassure her that Nodoka can't possibly know everything, but Futaba insists this can't be true since all her character's portions are accurate. He counters that Nodoka and her are best friends, so she'd have a lot of in-depth knowledge about her that she can exploit to capture Futaba accurately in her story. She begs him to read the book himself, but when he refuses, she asks if he regrets spending time with her, because she started questioning her getting closer to him now that she saw her live from a different angle. Thoroughly terrified of the class' reactions, Sensei assures Futaba he won't let any of them hurt her should they find out about Nodoka's book. She's thankful for this and implores him to deal with it as soon as possible, which he agrees to. Finally, she asks why neither he nor her friends came to her about this earlier. He admits that neither he nor Rin or Otoha really gave much thought to anyone else's privacy, having been too caught off-guard by the initial reveal to think much of it. As their conversation ends, he asks Futaba about the book's ending. She claims it was confusing, as it suddenly ends with Sensei's character waking up in a room with clocks . Something intervenes. It informs Sensei that Futaba feels better upon waking up the following morning and that he forgets what it is he's supposed to do. It also tells him Futaba's \"request\" has been \"marked for deletion\" and that the day is over.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama",
+            "Imani Imai",
+            "Makoto Miyamura",
+            "Kirin Kanda"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Fish Eyes",
+            "event_script_names": "futabaspecial60p3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "futabatired"
+        ],
+        "music_tracks": [
+            "10c.mp3",
+            "beyondthewayoftime.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.34."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Pg. 99",
+        "next_event": "Weapons of Mass Destruction"
+    }
+}

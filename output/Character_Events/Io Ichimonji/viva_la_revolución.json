@@ -1,0 +1,48 @@
+{
+    "event_id": "viva_la_revolución",
+    "event_title": "Viva la Revolución",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Viva_la_Revoluci%C3%B3n",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Tuesday You must have seen or permanently missed the following Events: Seen Main Events up to \" Caterpillar \"",
+        "to_get_this_event": "Talk to Io in the dorm hallway during Tuesday",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Second Floor Hallway"
+        ],
+        "synopsis": "Sensei asks Io how she likes the dorms, and she says that since she doesn't have to talk to anyone, it's not as bad as she expected. Having a space of her own is also good, since she doesn't feel that the guest room she lives in at her aunt's bathhouse is really hers. She suggests having a revolution and declaring the dorms an independent republic, so they wouldn't even have to go to school at all. They talk a bit about plans for the future and Io's dislike of social interaction before Io goes back into her dorm.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Viva la Revolución",
+            "event_script_names": "iofirsthall",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iohall"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.12p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "Nonetheless, I'm Here"
+    }
+}

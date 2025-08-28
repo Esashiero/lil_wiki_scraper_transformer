@@ -1,0 +1,50 @@
+{
+    "event_id": "aftermath",
+    "event_title": "Aftermath",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Aftermath",
+    "event_type": "Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "20 Makoto Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Kadrillionbilliontrillion \" Seen \" Fishing For Love \" from Makoto Miyamura",
+        "to_get_this_event": "Visit the Porn Shop",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Porn Shop",
+            "Park"
+        ],
+        "synopsis": "Makoto , after another round of being embarrassed at the porn shop, goes for a walk with Sensei . They talk about what they did during the Halloween party, and what happened afterwards.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Maki Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Aftermath",
+            "event_script_names": "pornshop20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotomakidildo"
+        ],
+        "music_tracks": [
+            "citylife.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Studious Teen Virgin",
+        "next_event": "Residual Sadness"
+    }
+}

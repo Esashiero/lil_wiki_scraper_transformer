@@ -1,0 +1,50 @@
+{
+    "event_id": "first_and_second",
+    "event_title": "First and Second",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=First_and_Second",
+    "event_type": "Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "30 Ayane Affection You must have seen or permanently missed the following Events: Seen \" Cold Air of an Encroaching Winter \" from Ayane Amamiya",
+        "to_get_this_event": "Visit Ayane at the Dojo after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Dojo"
+        ],
+        "synopsis": "Ayane tells Sensei that rumors are still circulating about the dojo being sold. A rich-looking girl approaches them, and after she realizes who Ayane is, she introduces herself as Touka Tsukioka , heir of the only family in town richer than Ayane's. She doesn't usually associate \"common-folk\" like Sensei, although she insists that she means no offense. Ayane tells Touka that the dojo means a lot to her and the others who use it, but after Touka mentions that fathers want only the best for their daughters, Ayane becomes sad and leaves. Sensei, left alone with Touka, concludes that she's a \"a walking rich-girl stereotype\" (a statement with which she agrees). Sensei goes over to talk with Miss Osaka the instructor — she doesn't know what is going to happen, but says that Touka looks like more of a pain to teach than Ayane has been.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Touka Tsukioka",
+            "Osako Osaka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "First and Second",
+            "event_script_names": "dojo30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayanetoukadojo"
+        ],
+        "music_tracks": [
+            "sakuya4.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Cold Air of an Encroaching Winter",
+        "next_event": "Crazier Things Have Happened"
+    }
+}

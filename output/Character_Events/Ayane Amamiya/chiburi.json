@@ -1,0 +1,49 @@
+{
+    "event_id": "chiburi",
+    "event_title": "Chiburi",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Chiburi",
+    "event_type": "Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Monday You must be on at least Day  547  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Grief Seed \" Seen \" How the World Works \" from Ayane Amamiya",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Monday on or after Day 547.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Manga Club"
+        ],
+        "synopsis": "Having nothing to do with Makoto taking over his work again, Sensei decides to pay the manga club a visit to fulfill his role as an adviser for once. He walks into Molly taking Ayane ’s measurements - i.e. feeling her up. As she “measures” her boobs, she notices that they feel bigger than last time, which was before the last Halloween party, but when Ayane tries to make her question how they already celebrated multiple parties in their first year, she conveniently ignores her question. Instead, she asks Sensei if he wants to check Ayane’s breasts, but he declines. Sensei remembers how much of a degenerate Molly is, but Ayane doesn’t mind as long as her costume turns out well. Molly promises to make her the best costume that’ll brim with lesbian energy, but she doesn’t know if she could handle this and the manga club room, which makes Molly mad since she chose the swimming club over hers, yet still uses them to look cute. Ayane explains that she wanted the stay active, doesn’t need them to look cute and, according to her, has nice boobs, which Sensei confirms. Ayane is happy that he can admit it in front of another student, but since it’s Molly, he sees it as normal. Molly ends their session and Ayane offers to take both of them to the pool to unwind, because her club has a day off. Molly has neither the interest nor the time and Sensei doesn’t want to swim or be the only one watching. Molly leaves and Ayane puts her uniform back on before taking a seat. He’s interested to see her costume but is a little worried since the Dorm War and the Halloween party come in quick succession. Ayane informs him that, due to their closeness and both the Christmas party and beach trip coming shortly after, they decided to do both at the same time. They still need to figure out the challenges and the match-ups. The change was pushed by Maya and Makoto – the former due to her traumatic experience and the latter due to her crushing defeat - and everyone agreed to avoid repetition. Sensei asks if she wasn’t planing to get revenge for her loss , but she has neither the interest nor the confidence to do it. She still has no idea what she wants to do, though, since her mind is too occupied by their current situation. Sensei tries to stop her, but she assures him that she won’t bother him with another heavy conversation . She instead asks him for a reward in case she wins, since she needs something she can look forward to. She makes multiple suggestions, but Sensei refuses them for different reasons. In the end, she wants one question answered, but she can’t tell him the question yet since it’s complex to answer and could change everything. Sensei wonders why she wants to ask it if that’s the case and she explains that everything, including herself, is already changing and she needs it answered in order to adapt to what it could cause. It will also help her to grow up sooner, which she needs to do so she’s able to push herself forward. She ends their conversation by stating that she understands Maya’s behavior better, refuses to lose Sensei to the time loop and kisses him when he tries to say something. He’s glad she did, because he has no idea what he wanted to say, and supports her decision to grow up sooner if it helps her.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Chiburi",
+            "event_script_names": "ayanespecial50",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayanefitting"
+        ],
+        "music_tracks": [
+            "notabluearchivesong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "How the World Works",
+        "next_event": "Furlough (Tell the World)"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "event_id": "homes_for_the_homeless",
+    "event_title": "Homes for the Homeless",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Homes_for_the_Homeless",
+    "event_type": "Event",
+    "primary_character": "Noriko Nakayama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "20 Noriko Affection You must have seen or permanently missed the following Events: Seen \" Fair & Square \" from Noriko Nakayama",
+        "to_get_this_event": "Visit Noriko at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Noriko Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 10"
+        ],
+        "synopsis": "Sensei visits Noriko at the dorms, hoping this time will be free of unnecessary drama . After being called in, he finds her trying on a qipao/cheongsam that her parents sent her to evaluate as a uniform for their restaurant. She ask for his opinion, and he prefers this over her usual attire, which offends her as it's her statement against societal expectations. Sensei points out that she hasn't done anything else to fight it, and while she agrees with him, it's the only thing she can do since she doesn't have many options, with forming a band being the only feasible one. Sensei had no intention to make her feel bad and only wanted to encourage her to look more normal on occasion, but she claims that being pretty is Niki 's thing and she wants to use another way to express and reinvent herself. He says that reinventing herself would just change who she already is, but she points out that the things he knows about her will still be there, new things are only added to the existing ones and how certain things will automatically improve over time. He already has proof for the last part , which frustrates her since she still has nothing to proof his changes, but he has no intention to give her one. He is open for more samples from her that include her qipao, to which she offers to serve him at their restaurant. After embarrassing herself and being hurt when he mentions Kirin , she changes the subject and offers him a seat. Sensei thinks about using the opportunity to deepen their bond, but stops thinking after having a flashback. Noriko notices him being off, something she witnessed a few times already, including after her apology. She is glad it happens around her and starts talking about the past, but when she mentions Maya , Sensei begs her to stop talking about her, worried that learning too much could harm him. He instead wants to know more about Noriko, both out of genuine interest and to prevent his mind from wandering. Noriko tells him how she plans to do charity work after graduation. She's aware that she wouldn't earn enough to do it for a living and that her plans don't mean much now, yet she still thinks that being able to change something in the world would be nice. Sensei gives her a speech about the futility of changing the world and how she will just end as another part of society, which, according to her, is similar to a speech he gave in the past. She confesses how she liked his cynical world views during their tutoring sessions, and how they helped forming her and Maya's personalities as well as her desire to become a different person from her sister. She also reaffirms her desire to change something in the world in his stead so he can still be proud of himself for making some kind of change. With the heavy topics out of the way, Noriko asks him if he has plans for Christmas and if they can exchange presents then. He states that the class will most likely have another party with another Secret Santa exchange, but she wants to do a private one with him after she found something she needs to give to him. Sensei agrees to receive that present from her, sending her into another daydream, which is broken when he embarrasses her.",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Homes for the Homeless",
+            "event_script_names": "norikodorm20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikochinadress"
+        ],
+        "music_tracks": [
+            "love.mp3",
+            "blueair.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.21p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Fair & Square",
+        "next_event": "That One FMK Scene"
+    }
+}

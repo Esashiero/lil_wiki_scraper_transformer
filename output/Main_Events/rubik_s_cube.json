@@ -1,0 +1,57 @@
+{
+    "event_id": "rubik_s_cube",
+    "event_title": "Rubik's Cube",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Rubik%27s_Cube",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.44-0.1",
+    "interactivity": {
+        "requirements": "Friday You must have seen or permanently missed the following Events: Seen \" Transpacific Sadness Symposium III: TWO-HEADED HORSE \" from Sana Sakakibara Seen \" The Gazelle \" from Miku Maruyama Seen \" Backwards Boulevard \" from Chinami Chosokabe Seen \" Dark White (Pretty Joy) \" from Wakana Watabe",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on Friday Morning.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Classroom"
+        ],
+        "synopsis": "It's Halloween again, and Imani gives the class some instructions regarding the Halloween party and answers some questions, including their behavior towards Sensei and Ami , the latter will return to class the following week. Once she's done, Futaba approaches her and wants to know if she heard anything from her parents, since she's still unable to reach them, but Imani hasn't and offers her support, but Futaba says she doesn't need any additional help yet. The rest of the event moves between different groups of girls:",
+        "participating_characters": [
+            "Imani Imai",
+            "Kirin Kanda",
+            "Touka Tsukioka",
+            "Molly MacCormack",
+            "Chika Chosokabe",
+            "Uta Ushibori",
+            "Futaba Fukuyama",
+            "Io Ichimonji",
+            "Rin Rokuhara",
+            "Tsuneyo Tojo",
+            "Yasu Yasui",
+            "Otoha Okakura",
+            "Nodoka Nagasawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Rubik's Cube",
+            "event_script_names": "halloweenfive1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "anewhalloween"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.44."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Perfect Harmony",
+        "next_event": "More Than Her"
+    }
+}

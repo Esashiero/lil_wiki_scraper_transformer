@@ -1,0 +1,55 @@
+{
+    "event_id": "taking_the_reins",
+    "event_title": "Taking the Reins",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Taking_the_Reins",
+    "event_type": "Lust Event",
+    "primary_character": "Kirin Kanda",
+    "chapter": "v0.19.7",
+    "interactivity": {
+        "requirements": "20 Kirin Lust",
+        "to_get_this_event": "Have 20+ Kirin Lust before the Good Morning . Autoplays after \" The Yellow Wallpaper \" . This event belongs to an event chain started from \" Good Morning \" .",
+        "to_miss_this_event": "Have less than 20 Kirin Lust before Good Morning . Replaced by Falling Off the Tracks .",
+        "choices": [],
+        "effects": [
+            "+1 Kirin Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach - Sensei's Room"
+        ],
+        "synopsis": "Kirin waited for Sensei in his room to spend some time with him, but decides against it when she sees Nodoka , until Nodoka manages to convince her to not be bothered by her presence.",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda",
+            "Nodoka Nagasawa"
+        ],
+        "trivia": [
+            "A phone message from Kirin is available after this event.",
+            "Nodoka takes note of what Sensei asked Kirin to call him and remembers the events of C'est La Vie if they occurred. If Sensei's title for Kirin is  \"Sensei\", Nodoka will comment on how boring it is. If Sensei's title for Kirin is \"Nodoka\", Nodoka will briefly express confusion before admitting to being strangely flattered.",
+            "If Sensei's title for Kirin is  \"Sensei\", Nodoka will comment on how boring it is.",
+            "If Sensei's title for Kirin is \"Nodoka\", Nodoka will briefly express confusion before admitting to being strangely flattered."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Taking the Reins",
+            "event_script_names": "kirinlust20",
+            "event_missed_name": "Falling Off the Tracks"
+        },
+        "backgrounds": [
+            "kirinnodoka"
+        ],
+        "music_tracks": [
+            "acoustic.mp3",
+            "asobeatsex2.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "All That is Contaminated",
+        "next_event": "Dyed Orange, Drenched in Sun"
+    }
+}

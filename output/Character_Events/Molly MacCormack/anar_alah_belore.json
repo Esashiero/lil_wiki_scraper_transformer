@@ -1,0 +1,53 @@
+{
+    "event_id": "anar_alah_belore",
+    "event_title": "Anar'alah Belore",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Anar%27alah_Belore",
+    "event_type": "Event",
+    "primary_character": "Molly MacCormack",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after A Night to Remember",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Entertainment District"
+        ],
+        "synopsis": "The morning after his awkward exchange with Molly , Sensei wakes up to a sudden phone call. Answering it reveals it's Molly on the other side, who's decided to switch up her approach with him, enthusiastically inviting him to hang out in the Entertainment District. He hesitates to accept, but when Molly hangs up before he can turn her down, he decides to bite the bullet and make his way over. Meeting up with Molly, she quickly informs him that she invited him along to help with cosplay shopping, an idea Sensei is immediately against considering the attention it'll draw to them. Molly suggests they just pretend to be dating if anyone asks, an idea Sensei is even more against, to the point where he threatens to go home. He eventually acquiesces due to her insistence but tells her he'll be keeping his distance from her unless she requires his help. The two of them go to a variety of stores, with Sensei remaining mostly as a passive observer until the last, which specializes in premade costumes. As Molly tries on a variety of different outfits, Sensei remains as obstinate as before, giving only glances over her outfits and handing out similarly shallow feedback. When she gets to her last outfit, Molly's composure finally breaks with Sensei deciding to step away before he makes a mistake. He does, however, clarify to Molly once again that there's nothing wrong with her – He just needs more time before he can feel comfortable around her. Molly understands and apologizes for forcing him to go along with her plans today.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack"
+        ],
+        "trivia": [
+            "The language Molly uses throughout the event, Thalassian, is a language from the MMORPG, World of Warcraft. A translation of her various phrases can be found below: \"Bal'a dash, malanore! Doral ana'diel?\" - Greetings, traveler. How fare you? \"Selama ashal'anore!\" - Justice for our people! \"Anar'alah, Sir!\" - By the light, Sir! \"Shorel'aran, Sir!\" - Farewell, Sir! \"Now come, dalah'surfal!\" - Now come, my love!",
+            "\"Bal'a dash, malanore! Doral ana'diel?\" - Greetings, traveler. How fare you?",
+            "\"Selama ashal'anore!\" - Justice for our people!",
+            "\"Anar'alah, Sir!\" - By the light, Sir!",
+            "\"Shorel'aran, Sir!\" - Farewell, Sir!",
+            "\"Now come, dalah'surfal!\" - Now come, my love!"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Anar'alah Belore",
+            "event_script_names": "mollydate35p1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mollydressingroom"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Night to Remember",
+        "next_event": "Sardines"
+    }
+}

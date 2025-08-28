@@ -1,0 +1,51 @@
+{
+    "event_id": "like_it_s_any_other_day",
+    "event_title": "Like it's Any Other Day",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Like_it%27s_Any_Other_Day",
+    "event_type": "Event",
+    "primary_character": "Niki Nakayama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" What Was \" Seen \" Semantics \" from Rin Rokuhara Seen \" Cotton Candy \" from Niki Nakayama",
+        "to_get_this_event": "Call Niki in the evening",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Niki Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Resturant"
+        ],
+        "synopsis": "Sensei and Niki go out to dinner. He wants to ask her some questions about his past life, but she still thinks he's faking his amnesia, and is frustrated. She rejects his claim that he's effectively a different person occupying the same body — his personality is just as she remembers it, and if there's anyone who should know, it's her. Sensei finds it hard to reconcile this with what Maya has said. Niki tells him that she had periods of confusion after he left, and that if he really is missing memories, he will eventually recover just like she did. However, Sensei doesn't think that his issues can be blamed on traumatic memory repression — that wouldn't explain the time loops. When they are interrupted by their waitress ( Kaori again, of course), Niki starts talking about her desire to help other girls get started in the music business, and turns out to be the vocal coach mentioned by Otoha .",
+        "participating_characters": [
+            "Sensei",
+            "Niki Nakayama",
+            "Kaori Kadowaki"
+        ],
+        "trivia": [
+            "After this event, Kaori sends Sensei a picture of a \"hard circle lizard\". This provides him with a valuable opportunity to learn more about the eastern box turtle."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Like it's Any Other Day",
+            "event_script_names": "nikidate5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nikidinner"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.14."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Cotton Candy",
+        "next_event": "Thousands, If Not Millions"
+    }
+}

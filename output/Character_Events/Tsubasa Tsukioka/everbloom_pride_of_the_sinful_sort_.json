@@ -1,0 +1,48 @@
+{
+    "event_id": "everbloom_pride_of_the_sinful_sort_",
+    "event_title": "Everbloom (Pride of the Sinful Sort)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Everbloom_(Pride_of_the_Sinful_Sort)",
+    "event_type": "Event",
+    "primary_character": "Tsubasa Tsukioka",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Seen \" Something Less Lonely \"",
+        "to_get_this_event": "Call Tsubasa in the morning",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Tsubasa Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Estate"
+        ],
+        "synopsis": "Since they’re technically friends now, Sensei decides to give Tsubasa a call and hopes he can entertain her more than her husband. Due to important business meetings involving the acquisition of the entertainment district, she’s unable to leave the manor but invites him for a personal tour to her manor. He agrees and, before receiving the address, hopes that Touka and especially her father won’t learn about this. Once he arrives, he gets escorted through several gardens before meeting Tsubasa at an artificial pond and asks her if her husband is aware of his visit. She negates his question and tells him that the manor is too big for her to find and inform him. Since they can’t leave the premise, she offers to show him as much of the mansion as she’s able to do in a day. Sensei would rather just talk with her, but she wants him to learn about her home and life so they can understand each other more and thinks that sneaking away every time would be the equivalent of running away. Sensei accepts her proposition and, before they start, she advises him to ignore Touka if they meet her on the way. The tour starts with the different historical gardens. Tsubasa explains how she fell in love with the mostly untouched one from the Edo period, how she would’ve still married her husband even if he wasn’t a good man and how her daughters will walk through this gardens with their husbands one day and feel the same way, though Sensei is unimpressed. The next stop is the golden ceremony room used for marriages, which also includes hers and will also be the place her daughters will celebrate theirs. Sensei can’t see Touka getting married, but Tsubasa tells him how Touka dreamt about it, though she wasn’t happy when her family tried to find a fiancee before all suitable men were drafted, though her parents would’ve stopped even without the war, because they noticed that. The tour goes on and ends with the arboretum that contains the last everblooming sakura, which is kept alive by the right climate, soil and a good amount of willpower. Sensei doesn’t believe that trees have willpower and Tsubasa starts a speech about how willpower exists in all living beings, how many dreams this ancient tree would hold if it was capable of doing so and how it’s a symbol of perseverance since this fragment of the past can still exist with proper care. Sensei is surprised how passionate she is and she explains that this is the world she decided to live in, how she’s invested in its history and meaning as a result and that she wouldn’t change that if given the choice. Tsubasa acknowledges that he doesn’t think like that and has one last place in mind even he would appreciate.",
+        "participating_characters": [
+            "Sensei",
+            "Tsubasa Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Everbloom (Pride of the Sinful Sort)",
+            "event_script_names": "tsubasadate1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsubasatour"
+        ],
+        "music_tracks": [
+            "tsukiokamanor.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.23p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": "The Deep End"
+    }
+}

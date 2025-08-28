@@ -1,0 +1,50 @@
+{
+    "event_id": "sweet_tooth",
+    "event_title": "Sweet Tooth",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sweet_Tooth",
+    "event_type": "Event",
+    "primary_character": "Karin Kanda",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "20 Karin Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Permission Slip \" Seen \" The Adventures of Karli & Steve \" from Karin Kanda",
+        "to_get_this_event": "Call Karin in the afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Karin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "New Diner"
+        ],
+        "synopsis": "Karin would like to vent to somebody about Kirin , and meets Sensei at a diner to do so. She says that Kirin doesn't want her to come on the upcoming beach trip, even though she has already been invited along by other people. She feels that sometimes, Kirin is trying to hurt her. He tells her that she shouldn't let herself \"get bogged down by the actions of a girl that literally no one, not even Kirin herself, understands\". Karin resolves to go to the beach despite Kirin.",
+        "participating_characters": [
+            "Sensei",
+            "Karin Kanda"
+        ],
+        "trivia": [
+            "There are some differences in dialogue depending on what Sensei said about his relationship with Kirin."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sweet Tooth",
+            "event_script_names": "karindate20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "karinangrybreakfast"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Adventures of Karli & Steve",
+        "next_event": "Emerald Eyes"
+    }
+}

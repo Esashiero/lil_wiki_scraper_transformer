@@ -1,0 +1,52 @@
+{
+    "event_id": "taller",
+    "event_title": "Taller",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Taller",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "v0.37.9",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Anthem of the Heart \" . This event belongs to an event chain started from \" Episcopalis: Pickled Plums & Polyrhythmic Psalms \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Outside Area",
+            "Kumon-mi"
+        ],
+        "synopsis": "Sensei 's time with the girls draws to a close, with his phone continuing to blow up with missed calls from Ami , and now Ayane . He neglects to answer either, walking along the road as he contemplates how out of place he is. He's brought back to reality by Rin , who preemptively apologizes if today's excursion was too much. He agrees it was, but adds that any bit of interaction is too much right now. Now free, he decides to take his leave, giving one last self-denigrating comment, with the girls hoping he'll return to his old self soon. Just as he intends to leave, Sana asks him to walk her to work. Molly offers to accompany them and discuss some details for her D&D character on the way, but Sana declines since she wants to speak with him in private. He agrees after she clarifies that he won't be required to talk about his feelings. Futaba , Molly, and Rin all wave goodbye as Sensei and Sana disappear down the road, leaving them alone for the first time in a while . It's different, perhaps not due to how long it's been since they've seen each other, but due to how different Sana has become in Sensei's absence; She's become less fragile and while he's happy about this, it does little to shake the feeling that he shouldn't be near her. Sana takes notice of this discomfort, remarking that their dynamic has seemed to swap entirely. She finds it fun, though does hope he returns to normal soon, something Sensei agrees with. She invites him to speak with her about what happened, but he finds this suspicious, expecting there to be something she wants out of this conversation. She denies this, explaining that his previous view of her no longer applies. As such, being open doesn't indicate anything other than that she's happy to be with him again. This somewhat vague explanation makes Sensei curious if something happened to Sana recently, which she initially dances around, before admitting to having strange dreams as of late. In them, she can hear her brother's voice, and he repeats the same religious rantings that Yasu so commonly does. She's aware of how inconsequential they are, but thinking of her brother again has made her realize how fragile her current life is, so she's trying to make the most of it in fear that it could be taken away so easily. She asks about what he lost, asking him to describe the love he attached to it – He tells her it was horrible and that he'd kill to have it back, but is uncertain he ever will. Sana tells him to remain hopeful, as something unexpected could always come along and guide him down another path. Her dreams seem to be doing something similar for her, although she can't quite tell how much of her recent change is due to them or just everything happening around her. Sensei sympathizes with this, stating that his dreams seem to be showing him what he wants out of life, it's just unfortunate that what he wants is what he lost. Feeling comfortable, he decides to open up to Sana about another dream he's had, where she grew older and remained by his side as everyone else moved on. Sana responds with a surprising amount of curiosity, asking Sensei to describe every detail he can recall, feeling that this dream might be the only future she will have with him. He does so and is conflicted by the level of calm being with Sana brings him, wondering if this is the true reason he's enjoyed speaking with her for so long. Regardless, he tries to forget this feeling, not wanting them to wash away his remaining memories of Maya.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara",
+            "Molly MacCormack",
+            "Futaba Fukuyama",
+            "Sana Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Taller",
+            "event_script_names": "sanaspring1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "walkingsanahome"
+        ],
+        "music_tracks": [
+            "samhain.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Ad Infinitum",
+        "next_event": "Stutter-Step"
+    }
+}

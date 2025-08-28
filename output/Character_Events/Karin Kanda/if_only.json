@@ -1,0 +1,50 @@
+{
+    "event_id": "if_only",
+    "event_title": "If Only",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=If_Only",
+    "event_type": "Event",
+    "primary_character": "Karin Kanda",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "10 Karin Affection You must have seen or permanently missed the following Events: Seen \" NTR & Pregnancy \" from Molly MacCormack",
+        "to_get_this_event": "Call Karin in the afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Karin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Park",
+            "Koi Cafe"
+        ],
+        "synopsis": "At the park, Karin is wearing casual clothes, and definitely isn't hiding anything behind her back. She eventually hands over some cookies that she made for Sensei , although she tells him that she just happened to have extra, that they're probably bad anyway, and that he should only deliver his opinion of them later by text message. She hints that she wants to have lunch with him, although she flinches at the word \"date\". They go to the Koi Cafe, where Molly is annoyed to see another girl (and a \"well-endowed\" one at that) being added to Sensei's harem.",
+        "participating_characters": [
+            "Sensei",
+            "Karin Kanda",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "If Only",
+            "event_script_names": "karindate10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "karinthirddate"
+        ],
+        "music_tracks": [
+            "retrospect.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Walking Penis Monster",
+        "next_event": "Dying Alone With Ten Cats"
+    }
+}

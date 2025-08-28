@@ -1,0 +1,54 @@
+{
+    "event_id": "the_queen_of_spiders",
+    "event_title": "The Queen of Spiders",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Queen_of_Spiders",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Ami Affection",
+        "to_get_this_event": "Visit Ami’s room at home on a weekend morning after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "New Diner"
+        ],
+        "synopsis": "Sensei wakes up feeling significantly more exhausted than normal. He decides to head over to Ami 's room to see what she wants to do for the day, but his hopes of not leaving the apartment are shot down instantaneously when she catches him in the hall and says she was about to get him to go out with her. Sensei tries to be belligerent to no avail, and he eventually agrees to head out with Ami to a new diner a mile away - something he really detests doing so early in the morning despite the fact he does it for school five days a week. He goes to get dressed, and the two of them head out. Once they get to the diner, the two of them start trying to figure out what they want to eat - Ami trying to make Sensei grab something different from her - when Kaori introduces herself in a very eccentric manner and asks what they will be having. Ami selects the donut platter, and Sensei goes for a burger, and Kaori rushes off to get them their food. She returns before they can even figure out what's going on, but denies Sensei his food until he gives her a compliment - the one she receives isn't what she is prepared for, and Ami is annoyed because she agrees. The two reflect on the morning's events and eat their food, before Sensei leaves to go about his day.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Kaori Kadowaki"
+        ],
+        "trivia": [
+            "Depending on Sensei's relationship with Kaori , he may recognize her.",
+            "Who eats a burger this early in the morning? Hey, don't judge man! .Antielfi",
+            "Hey, don't judge man! .Antielfi"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Queen of Spiders",
+            "event_script_names": "amisroom5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "amidineredux",
+            "amidiner"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Uninvited",
+        "next_event": "Home Away From Home"
+    }
+}

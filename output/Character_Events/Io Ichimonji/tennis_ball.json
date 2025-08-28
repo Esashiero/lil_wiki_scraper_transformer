@@ -1,0 +1,52 @@
+{
+    "event_id": "tennis_ball",
+    "event_title": "Tennis Ball",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Tennis_Ball",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "35 Io Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" From the Desk of the Ninth God \"",
+        "to_get_this_event": "Visit Io at the Bathhouse after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Bathhouse",
+            "Bathhouse - Io's Bedroom"
+        ],
+        "synopsis": "Sensei finds himself once again with Io on the male side of the Bathhouse , where she talks about various things that he struggles to relate to. Throughout the conversation, he makes multiple attempts to try and steer the conversation into something more interesting, all of which Io deflects. She eventually drops the pretenses and asks him outright if he'd prefer some privacy, which he agrees to, realizing how annoying he can be to her. While Io tries to keep the conversation going by looking up more random topics, Sensei wonders how he can learn more about Io – His usual method is absolutely ineffective, Uta , while talkative, won’t spill Io’s secrets without good reason, and, short of outright manipulation, it seems she'll be keeping him at arm's length forever. This train of thought is cut short when another customer walks into the male side, asking for a towel since the rack is empty, and Io leaves to refill them. Now alone, Sensei closes his eyes and thinks to himself about just how different his and Io's conceptions of love are. He struggles to understand her version of it at all, as he's always viewed love as being much more physical, but the splashing of water interrupts his thoughts. Opening his eyes, he's shocked to find someone next to him, casually enjoying her bath before flirting with him. He falls unconscious before he can say anything. Sensei wakes up, finding Io kneeling besides him with a towel. Confused, he asks where he is, and she tells him he’s in her room. She explains that she found him passed out in the bath, so she carried him up here and watched over him for the last twenty minutes. He takes in his surroundings, first wondering if he'll ever get the opportunity to see this place again before his eyes land on the tennis-ball grip on a fan’s pull-string. Upon seeing Io's name drawn on it, he feels disgusted at himself for his earlier thoughts. Io draws his attention back, asking if he's craving anything, but he just thanks her for looking after him. She insists it was no problem, though points out she had to change him into different clothes because she was unable to dress him in his usual ones. While he takes in his gaudy new clothes, Io offers to let him spend the weekend here, fully aware that she gives him an opportunity to make his usual jokes, but he instead apologizes for making her uncomfortable earlier, admitting that she doesn't deserve it. While she confesses to having been uncomfortable, she tells him he doesn't need to apologize, as her own issues don't warrant him making a personal change. Sensei considers this unfair, especially considering all the care she's given without him returning the favor, but she disagrees with him, reminding him that he recruited her to his class and has done a lot more for her since then . She loses her composure near the end of her speech, though, as Sensei's ridiculous clothes cause her to start laughing. Now annoyed, Sensei gets up to change. Uta soon comes charging through the door, worried about Sensei after being told about him passing out. Upon seeing Sensei mid-change, though, she gets embarrassed and faints.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji",
+            "Uta Ushibori",
+            "Teacher"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Tennis Ball",
+            "event_script_names": "bathhouse35p1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iosenseifaint"
+        ],
+        "music_tracks": [
+            "lifeismostlygood.mp3",
+            "io.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.32."
+        ]
+    },
+    "navigation": {
+        "previous_event": "1999 PC Classic, Rollercoaster Tycoon",
+        "next_event": "Hold You Over"
+    }
+}

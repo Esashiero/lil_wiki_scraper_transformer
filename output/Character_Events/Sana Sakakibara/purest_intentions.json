@@ -1,0 +1,50 @@
+{
+    "event_id": "purest_intentions",
+    "event_title": "Purest Intentions",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Purest_Intentions",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "35 Sana Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Fireworks etc... \" Seen \" Love Me to Pieces \" from Uta Ushibori",
+        "to_get_this_event": "Visit Sana at the Bar during the night after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a"
+        ],
+        "synopsis": "Sensei enters the bar and is greeted by a smile from Sana , causing him to quietly call her adorable. He learns that Sana has to run the bar alone again due to Sara having sampled too many of their drinks earlier, though he doesn't see this as an issue since most orders come from him anyway. While Sana notes that this is usually true, today they have a patron who tops his usual number of drinks. Sensei takes a look at that patron, assuming it's one of the usual clients, only to see Wakana and Osako being in the bar and seemingly acquainted. Sana asks if he knows these women, and while he isn't surprised that she doesn't know Osako, he finds it hard to believe that Sana doesn't know Wakana, considering that she is the teacher of the neighboring class. Sana states that she isn't familiar with any other members of their school's staff and has only enough time for one anyway, which causes Sensei to quietly call her adorable again, though when Sana calls him out for being too quiet, he claims to just give her a taste of her own medicine. Sana notices that she should bring more “ medicine ” to Wakana and Osaka, and Sensei decides to follow her so he can greet his acquaintances and assess Sana's progress. Sana begs him to not be awkward, but Sensei claims that being awkward is why he's so popular. Sana asks if he's also popular with people outside of his class, and he confirms that there actually are some and she can ask Sara for confirmation, which she doesn't want to do because hearing about her and Sensei's relationship irritates her. He asks if she's jealous, but she claims that she has no reason to be jealous about her mother and best friend's closeness with him, though Sensei knows she is since she included Ayane despite her not being mentioned before. Sana decides to finally check on her customers and lets Sensei tag along. After reaching Osako and Wakana's table, Sana takes their orders, promises to look for a taxi service for Osako, and has to endure Sensei teasing her by mentioning spaghetti, though she stays calm this time. She also learns that Osako is Ayane's karate instructor and that Sensei visits her at her dojo before leaving. Wakana informs Sensei that students are prohibited from working part-time, and while she has no intention to report this, she uses it to call out Sensei's incompetence as a teacher. Osako is surprised how friendly Wakana acts towards him, which he finds hard to believe, and Wakana claims they're friends, which was news to him. He use this moment to ask how they know each other and learns that both met in college and are living together since then. Sana returns and, after delivering their beer, she and Sensei return to the counter. She begs him to stop trying to embarrass her like this, but he claims it's his fondest memory of her, noting that he hasn't other noteworthy interactions with her. Her jealousy of Ayane shines through again, but when Sensei points it out, she falls silent without refusing it and states her interest in karate, causing him to quietly call her adorable again, which freaks her out at this point. Sensei asks why she doesn't join Ayane then, knowing that he's the reason why but waiting for her to be ready to admit it, which, to his surprise, she does immediately. Due to her phrasing, she starts to panic and embarrasses herself further until she flees into the back room. Sensei waits for her to return, noting that Sana needs to be honest with the people around her in order to change.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Wakana Watabe",
+            "Osako Osaka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Purest Intentions",
+            "event_script_names": "bar35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "barwakaosako"
+        ],
+        "music_tracks": [
+            "calmbar.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Tortoises and the Concept of Friendship",
+        "next_event": "Waiting for Anything"
+    }
+}

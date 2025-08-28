@@ -1,0 +1,48 @@
+{
+    "event_id": "all_that_is_contaminated",
+    "event_title": "All That is Contaminated",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=All_That_is_Contaminated",
+    "event_type": "Event",
+    "primary_character": "Kirin Kanda",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "25 Kirin Affection You must have seen or permanently missed the following Events: Seen \" Full Blossom \" from Kirin Kanda Seen \" Terms & Conditions \" from Kirin Kanda",
+        "to_get_this_event": "Call Kirin during the night after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Kirin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Love Hotel"
+        ],
+        "synopsis": "Upon calling Kirin , Sensei is invited to a place within the depths of Kumon-mi .",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "All That is Contaminated",
+            "event_script_names": "kirindate25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "becomingapuzzlepiece"
+        ],
+        "music_tracks": [
+            "thesleepingcity.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.14."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Terms & Conditions",
+        "next_event": "Taking the Reins"
+    }
+}

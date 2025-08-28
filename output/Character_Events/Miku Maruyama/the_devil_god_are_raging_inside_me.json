@@ -1,0 +1,48 @@
+{
+    "event_id": "the_devil_god_are_raging_inside_me",
+    "event_title": "The Devil & God Are Raging Inside Me",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Devil_%26_God_Are_Raging_Inside_Me",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Auto-play after Someone Else's Skin",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Miku’s room"
+        ],
+        "synopsis": "Sensei and Miku continue their date and end up in front of her dorm room. Miku is happy that they could spend time together, but Sensei noticed that she’s being quiet for a while. Miku admits that she doesn’t want their date to end yet and invites him into her room, adding that Makoto is working tonight. He accepts, but is a little worried since every time they were alone together didn’t end well. She assures him that it’s different this time, which he acknowledges after she says it, but wants to be in the privacy of her room before they talk more about it. She is too embarrassed, though, and is unable to reach her key, so Sensei takes it out and opens the door himself. Miku immediately jumps on her bed while Sensei locks the door behind him. He tries to figure out what she’s comfortable with, but since she has no experience, she can’t give him an answer. He tries to narrow down her comfort zone, but it doesn’t work. Finally, he decides that he should finish the first massage he tried to give her . She agrees, though she's unsure on what she has to do, but he tells her that he'll do everything this time to minimize the risk of an emotional breakdown. On that topic, she thinks that they should develop a plan so he can calm her down and suggests that he should stop what he does in that moment, put her clothes back on, hold her tight and prevent her from ripping her hair out. Once this is settled, he puts Miku into position and begins massaging her body. Knowing that one wrong move will ruin everything, he makes sure to be as gentle as possible. While she's feeling weird at first, she gets into it and Sensei manages to complete the massage this time. After he’s done, she asks him for anothe rone and he starts immediately. He’s satisfied that he's making progress with her, but is aware that he still will have a hard time, because he still doesn’t know enough about her or her past yet, though he decides to worry about that later.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Devil & God Are Raging Inside Me",
+            "event_script_names": "mikudorm50",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikudormfivezero"
+        ],
+        "music_tracks": [
+            "starvingtodeathoutofreachofthesun.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Someone Else's Skin",
+        "next_event": "Breakaway"
+    }
+}

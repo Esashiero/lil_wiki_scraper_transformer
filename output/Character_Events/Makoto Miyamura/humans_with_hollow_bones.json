@@ -1,0 +1,50 @@
+{
+    "event_id": "humans_with_hollow_bones",
+    "event_title": "Humans With Hollow Bones",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Humans_With_Hollow_Bones",
+    "event_type": "Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "v0.16.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Condoms in the Sand \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach - Hotel"
+        ],
+        "synopsis": "Sensei is surprised to find Miku waiting at the inn — Makoto brought her along because Miku's strong reaction to loud noises is a lot worse when there's nobody who knows how to help. However, Miku doesn't want to get in the way, and leaves them alone to talk. Sensei denies Makoto's claim that he thinks \"barely anything\" of her, but struggles to explain his treatment of her. She says that although she sometimes enjoys his teasing, there are other times when she wants him to \"really just talk to me and treat me like a human being\". He apologizes. Although she expects to sound crazy, she reveals vague memories of the first beach trip , despite the world having reset since then . He confirms her memory to be true, and as she points out the contradiction between that and the supposed reality, she develops a sudden migraine. Sensei gets her some pills from Miku, but Makoto takes an hour to recover, and the conversation is over.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Humans With Hollow Bones",
+            "event_script_names": "makotowinterbeach2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikuisheretoo",
+            "fly"
+        ],
+        "music_tracks": [
+            "wewereangels.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Condoms in the Sand",
+        "next_event": "I'm Not Here"
+    }
+}

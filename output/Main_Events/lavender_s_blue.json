@@ -1,0 +1,54 @@
+{
+    "event_id": "lavender_s_blue",
+    "event_title": "Lavender's Blue",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Lavender%27s_Blue",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.19.17",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Hot Water \" , or \" Cold Water \" . This event belongs to an event chain started from \" Good Morning \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yasu Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach",
+            "Beach - Second Floor's Room"
+        ],
+        "synopsis": "Yasu tells Sensei that it is nearly night, and claims that skipping the afternoon is her god's price for having made the morning summer-like. Yasu gets enthusiastic in her religious proclamations, and suddenly, it is night. She tells Sensei that to all the other girls, it will have been a normal day. She tells Sensei to listen, because another string is snapping. Elsewhere, Tsuneyo is trying to comfort Molly , who has not gone anywhere since last night . Molly asks to be left alone for a little while. Rin appears, looking for her phone — she does not want to talk to Molly about what happened, but Molly grabs her and tries to get her to stay. Rin makes it clear that she is not interested in Molly. Molly apologizes, and says that she wants to take everything back, just so long as Rin doesn't hate her. Rin says that she knows from experience how Molly is feeling, and that Molly is a good friend when she isn't behaving like this. She says that the two of them need a little space, but that things will eventually be okay. Eventually, Molly wishes Rin luck.",
+        "participating_characters": [
+            "Sensei",
+            "Yasu Yasui",
+            "Tsuneyo Tojo",
+            "Molly MacCormack",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw Hot Water ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Lavender's Blue",
+            "event_script_names": "secondbeach14",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "lavender"
+        ],
+        "music_tracks": [
+            "undersea.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "We Were Angels",
+        "next_event": "Pluto Was Never Really a Planet"
+    }
+}

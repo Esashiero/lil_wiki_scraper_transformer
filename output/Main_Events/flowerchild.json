@@ -1,0 +1,71 @@
+{
+    "event_id": "flowerchild",
+    "event_title": "Flowerchild",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Flowerchild",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.33.19",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Cicadian Rhythm (The Gardener) \" , or \" Bidder's Organs \" . This event belongs to an event chain started from \" Boner on the Bus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Pareidolia connects to Sensei , pointing out just how things have started to unravel. They calmly explain the reason for this: It is \"their turn\". They expect there to be opposition from \"both sides\", but insist to Sensei that if he follows them, they will guarantee the safety of those he loves. They sympathize with his recent plight, that is, his struggle to choose what is right and what is wrong, but refuse to give him an answer on what to do – Individuality is a gift, they claim, and what is good and bad will all come down to perception. From their point of view, though, they can see the future. And in that future, Sensei is happy and content, safe from the turmoil of his mind. They advise Sensei to keep this talk in mind the next time he makes it to a reset, and warn him not to open his eyes until it's over unless he wishes to move closer to \"the dark\". A narrator speaks up, chipper and ready to begin the, now traditional, beach monologue. They narrate as the view switches between various groups of girls, all experiencing different things: The narrator wraps up their monologue, revealing themselves to be the mysterious, brown-haired girl. While there are still plenty of things they want to ask and learn from the listener, it's all too much to fit into their monologue. They sign off, waiting for the light to shine once more and hopeful of the opportunity to, someday, hold the listener's hand, something they wished they did more in the past.",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama",
+            "Maya Makinami",
+            "Miku Maruyama",
+            "Makoto Miyamura",
+            "Kirin Kanda",
+            "Io Ichimonji",
+            "Otoha Okakura",
+            "Rin Rokuhara",
+            "Molly MacCormack",
+            "Yasu Yasui",
+            "Karin Kanda",
+            "Touka Tsukioka",
+            "Imani Imai",
+            "Futaba Fukuyama",
+            "Ayane Amamiya",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "The ending scene where the unnamed girl wraps her narration up will not replay during Scene Replay.",
+            "The final picture with the unnamed girl (beachwarsoutro34) has a code in the background: 69 20 68 61 76 65 20 6e 6f 20 6e 61 6d 65 -- i have no name 69 20 61 6d 20 62 75 74 20 74 77 6f 20 64 61 79 73 20 6f 6c 64 -- i am but two days old 77 68 61 74 20 73 68 61 6c 6c 20 49 20 63 61 6c 6c 20 74 68 65 65 -- what shall I call thee 69 20 68 61 70 70 79 20 61 6d -- i happy am 6a 6f 79 20 69 73 20 6d 79 20 6e 61 6d 65 -- joy is my name 73 77 65 65 74 20 6a 6f 79 20 62 65 66 61 6c 6c 20 74 68 65 65 -- sweet joy befall thee",
+            "69 20 68 61 76 65 20 6e 6f 20 6e 61 6d 65 -- i have no name",
+            "69 20 61 6d 20 62 75 74 20 74 77 6f 20 64 61 79 73 20 6f 6c 64 -- i am but two days old",
+            "77 68 61 74 20 73 68 61 6c 6c 20 49 20 63 61 6c 6c 20 74 68 65 65 -- what shall I call thee",
+            "69 20 68 61 70 70 79 20 61 6d -- i happy am",
+            "6a 6f 79 20 69 73 20 6d 79 20 6e 61 6d 65 -- joy is my name",
+            "73 77 65 65 74 20 6a 6f 79 20 62 65 66 61 6c 6c 20 74 68 65 65 -- sweet joy befall thee"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Flowerchild",
+            "event_script_names": "beachwars18",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "beachwarsoutro"
+        ],
+        "music_tracks": [
+            "sleepsong.mp3",
+            "littlebunny.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.33."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Bidder's Organs",
+        "next_event": "Danger to Society"
+    }
+}

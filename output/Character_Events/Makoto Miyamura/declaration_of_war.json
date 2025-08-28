@@ -1,0 +1,51 @@
+{
+    "event_id": "declaration_of_war",
+    "event_title": "Declaration of War",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Declaration_of_War",
+    "event_type": "Invite Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" Slope Intercept Form \" Seen \" Quid Pro Quo \" from Makoto Miyamura",
+        "to_get_this_event": "Invite Makoto Over",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House"
+        ],
+        "synopsis": "Sensei invites Makoto over to his house, and Ami is not pleased. Sensei claims that he needs Makoto's help studying, and Makoto plays along when she arrives. Nevertheless, an argument quickly develops, and the two girls exchange declarations of war. The \"study\" session is not very productive, and Sensei decides that inviting Makoto over will only work out if Ami isn't around.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Ami Arakawa"
+        ],
+        "trivia": [
+            "This scene contains the first instance of Sensei attempting to use his \"parental authority\" to force Ami to behave. While it's ineffective here, it does work in the later event Traveling Lube Dealer ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Declaration of War",
+            "event_script_names": "makotoinvite1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotofirstvisit"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Quid Pro Quo",
+        "next_event": "Studious Teen Virgin"
+    }
+}

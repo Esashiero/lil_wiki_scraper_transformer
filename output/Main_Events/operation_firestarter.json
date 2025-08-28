@@ -1,0 +1,67 @@
+{
+    "event_id": "operation_firestarter",
+    "event_title": "Operation: Firestarter",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Operation:_Firestarter",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.1",
+    "interactivity": {
+        "requirements": "Friday You must be on at least Day  318  to unlock this Event. You must have seen or permanently missed the following Events: Seen \" Loser \" from Touka Tsukioka Seen \" Shawshank Redemption \" from Uta Ushibori Seen \" Speed of Light \" from Miku Maruyama Seen \" Ahead of the Curve \" from Molly MacCormack Seen \" Highly Pornographic \" from Otoha Okakura Seen \" Terms & Conditions \" from Kirin Kanda Seen \" Paperthin \" from Io Ichimonji Seen \" Better Off Alone \" from Yuki Yamaguchi Seen \" Repentance \" from Yasu Yasui Seen \" The Inside of a Triangle \" from Sana Sakakibara",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Friday on or after Day 318.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Classroom"
+        ],
+        "synopsis": "In class, the girls have to study for the upcoming standardized tests. Uta struggles with the material while Io tries to help her, though fails due to Uta's lack of interest and her general learning problems, and Sensei is slacking off as usual. Suddenly, Ayane appears near Uta's desk and wants to start Operation: Firestarter. While she makes it sound like they want to commit arson, Uta knows that she's referring to their plan for the class and agrees now is the best time to execute it. Ignoring protests from Makoto and Io, the girls initiate the first step of their plan – usurping Sensei and taking control of the class. After they forced him to take a seat at a student desk, Uta and Ayane explain that, at first, they planned a bonding exercise for both floors, but they realized that each floor sees itself as superior, so they decided to have a friendly competition to prove which floor actually is, with both of them naming themselves the captain of their respective floors. Makoto vetoes the idea, claiming they can't afford a competition with the standardized tests coming up and how they don't need one since the first floor is obviously the superior one. Ayane predicted her reaction down to her very words and already made a contingency plan to secure her cooperation – She makes her the captain of the first floor. While this manages to win her over, Makoto feels like both floors need a prize worth competing over, and both girls already have a worthwhile prize in mind. They announce Sensei as the prize, more specifically the opportunity to have a sleepover with him during the upcoming beach trip. They ask him if he agrees to this terms, purely out of courtesy since they don't really care about his opinion, and he accepts them before the girls kick him out of the classroom so they can plan the competitions.",
+        "participating_characters": [
+            "Sensei",
+            "Uta Ushibori",
+            "Io Ichimonji",
+            "Ayane Amamiya",
+            "Ami Arakawa",
+            "Noriko Nakayama",
+            "Makoto Miyamura",
+            "Touka Tsukioka",
+            "Kirin Kanda",
+            "Miku Maruyama",
+            "Nodoka Nagasawa",
+            "Molly MacCormack",
+            "Futaba Fukuyama",
+            "Chika Chosokabe",
+            "Tsuneyo Tojo",
+            "Otoha Okakura",
+            "Sana Sakakibara",
+            "Maya Makinami",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "If Sensei does not have at least 15 Futaba Lust and hasn't seen I See Everything , triggering this Event will fail C'est La Vie !",
+            "If Sensei does not have at least 15 Ayane Lust and 15 Kirin Lust and hasn't seen Prisoner , triggering this Event will fail What a Wonderful World !",
+            "If Sensei does not have at least 15 Chika Lust , triggering this Event will fail The Princess & The Pauper !"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Operation: Firestarter",
+            "event_script_names": "day318",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "thisiswar"
+        ],
+        "music_tracks": [
+            "happyandplotting.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Horses or the Whispers of the Dead",
+        "next_event": "Super Mega Ultimate Dorm War!"
+    }
+}

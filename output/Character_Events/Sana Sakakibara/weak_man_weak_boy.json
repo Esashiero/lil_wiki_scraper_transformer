@@ -1,0 +1,52 @@
+{
+    "event_id": "weak_man_weak_boy",
+    "event_title": "Weak Man, Weak Boy",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Weak_Man,_Weak_Boy",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "v0.37.11",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Stutter-Step \" . This event belongs to an event chain started from \" Episcopalis: Pickled Plums & Polyrhythmic Psalms \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate - Infirmary",
+            "Bar - Living Room",
+            "Bar - Sana's Bedroom"
+        ],
+        "synopsis": "Sensei is given a visceral recap of last Halloween by Sana , ending with him spending the night at the Sakakibara's Home .",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei chose to pursue Sara during either Carry Me Home or A Mostly Empty Home ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Weak Man, Weak Boy",
+            "event_script_names": "sanaspring3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sanaisbetternow"
+        ],
+        "music_tracks": [
+            "asobeatsexdark.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Stutter-Step",
+        "next_event": "Transpacific Sadness Symposium III: TWO-HEADED HORSE"
+    }
+}

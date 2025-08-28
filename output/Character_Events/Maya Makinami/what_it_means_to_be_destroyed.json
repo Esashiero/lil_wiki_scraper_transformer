@@ -1,0 +1,49 @@
+{
+    "event_id": "what_it_means_to_be_destroyed",
+    "event_title": "What it Means to Be Destroyed",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=What_it_Means_to_Be_Destroyed",
+    "event_type": "Event",
+    "primary_character": "Maya Makinami",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "30 Maya Affection You must have seen or permanently missed the following Events: Seen \" FLAVOR BEAM! \" from Maya Makinami Seen \" Beginnings. Endings. Things in Between. \" from Noriko Nakayama",
+        "to_get_this_event": "Visit Maya's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School"
+        ],
+        "synopsis": "Sensei carries a box for Maya again. She still wants him to avoid Noriko , but doesn't want to explain their history. Sensei asks what good it does to keep things secret from him, and Maya says that the more he remembers, the less likely it is for him to continue existing. They argue about whether Maya's policy of \"just... keeping the world moving\" is really living or not. Maya buys him a drink from a vending machine — just like last time. They talk more about Noriko, and Maya confirms Noriko's claim that Sensei used to tutor Maya as well. Maya says that she will keep trying to convince Sensei to stop seeing Noriko.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "What it Means to Be Destroyed",
+            "event_script_names": "mayadorm30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "anotherbox"
+        ],
+        "music_tracks": [
+            "hometown.mp3",
+            "comfort.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Watermelons and Violin",
+        "next_event": "Now More Than Ever"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "event_id": "pull_the_plug",
+    "event_title": "Pull the Plug",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Pull_the_Plug",
+    "event_type": "Event",
+    "primary_character": "Otoha Okakura",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "10 Otoha Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Glued to the Sky \"",
+        "to_get_this_event": "Visit the Park in the morning.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Otoha Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Park"
+        ],
+        "synopsis": "Sensei finds Otoha sitting on her park bench. She looks glum and Sensei assumes that her dispute with Rin isn’t resolved yet. He approaches her and tries to move the conversation to Rin and, to his surprise, she actually wants to talk about her, especially since he’s the first uninvolved person who approached her. Sensei understands her situation, why she feels abandoned by everyone and why she wants to be pissed about it, but she isn’t sure if she has the right to or can be pissed since her relationship with Rin wouldn’t survive it. Sensei manages to piss her off when he argues that Rin and her weren’t meant to be. Since she has no intention to give her up, he wants to know her plan to resolve the issue, but she has none. Sensei tries to help her, but none of his plans get Otoha’s approval. His first idea wouldn’t work since Rin and her aren’t close enough yet and only manages to frustrate her when she acknowledges how close Sensei and Rin are. His first serious idea is to introduce Rin as just a friend, but he agrees with her that this wouldn’t work since Rin has no control of her emotions. For his second idea, he suggests that she should visit her at her workplace for now to improve their situation a little, but she has vocal lessons and can’t visit her anymore. His third idea is to introduce himself as her boyfriend, which she rejects in a heartbeat. Otoha wonders why Rin doesn’t understand that they have to be careful, but assumes that her having two mothers just gave her the impression that no one would mind. Sensei wonders why she hasn’t met Rin’s parents yet since they are interested in meeting her and seem to be supportive of their relationship. She explains that meeting them would give their relationship a level of seriousness she can’t handle yet, that it will make thinks harder for her if they break up and that she just wants to enjoy their love and freedom for now. Sensei thinks that her dream of an easy relationship is unrealistic and that a conflict would’ve emerged someday, but she only wants to fix what’s broken now. He wants to know if she told Rin a single thing she told him and she negates that. He recommends to do that, but she fears that telling her would ruin everything. Sensei already expected that he wouldn’t be able to help resolve their dispute, but he had no intention to do that in the first place since he’s only an observer. The only thing he took from their conversation is that Otoha likes him more than she lets on. With their conversation done, Otoha makes her way to Niki ’s basement, but Sensei decides to accompany her, which she begrudgingly allows.",
+        "participating_characters": [
+            "Sensei",
+            "Otoha Okakura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Pull the Plug",
+            "event_script_names": "otohapark10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "otohaparkten"
+        ],
+        "music_tracks": [
+            "samhain.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Highly Pornographic",
+        "next_event": "Two-Octave Pitch Glide"
+    }
+}

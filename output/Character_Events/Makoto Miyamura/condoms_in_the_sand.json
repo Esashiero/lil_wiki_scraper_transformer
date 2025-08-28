@@ -1,0 +1,48 @@
+{
+    "event_id": "condoms_in_the_sand",
+    "event_title": "Condoms in the Sand",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Condoms_in_the_Sand",
+    "event_type": "Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "v0.16.1",
+    "interactivity": {
+        "requirements": "Saturday You must have seen or permanently missed the following Events: Seen Main Events up to \" Survive! Grow! \" Seen \" Loxonin \" from Miku Maruyama Seen \" A Place That Can Only Exist in Our Minds \" from Maya Makinami",
+        "to_get_this_event": "Call Makoto in the afternoon. This event start an event chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Sensei calls Makoto to see if she's ready for their proposed visit the beach. When they get there, Makoto tells him that he can't have sex with her — and that he should value her \"not as your sex slave or class president, but as a girl who puts you on a much higher pedestal than you deserve\". Sensei reluctantly accepts the situation. They talk about their relationship, and Sensei admits not knowing why she hasn't stopped doing his bidding a long time ago. She says that she looks up to him even though she shouldn't, and that she puts up with him in the hope that one day he'll see start treating her with the respect she deserves. They go to the inn.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Condoms in the Sand",
+            "event_script_names": "makotowinterbeach1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotobeachintro"
+        ],
+        "music_tracks": [
+            "acoustic.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Semblance of a Soul",
+        "next_event": "Humans With Hollow Bones"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "event_id": "terms_conditions",
+    "event_title": "Terms & Conditions",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Terms_%26_Conditions",
+    "event_type": "Event",
+    "primary_character": "Kirin Kanda",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Wednesday 20 Kirin Affection You must have seen or permanently missed the following Events: Seen \" Bye Bye, Boner \" from Kirin Kanda",
+        "to_get_this_event": "Visit Kirin's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kirin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 10"
+        ],
+        "synopsis": "Sensei knocks on Dorm room 10, hoping that he can enjoy an interesting evening with both girls, but only Kirin is there. While disappointed at first, he quickly moves past it and has the usual talk with her until she asks him if he wants to spend time with her in a different way. Sensei asks if she’s sure that she wants to when she was unsure last time , but Kirin tells him that he should treat this evening like a doctor’s appointment – unpleasant but necessary. He still hesitates, but when Kirin gives him a push, he agrees to her plan, only to learn that their time is cut short since she already had plans with Noriko and its spontaneous cancellation leaves them with a very narrow time frame before she returns. Kirin tries to get it over with, but an angry Noriko arrives, putting her plans to an end. Both girls have an argument as Kirin sees no problem with what she’s doing since it follows all limitations of their agreement, but Noriko isn’t mad because Kirin broke any terms but because she ditched her by following them when both already made plans together. The argument goes on for a while until Kirin admits that she was in the wrong. With Kirin's plan being canceled, Sensei has to leave but gets Noriko’s permission to take something of hers with him as consolation, which he does. On his way out, Kirin asks him to give her a call when he intends to pick up where they left.",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda",
+            "Noriko Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Terms & Conditions",
+            "event_script_names": "kirindorm20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kirinalmostsex"
+        ],
+        "music_tracks": [
+            "asobeatsex2.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.14."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Bye Bye, Boner",
+        "next_event": "All That is Contaminated"
+    }
+}

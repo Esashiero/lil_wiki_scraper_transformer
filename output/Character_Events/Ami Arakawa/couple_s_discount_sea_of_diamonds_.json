@@ -1,0 +1,50 @@
+{
+    "event_id": "couple_s_discount_sea_of_diamonds_",
+    "event_title": "Couple's Discount (Sea of Diamonds)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Couple%27s_Discount_(Sea_of_Diamonds)",
+    "event_type": "Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must be on at least Day  43  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" No Romeo \" Seen \" Something Darker \" from Ami Arakawa",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event will occur automatically on the first weekday on or after Day 43.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ami Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Parfait Cafe"
+        ],
+        "synopsis": "Sensei finds himself accompanying Ami , Ayane and Maya to a cafe the girls recently went to. Last time they didn’t get a couple’s discount since they tried to go as a throuple, which didn’t work, but with Sensei they can take advantage of that now. Sensei isn’t sure how to handle the fact that he is their teacher and, therefore, technically too old to date them but decides to wait until they arrive there. Ami tries to get some compliments from him, but he has no intention of humoring her. This frustrates her since he should be more like Ayane, who compliments her without her having to beg for it. Sensei explains that he can’t constantly talk about how cute his niece is in public without repercussions, which Maya agrees with. Sensei asks if he really should replicate Ayane’s behavior, and once she makes things weird, Ami concedes that he shouldn’t do that but still should complement her from time to time. The group arrives at the cafe. An unnamed one time barista wants to know how they want to be seated. Ayane tries to get the couple’s discount with Maya, but Maya resists since she doesn’t want to pretend that they are a couple for a 10% discount. When Ayane offers to pay for her, Maya immediately acts like she is in love with Ayane, allowing them to get a table in the back and the discount. When the barista gets to Sensei and Ami she points out that he might be too old to be her boyfriend, but Ami proclaims that she consents to a relationship with him. After an awkward pause Sensei explains that he is her uncle and that they don’t need the discount. Ami complains, but he states that he is paying for her anyway and the discount isn’t worth his last bit of pride. The barista gives them a table near the window. Once they are seated and got their tea and sweets, Ami explains that she did her research and that pretending to be a couple could have worked. When he asks her if she has certain feelings for him, she dodges the question. She instead thanks him for buying her all of these sweets on this unimportant day. After some smalltalk about parfaits and how expensive they are, Ami looks at their relationship and how well both of them fit together despite not looking like that from an outside point of view. She thinks that everyone will recognize that once they take a closer look, while Sensei thinks that she is insane. She doesn’t deny it but is still happy with how things are. On the other side of the cafe Ayane enjoys feeding her “girlfriend” while Maya curses her for using her weakness, yet still lets her feed her. Maya claims that it’s revolting how Ayane treats her but that it could be worse, looking at Sensei and Ami while saying that. Ayane wonders when he will remember that it’s Ami’s birthday, to which Maya points out the she even gave him a hint when he visited the shrine . Maya wonders what Ayane sees in a man with no good qualities, to which Ayane replies that it must be the same thing she sees in him. Maya claims that she is confusing her with someone else, as she doesn’t want anything to do with him. Ayane agrees that she was wrong and finishes her thoughts by hoping that Sensei remembers Ami’s birthday next year.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Couple's Discount (Sea of Diamonds)",
+            "event_script_names": "aminew1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "aminewone"
+        ],
+        "music_tracks": [
+            "10c.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Something Darker",
+        "next_event": "Ode to a Marsh Warbler"
+    }
+}

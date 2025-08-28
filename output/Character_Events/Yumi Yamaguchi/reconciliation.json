@@ -1,0 +1,49 @@
+{
+    "event_id": "reconciliation",
+    "event_title": "Reconciliation",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Reconciliation",
+    "event_type": "Event",
+    "primary_character": "Yumi Yamaguchi",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Auto-play after A Thing of the Past",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yuki Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Old District"
+        ],
+        "synopsis": "Yumi has a heated conversation with her mother . Yumi vents her frustration of how her mother acted in the past and how she can’t escape her, while Yumi tries her best to reconcile with her daughter and encourage her to continue her efforts. Some of the conversation topics include their meeting at Tojo Ramen , Yuki’s drug addiction, Yumi’s feelings of being abandoned by her mother and the gift Yuki bought for her birthday . When Yuki compares Yumi to herself, she finally snaps and slaps her mother, who isn’t faced by that. Sensei , who stayed out of their conversation until now, finally decides to intervene, but Yuki assures him that it’s not necessary since her daughter is so weak. Yumi lashes out at Sensei and Yuki slaps her in response since this is their business and she shouldn’t be disrespectful towards her teacher. A shocked Yumi apologizes to Sensei and, after listening to Yuki’s lecture, leaves the store. Once she’s gone, Yuki tells Sensei that she hoped that their conversation would’ve had a better outcome than this and recommends him to follow Yumi so he can cheer her up. He doesn’t think that this would work as he is terrible in cheering people up, but she still wants him to do it. Before they separate, they acknowledge that both of them seem to attract bad situations.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi",
+            "Yuki Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Reconciliation",
+            "event_script_names": "yumispecial40",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "familyreunion"
+        ],
+        "music_tracks": [
+            "recovery.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .21p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Abyss",
+        "next_event": "Neon Heart (If I Close My Eyes)"
+    }
+}

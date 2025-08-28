@@ -1,0 +1,54 @@
+{
+    "event_id": "speed_of_light",
+    "event_title": "Speed of Light",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Speed_of_Light",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Thursday 35 Miku Affection You must have seen or permanently missed the following Events: Seen \" Triple Whammy \" from Miku Maruyama",
+        "to_get_this_event": "Visit Miku's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Miku’s room"
+        ],
+        "synopsis": "Miku agrees to talk to Sensei about what happened last time , and they go outside. Miku apologizes, and Sensei tells her that she doesn't have to. She says that she is trying to improve her response to loud noises, but still doesn't want to talk about the origins of her problem. She tells Sensei that they should not take things any further, and that it's less a matter of what she wants to do than of what she can do. She tells him that although she's easy to trick, he should \"stop makin’ things happen\". Instead, she proposes to support his relationship with Makoto — Miku says that while she and Sensei don't need each other, Makoto does need him. They are interrupted by Molly , and Miku goes back inside shortly afterwards.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama",
+            "Molly MacCormack"
+        ],
+        "trivia": [
+            "Slight variation: Miku notices if Yumi is standing next to them in the dorm hallway (i.e. it's Monday).",
+            "Despite the internal name for this event being mikudorm40 , this event only requires 35 affection with Miku. Selebus confirmed this is as-intended.",
+            "The beef stew comment references the Andy Milonakis Show, an absurdist comedy show that ran on MTV."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Speed of Light",
+            "event_script_names": "mikudorm40",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nightsky",
+            "mikunightmolly"
+        ],
+        "music_tracks": [
+            "undersea.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .16p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Triple Whammy",
+        "next_event": "Acute Love Triangle"
+    }
+}

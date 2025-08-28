@@ -1,0 +1,49 @@
+{
+    "event_id": "sock_fetish",
+    "event_title": "Sock Fetish",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Sock_Fetish",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "25 Rin Affection You must have seen or permanently missed the following Events: Seen \" Delirium \" from Rin Rokuhara",
+        "to_get_this_event": "Visit Rin's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Rin’s room"
+        ],
+        "synopsis": "Sensei visits Rin for a chat. After the conversation gets past her initial topics of organ harvesting (she was watching a zombie movie earlier) and sock fetishes (her alternate explanation for why Sensei might be visiting), she moves onto something more serious — the latest developments in her \"hopeless\" pursuit of Chika . Rin is still obsessed, although she understands Sensei being a bit unsure of how to react to things she says given her recent problems . Rin reports having a successful conversation with Chika in which Chika said she looked cute, which Rin thinks is a big deal. However, she is well aware that her interest in Chika might not work out. She tells Sensei that she's glad to have someone like him to talk to.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Sock Fetish",
+            "event_script_names": "rindorm25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sockredux",
+            "rindormbed"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.5."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Good Day, Humans",
+        "next_event": "Nothing Was Different"
+    }
+}

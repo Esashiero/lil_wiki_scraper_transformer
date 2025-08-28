@@ -1,0 +1,49 @@
+{
+    "event_id": "the_flavor_of_love",
+    "event_title": "The Flavor of Love",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Flavor_of_Love",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Rin Affection",
+        "to_get_this_event": "Visit Rin at Koi Cafe after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Rin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "Sensei stops by the Koi Cafe to grab a drink to start the morning with, and says hello to Rin , who is at the counter working on orders. He reticently orders a 'cup of thought and love' which Rin gets to work quickly making, now saying she's outright the best barista ever, to Sensei's disagreement. The two banter as he gives her the payment for the drink, before he heads over to a table to wait. Shortly, Rin brings him her drink, and he says it's too sweet, to Rin's disappointment. The two discuss customer tastes and make fun of coffee Karens, and Rin tells Sensei not to worry about her loose lips since she's clocked out for her break. Upon Sensei's request, she makes a replacement drink for him, at which point the cafe gets swamped again and Sensei is forced to leave to go about his day.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Flavor of Love",
+            "event_script_names": "cafesugar",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "cafe",
+            "sugarredux"
+        ],
+        "music_tracks": [
+            "cafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces Sugar and Spice )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Guinea Pig",
+        "next_event": "Haruka"
+    }
+}

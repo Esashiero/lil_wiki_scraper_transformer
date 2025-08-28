@@ -1,0 +1,49 @@
+{
+    "event_id": "japanese_summer_double_suicide_",
+    "event_title": "Japanese Summer (Double Suicide)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Japanese_Summer_(Double_Suicide)",
+    "event_type": "Event",
+    "primary_character": "Otoha Okakura",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Conversations Outside of a Girls’ Dorm \" from Otoha Okakura Seen \" Uptown Girl \" from Sara Sakakibara",
+        "to_get_this_event": "Visit the Park in the morning",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Otoha Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Park"
+        ],
+        "synopsis": "Sensei finds Otoha relaxing in the park, and they talk about Otoha's experiences as a performer. Otoha's mother was a musician too, but this does not seem to have translated into wanting Otoha to be one. When Sensei mentions having dated Niki , Otoha doesn't believe him, thinking it to be a prank. Sensei calls Niki again to prove it, and leaves Otoha to deal with an angry Niki.",
+        "participating_characters": [
+            "Sensei",
+            "Otoha Okakura",
+            "Niki Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Japanese Summer (Double Suicide)",
+            "event_script_names": "otohapark1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "otohapark"
+        ],
+        "music_tracks": [
+            "brighterdays.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Conversations Outside of a Girls’ Dorm",
+        "next_event": "Locked In"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "event_id": "overload",
+    "event_title": "Overload",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Overload",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" No, You \" from Futaba Fukuyama",
+        "to_get_this_event": "Visit Futaba's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 4"
+        ],
+        "synopsis": "Sensei visits Futaba , hoping that she's awake this time . She is. He asks how she is, and she says that she'll probably be better soon, especially with Rin's help . Futaba's comment about Sensei just walking into her room whenever he feels like it leads to talk about their relationship. Futaba is still surprised how much they've done together, and while she doesn't want to be called \"deviant\", she isn't sure she likes \"innocent\" either. Sensei wants to do something to make Futaba feel better, instead of being on the receiving end all the time. She is reluctant to be touched like that, but eventually agrees.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Overload",
+            "event_script_names": "futabadorm35",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "futabafingering"
+        ],
+        "music_tracks": [
+            "asobeatsex2.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "No, You",
+        "next_event": "Selfless"
+    }
+}

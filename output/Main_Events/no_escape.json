@@ -1,0 +1,49 @@
+{
+    "event_id": "no_escape",
+    "event_title": "No Escape",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=No_Escape",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.19",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" A Way's Away \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+10 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel - Outside"
+        ],
+        "synopsis": "While he’s on his way to Miku , Sensei tries to figure out why he chose a stuffed bear as her present, unsure if it was a calculated move he can’t explain yet or just a random choice made out of carelessness. He's unable to decide before his apathy wins. He continues walking, finding Miku sitting on a bench. Upon seeing her, his mind wanders, and he ruminates over the distance Miku has put between them . His thoughts continue to wander and he struggles to remind himself why he's there until Miku speaks up and snaps him out of his trance. She’s surprised to see him since she only left to calm down a little, but he assures her that she doesn’t need to hurry since some already left. Miku wonders if the class is starting to fall apart due to the increase in students, but Sensei points out that the Dorm War would be the more likely cause of that happening. She doesn’t want to be reminded of that, though, since she didn’t manage to sweep her challenge and got licked by Kirin . She offers Sensei a seat on the bench, noticing his behavior as being off. When he mentions something that'd make him feel better, she jokes about robbing a bank with him, as she’s broke after getting Io an undisclosed gift. Once Sensei sits down, Miku notices the bear she saw Touka holding earlier, even though Sensei asked her not to look at her . She thinks that it’s a pretty bad gift which makes Sensei feel awkward when he confesses that this is hers. Miku, shocked and flushed, can’t believe that he actually bought her something that doesn’t fit her on a whim. He insists that this is hers but that he wouldn’t mind tossing it in the trash can if she doesn’t want it, causing her to snatch the bear out of his hands. While she looks down on it in silence, Sensei reflects on the futility of escape, because it’s basically impossible. Miku, on the verge of tears, states that this is the worst possible gift he could’ve picked. Contrary to his believe, though, she loves it. She apologizes, but before he can ask for what, she’s already kissing him. Sensei realizes that his gift is horrible because receiving something she wanted was the last push to make her act on her desires and potentially causing her friendship with Makoto to break. Breaking apart, Miku wants to confess to Makoto what happened but Sensei tries to convince her to keep it a secret. She says that she can’t do that and that she’s happy with their current relationship, even when hearing about it eats her ups inside. He tries to convince her to just accept her feelings without telling Makoto, or to get rid of the bear if keeping it causes her to suffer. She can’t do either and requests him to leave her alone so she can think about what she wants to do.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "No Escape",
+            "event_script_names": "christmastwo16",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "clearnightsky",
+            "mikubear"
+        ],
+        "music_tracks": [
+            "retrospect.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Way's Away",
+        "next_event": "Spotless Mind"
+    }
+}

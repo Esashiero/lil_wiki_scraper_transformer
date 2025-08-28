@@ -1,0 +1,69 @@
+{
+    "event_id": "bottled_dreams",
+    "event_title": "Bottled Dreams",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Bottled_Dreams",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.11.8",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Disappointing Everyone \" . This event belongs to an event chain started from \" There is Nothing \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Spin hard",
+                "effect": "Continues event"
+            },
+            {
+                "context": null,
+                "option": "Spin soft",
+                "effect": "Additional dialogue"
+            }
+        ],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "Sensei returns to the hotel room with Molly , who gets everyone’s attention and proposes a game of spin the bottle since Sensei hasn’t bought a gift, which peaks the interest of some girls, while others are concerned about it. Makoto and Miku try to talk Sensei out of this, but to no avail. Molly takes the first turn and the bottle lands on Rin , who was too focused on her texts with Otoha to hear what they’re playing and, once Molly locks her in place and she figures out what she’s wants to do, demands that she stops, but she kisses her despite that, which pisses Rin off and shocks Chika . Ayane takes the next turn and the bottle lands on Ami this time, who is a little confused at first and gets kissed by Ayane before she can react to it as Sana tries to comprehend why all of her friends are kissing other girls. Sensei spins next, much to Makoto’s disapproval, and it lands on Chika, who leaped into position when the bottle slowed down. She is excited to get a kiss, but Makoto won’t allow it. She is ready to compromise on them taking a private stroll trough the hotel for ten minutes, which were extended to twenty when Chika blackmailed her, and both leave the room.",
+        "participating_characters": [
+            "Molly MacCormack",
+            "Sensei",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Ayane Amamiya",
+            "Sana Sakakibara",
+            "Chika Chosokabe",
+            "Futaba Fukuyama",
+            "Miku Maruyama",
+            "Makoto Miyamura",
+            "Tsuneyo Tojo",
+            "Kirin Kanda",
+            "Karin Kanda",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Bottled Dreams",
+            "event_script_names": "christmas5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "spinthebottle"
+        ],
+        "music_tracks": [
+            "stpartynight.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.11."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Disappointing Everyone",
+        "next_event": "Christmas Miracle"
+    }
+}

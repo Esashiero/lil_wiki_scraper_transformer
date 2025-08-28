@@ -1,0 +1,48 @@
+{
+    "event_id": "temporary_bliss",
+    "event_title": "Temporary Bliss",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Temporary_Bliss",
+    "event_type": "Event",
+    "primary_character": "Kirin Kanda",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Not Wednesday 25 Kirin Affection You must have seen or permanently missed the following Events: Seen \" Loxosceles Reclusa \" from Noriko Nakayama",
+        "to_get_this_event": "Visit Kirin's room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kirin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 10"
+        ],
+        "synopsis": "Sensing that Kirin might be in the mood, Sensei walks into her room with the hopes of having sex. Instead, he finds her casually reading porn magazines, specifically an article of sociopathy. Bored by this developed, Sensei continues to push for sex until Kirin provokes him about what happened during Halloween . She goads him into fucking her.",
+        "participating_characters": [
+            "Sensei",
+            "Kirin Kanda"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Temporary Bliss",
+            "event_script_names": "kirindorm25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kirinreading"
+        ],
+        "music_tracks": [
+            "pianomelancholy3.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.21p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Dyed Orange, Drenched in Sun",
+        "next_event": "Four Hand Massage"
+    }
+}

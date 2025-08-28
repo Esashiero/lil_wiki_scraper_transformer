@@ -1,0 +1,53 @@
+{
+    "event_id": "what_s_done_is_done",
+    "event_title": "What's Done is Done",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=What%27s_Done_is_Done",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.8.1",
+    "interactivity": {
+        "requirements": "You must be on at least Day  174  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Lifting the Curse \" Seen \" Back Out in the Heat \" from Ami Arakawa Seen \" Legs of a Dying Spider \" from Futaba Fukuyama Seen \" Egg Tooth \" from Makoto Miyamura Seen \" Partners in Crime \" from Kirin Kanda Seen \" Snake Venom \" from Tsuneyo Tojo Seen \" The Dark Entity \" from Molly MacCormack Seen \" Sock Fetish \" from Rin Rokuhara Seen \" Supermom \" from Sana Sakakibara",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Saturday morning on or after Day 174.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Ami's Room",
+            "Sensei's House - Living Room"
+        ],
+        "synopsis": "Sensei wakes up later than he's used to, groggily walking into the living room to try only to find it empty. As he calls out to her, Ayane speaks up from Ami's room, telling him to join them. As he barges in, he finds the girls in their swimsuits, and realizes that today is the first day of the beach trip. Being shooed away by Ami, Ayane and Sana follow him into the living room, who've changed back into their normal clothes for the trip. They're soon joined by Ami, who demands Sensei apologize to Maya for his peeping. He reluctantly does so, and the group discuss the sleeping accommodations before making their way to the beach.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Ami Arakawa",
+            "Maya Makinami",
+            "Sana Sakakibara"
+        ],
+        "trivia": [
+            "If Sensei does not have at least 10 Ami Lust , triggering this Event will fail Wake Up Call !",
+            "If Sensei does not have at least 10 Ayane Lust , triggering this Event will fail Prisoner !"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "What's Done is Done",
+            "event_script_names": "beachvacation1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "beachintro"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.8."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Lifting the Curse",
+        "next_event": "All Along the Shoreline"
+    }
+}

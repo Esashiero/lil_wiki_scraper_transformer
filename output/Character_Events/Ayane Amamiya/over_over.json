@@ -1,0 +1,50 @@
+{
+    "event_id": "over_over",
+    "event_title": "Over & Over",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Over_%26_Over",
+    "event_type": "Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Saturday 55 Ayane Affection You must have seen or permanently missed the following Events: Seen \" The Aforementioned Light \" from Ayane Amamiya",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event will occur automatically on the next available Saturday night.",
+        "to_miss_this_event": "Don't choose Ayane during Our Time Atop This Mattress . Replaced by A Failed Attempt at Being Good .",
+        "choices": [],
+        "effects": [
+            "+1 Ayane , Chika Affection",
+            "+5 Ayane , Chika Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 2"
+        ],
+        "synopsis": "The night of Chika 's proposal arrives, and Ayane calls Sensei to her room. She's still alone since she wants to clear up a few Things before Chika arrives. After clarifying that she was upset because she was completely blindsided by the offer and confirming how they should interact for the rest of the night, they call Chika over.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Chika Chosokabe"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Over & Over",
+            "event_script_names": "ayanebonus2",
+            "event_missed_name": "A Failed Attempt at Being Good"
+        },
+        "backgrounds": [
+            "ayanedoesthething"
+        ],
+        "music_tracks": [
+            "asobeatsex3.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.34."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Aforementioned Light",
+        "next_event": "Dizzy On The Comedown"
+    }
+}

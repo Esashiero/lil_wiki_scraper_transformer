@@ -1,0 +1,58 @@
+{
+    "event_id": "another_long_year",
+    "event_title": "Another Long Year",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Another_Long_Year",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.15.5",
+    "interactivity": {
+        "requirements": "Monday You must be on at least Day  287  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Survive! Grow! \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Monday on or after Day 287.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Otoha Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Hallway",
+            "Classroom"
+        ],
+        "synopsis": "The day of Otoha 's transfer has arrived, and Sensei and Rin meet with her outside the classroom before she does her introduction. Otoha thanks him once again for their talk in the park and is glad to see that both of them are just as weird in school as they are outside of it. He wonders if Otoha has already moved into the dorms yet, but she informs him that she's still staying with her parents and will move into the same room as Nodoka at the end of the school week. He's surprised to hear that they didn't switch roommates to be with their preferred friends, an ideas that makes Rin excited and gives her a hard time controlling her thoughts, but Otoha decided to stick with Nodoka due to both of them being closer and new in his class, a sentiment Sensei can understand. Otoha asks Rin for her support during her move, though, and Rin agrees, but her feelings slip out again and she decides to go inside to lay down and die of shame. Sensei apologizes on Rin's behalf, but Otoha is fine with it, noticing that Rin is a rather excitable person. He remarks how her recent behavior is a stark contrast to her depressive phase , which worries Otoha due to their unpredictability and how they effect Rin, and Sensei suggests to pay close attention to possible signs of their occurrence and also asks her to warn him if she herself goes through depressive phases, but Otoha assures him that he doesn't need to worry about her. Io appears, greets Otoha, explaining to a surprised Sensei that Otoha is one of the few girls she doesn't despise due to her being more boyish than feminine, and goes inside. Io's comment makes her a bit self-conscious, especially because she received lots of confessions from other girls at her old school yet never had a crush herself. While Sensei writes off her popularity with girls as her being cool, he finds it hard to believe that she never had a crush in her life, but she explains that she never had the time or opportunity to pursue a relationship. He allows her this freedom now, and when he mentions how Rin would be happy to hear it, she stops the conversation and goes inside. After a bit of commotion due to Sensei wearing his casual clothes to work, which he justifies with Wakana doing the same , Otoha gives a brief introduction to the class. After some private conversations between some girls, Nodoka's usual nonsense and Kirin giving her an invitation to hang out with her and Noriko , Otoha decides to rap up, and Sensei congratulates her on having the only normal introduction and pities her for being so popular with some of the girls, with her mentally preparing herself for another long year.",
+        "participating_characters": [
+            "Sensei",
+            "Otoha Okakura",
+            "Rin Rokuhara",
+            "Io Ichimonji",
+            "Molly MacCormack",
+            "Tsuneyo Tojo",
+            "Sana Sakakibara",
+            "Chika Chosokabe",
+            "Noriko Nakayama",
+            "Nodoka Nagasawa",
+            "Kirin Kanda"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Another Long Year",
+            "event_script_names": "day287",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "otohafirstday"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Survive! Grow!",
+        "next_event": "Adult Supervision"
+    }
+}

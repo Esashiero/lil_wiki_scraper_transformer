@@ -1,0 +1,103 @@
+{
+    "event_id": "girls_in_spandex",
+    "event_title": "Girls in Spandex",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Girls_in_Spandex",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.20.1",
+    "interactivity": {
+        "requirements": "Friday You must be on at least Day  400  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" All is Bright. All is Beautiful. \" Seen \" Things Like Stairs \" from Tsuneyo Tojo Seen \" Walkthrough \" from Molly MacCormack Seen \" Hotel Rooms \" from Niki Nakayama Seen \" The Happiest Girl in the World \" or missed \" The Raw Sting of Lacerated Skin \" from Rin Rokuhara",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Friday on or after Day 400. This starts the Second Halloween Party chain-event.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Ami",
+                "effect": "+5 Ami Affection"
+            },
+            {
+                "context": null,
+                "option": "Ayane",
+                "effect": "+5 Ayane Affection"
+            },
+            {
+                "context": null,
+                "option": "Maya",
+                "effect": "+5 Maya Affection"
+            },
+            {
+                "context": null,
+                "option": "Rin",
+                "effect": "+5 Rin Affection"
+            },
+            {
+                "context": null,
+                "option": "Futaba",
+                "effect": "+5 Futaba Affection"
+            },
+            {
+                "context": null,
+                "option": "Molly",
+                "effect": "+5 Molly Affection"
+            },
+            {
+                "context": null,
+                "option": "Sana",
+                "effect": "+5 Sana Affection"
+            }
+        ],
+        "effects": [
+            "In addition to the chosen girl having their affection increased, Sensei's choice will unlock additional dialogue throughout the event-chain."
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's Office",
+            "Manga Club Room"
+        ],
+        "synopsis": "Sensei is sitting in his office and, noticing his inner monologue, assumes something of interest will happen soon. While he recounts some noticeable events that occurred during and after the last beach trip, Sana knocks on his door and enters after being called in. She reminds him of the upcoming Halloween party and asks him to follow her to the manga club room to take a look at the girl’s costumes and judge who has the best one. He notices Sana’s lack of a costume, and she, embarrassed, admits that she hasn’t picked one yet and wants to look for one once she gets back home. Knowing that he won’t need to counsel anyone today, he follows Sana to the club room, admiring her social development on the way. After entering the club room, Sensei is greeted by most of the club members and Ayane in very flattering outfits. After conversing with everyone present, he notices the obvious absence of Maya , only to be told she’s hiding in the corner of the room. After the usual banter between them, Ami asks if they can start the costume contest. Sensei wants to know what the criteria for the winner is, and Molly suggests to just pick the one he thinks looks the best. The contest begins and the girls show off their costumes while Molly gives a brief introduction of the character the current girl is portraying. During the contest, Sana gets too close and is considered a participant now. After everyone had their turn, Sensei picks a winner, which is met with either happiness, confusion, embarrassment or, in Maya’s case, frustration. When the day comes to a close, Sensei leaves the school and is happy not having to decorate for the party this time, but Sana catches up to him and asks for his assistance carrying some things for the party from her home to the mansion, and he agrees to follow her.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Molly MacCormack",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Maya Makinami"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the following: If Sensei broke his promise to Rin by seeing Schadenfreude before What's Done is Done . If Sana won the costume contest during Fallen Angels .",
+            "If Sensei broke his promise to Rin by seeing Schadenfreude before What's Done is Done .",
+            "If Sana won the costume contest during Fallen Angels .",
+            "The costumes of all the girls are characters from the video game, Genshin Impact . Ami is Amber, an Outrider for the Knights of Favonius. Ayane is Lumine, one of two player characters. Futaba is Ganyu, general secretary of the Liyue Qixing Maya is the astrologist, Mona Megistus. Molly is Fischl von Luftschloss Narfidort, an investigator. Rin is Jean Gunnhildr, Grand Master of the Knights of Favonius.",
+            "Ami is Amber, an Outrider for the Knights of Favonius.",
+            "Ayane is Lumine, one of two player characters.",
+            "Futaba is Ganyu, general secretary of the Liyue Qixing",
+            "Maya is the astrologist, Mona Megistus.",
+            "Molly is Fischl von Luftschloss Narfidort, an investigator.",
+            "Rin is Jean Gunnhildr, Grand Master of the Knights of Favonius."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Girls in Spandex",
+            "event_script_names": "halloweentwo1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "secondhalloweenintro"
+        ],
+        "music_tracks": [
+            "phantomthief.mp3",
+            "shiningstarinstrumental.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .20p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "All is Bright. All is Beautiful.",
+        "next_event": "Butterfly Facts"
+    }
+}

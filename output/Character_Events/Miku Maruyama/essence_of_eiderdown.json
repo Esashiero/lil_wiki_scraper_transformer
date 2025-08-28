@@ -1,0 +1,52 @@
+{
+    "event_id": "essence_of_eiderdown",
+    "event_title": "Essence of Eiderdown",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Essence_of_Eiderdown",
+    "event_type": "Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Saturday 55 Miku Affection You must have seen or permanently missed the following Events: Seen \" Voice of Vibration \" from Miku Maruyama",
+        "to_get_this_event": "Visit Miku at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "-10 Miku Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 3"
+        ],
+        "synopsis": "Sensei attempts to knock on the door to Miku 's room, accidentally doing so too hard and \"shattering the fabric of reality\" in the process. He's fine with this, though, as waiting for the world to fix itself gives him the time to reflect. During said reflection, he accidentally stumbles upon world-renowned painter, Salvador Dalí. The painter gives Sensei instructions on how to \"see the sunset\", supposedly so Sensei can yell at it. Once he takes note of these steps, he asks Dalí if he knows where Miku is – He tells him to see the world through her eyes first, starting with staring through the wall. Sensei does as advised and stares at Miku as she dissociates. He repeatedly rubs up against the door in his way while doing so, pondering over why he even bothers trying to help Miku when all he does is make things worse. Miku, meanwhile, mumbles to herself. She repeatedly tells herself that something isn't real. The narration shifts to someone else and they tell Sensei of a silverfish which hides itself in the discarded bottles left on the floor of Miku's room, hoping to be buried inside her digestive tract. They assure him that it will not succeed before admitting that the reason he's hearing this at all is because they're bad at everything, including symbolism. The narration shifts again, becoming more and more distorted before falling apart completely. In the recesses of Miku's mind, figments of her past run amok, chasing soccer balls and kicking them into a net that blankets a world that exists for tonight alone. While she might claim such things have always been the norm, the truth couldn't be further away. Once upon a time, she'd sleep in the comforting home of her comforting family. She'd eat microwave dinners and nestle herself between the legs of her parents, falling asleep only to repeat the same tomorrow. It was a life she'd have been content living forever, but that's only because she had no concept of life's value; Now she does. She pretends she doesn't understand but only because it's easier to fake ignorance, even if any kind of loud noise is enough to remind her and send her spiraling back into the world she's currently in. But while Miku retreats to this world to protect herself, the recesses of her mind aren't any safer – Nowhere she can turn is safe. And now, with nothing left to do, and no other ideas on how to fix herself, she surrenders herself to both \"light\" and \"dark\". They flood her mind and merge into a dull gray which itself turns everything dull and monotonous. Deep within, good memories still lie, but the muddled state of her mind keeps her as the same person she's been made into – And that \"person\" has something inside them, struggling to slither out. That \"something\" is confusion and the desire to understand. But life is full of too many difficult things to grasp, such as dust particles , or how quickly everything you love can be taken away. The narration returns to Sensei's perspective, and he knocks on the door to Miku's dorm. He enters before she has the chance to invite him in. Upon stepping inside, Miku stares him down, slowly amassing energy that explodes into her accusing him of convincing Io to stop giving her medicine . Sensei's unsure if it's true, thinking back on his recent talk with Io about this topic, but decides to deal with that later and focus on Miku. As he tries to convince Miku to accept this withdrawal, she begins to claw at her hair, forcing Sensei to restrain her wrists. She struggles against him, demanding he hand over the pills she believes he's hiding from her. He repeatedly tells her he has nothing on him, and asks her why she won't just speak to a doctor. She breaks into tears as she confesses that's precisely why she won't – They'd make her talk about what happened. Miku begins to pound her fists in Sensei's chest, sobbing into his shirt while he holds her tight, trying and failing to calm her down. Eventually, Makoto returns home and takes over for him, and he begins his own walk home. As he walks, he admits to himself that, should he have been withholding her medicine, he would've definitely caved in and given them back; He knows more than anyone how awful people can become when they feel cornered and how dangerous they are to themselves and the people around them when they start to lash out. He falls asleep, desperate to dream of Miku, but ultimately unable to.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Essence of Eiderdown",
+            "event_script_names": "mikudorm55p1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikudoortime"
+        ],
+        "music_tracks": [
+            "sweetervermouth.mp3",
+            "painisreal.mp3",
+            "likepigstopigwater.wav",
+            "nowhereissafe.mp3",
+            "lastdailysong.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.34."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Voice of Vibration",
+        "next_event": "Rostrum of Recollection"
+    }
+}

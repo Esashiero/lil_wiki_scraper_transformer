@@ -1,0 +1,47 @@
+{
+    "event_id": "recycling",
+    "event_title": "Recycling",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Recycling",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.42(Spring Beach Trip).5",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Silver King \" . This event belongs to an event chain started from \" Doomsayer \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "After a long monologue about love by an unknown narrator, Maya is exited to have a big meal in peace, but her excitement is hampered when someone ends up interrupting her. That someone is Makoto , who takes a seat next to her and wants to talk about her personality change. This annoys Maya since people constantly claim her personality changed when it didn't, though Makoto reminds her that she isn't the type to make jokes like this, which doesn't convince her due to Makoto being close to Sensei and his innate desire to mess with people. Makoto reminds her that she's in the manga club and, therefore, should be familiar with amnesia and time loop tropes, but Maya insists that these are just fiction and that she barely interacts with or knows Sensei, until a voice from the other side disagrees. That voice belongs to Noriko who also joined them at their table, which infuriates Maya even more. Noriko reminds her that they were Sensei's students in the past, and while Maya admits that she does now Sensei, she still insists that their relationship doesn't go further than teacher and student. Noriko decides to stay, since she agrees that Maya changed, which reminds Makoto that Sensei told her about their recent discussion about it. After getting sidetracked, Makoto tells Maya that she was more knowledgeable before that day at the karaoke booth and how she doesn't remember recent events anymore, with their discussion at her family's shop being an obvious example for her, and Noriko adds that she didn't remember her enrollment to Sensei's class , too. While Maya tries to write those off as lapses in her memory, Noriko argues that if there are already two instances of those, there might be more of them, and how Maya is smart enough to notice that something should be off. She compares it to Sensei's memory issues, but Maya claims he just forgot the bad once and uses it as an insult towards Noriko, so Makoto takes over and asks if she remembers his behavior at the beginning of their school year . She doesn't, and Makoto tells her that everyone else does, making it very unlikely it's a joke, and while Maya begrudgingly agrees that she noticed some differences as well, she hasn't found a catalyst for those changes. Makoto assumes it's linked to whatever erased her memories, but when Maya points out that her memories of her past are still there, she can't give her an explanation since she and the others haven't figured that part out yet. She mentions the possibility of her having lived thousands of lives already and wants to know if Maya thinks she could live that long without changing. She doesn't believe that anyone could when they experience such a nightmare, and Makoto agrees, which is why she sees her as a burden, why Sensei is currently lost, and why Maya can't change anything until she talks with him about it. While leaving the other two girls with that thought, Makoto feels bad for trying to help as it made her own goals harder to achieve.",
+        "participating_characters": [
+            "Maya Makinami",
+            "Makoto Miyamura",
+            "Noriko Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Recycling",
+            "event_script_names": "beachfive7",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mayaeats"
+        ],
+        "music_tracks": [
+            "fallishere.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .42.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sod in the Seedbed",
+        "next_event": "Albatross"
+    }
+}

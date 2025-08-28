@@ -1,0 +1,50 @@
+{
+    "event_id": "zero_friction",
+    "event_title": "Zero Friction",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Zero_Friction",
+    "event_type": "Lust Event",
+    "primary_character": "Sara Sakakibara",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Sara Lust",
+        "to_get_this_event": "Choose \"Fuck Sara\" in Carry Me Home . Hang out with Sara at the bar after she reaches 5 Lust.",
+        "to_miss_this_event": "Choose \"I probably shouldn't\" in Carry Me Home . Replaced by The World Moves too Quickly .",
+        "choices": [],
+        "effects": [
+            "+1 Sara Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a"
+        ],
+        "synopsis": "Sensei visits the bar and meets Sara and Sana . Sana has to go out to speak with Ayane on the phone, so the adults use their time wisely.",
+        "participating_characters": [
+            "Sensei",
+            "Sara Sakakibara",
+            "Sana Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Zero Friction",
+            "event_script_names": "saralust5",
+            "event_missed_name": "The World Moves too Quickly"
+        },
+        "backgrounds": [
+            "sarafirstlust"
+        ],
+        "music_tracks": [
+            "calmbar.mp3",
+            "asobeatsex3.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.6."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Woman's Heart",
+        "next_event": "Third Wheel"
+    }
+}

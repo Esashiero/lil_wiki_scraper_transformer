@@ -1,0 +1,48 @@
+{
+    "event_id": "caught_in_the_vortex",
+    "event_title": "Caught in the Vortex",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Caught_in_the_Vortex",
+    "event_type": "Event",
+    "primary_character": "Yumi Yamaguchi",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "25 Yumi Affection You must have seen or permanently missed the following Events: Seen \" A Place Like This \" from Yumi Yamaguchi",
+        "to_get_this_event": "Visit Yumi at the School Dorms after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yumi Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - Room 1"
+        ],
+        "synopsis": "Yumi doesn't want to talk about her mother, Yuki , but ends up doing so anyway. Sensei tells her that Yuki mentioned her in their first conversation . Yumi says that she is surprised her mother even remembers her, given that she \"ran out\" on her a long time ago. Yumi says that her mother — \"Yakuza-wife\", biker gang member, and drug addict — has \"no way of escaping a place like this\", and that Yumi could end up the same. Yumi starts tearing up, and is initially angry that Sensei tries \"being nice\" to her instead of telling her to grow up and get over it, but she appreciates it when Sensei simply acts as though it didn't happen.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Caught in the Vortex",
+            "event_script_names": "yumidorm25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yumidormtwofive"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.9p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Place Like This",
+        "next_event": "Where the Sidewalk Ends"
+    }
+}

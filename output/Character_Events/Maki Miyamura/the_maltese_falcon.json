@@ -1,0 +1,57 @@
+{
+    "event_id": "the_maltese_falcon",
+    "event_title": "The Maltese Falcon",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Maltese_Falcon",
+    "event_type": "Event",
+    "primary_character": "Maki Miyamura",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "25 Maki Affection You must have seen or permanently missed the following Events: Seen \" Worry Not, The Mason Jar \" from Ami Arakawa Seen \" Lavender \" from Nodoka Nagasawa",
+        "to_get_this_event": "Visit Maki at the Porn Shop after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maki , Haruka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Porn Shop",
+            "Porn Shop - Back Room"
+        ],
+        "synopsis": "Feeling the way he usually does, Sensei decides to head to the Miyamura family's store, hoping that Maki is manning the store tonight as Makoto refuses to serve him. Upon arriving at the store, he finds Sara , Maki, and Haruka all gathered around the storefront. After failing to get them to help with his shopping, Sara says he's arrived right on time, as he can fill in for her. Haruka is sad to hear this, suggesting that Sara let Yuki or Sana man the bar, but she negates this by claiming she needs to be more responsible now that her business is doing well. With Sara gone, Sensei moves closer to the remaining two, asking for clarification about what he's being included in. Haruka explains that she bought three tickets to a resort for the weekend as a token of appreciation for Maki's friendship – Maki instead quips that it's to help her get over her dead husband . Haruka insists this isn't the sole reason, telling Maki to explain the other thing troubling her lately. Maki reveals that she hasn't been \"feeling herself\" lately, causing Sensei to both realize the severity of the situation and question the friendship between the girls. Haruka further explains that she thought the idea up as a way to make up for how bad a friend she's been lately. From here, the event diverges depending on if Sensei pursued both Haruka and Maki:",
+        "participating_characters": [
+            "Sensei",
+            "Maki Miyamura",
+            "Haruka Hamasaki",
+            "Sara Sakakibara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the following: If Sensei pursued Sara during either Carry Me Home or A Mostly Empty Home . If Sensei pursued Maki during Special Occasions and pursued Haruka during either Invisible Worm or Roses .",
+            "If Sensei pursued Sara during either Carry Me Home or A Mostly Empty Home .",
+            "If Sensei pursued Maki during Special Occasions and pursued Haruka during either Invisible Worm or Roses .",
+            "If Sensei chose to pursue both Maki and Haruka, following this event, Maki will be unavailable for an extended period of time.",
+            "The title of this event seems to stem from the 1941 American noir film of the same name."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Maltese Falcon",
+            "event_script_names": "makihornyquestintro",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "girlspornshop"
+        ],
+        "music_tracks": [
+            "citylife.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.32."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Baby Steps",
+        "next_event": "Shut Up & Cum"
+    }
+}

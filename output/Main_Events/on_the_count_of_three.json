@@ -1,0 +1,53 @@
+{
+    "event_id": "on_the_count_of_three",
+    "event_title": "On the Count of Three",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=On_the_Count_of_Three",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Collector \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Karaoke Bar"
+        ],
+        "synopsis": "Sensei , Makoto , and Ayane come to, finding themselves in a karaoke booth with Ami , singing along to one of Niki 's songs. While both Makoto and Ayane slowly come to, realizing they've been suddenly transported somewhere else, Sensei's mind remains a wreck, struggling to give his usual narration as he mentally cries for help. After getting her bearings, Ayane immediately begins to cry and wraps her arms around Ami, thankful that she's still alive . While Ami attempts to fight off this sudden bout of affection, Makoto stares at Sensei, confused as to why he's still seemingly 'broken'. A narrator chimes in, questioning Sensei on why he is sitting around, so close to breaking into tears and convincing himself he's worth something when he's only useful for chasing women. The narrator, revealing themselves to be Pareidolia , refuses to let Sensei turn their \"chapter\" into a constant spew of tears. However, realizing that he is obviously grieving, Paredolia offers to give Sensei some time to himself before they start \"pushing buttons\". They advise Sensei that, should their speech tendencies begin to fluctuate again, he should ignore it as being \"part of the trinity\" means they tend to \"blend together\" with the other aspects of it. As they say goodbye, they tell him to pick a God, preferably them, and follow them for as long as he can, just as his mother did – For it might be the only way to see \"his girl\" again. Sensei comes back to reality as Maya walks into the karaoke booth, but he refuses to acknowledge her at all, blocking out her face and name. Ami tries to get her to help pry Ayane off of her, but Maya refuses to get involved, expressing further disinterest when Makoto chimes in to try and get her to comfort Sensei. As the girls begin to argue about what's going on, Sensei's deteriorating mind rationalizes that all of tonight's tragedies are Sana 's fault as it was her song that kicked off the reset. He declares he'll get revenge once the \"world stops spinning\". Finally noticing just how distressed he is, Ami stops the music playing via the karaoke stand to try and discern what's wrong. Just as he begins to dissociate, Ami and Ayane step closer to him to try and get him to regain his focus, the latter being shut down as she tries to help. Instead, Ami tells Sensei to focus solely on her, and to recall a memory from a time when he was younger – In the tatami room of his old family home laid a book locked away in a cabinet. Inside that book was a sunflower, his favorite flower, which he'd pluck the petals of each time something bad happened to him. Ami likens herself to the flower and tells him to do the same with her whenever something happens, as she loves him so much that she'd happily take whatever he wants from her without hesitation. She insists that she will always be a source of light in his darkest of moments and, believing that he's finally beginning to calm down, tells him to count down from three and open his eyes. The moment he does, he demands they go home. Ami agrees and quickly shuts down Ayane's attempts to come with them. Sensei does the same, telling her that she cannot help.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa",
+            "Makoto Miyamura",
+            "Ayane Amamiya",
+            "Pareidolia",
+            "Maya Makinami"
+        ],
+        "trivia": [
+            "The Japanese spoken by Ami and Makoto at the start of the event are the lyrics to Shining Star. A transcript of those lyrics can be found here ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "On the Count of Three",
+            "event_script_names": "springtime2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "postroomkaraoke"
+        ],
+        "music_tracks": [
+            "shiningstarvocals.mp3",
+            "stopwind.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Collector",
+        "next_event": "Not the Nightingale"
+    }
+}

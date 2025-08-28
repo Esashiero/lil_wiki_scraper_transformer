@@ -1,0 +1,51 @@
+{
+    "event_id": "locked_in",
+    "event_title": "Locked In",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Locked_In",
+    "event_type": "Event",
+    "primary_character": "Otoha Okakura",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Japanese Summer (Double Suicide) \" from Otoha Okakura",
+        "to_get_this_event": "Visit the Park in the morning",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Otoha Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Park"
+        ],
+        "synopsis": "It's too cold for Otoha to play her guitar in the park, and Sensei suggests finding an indoor venue — like the Koi Cafe. They about Otoha's feelings on being the center of attention, and about Niki . They arrive at the cafe and tell Rin about their idea for Otoha to play there. Rin is enthusiastic, and confirms Sensei's earlier comment that Haruka likes cute girls. After getting two Rin Specials, Sensei and Otoha talk about Rin's relationship with each of them.",
+        "participating_characters": [
+            "Sensei",
+            "Otoha Okakura",
+            "Rin Rokuhara"
+        ],
+        "trivia": [
+            "Depending on whether Sensei was a Good Homie or a Bad Homie , Rin has a different reaction to seeing Sensei with Otoha, and Sensei has a different conversation with Otoha afterwards."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Locked In",
+            "event_script_names": "otohapark5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "otohacafetrip"
+        ],
+        "music_tracks": [
+            "brighterdays.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Japanese Summer (Double Suicide)",
+        "next_event": "Highly Pornographic"
+    }
+}

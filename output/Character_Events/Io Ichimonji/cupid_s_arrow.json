@@ -1,0 +1,50 @@
+{
+    "event_id": "cupid_s_arrow",
+    "event_title": "Cupid's Arrow",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Cupid%27s_Arrow",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "20 Io Affection You must have seen or permanently missed the following Events: Seen \" Baby Steps \" from Maki Miyamura",
+        "to_get_this_event": "Visit Uta at the Archery Range in the morning",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Archery Range"
+        ],
+        "synopsis": "Sensei arrives at the archery range as Wakana instructs Uta on how to correctly hold a bow and gets jealous about the attention Wakana gets. He is joined by Io , who was playing with a caterpillar under a tree. She flirts with him in her usual way, but Sensei suggests not to do that in an environment where Kirin can kill her. Io assumes that Uta will protect her and acknowledges how serious she takes the club. She suggests that they should go somewhere quiet to continue their conversation and guides him to the backside of the club’s storage house. Sensei isn’t surprised to see that Io already found a place to escape from everyone as she is used to block everyone out. She asks him about his plans for the weekend, indicating that she wants to spend time with him, and tells him that she hates archery but likes the craftsmanship of the bows. He wonders why she even joined this club and she did it since she had to pick one and decided to just follow Uta again. He notices that, unlike her, Io only has one female friend and recommends her to get another one, but she doesn’t want more because having more than one would be exhausting. He suggests Kirin due to their similarities, but Kirin is the last person she wants to befriend because she is as toxic as herself, gets close to Sensei when she’s just another fake trying to feel whole and asked her too many embarrassing and personal questions on their walk home . The last part got her the most since she has a lot of things she doesn’t want to talk about and doesn’t like people who try to force these things out of her, while Sensei thinks that she needs a friend like that in her life before it’s too late. She makes another self-deprecating comment about herself and Sensei wants her to stop doing that since it’s both her biggest strength but also her biggest weakness. He also wants her to live for herself rather than completely depend on him, because her behavior reminds him too much of himself, and she is surprised that he opened up to her. While he did, he makes it clear that this and her making progress is for his benefit rather than hers. Io has a hard time understanding why this would make him happy when every time he makes a new friend she gets jealous and frustrated. He reminds her that not every relationship he has is intimate, but Kirin told her that all relationships he cares about are and doesn’t understand why she wants hers to be one of them when she likes him as well. They acknowledge that the only point in life is to distract oneself from how much it sucks, but Io thinks that learning something about him is a good distraction. As they get back from their hiding place, Sensei isn’t happy that he shared something with her, but can’t be too angry about it since he did it on his own accord.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji",
+            "Wakana Watabe",
+            "Uta Ushibori"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Cupid's Arrow",
+            "event_script_names": "ioarchery1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ioarchery"
+        ],
+        "music_tracks": [
+            "summerwind.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Another Man's Treasure",
+        "next_event": "Work Less, Not Hard"
+    }
+}

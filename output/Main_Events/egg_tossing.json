@@ -1,0 +1,68 @@
+{
+    "event_id": "egg_tossing",
+    "event_title": "Egg Tossing",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Egg_Tossing",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.19.2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Good Morning \" , the event that started the chain.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Pry",
+                "effect": "Minor dialogue variation"
+            },
+            {
+                "context": null,
+                "option": "Leave her alone",
+                "effect": "Minor dialogue variation"
+            }
+        ],
+        "effects": [
+            "+1 Yumi Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "When Sensei arrives at the beach, Yumi is having trouble figuring out how to deal with Yasu . Chika and Touka are unconcerned. They tell Sensei that Makoto has been looking for him. They talk about what to expect at during the trip, and whether it's a good idea to try swimming in the winter. Yumi has had enough of talking to Yasu, and goes for a walk — Sensei accompanies her. Eventually, Yumi reluctantly admits that there's something she wants to ask him, but in the course of asking her what it is, Sensei ends up getting \"zoned out\" again. When he recovers, Yumi says that she'll tell him tomorrow. Sensei goes on to talk to Uta and Io . He shows them to the inn.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Yasu Yasui",
+            "Chika Chosokabe",
+            "Yumi Yamaguchi",
+            "Uta Ushibori",
+            "Io Ichimonji"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if the First Floor won the Dorm War ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Egg Tossing",
+            "event_script_names": "secondbeach2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "secondbeachintro"
+        ],
+        "music_tracks": [
+            "shiningstarinstrumental.mp3",
+            "blueair.mp3",
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Good Morning",
+        "next_event": "De-Briefing the Teacher"
+    }
+}

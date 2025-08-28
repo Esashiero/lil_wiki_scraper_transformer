@@ -1,0 +1,49 @@
+{
+    "event_id": "blackout",
+    "event_title": "Blackout",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Blackout",
+    "event_type": "Event",
+    "primary_character": "Tsuneyo Tojo",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "20 Tsuneyo Affection You must have seen or permanently missed the following Events: Seen \" Fucking... Or What it Means to Live \" from Tsuneyo Tojo",
+        "to_get_this_event": "Visit the Tojo Ramen",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Tsuneyo Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tojo Ramen"
+        ],
+        "synopsis": "Tsuneyo has finally been informed how the words she has been using actually work, and she isn't pleased with Sensei for letting it go on for so long. Once she moves past that, they talk for a while about Tsuneyo's classmates, the shop, and Tsuneyo's future. They are interrupted when the power goes off. Tsuneyo goes upstairs to check that the machines keeping her father alive are getting backup power, but does not want Sensei to help — her father is adamant about remaining unseen. When the backup power comes on downstairs, everything is red, and Sensei isn't thinking normally. Tsuneyo returns after a length of time that Sensei can't accurately judge. She boxes his food (which seems to have had a smiley face drawn in it somehow) and he leaves.",
+        "participating_characters": [
+            "Sensei",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Blackout",
+            "event_script_names": "ramen20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "blackout"
+        ],
+        "music_tracks": [
+            "kashiwagi.mp3",
+            "sanctuary.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.13p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Fucking... Or What it Means to Live",
+        "next_event": "Like Noodles in the Wind"
+    }
+}

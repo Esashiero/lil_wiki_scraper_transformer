@@ -1,0 +1,94 @@
+{
+    "event_id": "strippers_no_swimsuits_pool_toucher_",
+    "event_title": "Strippers? No! Swimsuits! (Pool-Toucher)",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Strippers%3F_No!_Swimsuits!_(Pool-Toucher)",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.49(Super Mega Ultimate Heaven & Hell).14",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The First Time Since the Last Time \" . This event belongs to an event chain started from \" Prepare for Battle! \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Rin",
+                "effect": "Gives Floor 1 a point"
+            },
+            {
+                "context": null,
+                "option": "Io",
+                "effect": "Gives Floor 2 a point"
+            },
+            {
+                "context": null,
+                "option": "Ayane if voted for inSweet Joy Befall Thee! Be Nice to Sensei Battle!",
+                "effect": "Gives Floor 1 a point Allows Ayane to be voted for again"
+            },
+            {
+                "context": null,
+                "option": "Sana",
+                "effect": "Gives Floor 1 a point"
+            },
+            {
+                "context": null,
+                "option": "Tsuneyo",
+                "effect": "Gives Floor 2 a point"
+            },
+            {
+                "context": null,
+                "option": "Ayane if voted for after the Io and Rin contests",
+                "effect": "Gives Floor 1 a point"
+            }
+        ],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            ""
+        ],
+        "synopsis": "WIP",
+        "participating_characters": [
+            "Uta Ushibori",
+            "Maya Makinami",
+            "Tsuneyo Tojo",
+            "Sana Sakakibara",
+            "Rin Rokuhara",
+            "Molly MacCormack",
+            "Nodoka Nagasawa",
+            "Miku Maruyama",
+            "Futaba Fukuyama",
+            "Ayane Amamiya",
+            "Io Ichimonji",
+            "Sensei",
+            "Kirin Kanda",
+            "Noriko Nakayama",
+            "Ami Arakawa",
+            "Otoha Okakura"
+        ],
+        "trivia": [
+            "WIP"
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Strippers? No! Swimsuits! (Pool-Toucher)",
+            "event_script_names": "dormwarsfive11",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "stripswimwar",
+            "black"
+        ],
+        "music_tracks": [
+            "citylife.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.48.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Ghost's Guide on Haunting",
+        "next_event": "Goth Girl Glamour Gala!"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "event_id": "bone_town",
+    "event_title": "BONE-TOWN",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=BONE-TOWN",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.35.3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Tenth Step \" . This event belongs to an event chain started from \" Eggside Octopus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate - Dojo"
+        ],
+        "synopsis": "Turning around, Sensei 's faced with Imani , who's worried about why he's been ignoring her all throughout the night so far. He claims he just didn't notice her, but Imani doesn't believe this, worrying that after their recent night out , he feels awkward being around her. He assures her this isn't true and subsequently disproves this by complimenting her costume. After some light teasing from Imani, he wanders off to speak with more of the class. He ends up running straight into Sana next, whose costume choice leaves him stupefied. Having now dealt with four years of back - to - back strange costumes, Sensei asks her why she's always dressing so ridiculously. Sana admits that dressing strangely helps her feel less like herself and, by extension, less weird – Sensei struggles to understand this considering how far she goes, and jokes she should've joined Ami and Ayane in dressing up as Maya . She plays along, admitting that she could've, especially since Ayane bought duplicates of Maya's entire wardrobe during her costume-fitting attempts. As this tangent continues though, Sana becomes increasingly at a loss for words, while Sensei tries to dismiss her weird demeanor as another act . Once Sana's conversational skills have been completely dried up, Sensei moves on. He steps up to Molly , Yasu , and Tsuneyo , the first two being happy to see him while the latter throws insults his way under the guise of \"staying in character\". Sensei laments the stark contrast between this abuse and the comforting presence she displayed during their trip to the amusement park , something Tsuneyo initially denies happened before suddenly being overcome with the re-emerging memories. Sensei tries to focus on this but is suddenly unable to stop his thoughts from drifting elsewhere. Just as he regains focus, he snaps to reality and finds himself standing in front of Uta , Chika , and Io . Among Io's many preceding insults thrown towards Chika, Sensei is informed that Chika's officially switched jobs to the Maid Cafe . Everyone but Io is excited about the switch, though Uta quips about how much she'll be losing out on now that Sensei's focus will be even more divided. Preemptively anticipating a bad reaction, Uta tries to backtrack on this thought, but Chika assures her she won't get mad at her for serving Sensei as maid to make money. Uta apologizes for her sudden anxiety, explaining that her increasingly stressful life leaves her mind a mess. Chika pours on more assurance and praise, leading Uta to become locked up in embarrassment and Io to become annoyed. She, along with Sensei, take their leave.",
+        "participating_characters": [
+            "Sensei",
+            "Imani Imai",
+            "Sana Sakakibara",
+            "Rin Rokuhara",
+            "Nodoka Nagasawa",
+            "Molly MacCormack",
+            "Yasu Yasui",
+            "Tsuneyo Tojo",
+            "Chika Chosokabe",
+            "Uta Ushibori",
+            "Io Ichimonji"
+        ],
+        "trivia": [
+            "On the blurred image of Uta and Chika is the overlayed message \"you are caught in my web. there is only one way out\"."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "BONE-TOWN",
+            "event_script_names": "halloweenfour3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "halloweenfourmingletwo"
+        ],
+        "music_tracks": [
+            "letsfuckingo.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.35."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Tenth Step",
+        "next_event": "Try Honesty"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "event_id": "dead_in_the_water",
+    "event_title": "Dead in the Water",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Dead_in_the_Water",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.26.1",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Auto-play after Death Trap .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Yamaguchi Estate"
+        ],
+        "synopsis": "Chika trespasses on the Yamaguchi estate to find Yumi , but she gets immediately apprehended by two of their men. She belittles both of them and tries to escape until Yumi shows up by pure coincidence. The men explain what happened and Yumi demands that they let her friend go. They retreat and, after swearing at them in Tagalog and threatening to get their pinkies if they injured her, demands to know from Yumi where she’s been all this time, because she looked for her everywhere after her suspension. Yumi explains that, unable to live on the streets and without anywhere to go after what happened , she decided to go back to her father, even if it feels like she failed. Chika tells her that she should’ve come to her instead, but Yumi wasn’t sure if she could’ve approached her, because she thought they weren’t friends anymore. Chika makes it clear that she has no intention of abandoning her and, after admiring how voluptuous she looks in her new top, wants to know what made her snap that day. Yumi isn’t sure if she can talk about it, but at least wants to sit down first. As they take a seat, the narrator acknowledges how distant both of them currently are as one wants to know why her friend relapsed without any obvious reason, while the other wants to forget what happened to her , feels no remorse for her actions and fears that speaking about it would result in her telling her everything, even though she still hasn’t figured out how she feels about it. They talk about how Yumi spent her time at the estate after she moved in again, which was overall fine but she still missed her best friend. While Chika is happy to hear that, she still wants to know why she attacked Nodoka so she can help explain her side of the story to everyone. Yumi assumes that her reputation hit rock bottom if she has to defend her and tells her that, just like with Futaba , she did it because she wanted to, which Chika doesn’t believe since she’s better than this, but Yumi tells her that she might’ve changed for the worst now. Chika knows that she’s hiding something, because she knows her mannerism when she does it, and wants her to be honest with her so her progress doesn’t go to waste, but Yumi doesn’t think she made any progress and was just backtracking from a few of her mistakes. She proclaims that she will drop out and continue living as the yakuza princess for a while. Chika sees this as her giving up, because she tried her best to get away from this life, but Yumi thinks she will be fine as long as she doesn’t make the same mistakes as her mother , who happens to arrive at the estate in that moment.",
+        "participating_characters": [
+            "Chika Chosokabe",
+            "Yumi Yamaguchi",
+            "Yuki Yamaguchi"
+        ],
+        "trivia": [
+            "Meaning of the Tagalog swear words Gago = Idiot or Stupid. Supot = Meaning uncircumcised, but in an unfavorable, derogatory manner; someone who is dirty, unclean and still a child. Putang ina mo = Son of a bitch. Kainin mo tae ko = Eat my shit.",
+            "Gago = Idiot or Stupid.",
+            "Supot = Meaning uncircumcised, but in an unfavorable, derogatory manner; someone who is dirty, unclean and still a child.",
+            "Putang ina mo = Son of a bitch.",
+            "Kainin mo tae ko = Eat my shit."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Dead in the Water",
+            "event_script_names": "yumichikaspecial1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikayakuza"
+        ],
+        "music_tracks": [
+            "lifeismostlygood.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Life is Changing",
+        "next_event": "The Road to Recovery"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "event_id": "nakayarakawayama",
+    "event_title": "Nakayarakawayama",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Nakayarakawayama",
+    "event_type": "Event",
+    "primary_character": "Noriko Nakayama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Sculpture (Dream Girl) \" from Noriko Nakayama",
+        "to_get_this_event": "Visit the Convenience Store",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Noriko Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Convenience Store"
+        ],
+        "synopsis": "Sensei feels a sudden desire to go somewhere far away, and muses on the word \"sudden\". Then, he is suddenly in an unfamiliar convenience store where Noriko works. He is surprised to learn that they are in the old district, and Noriko wonders if some of his old memories might be present subconsciously. They talk about Sensei's teaching style (which was apparently much more diligent before), Noriko's school successes and employment, whether or not Sensei will get his memories back, and hypothetical futures for them together",
+        "participating_characters": [
+            "Sensei",
+            "Noriko Nakayama"
+        ],
+        "trivia": [
+            "Noriko's comment about living \"free and dangerously\" in contrast to her name is presumably a reference to the fact that the first part of \"Noriko\" may (depending on which kanji are used) may have meanings like \"law\", \"rule\", \"standard\", \"method\", etc."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Nakayarakawayama",
+            "event_script_names": "convenience1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "firstconvenience"
+        ],
+        "music_tracks": [
+            "blueair.mp3",
+            "noriko.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.14."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Sculpture (Dream Girl)",
+        "next_event": "Semi-Constructive Criticism"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "event_id": "to_lift_this_aching_head",
+    "event_title": "To Lift This Aching Head",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=To_Lift_This_Aching_Head",
+    "event_type": "Event",
+    "primary_character": "Touka Tsukioka",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after For Want Of .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Touka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Estate - Stone Gardens",
+            "Tsukioka Estate - Pool",
+            "Tsukioka Estate - Dojo"
+        ],
+        "synopsis": "Tsukasa runs up to Sensei and Touka , insulted by the way they were speaking about her . As the conversation continues, Sensei becomes increasingly uncomfortable with the topic and tries to leave, causing Tsukasa to only become more aggressive. Touka meanwhile is more confused by her inappropriate attire, which she explains as being appropriate due to the \"meeting\" Tsubasa called. Hearing this, Touka's immediately confused and, after reprimanding her sister when her behavior gets too annoying, makes her way to the Tsukioka's pool to get answers, taking both Sensei and her sister with her. The three arrive at the pool, finding Tsubasa in the middle of taking a lap around the pool's rim. Touka assumes that her mother and sister's casual attire is due to a sudden change in plans but Tsubasa admits she simply lied about having an \"important matter\" to discuss. Having recently realized that she's been neglecting her role as mother, Tsubasa wanted to organize some alone time for the family to spend together. While Sensei offers to give them some space, Tsubasa instead suggests he joins them as a stand-in for her husband, but he refuses, partly due to Touka's coaxing. Following this, Tsubasa allows the two to continue spending time together while she focuses on Tsukasa. Touka's hesitant to turn away from the opportunity to spend time with her mother but after being reassured they can speak alone later, she relents and offers to take Sensei somewhere more private , though Sensei already knows that her phrasing was intentionally misleading. She leads him down a series of halls and the two find themselves in a near exact copy of the Dojo he and Ayane often attend. The two assume fighting stances and begin to mess around in the same way Sensei does with Ayane . As they continue, though, he suddenly loses interest since it just feels off without Ayane being present. Touka understands his reasoning and only brought him here to make him feel less intimidate by his surroundings, but Sensei already started to adapt to the estate and, if anything, feels more intimidate by the fact that places he knows are recreated in it. He calls Touka’s desire to replicate places to better understand them an issue of hers, which she acknowledges but points out that he has some too. When he dares her to name one, she, with a mischievous smile on her face, names his dropped defense, kicks him in the head and knocks him out in one hit. When Sensei awakes an hour later, he finds himself lying on Touka’s lap and being nursed by her. Once their eyes meet, he notices a strong connection between them, but, between his aching head and her family entering the dojo, can’t act on it. After clearing any misunderstandings the scene created, Tsubasa sends Tsukasa to bed and requests Touka’s presence in her bedroom, whereas Sensei, knowing he overstayed his welcome, leaves the mansion.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Tsukasa Tsukioka",
+            "Tsubasa Tsukioka"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw Mating Season ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "To Lift This Aching Head",
+            "event_script_names": "toukadorm25p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "toukawalktwo"
+        ],
+        "music_tracks": [
+            "tsukiokamanor.mp3",
+            "marshmallow.mp3",
+            "rapid.mp3",
+            "kimitoakinobouken.mp3",
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .31.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "For Want Of",
+        "next_event": "Under My Wing"
+    }
+}

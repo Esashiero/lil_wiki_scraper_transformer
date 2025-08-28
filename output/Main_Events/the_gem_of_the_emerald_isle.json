@@ -1,0 +1,54 @@
+{
+    "event_id": "the_gem_of_the_emerald_isle",
+    "event_title": "The Gem of the Emerald Isle",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Gem_of_the_Emerald_Isle",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.7.2",
+    "interactivity": {
+        "requirements": "You must be on at least Day  140  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Rumors \"",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first weekday on or after Day 140.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Molly Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Hallway",
+            "Classroom"
+        ],
+        "synopsis": "Makoto explains Sensei the necessary procedures regarding the transfer student, but he doesn’t want to do them and is worried that this girl could be another Yumi . On that note, Makoto wonders if he helped Yumi with her studies as she noticed a significant increase in her grades, and he decides to take credit for that, even though he only had one tutor session with her . Makoto doesn’t believe him, but when he tries to impress her, she cuts him of and brings his attention back to the ‘transfer’ student. Sensei asks her why she says it like that and she tells him that a girl changing her class isn’t a real transfer and tries to hide her worries about more competition. She enters the classroom, but before Sensei can follow her, he hears fast approaching footsteps and an unknown voice behind him and finds a foreign looking girl standing behind him once he turns around. When asked by him, the girl introduces herself as Molly MacCormack, tells him that she transferred from Ms. Watabe ’s class and that her country of origin is Ireland. She notices his interest in girls her age, which makes him wary, but he ignores it and asks about a comment she made about this being “the place where dreams come true”. Molly confesses that she’s a big anime fan and hopes that she can become the leading heroine of a harem by enrolling in his class. She promises not to disturb his lessons with her behavior, but is ecstatic to learn that he practices some sort of free-form learning. Both of them enter, but instead of introducing herself, Molly goes straight to Rin and complains to her about her lack of passion for their hobbies, while she panics and wants her to stop talking about it in class, especially when Chika notices them. Ami and Maya realize that she’s the transfer student, and while Ami is happy by her joining them, Maya isn’t, mostly because she called her a nerd. After leaving Rin, who covers her face in shame, behind, she introduces herself in an over the top manner to the class and also makes her devotion to Sensei known, much to his surprise and dismay, as he was finally getting used to the fact that his class was getting calmer.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Molly MacCormack",
+            "Rin Rokuhara",
+            "Chika Chosokabe",
+            "Ami Arakawa",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Gem of the Emerald Isle",
+            "event_script_names": "day140",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mollyarrives"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Rumors",
+        "next_event": "Size Matters"
+    }
+}

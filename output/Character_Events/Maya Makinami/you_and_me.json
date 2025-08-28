@@ -1,0 +1,49 @@
+{
+    "event_id": "you_and_me",
+    "event_title": "You and Me",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=You_and_Me",
+    "event_type": "Event",
+    "primary_character": "Maya Makinami",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Maya Affection You must have seen or permanently missed the following Events: Seen \" Past/Present/Future \" from Maya Makinami Seen \" Rewind/Repeat/Refuse \" from Maya Makinami",
+        "to_get_this_event": "Visit the Shrine",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Maya Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Shrine"
+        ],
+        "synopsis": "At the shrine, Maya tells Sensei to stop using his free time on her, saying that he is \"close enough to ruin\" as it is. One wrong move could send him somewhere new, which would put him \"back at the beginning\". Sensei declines her advice. Trying to talk to her in \"a more... Maya sort of way\", he asks how she feels about fate, and she says that she believes in it, reminding him of what she told him about repeating cycles. She also says, however, that just asking the question is a deviation from the normal pattern, and that if Sensei is changing, it may affect the future in ways she can't predict. When she says that \"everything is connected\", Sensei asks if that includes him and her — to his surprise, she says that it does, but the conversation does not pick up again.",
+        "participating_characters": [
+            "Sensei",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "You and Me",
+            "event_script_names": "shrine15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "glowofthesun"
+        ],
+        "music_tracks": [
+            "hammockofpeace.mp3",
+            "shrinemaiden.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.5."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Rewind/Repeat/Refuse",
+        "next_event": "Takoyaki"
+    }
+}

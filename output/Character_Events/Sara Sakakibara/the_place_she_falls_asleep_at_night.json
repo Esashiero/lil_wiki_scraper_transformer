@@ -1,0 +1,51 @@
+{
+    "event_id": "the_place_she_falls_asleep_at_night",
+    "event_title": "The Place She Falls Asleep At Night",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Place_She_Falls_Asleep_At_Night",
+    "event_type": "Event",
+    "primary_character": "Sara Sakakibara",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplay after Tell Me When .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+2 Sara Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a - Living Room"
+        ],
+        "synopsis": "Sensei stays in Sara ’s apartment and watches her staring out the window. Sara points out that she let her hair down after Sana left, stating that she did it because she’s feeling more comfortable now. She’s happy that he stayed with her, acknowledges that he will never be a part of her family and appreciates him as a friend. She asks him if her decision to raise Sana as a single mother after being abandoned was the right thing to do or if she should’ve roped someone into being Sana’s father. He can’t answer that and, considering her luck with men, shouldn’t tell her if roping someone in would’ve been a wise decision. She explains that she has no fond memories since they’re either filled with tragedy or mistakes and she fears that Sana will leave her like everyone else in her life. She hoped that her teacher wouldn’t do that, but realizes that a child can expose the worst parts in people. Sensei states that women can’t handle being a parent as well, but assures her that she did a fine job. It’s not enough for her, though, and she wished she would’ve waited until she found someone who would’ve stuck with her, but Sensei thinks that Sana would be a different girl if she did. Sara tells him that she didn’t have a childhood and that she raised her daughter how she wished she would’ve been raised. She asks him if his parents were good, hoping that they were bad, meaning he became a decent person despite them. She recalls what she had to go trough, which includes being ignored or punished for no discernible reason, and starts crying at some point. Since she never learned what the right things are, she hoped that dating an adult could help her understand how to be a good mother, but feels like the world doesn’t want her to be one. Sensei calls this the best sales pitch to make him a part of her family, but Sara only told him so she could get it off her chest. Sensei doesn’t make her any hope that things will get better, but assures her that she doesn’t deserve anything that happened to her. She’s happy about his concern since crying is better if her tears don’t land in her glass of wine, while Sensei’s happy that he’s a terrible employee and didn’t brought her one . She considers firing him for disobeying her and distracting one of her employees. He jokingly names Yuki , because naming her would be too obvious, but she informs him that she meant Sana. Sensei still doesn’t think that Sana is capable of having romantic or even sexual feelings for anyone, but Sara is sure that she has deeper feelings for him despite her quiet nature and begs him to not let her repeat her mistakes so she can have a good school life. They talk a little bit more about this until Sensei decides to leave.",
+        "participating_characters": [
+            "Sensei",
+            "Sara Sakakibara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei chose to pursue Sara during either Carry Me Home or A Mostly Empty Home : If Sensei chose to pursue Sara, then an extended ending is shown where Sensei finds himself in front of an abandoned school building he vaguely remembers . There he's suddenly approached by an unknown brown-haired girl who suspiciously predicts both his name and that his phone is currently dead. Since he’s lost, she offers him to bring him home and demands that he closes his eyes. He does it, but when he gets the feeling that she’s messing with him by naming ridiculous demands, he opens them again and finds himself back in his room.",
+            "If Sensei chose to pursue Sara, then an extended ending is shown where Sensei finds himself in front of an abandoned school building he vaguely remembers . There he's suddenly approached by an unknown brown-haired girl who suspiciously predicts both his name and that his phone is currently dead. Since he’s lost, she offers him to bring him home and demands that he closes his eyes. He does it, but when he gets the feeling that she’s messing with him by naming ridiculous demands, he opens them again and finds himself back in his room."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Place She Falls Asleep At Night",
+            "event_script_names": "sarabar25p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sarawindow"
+        ],
+        "music_tracks": [
+            "sidecharacter.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .21p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Tell Me When",
+        "next_event": "Engulfed"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "event_id": "nicolas_cage",
+    "event_title": "Nicolas Cage",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Nicolas_Cage",
+    "event_type": "Event",
+    "primary_character": "Sara Sakakibara",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "30 Sara Affection You must have seen or permanently missed the following Events: Seen \" The Creaking of the Seventh Step \" from Sara Sakakibara",
+        "to_get_this_event": "Visit Sara at the Bar during the night after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sara Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a",
+            "Haruka's House"
+        ],
+        "synopsis": "The opening to this event diverges depending on if Sensei saw Halfway Down the Wishing Well : Meanwhile, Sara, Sana , and Haruka enjoy a night at Haruka's apartment, watching action movies while snacking on popcorn. They all discuss their favorite actors, but once they get ready to move on to the next movie, Sana steps away to tell Ayane she'll be out all night. Having some time alone, Haruka asks Sara what the point of the sudden movie night was, recognizing it as Sara's way of coping. Acknowledging that to be true, but not wanting to talk about things, Sara counters by asking Haruka what her plans are for when her husband finally returns from the Space War. Having been so long since she last saw him, Haruka finds it hard to imagine, with so much having changed in her life that it'd almost be akin to meeting again. Haruka likens it to Sana's dad suddenly reappearing and inserting himself into her life again. Sara reminds her that, unlike her husband, Sana's dad intentionally walked out of their life, and that it's been over a decade. She belittles herself, saying that while Haruka was smart and got a man who loves her, all she got was someone who used her up until he got bored. What makes it worse for her is how obvious it all is in hindsight – Not introducing her to people, the vacant stares, the constant disappearances, even the way he looked when she announced her pregnancy with her son. Upon thinking of her son, Sara loses her composure, tearing up and asking Haruka to braid her hair as a distraction. As Haruka obsesses over Sara's well-kept hair, Sara suddenly regains her composure and asks if she can talk about her son for a while. Sana steps out of the bathroom, confused and worried upon seeing her mother's expression. Sara invites her over to help braid her hair. Back with Sensei, he's returned home, falling asleep hoping that, wherever Sara is, she's with her daughter.",
+        "participating_characters": [
+            "Sensei",
+            "Sara Sakakibara",
+            "Yuki Yamaguchi",
+            "Haruka Hamasaki",
+            "Sana Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Nicolas Cage",
+            "event_script_names": "sarabar30",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "movienight"
+        ],
+        "music_tracks": [
+            "calmbar.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Halfway Down the Wishing Well",
+        "next_event": "The One With A Happy Ending"
+    }
+}

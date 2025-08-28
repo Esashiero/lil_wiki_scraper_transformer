@@ -1,0 +1,53 @@
+{
+    "event_id": "schadenfreude",
+    "event_title": "Schadenfreude",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Schadenfreude",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "20 Chika Affection You must have seen or permanently missed the following Events: Seen \" A Dog that Doesn't Do Math \" from Chika Chosokabe",
+        "to_get_this_event": "Visit Chika’s room",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "Bad Homie with Rin if before What's Done is Done",
+            "+1 Chika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Chika’s room"
+        ],
+        "synopsis": "Sensei visits Chika in her room. Chika mentions his babysitting duties at the mall, and is amused to learn about his awkward meeting with Ami and Maya there. Sensei says that this isn't very sweet and innocent of her, and they talk about whether she might secretly be perverted. They go over to Chika's bed, where she tells Sensei to kiss her. She says that she isn't ready for sex yet, so he does something else for her instead. Chika is loud enough that Makoto comes to investigate, forcing Sensei to hide under the bed.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe"
+        ],
+        "trivia": [
+            "If seen after See You in the Morning , you get the Good Homie version of moral Sensei.",
+            "Dialog varies depending on whether Sensei kissed Chika in Side Event ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Schadenfreude",
+            "event_script_names": "chikadorm20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "chikadormtwenty"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3",
+            "asobeatsex7.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.6."
+        ]
+    },
+    "navigation": {
+        "previous_event": "A Dog that Doesn't Do Math",
+        "next_event": "True Power: Unleashed"
+    }
+}

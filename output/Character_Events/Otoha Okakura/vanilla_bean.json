@@ -1,0 +1,52 @@
+{
+    "event_id": "vanilla_bean",
+    "event_title": "Vanilla Bean",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Vanilla_Bean",
+    "event_type": "Event",
+    "primary_character": "Otoha Okakura",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Auto-play after Breathing in Unison",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Otoha , Niki , Rin Affection",
+            "+1 Niki Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Restaurant"
+        ],
+        "synopsis": "Sensei and Otoha make their way to the restaurant Niki picked for their date and arrive at their table. Otoha is nervous being on a double date with her teachers, but Niki tries her best to look confident while Sensei assumes that she’s just as clueless as Otoha, annoying her in the process. After a while, Rin arrives and apologizes for being late. Sensei notices the scent of the vanilla beverage she served all day and wonders how Rin’s and Otoha’s date is going to play out. Rin behaves like her usual self, but Sensei isn’t sure if it’s a sign of her getting over their dispute or a sign of being blinded by love. Niki doesn’t mind Rin’s energetic personality and starts to argue with Sensei when he calls her a narcissist, while Rin and Otoha have a normal conversation. The date goes on and, at some point, Niki starts talking about her career, gets impressed by Rin and wouldn’t mind having her visit her lessons. The conversation shifts to Otoha’s vocal lessons and Rin mwntions how she would pay for Otoha instead of her parents. Otoha doesn’t want to talk about that, but Niki thinks that her parents want to take her out of her lessons and, since she adamantly supports her talent, offers to do them for free. Rin is overjoyed to hear it, but her joy dies quickly once she sees Otoha’s face and realizes that being unable to pay wasn’t her problem. After a prolonged moment of silence, Rin starts crying and decides to leave. Otoha tries to stop her, but is unable to since she still can’t tell her what’s wrong. Once Rin left the restaurant, Niki scolds Otoha for her behavior and sends her after Rin to finally tell her the truth. She hesitates at first but finally follows her while Niki gets exhausted from the unnecessary drama. Otoha catches up with Rin in front of the restaurant and tries her best to convey her feelings and worries to her. Rin wants to know if she feels embarrassed about them dating. After some hesitation, Otoha confirms this, but when Rin blames herself, she assures her that she didn’t do anything, wrong, while she tells her that there’s one thing she did wrong . Otoha is shocked to hear it and wants her to stop walking so they can talk about it. Once she does, both of them have an argument about how both of them hid something hurtful from each other, how Otoha needs time to get comfortable with their relationship and how Rin doesn’t see this as a phase and wants to know if Otoha is uncomfortable. Otoha also wants to know when Rin is hurting herself, but she tells her that she has to pay more attention and notice if something’s wrong with her, while Otoha assures her that there’s nothing wrong with her and promises to pay more attention. Rin wonders if their relationship is right, but Otoha pulls her closer, assures her that it is and that both of their feelings for each other are genuine. Rin asks her if they’re breaking up, but, because none of them want to, she denies it and begs her for more time to get more comfortable with how she feels. They start making out as Sensei and Niki come out to check on them and Niki, in response, asks Sensei if they should make out as well in the restroom, which he agrees to.",
+        "participating_characters": [
+            "Sensei",
+            "Otoha Okakura",
+            "Niki Nakayama",
+            "Rin Rokuhara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Vanilla Bean",
+            "event_script_names": "otohadorm10p2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "otohadinner"
+        ],
+        "music_tracks": [
+            "love.mp3",
+            "thingsthathurt.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .23p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Breathing in Unison",
+        "next_event": "King Midas"
+    }
+}

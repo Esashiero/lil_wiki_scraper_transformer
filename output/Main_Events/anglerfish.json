@@ -1,0 +1,51 @@
+{
+    "event_id": "anglerfish",
+    "event_title": "Anglerfish",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Anglerfish",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.20.5",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Take Me Anywhere \" . This event belongs to an event chain started from \" Girls in Spandex \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Yumi Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate - Garden"
+        ],
+        "synopsis": "Back outside, Io asks Sensei about his thoughts on Halloween. He admits that he likes the prospect of seeing some nice costumes, an answer she already predicted, and while she doesn’t like it, she accepts this part of him. She segues from this onto a rant on how people often settle for the closest thing to a perfect partner and how some people put themselves out there to be noticed. Sensei thinks to himself how he had expected her to go on another pessimistic rant, and has already accepted this as Io's default state of mind until something forces her to change. The two admit to each other that they're glad they haven't drifted apart due to their differences yet, with Io downplaying this by comparing herself to an anglerfish. She admits this is a flawed metaphor, as at least fish gain something from being together, whereas Sensei gains nothing from Io clinging to him. He dismisses these worries as being irrational, as he doesn't need to gain anything from her. She's happy to hear this, having worried he was getting sick of her after not hanging out with her during their recent class beach trip . He promises to hang out with her soon, with Io seizing the opportunity to broach the idea of visiting an amusement park, something she is apparently \"contractually obligated\" to do. As Io tries to continue talking, she takes note of the sudden exhaustion on Sensei's face. He confesses he's struggling to understand the reason behind tonight's discussion, with Io suggesting several possibilities, such as her failed attempt to see him during the beach trip or an underlying fear of him losing interest in her. He tries to convince her she doesn't need to fight for his attention, but she struggles to believe him. Their conversation is interrupted when Yumi finally appears at the mansion. Her presence makes Io uncomfortable and she leaves, claiming she needs to eat something to prevent possible side effects from her anxiety meds. Once she’s gone, Sensei asks Yumi why she hasn’t answered Chika ’s text messages , only to learn that Chinami accidentally drowned her phone and she couldn’t save it due to her not knowing how to use rice to get the water out. As he worries about the prospect of having to buy her a new phone, he remembers Yuki ’s birthday gift for her and hands her the present. While she's surprised at first, her mood changes when he reveals that it’s from her mother. She asks him to leave her alone, getting angry when he offers to get her something as well. After wiping her tears away, Yumi tosses the gift into a nearby river.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "A text message from Haruka is available following this event."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Anglerfish",
+            "event_script_names": "halloweentwo5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ioyuminight"
+        ],
+        "music_tracks": [
+            "comfort.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .20p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Take Me Anywhere",
+        "next_event": "Porcelain Labyrinth"
+    }
+}

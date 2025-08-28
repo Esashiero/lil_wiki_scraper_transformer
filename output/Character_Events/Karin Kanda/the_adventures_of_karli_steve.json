@@ -1,0 +1,51 @@
+{
+    "event_id": "the_adventures_of_karli_steve",
+    "event_title": "The Adventures of Karli & Steve",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Adventures_of_Karli_%26_Steve",
+    "event_type": "Event",
+    "primary_character": "Karin Kanda",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "20 Karin Affection You must have seen or permanently missed the following Events: Seen Main Events up to \" Food Groups \"",
+        "to_get_this_event": "Visit the Soccer Field",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Karin Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Soccer Field"
+        ],
+        "synopsis": "Miku , Karin , and Sensei end up going on an \"adventure\" to retrieve Karin's history textbook from a classroom. Before Miku can propose a second adventure, she is called away, leaving Sensei and Karin to talk. She tells him that one of the reasons she likes having him as a coach (even though he barely does anything) is that he doesn't expect more out of her than than he does out of anyone else. She likes \"being in the middle\", rather than being pressured to be the best. She can't talk about it with most people, and especially not with Kirin , but does feel comfortable talking to Sensei now. Miku returns and leads them off on more adventures.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama",
+            "Karin Kanda"
+        ],
+        "trivia": [
+            "There are some differences in dialogue depending on what Sensei said about his relationship with Kirin."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Adventures of Karli & Steve",
+            "event_script_names": "karinsoccer20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "karinadventure"
+        ],
+        "music_tracks": [
+            "justbehappy.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Tendrils of Flame",
+        "next_event": "Sweet Tooth"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "event_id": "a_beautiful_mind",
+    "event_title": "A Beautiful Mind",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Beautiful_Mind",
+    "event_type": "Event",
+    "primary_character": "Makoto Miyamura",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Friday You must be on at least Day  522  to unlock this Event. You must have seen or permanently missed the following Events: Seen \" Parallelogram \" from Makoto Miyamura",
+        "to_get_this_event": "Upon fulfilling all Requirements, this Event automatically occurs on the first Friday on or after Day 522.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Classroom"
+        ],
+        "synopsis": "As he makes his way to class, Sensei recalls what happened after nearly a week without Makoto , which contains the aftermath of Yumi ’s fight, Imani taking over Makoto’s duties and how Miku is still upset by Makoto’s suffering. He’s feels similar knowing what she’s going through and being reminded every time he sees her desk. Once he enters, Miku awaits him to get his permission to leave early today. Sensei wonders why she’s still coming in the first place and she explains that she can't leave Karin alone with the club and needs the exercise to keep herself occupied. She informs him that Makoto is doing a little better now and thinks that his visit helped her, but he doubts it. Both of them want Makoto to come back so she can bring order to the class again. Sensei actually considers teaching until she does, but Miku seems distracted and drops Makoto’s name. He turns around and sees that she arrived. She’s still a nihilistic mess and Sensei wants Miku to bring her home immediately. She tells them that she’s fine, but she doesn’t care about being serious anymore and asks Miku about current gossip instead. Maya wonders why she acts like that, but notices that Ami fell silent. Since Miku isn’t telling her anything, she talks to Sensei about the picture he broke and makes it apparent that she’s still far away from being fine. Sana can’t hear what they’re talking about, but Ayane , who has excellent hearing, can and is afraid of what’s coming next. Makoto walks in front of the class as Imani, who was doing paperwork in Sensei’s office, enters the class after receiving a call from Maki and asks him if they should stop her, but he wants to let her speak for now. She blatantly informs everyone that her father died, claims that none of them care about her and that both school and live are meaningless. While some try to reason with her, she ignores it, explaining that no one bothered to help her, even though the only ones who knew were the people closest to her, and that they all hate her for ruining their school days with menial tasks. She did it regardless to make her father proud, but now has no reason to act like a well-behaved student now that he’s gone. Imani thinks that they should stop her from completely destroying her reputation while everyone just watches, but Sensei tells her that not everyone is and directs her view back to Makoto. Ami, who couldn't take it anymore, is holding Makoto in her arms and begs her to stop. He predicted this the moment he saw her and decided to let her handle it. Makoto breaks into tears and Imani decides to take everyone except Ami, Miku and Sensei out for a spontaneous gym lesson. After a while, Sensei follows Imani, because there’s nothing for him to do while Miku and Ami share their pain and experience with Makoto. He later heard from Ami that everything turned out fine and that Makoto will take a leave from school without running way again. He contemplates the power of words and thinks that she will still hear her father’s voice trough the whispers of the world.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura",
+            "Miku Maruyama",
+            "Maya Makinami",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Sana Sakakibara",
+            "Imani Imai",
+            "Otoha Okakura",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Chika Chosokabe",
+            "Noriko Nakayama",
+            "Kirin Kanda"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei saw White Oak Doors ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Beautiful Mind",
+            "event_script_names": "sadgirls8",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotoback"
+        ],
+        "music_tracks": [
+            "10c.mp3",
+            "andlove.mp3",
+            "kimitoakinobouken.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .25p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "White Oak Doors",
+        "next_event": "Young Cardinals"
+    }
+}

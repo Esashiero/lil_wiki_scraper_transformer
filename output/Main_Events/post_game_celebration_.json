@@ -1,0 +1,73 @@
+{
+    "event_id": "post_game_celebration_",
+    "event_title": "Post-Game Celebration!",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Post-Game_Celebration!",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.17.19",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Fallen Angels \" . This event belongs to an event chain started from \" Operation: Firestarter \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 First Floor"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Bar"
+        ],
+        "synopsis": "With the last event of the Dorm War finished, Sensei talks to various people around the bar.",
+        "participating_characters": [
+            "Sensei",
+            "Touka Tsukioka",
+            "Yasu Yasui",
+            "Sara Sakakibara",
+            "Sana Sakakibara",
+            "Wakana Watabe",
+            "Tsubasa Tsukioka",
+            "Chika Chosokabe",
+            "Nodoka Nagasawa",
+            "Maki Miyamura",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Otoha Okakura",
+            "Noriko Nakayama",
+            "Ami Arakawa",
+            "Ayane Amamiya",
+            "Tsuneyo Tojo",
+            "Uta Ushibori",
+            "Makoto Miyamura",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the following: Who Sensei chooses to win during Fallen Angels If Sensei saw C'est La Vie If Sensei broke his promise to Rin by seeing Schadenfreude before What's Done is Done . If Sensei saw What a Wonderful World If the requirements for The Princess & The Pauper are met.",
+            "Who Sensei chooses to win during Fallen Angels",
+            "If Sensei saw C'est La Vie",
+            "If Sensei broke his promise to Rin by seeing Schadenfreude before What's Done is Done .",
+            "If Sensei saw What a Wonderful World",
+            "If the requirements for The Princess & The Pauper are met."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Post-Game Celebration!",
+            "event_script_names": "dormwar16",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "postfashion"
+        ],
+        "music_tracks": [
+            "letsfuckingo.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .17."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Fallen Angels",
+        "next_event": "War's End"
+    }
+}

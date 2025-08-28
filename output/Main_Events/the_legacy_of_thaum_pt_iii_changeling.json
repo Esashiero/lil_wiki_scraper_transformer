@@ -1,0 +1,56 @@
+{
+    "event_id": "the_legacy_of_thaum_pt_iii_changeling",
+    "event_title": "The Legacy of Thaum Pt. III: Changeling",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Legacy_of_Thaum_Pt._III:_Changeling",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.19.9",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Everything Ephemeral (Face Forward) \" . This event belongs to an event chain started from \" Good Morning \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Molly Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach - First Floor's Room"
+        ],
+        "synopsis": "Molly DMs another Dungeons & Dragons session . Tsuneyo , who has previously just watched, is now participating. Eventually, Otoha and Noriko drop by — Rin is flustered about Otoha's presence, while Maya is annoyed about Noriko's. Noriko leaves. Otoha asks if she can play, but Molly says no — this prompts an argument between Rin and Molly. Molly runs away.",
+        "participating_characters": [
+            "Molly MacCormack",
+            "Maya Makinami",
+            "Rin Rokuhara",
+            "Ayane Amamiya",
+            "Ami Arakawa",
+            "Futaba Fukuyama",
+            "Sana Sakakibara",
+            "Otoha Okakura",
+            "Noriko Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Legacy of Thaum Pt. III: Changeling",
+            "event_script_names": "secondbeach8",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "thirdthaum"
+        ],
+        "music_tracks": [
+            "breeze.mp3",
+            "andlove.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Everything Ephemeral (Face Forward)",
+        "next_event": "Alderaan"
+    }
+}

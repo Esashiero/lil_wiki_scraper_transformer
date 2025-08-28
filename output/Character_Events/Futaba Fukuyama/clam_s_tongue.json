@@ -1,0 +1,52 @@
+{
+    "event_id": "clam_s_tongue",
+    "event_title": "Clam's Tongue",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Clam%27s_Tongue",
+    "event_type": "Event",
+    "primary_character": "Futaba Fukuyama",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "15 Futaba Affection You must have seen or permanently missed the following Events: Seen \" Great Burdock Leaves \" from Futaba Fukuyama Seen \" You and Me and the Night \" from Miku Maruyama",
+        "to_get_this_event": "Visit Futaba's dorm room on any day except Tuesday after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Futaba Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - First Floor Hallway",
+            "Kumon-Mi"
+        ],
+        "synopsis": "Sensei arrives in the first floor dorm hallway and knocks on Futaba 's door, and reality immediately glitches. He tries to knock again to brute force the glitch to go away, but finds no purchase. Eventually, it does subside and leave Sensei back in the normal world, but not before he's halfway to using another method to 'fix' the world. Sensei fails to knock, and Futaba eventually steps out on her own, concerned that Miku was playing a prank on her. The two discuss Futaba's plans briefly, Futaba concerned at some of Sensei's wording, before Futaba decides to agree to Sensei's offer of leaving the dorm room for a while. The two wander for a while, Sensei not really knowing where he's going, and eventually, he asks Futaba why she chose to come with him, and why she isn't scared of him when he's exhibiting such unnatural behavior, even for himself. Futaba insists that though Sensei may see it differently, to her and most of the other girls, the things he does aren't wrong, and that no matter what happens, she'll be one of the ones who is there to support him, a decision he says she will end up regretting. Futaba doesn't appear concerned, and instead laughs the comment off. Eventually, the two find themselves in an area that is the closest to the wall Sensei has been since his arrival in this world, Futaba bringing up a story of one of her friends joining her for an expedition all the way out to a different part of the wall. Once Sensei says going to the wall was a joke, Futaba asks to sit down at some point, which Sensei agrees to. Futaba notices Sensei hasn't been looking at her, and encourages him to do so, but when he does, reality glitches again, and he hears something that he isn't confident is real. When he comes back, Futaba asks him what he thought she said, but his vague comment doesn't receive the reply he was going for, and he has to stop Futaba from getting absorbed in her own thoughts. She books a cab back to the dorms once Sensei eventually makes his intentions known.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Clam's Tongue",
+            "event_script_names": "futabanew3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "anotherfutabaevent"
+        ],
+        "music_tracks": [
+            "icantseeher.mp3",
+            "pop.mp3",
+            "sweetvermouth.mp3",
+            "merrychristmasmrlawrence.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Great Burdock Leaves",
+        "next_event": "Legs of a Dying Spider"
+    }
+}

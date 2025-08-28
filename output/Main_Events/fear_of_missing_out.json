@@ -1,0 +1,58 @@
+{
+    "event_id": "fear_of_missing_out",
+    "event_title": "Fear of Missing Out",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Fear_of_Missing_Out",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.22.11",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Dohoonkabhankoloos \" . This event belongs to an event chain started from \" Three Amigos \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kirin , Imani , Makoto , Nodoka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "Imani , Nodoka and Makoto are having an academic discussion on the bed until Sensei forces himself in. He is surprised that Imani lets them consume alcohol and that she gets along with Makoto considering their dynamic in class , but Imani made sure the girls aren’t drunk and has managed to impress Makoto with her intelligence. Sensei doesn’t mind as long as his salary doesn’t get cut, but Makoto thinks he should be lucky he gets paid at all, because his and her reputation suffered over the year due to all the things he does without her reporting him. He promises to make it up to her and while she doesn’t fully believe it, he thinks he really should do something if Makoto is feeling bad about that. Nodoka asks Imani if she intends to stay their teacher. Imani hopes that she can since she has no alternatives, is underpaid and homeless, only having somewhere to stay due to a spa membership. The girls are worried, but she informs them that the school's considering opening up the third floor of the dorm for her. Sensei complains about not being able to live at the dorm either and, after some banter, Nodoka presses Imani on her thoughts regarding the \"state\" of Sensei's class. She dodges the topic, though subtly implies she might have some interest in joining the \"battle royale\" among the girls for Sensei. Sensei is surprised to hear that, but she doesn’t understand why considering what happened during her visit in his office . Nodoka is interested to hear about that and so is Kirin , who suddenly joins in on the discussion. Kirin wants to have fun with them, but Nodoka and especially Makoto aren’t interested unless she can contribute to their academic discussion, with the latter assuming she only has interest in flirting. After repeatedly being belittled by Makoto, Kirin begins to speak with a more academic tone, starting a discussion about FOMO (the Fear Of Missing Out) and it’s link to depression, finishing off by insulting Makoto for her dismissive attitude towards the topic. The girls are impressed and offer her to join, but Kirin isn’t interested anymore, leaving the party together with Sensei.",
+        "participating_characters": [
+            "Sensei",
+            "Imani Imai",
+            "Makoto Miyamura",
+            "Nodoka Nagasawa",
+            "Kirin Kanda",
+            "Karin Kanda",
+            "Ayane Amamiya"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on the following: If Sensei saw Prisoner . Sensei's choice during Forty Degrees Below Zero . If Sensei chose to lie, the scene will be extended with a scene of Karin showing concern as Kirin and Sensei leave the party together. Ayane soon walks over and is quickly informed by Karin about the situation. Her reaction changes depending on if Prisoner was seen.",
+            "If Sensei saw Prisoner .",
+            "Sensei's choice during Forty Degrees Below Zero . If Sensei chose to lie, the scene will be extended with a scene of Karin showing concern as Kirin and Sensei leave the party together. Ayane soon walks over and is quickly informed by Karin about the situation. Her reaction changes depending on if Prisoner was seen.",
+            "If Sensei chose to lie, the scene will be extended with a scene of Karin showing concern as Kirin and Sensei leave the party together. Ayane soon walks over and is quickly informed by Karin about the situation. Her reaction changes depending on if Prisoner was seen."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Fear of Missing Out",
+            "event_script_names": "christmastwo9",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "imaniandgirls"
+        ],
+        "music_tracks": [
+            "stpartynight.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .22."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Dohoonkabhankoloos",
+        "next_event": "Walking on Eggshells"
+    }
+}

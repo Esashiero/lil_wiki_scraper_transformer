@@ -1,0 +1,50 @@
+{
+    "event_id": "uptown_girl",
+    "event_title": "Uptown Girl",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Uptown_Girl",
+    "event_type": "Event",
+    "primary_character": "Sara Sakakibara",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "10 Sara Affection You must have seen or permanently missed the following Events: Seen \" Like it's Any Other Day \" from Niki Nakayama Seen \" Waiting for Anything \" from Sana Sakakibara",
+        "to_get_this_event": "Call Sara in the afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Sara Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a"
+        ],
+        "synopsis": "When Sensei invites Sara to go for a walk around town, Sara is still feeling the effects of a night drinking and talking to Haruka . They talk about the differences and similarities between Sara and Sana , and about how Sara was when she was that age. Among other things, Sara says that she once wanted to be famous and adored — she points to a billboard of Niki Nakayama to illustrate her point. She doesn't believe Sensei when he tells her that Niki is his ex-girlfriend, so he calls Niki (much to Niki's annoyance) to prove it.",
+        "participating_characters": [
+            "Sensei",
+            "Sara Sakakibara"
+        ],
+        "trivia": [
+            "The conversation varies a bit depending Sensei's relationship with Sara."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Uptown Girl",
+            "event_script_names": "saradate10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "saranikiboard"
+        ],
+        "music_tracks": [
+            "calmbar.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .15p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Medical Assistance",
+        "next_event": "She's Always a Woman"
+    }
+}

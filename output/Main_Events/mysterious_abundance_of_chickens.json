@@ -1,0 +1,50 @@
+{
+    "event_id": "mysterious_abundance_of_chickens",
+    "event_title": "Mysterious Abundance of Chickens",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Mysterious_Abundance_of_Chickens",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.10.4",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Meat has Come \" . This event belongs to an event chain started from \" The Value of Sharing \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Kaori Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "City Streets"
+        ],
+        "synopsis": "As agreed, Sensei goes for a walk with Kaori . She wants to go to a place with many chickens, which turns out to be a nearby alleyway. As they walk, Kaori misinterprets something Sensei says and starts talking about hospitals, especially the \"delicious juice\" she gets from them rather than going to convenience stores. She also accidentally calls Sensei attractive. They arrive at the chicken alley, and Kaori is distressed to learn that the chickens are probably going to be slaughtered for a restaurant. Sensei then goes down a route for which an exit path cannot be found, and a partial reset is required — he wakes up on the ground with Kaori (and a chicken) bending over him. Kaori tells him to go home and rest.",
+        "participating_characters": [
+            "Sensei",
+            "Kaori Kadowaki",
+            "John"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Mysterious Abundance of Chickens",
+            "event_script_names": "halloween4",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "kaorihalloween"
+        ],
+        "music_tracks": [
+            "happyandplotting.mp3",
+            "amiawake.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Meat has Come",
+        "next_event": "Sexy Land"
+    }
+}

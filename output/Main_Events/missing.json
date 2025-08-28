@@ -1,0 +1,48 @@
+{
+    "event_id": "missing",
+    "event_title": "Missing",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Missing",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.3.4",
+    "interactivity": {
+        "requirements": "You must be on at least Day  50  to unlock this Event. You must have seen or permanently missed the following Events: Seen \" Window of the Waking Mind \" from Rin Rokuhara",
+        "to_get_this_event": "This Event occurs automatically on the first weekday on or after day 50 after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Classroom"
+        ],
+        "synopsis": "Sensei is going over the class roster, noting that once again, Rin seems to be absent, as the other girls are doing their own thing. Even despite Rin's reassurances she would be okay, he now hasn't seen her in several successive days , so he goes to talk to Futaba , who he thinks is the most likely to know about Rin's whereabouts. Futaba is surprised to see Sensei at her desk, and debates telling him when he inquires as to Rin's whereabouts, before eventually deciding to tell Sensei a euphemism, which still leaves him concerned. He asks Futaba how long she and Rin have known each other, and Futaba tells him more about her, and that until recently, Rin has had a habit that Futaba has had trouble digesting or helping Rin to deal with. Futaba says Rin usually recovers from this less-than-stellar state relatively quickly, but that this 'episode' has been particularly long. She reflects on what she knows, wishing she could stay with Rin and not leave her by herself, and Sensei expresses significant concern for Rin, which Futaba agrees with. She also tells Sensei that Rin has really warmed up to him lately, learning things about Rin's attitude toward him through their own conversations. Sensei tries to ask if there's anything he can do to help Rin in her current state, and Futaba suggests writing a letter, which Sensei quickly gets to work on.  A few minutes later, he presents the letter to Futaba, telling her to give it to Rin as soon as she's able and to not read it herself, which Futaba agrees to. Afterward, Sensei heads back to his desk and the remainder of the afternoon passes.",
+        "participating_characters": [
+            "Sensei",
+            "Futaba Fukuyama"
+        ],
+        "trivia": [
+            "If Futaba's affection level is at least 10, Futaba's comment about how Rin only has nice things to say about Sensei will be extended."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Missing",
+            "event_script_names": "day50",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "dayfifty"
+        ],
+        "music_tracks": [
+            "sweetvermouth.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Little Girl",
+        "next_event": "The Sakakibara Diet"
+    }
+}

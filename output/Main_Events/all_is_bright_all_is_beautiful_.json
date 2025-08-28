@@ -1,0 +1,50 @@
+{
+    "event_id": "all_is_bright_all_is_beautiful_",
+    "event_title": "All is Bright. All is Beautiful.",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=All_is_Bright._All_is_Beautiful.",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.19.21",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Goodnight \" . This event is the final event in an event chain started from \" Good Morning \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "At the morning of their departure, Sensei thinks about Niki sleeping in his bed. Nothing happened during her stay and she was gone before he woke up, though she took his second winter t-shirt. He stays at the bus station with Ami , Ayane , Maya and Touka , who still waits for Sensei to thank her for enabling the vacation and, to everyone’s surprise, gets one. The girls inform him that he will have more work to do now, because Wakana was rushed to the hospital due to an overdose . No one knows what exactly happened and Ayane suggests that they should leave her and Osako alone for now. To lighten the mood, Ami tells Sensei that Rin and Otoha are a couple now. He remembers that Rin wanted to confess to her, but is still surprised to hear that Otoha accepted her confession . The group enters the bus and makes their way back to town with Touka leaving at the dorm and the rest following Sensei to his home, not realizing that they left Yasu behind, who’s wonders where everyone is. Back in his bedroom, Sensei wonders how long he has in this world, until he thinks about heartbreaks, notices that Rin being with Otoha would mean that Molly ended up being hurt and decides to check on her soon. His thoughts are interrupted by Maya giving him a back hug and asking him to be quiet and let her have it. Accepting her plea, he acknowledges that he at least got one win at the end.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya",
+            "Touka Tsukioka",
+            "Ami Arakawa",
+            "Yasu Yasui",
+            "Maya Makinami"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "All is Bright. All is Beautiful.",
+            "event_script_names": "secondbeach18",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "endofsecondbeach"
+        ],
+        "music_tracks": [
+            "goodnight.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Goodnight",
+        "next_event": "Girls in Spandex"
+    }
+}

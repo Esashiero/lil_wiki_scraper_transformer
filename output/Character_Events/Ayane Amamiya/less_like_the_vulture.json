@@ -1,0 +1,49 @@
+{
+    "event_id": "less_like_the_vulture",
+    "event_title": "Less Like the Vulture",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Less_Like_the_Vulture",
+    "event_type": "Event",
+    "primary_character": "Ayane Amamiya",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after Forever Yours (Top of the World) .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Ayane Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Dorms - First Floor",
+            "School Dorms - Room 2"
+        ],
+        "synopsis": "Ayane leads Sensei back to the Dorms , guiding him inside her and Sana 's room after some deliberation.",
+        "participating_characters": [
+            "Sensei",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Less Like the Vulture",
+            "event_script_names": "ayanedorm10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ayanevirginredux"
+        ],
+        "music_tracks": [
+            "meanttobe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.24 (replaces The Worst Thing Ever )."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Forever Yours (Top of the World)",
+        "next_event": "First Words"
+    }
+}

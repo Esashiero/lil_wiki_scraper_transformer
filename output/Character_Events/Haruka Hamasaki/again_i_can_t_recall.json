@@ -1,0 +1,56 @@
+{
+    "event_id": "again_i_can_t_recall",
+    "event_title": "Again, I Can't Recall",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Again,_I_Can%27t_Recall",
+    "event_type": "Event",
+    "primary_character": "Haruka Hamasaki",
+    "chapter": "v0.25.10",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" To Anyone Who Passes By \" . This event belongs to an event chain started from \" So Far Below \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe",
+            "Unspecified Convenience Store",
+            "Sakaki-bar-a"
+        ],
+        "synopsis": "Haruka goes back into the cafe and Rin wants to know how her conversation with Sensei went. She isn’t sure, because she’s bad at judging how things will play out in the long run, and Rin understands since Otoha is mad at her for letting Chika join their club . Haruka is relieved to hear that leaving the manga club means that she and Molly aren’t on bad turns, because she wants to call her in for work, and Rin is ready to handle her, especially after being complimented. Haruka plans to join Maki at the bar but has no idea how to approach her after she ignored her. Rin recalls the strategy one of her mother’s uses to apologize and suggests her to buy flowers. While Haruka is looking for flowers in a convenience store, the narrator reads a poem called “The girl who cannot breathe”, talks about how falling trees still make a sound when no one’s around and claims that this may or may not be important later. Suddenly, Haruka gets called out by a tanned, brown-haired woman who needs her help picking flowers as an apology to her partner. She settles on flowers with a pink ribbon and hands flowers with a blue ribbon to Haruka, assuming that she wanted some as well. She apologizes for her outburst, but Haruka doesn’t mind since she deals with girls with a similar attitude and learns about the woman’s daughter when she mentions her cafe to her. Haruka assumes that she’s one of Rin’s mothers but can’t confirm it, because the woman doesn’t let her finish her questions and leaves the store without paying. As Haruka arrives at the bar, the narrator appears again. He has no poem this time and instead offers a glimpse of what happens behind our backs. Maki vents her frustration, grief and regrets that accumulated after her husband’s death to Sara , who does her best to console her. Haruka approaches her, wants to know why she bottled up her feelings for this long and wants to apologize, but Maki slaps her, lashes out at her for abandoning her when she needed her the most and for bringing flowers to apologize. She’s frustrated that she wasn’t allowed to keep her husband, but Haruka tells her that this outcome was determined by luck, regrets that she wasn’t there for her and only brought her flowers so she has something nice. Maki calms down and apologizes for hitting her, but Haruka hugs her, assures her that she had any right to do it and promises to not abandon her again. Meanwhile, Sensei arrives in his bedroom after another day went by without him noticing the passage of time. He hoped to find another hurt soul while wandering the streets, but was unable to find her. Before he goes to bed, he takes solace in the fact that there are two blue-eyed women suffering with her.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara",
+            "Haruka Hamasaki",
+            "Maki Miyamura",
+            "Sara Sakakibara"
+        ],
+        "trivia": [
+            "Rin makes a comment about Haruka's relationship with Sensei which depends on if she actually has a relationship with him. If she has, she acknowledges her infidelity, but Rin thinks that she should be with him rather than stick with a husband who may or may not come back. If she hasn't, she assures her that none of his belongings are in her apartment and what he even do with it there, to which she answers that he would spend time with other girls.",
+            "If she has, she acknowledges her infidelity, but Rin thinks that she should be with him rather than stick with a husband who may or may not come back.",
+            "If she hasn't, she assures her that none of his belongings are in her apartment and what he even do with it there, to which she answers that he would spend time with other girls."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Again, I Can't Recall",
+            "event_script_names": "sadgirls5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            ""
+        ],
+        "music_tracks": [
+            "comfort.mp3",
+            "starvingtodeathoutofreachofthesun.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .25p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "To Anyone Who Passes By",
+        "next_event": "Secret Weapon"
+    }
+}

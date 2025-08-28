@@ -1,0 +1,49 @@
+{
+    "event_id": "monsters",
+    "event_title": "Monsters",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Monsters",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.33.11",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Fairytale (The End Until Tomorrow) \" . This event belongs to an event chain started from \" Boner on the Bus \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Beach - Hot Springs"
+        ],
+        "synopsis": "The morning comes and while the rest of the girls are sleeping, one wanders off. This girl is Futaba who, due to living apart from her parents for most of her life, is used to waking up early to perform her chores. Even if she has no chores while on vacation, she still follows her mental list of errands, starting with taking a bath while no one can see her. It's when she takes her first steps inside that she realizes she's not alone – On the opposite side of a big rock is Imani , someone who isn’t accustomed to being up so early, but oftentimes is due to sleeplessness, but shares Futaba’s insecurities about being seen. Futaba takes a seat on the side of the rock closest to her and the two begin to talk while facing opposite directions. Imani asks if any of the other girls are going to be joining her and Futaba denies this, stating that everyone's asleep aside from Ayane , who's still missing . The two toss jokes back and forth, erasing the awkwardness between them. Imani quips that they'll soon be as good of friends as Futaba is with Nodoka . While Imani's often annoyed or exhausted by Nodoka, Futaba shines a light on her good traits, such as her confidence or tenacity, both traits she wants herself. While Imani might see plenty of things for Futaba to be confident in, Futaba herself can't see anything past her appearance, and so subsequent attempts to reassure her fall flat. She starts to apologize to Imani for venting so abruptly, especially about issues she'd have no experience with, but Imani reveals she too struggles with \"battling\" her reflection. She steps around to Futaba's side of the rock and sits next to her, allowing a closer look at the scars that cover her skin. The two reassure each other that, while they might not be able to see themselves as beautiful, they can take solace in the fact they see each other that way. The moment ends once Wakana steps into the bath, but the narrator chimes in to reassure the listener that everyone lives happily ever after.",
+        "participating_characters": [
+            "Futaba Fukuyama",
+            "Imani Imai",
+            "Wakana Watabe"
+        ],
+        "trivia": [
+            "A new picture message from Futaba is available following this Event."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Monsters",
+            "event_script_names": "beachwars10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "futabaimanibath"
+        ],
+        "music_tracks": [
+            "gentle.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.33."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Fairytale (The End Until Tomorrow)",
+        "next_event": "Pairs in Different Places"
+    }
+}

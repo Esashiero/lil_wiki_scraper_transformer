@@ -1,0 +1,59 @@
+{
+    "event_id": "tsuneyo_tojo_stand_up_comedian",
+    "event_title": "Tsuneyo Tojo, Stand-up Comedian",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Tsuneyo_Tojo,_Stand-up_Comedian",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.7.4",
+    "interactivity": {
+        "requirements": "You must be on at least Day  144  to unlock this Event. You must have seen or permanently missed the following Events: Seen Main Events up to \" Size Matters \"",
+        "to_get_this_event": "Autoplay during weekday if requirements are met",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Keep staring",
+                "effect": "Staring contest :D"
+            },
+            {
+                "context": null,
+                "option": "Say hello",
+                "effect": "Progresses the event"
+            }
+        ],
+        "effects": [
+            "+1 Tsuneyo Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "School Roof"
+        ],
+        "synopsis": "Sensei is strolling around the rooftop of the school when he meets a strange girl. After winning an optional staring contest, she remembers Sensei from when he visited her family's ramen shop with Yumi , and introduces herself as Tsuneyo Tojo . She tries to tell a small joke, but admits that comedy is not her strong suit. Sensei notes that her demeanor is very formal, and she is startled every time he uses her given name. She was homeschooled until recently, which has left her quite sheltered.",
+        "participating_characters": [
+            "Sensei",
+            "Tsuneyo Tojo"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Tsuneyo Tojo, Stand-up Comedian",
+            "event_script_names": "day144",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "tsuneyointro"
+        ],
+        "music_tracks": [
+            "oldweather.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Size Matters",
+        "next_event": "A Proper Introduction"
+    }
+}

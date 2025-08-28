@@ -1,0 +1,59 @@
+{
+    "event_id": "it_comes_to_claim_us_all",
+    "event_title": "It Comes To Claim Us All",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=It_Comes_To_Claim_Us_All",
+    "event_type": "Event",
+    "primary_character": "Sana Sakakibara",
+    "chapter": "v0.26.3",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Ad Meliora \" , or \" It's All Wrong \" . This event belongs to an event chain started from \" How the World Works \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Put your arm around her",
+                "effect": "+5 Sana Affection (Available if Sensei pursued Sara in Carry Me Home or A Mostly Empty Home )"
+            },
+            {
+                "context": null,
+                "option": "LEAVE! DON’T DO IT! PLEASE!",
+                "effect": "+10 Sana Affection Fails Ad Infinitum and breaks the event chain"
+            }
+        ],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi",
+            "Dorms - Room 2"
+        ],
+        "synopsis": "When Sensei awakes from his blackout, it’s already nighttime and he finds himself inside the limousine, unsure on what he did between leaving Ayane and now. Ayane asks Sensei if he can accompany Sana back to the dorm, because she needs to go home to get materials for her costume. While Sana isn’t keen on being treated like a baby, she wants him to accompany her so they can make up for the time she used for playing. Back inside her dorm room, Sana apologizes for playing her game instead of participating in beach activities with them, but Sensei assures her that it’s fine since she at least wore her bikini, causing her to blush and to regret her decision. During a conversation with light flirting, Sana suggests to watch a movie with him since he won’t spend the whole night with her. When he asks if she would want that, she refuses to answer. Sensei notices that the air in the room feels like an aphrodisiac, making him wonder if Sana feels it as well and if he should sacrifice the only ‘pure’ relationship he has for his own satisfaction and potentially sending her down the same path as her mother . As the movie goes on, Sensei finds it harder and harder to resist.",
+        "participating_characters": [
+            "Sensei",
+            "Sana Sakakibara",
+            "Ayane Amamiya"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "It Comes To Claim Us All",
+            "event_script_names": "ayanesanabeach3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "theridehome"
+        ],
+        "music_tracks": [
+            "meanttobe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .26p3."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Ad Meliora",
+        "next_event": "Ad Infinitum"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "event_id": "pride_joy",
+    "event_title": "Pride & Joy",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Pride_%26_Joy",
+    "event_type": "Event",
+    "primary_character": "Yuki Yamaguchi",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "Friday or Saturday 25 Yuki Affection You must have seen or permanently missed the following Events: Seen \" Douchebag McDouchefuck \" from Yuki Yamaguchi",
+        "to_get_this_event": "Visit Yuki at the Bar during the night after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a",
+            "Kumon-Mi - Streets"
+        ],
+        "synopsis": "Sensei walks into the bar to find Yuki and Sara in the middle of a discussion, with Sara promising to pay Yuki back in any way that doesn't involve money. Upon seeing him, Yuki asks him for his help in picking up something for Sara, as it'd be much more difficult on her own. While initially disinterested, when Yuki takes a few jabs at his masculinity, Sensei agrees as a way to prove himself. Upon stepping outside, though, and realizing Yuki doesn't have a car but, rather, a motorcycle, his previous amount of confidence disappears. She tries to reassure him that he'll be perfectly safe, and while he doesn't believe her, he does manage to convince himself he'll be safe enough since it's “not a car”. Climbing onto the back, and wrapping himself around Yuki's waist, the two take off down the streets of Kumon-mi. Keeping a leisurely pace, she calls back to him, asking if it's as bad as he was making it out to be – He claims it's not “the worst”, though says he does feel a bit emasculated due to their positions. After explaining what he means, Yuki scoffs at the idea that he needs to be entirely masculine. She goes on a rant, explaining that people trying to label themselves just because the world thinks they're weird or different from how they should be is ridiculous and that people are all individually weird and strange in their own ways. Sensei's surprised by her passionate rant, with Yuki explaining that she hates when people feel they need to be a certain way; She feels as if it's just another excuse for people to hate each other, reassuring Sensei she won't think less of him just because he's not always manly, and that she trusts him to do the same for her. Sensei thanks Yuki for her speech and the two continue their ride, with Yuki inviting Sensei out for another ride whenever he wants. Finally arriving at their location, Sensei takes a moment to catch his breath. His exhaustion is only worsened when Yuki explains they'll be hauling back a giant espresso machine, which he finds impossible to do on their current ride. Before heading to pick the machine up, Yuki asks Sensei to check in on Kaori whenever he can, as she's been acting stranger than usual lately.",
+        "participating_characters": [
+            "Sensei",
+            "Yuki Yamaguchi",
+            "Sara Sakakibara"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei pursued Sara during either Carry Me Home or A Mostly Empty Home ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Pride & Joy",
+            "event_script_names": "yukidate25",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yukibikeride"
+        ],
+        "music_tracks": [
+            "calmbar.mp3",
+            "retrospect.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .30.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Douchebag McDouchefuck",
+        "next_event": "Big Dog"
+    }
+}

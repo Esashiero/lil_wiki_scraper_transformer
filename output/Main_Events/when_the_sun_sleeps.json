@@ -1,0 +1,61 @@
+{
+    "event_id": "when_the_sun_sleeps",
+    "event_title": "When the Sun Sleeps",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=When_the_Sun_Sleeps",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.36.11",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" In Regard to the Peony \" . This event belongs to an event chain started from \" The Collector \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-mi",
+            "Tsukioka Hotel"
+        ],
+        "synopsis": "Night has fallen on Kumon-mi and the Nakayama sisters stand outside the entrance to the Tsukioka Hotel . After Noriko thanks her sister for the ride, and after Niki shares a bit too much of her inner thoughts, the two begin to discuss the ambiguous circumstances regarding Sensei 's disappearance. While Noriko's at least somewhat content knowing where he's disappeared to this time , Niki's much more skeptical, finding Ami's strangely calm demeanor odd when Sensei is seemingly falling apart. Having nothing but theories, the two instead wonder if he'll actually receive the presents they delivered yesterday , both confessing the probability is uncertain when Ami's so clearly unhinged and possessive – Noriko's a bit surprised to hear the same sentiment from her sister though, especially when Niki's always so kind to Ami. Niki elaborates, explaining that while her kindness is in part due to lingering nostalgia for Ami when she was younger, a large portion of it is courtesy – Ami has experienced so many awful things growing up and been saddled with far too much responsibility for someone her age, and while this might not excuse her possessiveness, it's made her fragile. Noriko's surprised to hear such genuine concern from her sister, though, presses her on how much patience she still has left. The proceeding conversation makes Noriko uncomfortable and she attempts to leave. Before she can walk away, Niki stops her, asking about Maya and her strangely aggravated reaction to seeing them yesterday. Noriko fills her sister in on the details , with both girls remarking that there's something strange about her. While Niki's just experiencing a bit of deja vu, Noriko's been feeling confused about Maya's sudden shift in personality. The scene jumps ahead, and a narrator chimes in to explain to the listener just what's happened between now and November 1st. They inform the listener that, just last month, Maya almost lunged at Noriko with anger in the same way she once had back during winter and how no one seemed to find this strange or uncharacteristic. This event has stuck in the back of Noriko's mind and follows her as she walks along the tiled floor of the hotel, finding herself falling into silly superstitions as she questions her own sanity. She soon enters one of the many hotel rooms, finding the class' Christmas party in full swing and looking around in hopes one of the girls pulls her out of her melancholy before it bursts out of her. Molly ends up being the one to do so, calling Noriko over in the guise of 'business'. Noriko quickly deduces that said business is Molly attempting to invite her into the class' long-running D&D campaign. While flattered by the offer, Noriko explains she's far too busy with her own TTRPG campaign to begin another one and assures Molly she doesn't need to come up with a backup present. Molly struggles to accept this, with the two compromising on her paying for Noriko the next time she's in Koi Cafe . The next person to grab Noriko's attention is Kirin , arriving with her sister after their shopping trip . After briefly discussing both Touka 's plans for tonight and the mysterious disappearance of Yasu , the two attempt to discuss Christmas presents. This conversation is quickly derailed by Karin pointing out that the two of them are standing under the mistletoe, though nothing comes from it since Noriko evades Kirin's advances.",
+        "participating_characters": [
+            "Noriko Nakayama",
+            "Niki Nakayama",
+            "Imani Imai",
+            "Rin Rokuhara",
+            "Futaba Fukuyama",
+            "Molly MacCormack",
+            "Tsuneyo Tojo",
+            "Kirin Kanda",
+            "Karin Kanda",
+            "Miku Maruyama"
+        ],
+        "trivia": [
+            "The image of Noriko walking through the halls of the hotel has various pieces of text overlaid on them. Transcripts of these lines of text can be found below: \"YOUR SUNKEN BELLY - IS THE DAILY CUP - OF MILK I DRANK - AS A BOY BEFORE MORNING PRAYER\" \"AND SO SHE TOLD HER\" \"I CAN'T SEE MY SOUL.\"",
+            "\"YOUR SUNKEN BELLY - IS THE DAILY CUP - OF MILK I DRANK - AS A BOY BEFORE MORNING PRAYER\"",
+            "\"AND SO SHE TOLD HER\"",
+            "\"I CAN'T SEE MY SOUL.\""
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "When the Sun Sleeps",
+            "event_script_names": "springtime10",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "norikoknowssomethingiswrong"
+        ],
+        "music_tracks": [
+            "merrychristmasmrlawrence.mp3",
+            "stpartynight.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.36."
+        ]
+    },
+    "navigation": {
+        "previous_event": "In Regard to the Peony",
+        "next_event": "Hunger Games"
+    }
+}

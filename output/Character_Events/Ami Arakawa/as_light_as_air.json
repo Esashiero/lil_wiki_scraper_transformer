@@ -1,0 +1,48 @@
+{
+    "event_id": "as_light_as_air",
+    "event_title": "As Light as Air",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=As_Light_as_Air",
+    "event_type": "Lust Event",
+    "primary_character": "Ami Arakawa",
+    "chapter": "v0.18.8",
+    "interactivity": {
+        "requirements": "15 Ami Lust",
+        "to_get_this_event": "Have 15+ Ami Lust before The Price of Experience begins the event chain. Autoplays after \" Before the Sun Comes Up \" . This event is the final event in an event chain started from \" The Price of Experience \" .",
+        "to_miss_this_event": "Have less than 15 Ami Lust before The Price of Experience . Replaced by Does She Remind You? .",
+        "choices": [],
+        "effects": [
+            "+2 Ami Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House - Sensei's Room"
+        ],
+        "synopsis": "Sensei is woken up by Ami , who's been waiting by his bedside for his attention.",
+        "participating_characters": [
+            "Sensei",
+            "Ami Arakawa"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "As Light as Air",
+            "event_script_names": "amilust15",
+            "event_missed_name": "Does She Remind You?"
+        },
+        "backgrounds": [
+            "amiwantsyourcum"
+        ],
+        "music_tracks": [
+            "amiawake.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .18p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Heaven for Human Blood",
+        "next_event": "Conscious or Not"
+    }
+}

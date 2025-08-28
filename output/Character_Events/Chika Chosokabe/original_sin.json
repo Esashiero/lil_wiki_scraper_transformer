@@ -1,0 +1,54 @@
+{
+    "event_id": "original_sin",
+    "event_title": "Original Sin",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Original_Sin",
+    "event_type": "Event",
+    "primary_character": "Chika Chosokabe",
+    "chapter": "v0.37.12",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Weak Man, Weak Boy \" . This event belongs to an event chain started from \" Episcopalis: Pickled Plums & Polyrhythmic Psalms \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Chika Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sakaki-bar-a - Sana's Bedroom",
+            "Tsukioka Apartment Complex - Chosokabe Apartment"
+        ],
+        "synopsis": "Sensei wakes up, having spent the night at the Sakakibara Residence . As he lies and stares at his surroundings, he accepts the fact that he's never been pure – Being born without purity has never bothered him before and it bothers him less now, having confirmed that true purity doesn't exist. He acknowledges that he was trying to hold something he wasn't supposed to have, only to realize that he can take anything he wants and that he should've done so when he was supposed to . After Sara announces her leave through the door, Sensei checks his notifications, wondering if Ami got any rest last night or if she tried to reach him until she passed out from exhaustion. Suddenly, he receives a call from Chika , who's calling to remind him that he has to babysit Chinami today. She additionally informs him that she's moved to an address that's closer to his place. He lethargically gets up, confirming that he's on his way before hanging up. As he's doing so, he receives Chika's new address, confirming that Tsubasa 's plan of moving the Chosokabe sisters into a new home has worked out. He makes his way over to Touka 's apartment complex , wondering how she's doing after he left her on such ambiguous terms last Halloween. He doesn't have to wonder about this for long, as upon stepping into Chika's new place, he finds her there, along with both Chika and Chinami. Now able to take in the new scenery, Sensei asks Chika about her old place, having thought it held too much sentimental value for her to consider moving. She informs him that that's still true, but that the condition of the flat had gone down considerably since he disappeared , leaving her little choice. Additionally, the rent at Touka's complex is so cheap that she can easily afford both places for a while, allowing Yumi to use her old place. She makes sure to thank Touka once again for her generously low rent, which Touka dismisses as merely business before going to leave. Before she's able to though, Sensei stops her, having summoned the courage to try and talk to her about last Halloween. Unfortunately, he has no idea what to say and fumbles his words until Touka saves him by fabricating a story. Under the guise of helping him establish a business, she slides him her personal number before saying goodbye. Sensei tries to move on, deciding to focus on patching up his situation with Chika. This plan is somewhat ruined when she reveals that she needs to leave soon as well, only having a bit of time to show off her new work uniform. He quickly compliments her new hairstyle before moving over to Chinami to wait. After some light teasing from Chinami, Sensei is approached by Chika, ecstatic for his approval and the knowledge that Niki used to work at the same cafe . He calms her down and delivers her some compliments, wishing her luck at work.",
+        "participating_characters": [
+            "Sensei",
+            "Chika Chosokabe",
+            "Sara Sakakibara",
+            "Sana Sakakibara",
+            "Chinami Chosokabe",
+            "Touka Tsukioka"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Original Sin",
+            "event_script_names": "chikaspring2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "sanatochika"
+        ],
+        "music_tracks": [
+            "sidecharacter.mp3",
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Gold Digger",
+        "next_event": "To Drink, To Drown"
+    }
+}

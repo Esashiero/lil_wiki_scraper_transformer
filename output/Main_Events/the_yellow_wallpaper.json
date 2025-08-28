@@ -1,0 +1,53 @@
+{
+    "event_id": "the_yellow_wallpaper",
+    "event_title": "The Yellow Wallpaper",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=The_Yellow_Wallpaper",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.19.6",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" The Next Best Thing \" . This event belongs to an event chain started from \" Good Morning \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Nodoka Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Beach"
+        ],
+        "synopsis": "Sensei finds Nodoka reading a book on the beach. After a lot of Nodoka-style flirting, he asks her about her book. She is reading The Yellow Wallpaper , and wonders how Sensei would fare if he were stuck in one place like the protagonist of that story. Nodoka wants to see Sensei's room, and they head to the inn. They meet Wakana and Osako , who are less pleased to see Nodoka than she is to see them. In Sensei's room, Sensei and Nodoka meet Kirin , who may or may not be upset at Nodoka's presence.",
+        "participating_characters": [
+            "Sensei",
+            "Nodoka Nagasawa",
+            "Wakana Watabe",
+            "Osako Osaka"
+        ],
+        "trivia": [
+            "There is variation in the dialogue depending on if Sensei has seen C'est La Vie ."
+        ]
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "The Yellow Wallpaper",
+            "event_script_names": "secondbeach6",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "ocean",
+            "nodokaispretty"
+        ],
+        "music_tracks": [
+            "icantseeher.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .19p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Next Best Thing",
+        "next_event": "Everything Ephemeral (Face Forward)"
+    }
+}

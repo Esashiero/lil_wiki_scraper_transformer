@@ -1,0 +1,49 @@
+{
+    "event_id": "wicked_witch_of_kumon_mi",
+    "event_title": "Wicked Witch of Kumon-mi",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Wicked_Witch_of_Kumon-mi",
+    "event_type": "Main Event",
+    "primary_character": null,
+    "chapter": "v0.10.12",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Samhain \" . This event belongs to an event chain started from \" The Value of Sharing \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+5 Makoto Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Amamiya Estate"
+        ],
+        "synopsis": "Makoto pulls Sensei away from the party, wanting to spend some time alone, and also chastise him for his treatment of her.",
+        "participating_characters": [
+            "Sensei",
+            "Makoto Miyamura"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Wicked Witch of Kumon-mi",
+            "event_script_names": "halloween11",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "makotohalloween"
+        ],
+        "music_tracks": [
+            "letsfuckingo.mp3",
+            "asobeatsexdark.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.10p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Samhain",
+        "next_event": "The Depressing Implication of Goosebumps"
+    }
+}

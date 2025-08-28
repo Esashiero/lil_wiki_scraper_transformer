@@ -1,0 +1,48 @@
+{
+    "event_id": "fair_is_fair",
+    "event_title": "Fair is Fair",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Fair_is_Fair",
+    "event_type": "Invite Event",
+    "primary_character": "Miku Maruyama",
+    "chapter": "Chapter 3",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen \" Breakaway \" from Miku Maruyama",
+        "to_get_this_event": "Invite Miku over after all Requirements have been fulfilled.",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+3 Miku Lust"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Sensei's House"
+        ],
+        "synopsis": "After being unable to spend time alone last time , Sensei invites Miku over to make up for it.",
+        "participating_characters": [
+            "Sensei",
+            "Miku Maruyama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Fair is Fair",
+            "event_script_names": "mikuinvite2",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mikuhjinv"
+        ],
+        "music_tracks": [
+            "asobeatsex2.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Breakaway",
+        "next_event": "Voice of Vibration"
+    }
+}

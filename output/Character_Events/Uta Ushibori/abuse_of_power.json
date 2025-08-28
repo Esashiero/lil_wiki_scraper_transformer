@@ -1,0 +1,48 @@
+{
+    "event_id": "abuse_of_power",
+    "event_title": "Abuse of Power",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Abuse_of_Power",
+    "event_type": "Event",
+    "primary_character": "Uta Ushibori",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" Caterpillar \"",
+        "to_get_this_event": "Visit the Maid Cafe at night",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Uta Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Maid Cafe"
+        ],
+        "synopsis": "Sensei visits the maid cafe for the first time since Uta moved into his class. He still has no resistance to her tactics, and they talk a bit about the nature of her job. Uta points out that Sensei would get in trouble with the school for being there, and he informs her that thanks to the school's policy on students having jobs, so would she. They agree to keep each other's secret. Afterwards, Sensei walks Uta back to the dorm, since she's still a bit new to the area.",
+        "participating_characters": [
+            "Sensei",
+            "Uta Ushibori"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Abuse of Power",
+            "event_script_names": "utamaid1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "utafirstmaidcafe"
+        ],
+        "music_tracks": [
+            "maidcafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.12p2."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Far From Home",
+        "next_event": "Love Me to Pieces"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "event_id": "arms_bent_back",
+    "event_title": "Arms Bent Back",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Arms_Bent_Back",
+    "event_type": "Secret Event",
+    "primary_character": null,
+    "chapter": "Nineteenth",
+    "interactivity": {
+        "requirements": "You must have seen or permanently missed the following Events: Seen Main Events up to \" Perfect Harmony \"",
+        "to_get_this_event": "Choose to visit First Floor of the School Dorms , after going up to the Second Floor first.",
+        "to_miss_this_event": "Fail to trigger the event. Replaced by Lost in the Red Room .",
+        "choices": [],
+        "effects": [
+            "+1 Nao-chan Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "The Red Room",
+            "A Normal Family Home",
+            "A Bedroom"
+        ],
+        "synopsis": "",
+        "participating_characters": [
+            "Moyo Makinamo",
+            "???",
+            "Ami Arakawa",
+            "Sekai Arakawa",
+            "Sensei"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Arms Bent Back",
+            "event_script_names": [
+                "armsbentback"
+            ],
+            "event_missed_name": "Lost in the Red Room"
+        },
+        "backgrounds": [
+            "redroom"
+        ],
+        "music_tracks": [
+            "redroom.mp3",
+            "babycry.mp3",
+            "contemplation.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.42."
+        ]
+    },
+    "navigation": {
+        "previous_event": null,
+        "next_event": null
+    },
+    "secret_information": {
+        "description": "== Happy Event ==\nThis Event is a special event with a special trigger (check requirements). It may or may not contain non-English content.\nThe following translations are available:",
+        "translations": []
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "event_id": "one_man_s_trash",
+    "event_title": "One Man's Trash",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=One_Man%27s_Trash",
+    "event_type": "Event",
+    "primary_character": "Io Ichimonji",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "20 Io Affection You must have seen or permanently missed the following Events: Seen \" Amongst Other Things \" from Io Ichimonji",
+        "to_get_this_event": "Visit the Bathhouse at Afternoon",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [
+            {
+                "context": null,
+                "option": "Name the robot",
+                "effect": "The name is saved for future use"
+            }
+        ],
+        "effects": [
+            "+3 Io Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Bathouse"
+        ],
+        "synopsis": "Io is hiding something behind her back, and after a certain amount of questioning, she admits that it's something she planned to give him. She is having second thoughts about doing so, wondering whether it's really ready or whether he will think it's dumb. Sensei says that he wants to see it and that it isn't a big deal, but she says that for her, it's like giving away a part of herself. Eventually she reveals a painted wooden robot . She is pleased that Sensei likes him, and invites him to choose his name. Noriko and Kirin arrive, and Kirin is less complementary about the robot. Io leaves; Sensei follows. He tells her that he still likes her gift, and wants to go with her rather than stay with Noriko and Kirin.",
+        "participating_characters": [
+            "Sensei",
+            "Io Ichimonji",
+            "Noriko Nakayama",
+            "Kirin Kanda"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "One Man's Trash",
+            "event_script_names": "bathhouse20",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "iopresent"
+        ],
+        "music_tracks": [
+            "normalday.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .18p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Amongst Other Things",
+        "next_event": "Another Man's Treasure"
+    }
+}

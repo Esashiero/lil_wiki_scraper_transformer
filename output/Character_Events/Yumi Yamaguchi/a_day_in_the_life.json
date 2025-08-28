@@ -1,0 +1,47 @@
+{
+    "event_id": "a_day_in_the_life",
+    "event_title": "A Day in the Life",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=A_Day_in_the_Life",
+    "event_type": "Event",
+    "primary_character": "Yumi Yamaguchi",
+    "chapter": "v0.29.5",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Loggerhead \" . This event belongs to an event chain started from \" To Catch Me If I Fall \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": []
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Hallways",
+            "Kumon-Mi High - Cafeteria"
+        ],
+        "synopsis": "Sensei experiences another blackout and once he “wakes up”, he finds himself in a hallway inside Kumon-mi High . Yumi , who stayed with him, explains that he made his way to the school after mentioning a box, but she thought that it was just meaningless blackout talk. Sensei tells her that it’s hard to explain, which doesn’t surprise her since this entire week was already weird and she would’ve preferred staying with Chika and Chinami instead of being dragged around by him. He dismisses her to do just that, but she wonders what will happen if he zones out again. When he asks if she’s worried about him, she gets agitated, negates his question and claims that she just wants to finish their conversation about her memories. Since Yumi is hungry, Sensei decides to continue this conversation in the cafeteria. After taking a seat at one of the tables, Yumi notices how much creepier the school is at night because it gives her the impression that everyone else is gone. Sensei can relate to that since he sometimes comes here at night either because of his blackouts or Maya , but Yumi cuts him off before he can elaborate to get some food. Sensei gets lost in thought until Yumi returns with two plates. Sensei declines the food she brought since Ami would get mad if he doesn’t eat her meals, which makes her wonder if she’s also aware, but he tells her that, so far, it’s only him, Maya and Ayane . Sensei also tells her that they lived through the apocalypse – The phenomenon that the current world comes to an end and gets reset at a different point in time but always during the same school year. Yumi gets scared but finds it hard to believe, and Sensei agrees that she needs to witness it to do so. She makes an assumption about what can make her witness it, but Sensei cuts her off since this is not what’s going to happen during the sleepover and that he and the other girls only want to observe each other and gather more knowledge with her as a guinea pig. Yumi asks how this is supposed to convince her and Sensei retorts that he can’t think of anything that would convince her if even the truth can’t do that. After calming down, Yumi asks what she’d even tell Chika if she went along with the sleepover idea, with Sensei saying she doesn’t need to know – In fact, she might not remember the sleepover at all, since which memories are transferred between resets is inconsistent. Yumi finds it extremely unfair how a memory like that might disappear but her bad memories, including those with him , get to stay, making it feel like life wants to make her suffer. Getting the feeling that she won’t come, Sensei starts to back off, but Yumi agrees on the condition that she’ll leave the moment he makes her feel uncomfortable. They leave, but find the exit blocked by a box and a stuffed rabbit. Sensei goes to move it, but suddenly ends up back home and falls asleep.",
+        "participating_characters": [
+            "Sensei",
+            "Yumi Yamaguchi"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "A Day in the Life",
+            "event_script_names": "yumislumber3",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "yuminightschool"
+        ],
+        "music_tracks": [
+            "amiawake.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update .29.0."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Loggerhead",
+        "next_event": "Kid of the Month"
+    }
+}

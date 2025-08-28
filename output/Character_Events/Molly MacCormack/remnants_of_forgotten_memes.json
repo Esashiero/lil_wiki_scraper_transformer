@@ -1,0 +1,48 @@
+{
+    "event_id": "remnants_of_forgotten_memes",
+    "event_title": "Remnants of Forgotten Memes",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Remnants_of_Forgotten_Memes",
+    "event_type": "Event",
+    "primary_character": "Molly MacCormack",
+    "chapter": "Chapter 1",
+    "interactivity": {
+        "requirements": "5 Molly Affection You must have seen or permanently missed the following Events: Seen \" NTR & Pregnancy \" from Molly MacCormack",
+        "to_get_this_event": "Visit the Koi Cafe at night",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Molly Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Koi Cafe"
+        ],
+        "synopsis": "Molly is playing a game on her phone until Sensei interrupts her to talk. They agree that both of them are weird, and discuss Molly's preference for games over real life. She says that real life lacks the clear progression systems and score checks of games, and that you \"gotta actually think about stuff\". Rather than put much effort into moving through life, she prefers a policy of \"just standing still and waiting for everything to pass by you\", which she says gets you to the same place in the end. However, she says that she is happy to have ended up in Sensei's class.",
+        "participating_characters": [
+            "Sensei",
+            "Molly MacCormack"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Remnants of Forgotten Memes",
+            "event_script_names": "mollycafe5",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "mollyphonegame"
+        ],
+        "music_tracks": [
+            "cafe.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.7."
+        ]
+    },
+    "navigation": {
+        "previous_event": "The Cult of Molly",
+        "next_event": "Torrent of Power"
+    }
+}

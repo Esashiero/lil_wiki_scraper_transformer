@@ -1,0 +1,52 @@
+{
+    "event_id": "anthem_of_the_heart",
+    "event_title": "Anthem of the Heart",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Anthem_of_the_Heart",
+    "event_type": "Event",
+    "primary_character": "Rin Rokuhara",
+    "chapter": "v0.37.8",
+    "interactivity": {
+        "requirements": "None",
+        "to_get_this_event": "Autoplays after \" Gold Digger \" . This event belongs to an event chain started from \" Episcopalis: Pickled Plums & Polyrhythmic Psalms \" .",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+10 Rin , Futaba , Molly , Sana Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Kumon-Mi High - Courtyard",
+            "Koi Cafe"
+        ],
+        "synopsis": "Shortly after Sensei departs from his office , his phone is flooded with notifications from Ami, who barely gives him a moment of rest after the incident between her and Chika . Whilst he's trying to slip away from the school unnoticed, he's suddenly spotted by Rin . Soon, he's surrounded by Rin, Molly , Futaba , and Sana . He tries to send them off back to class, but apparently Imani agreed to end school early, and the girls split into multiple groups and took position at different exits outside the school to make sure he's okay. He assures them they have nothing to worry about, but they refuse to believe this, especially after Ami's threat . He tries using humor to slip past them, but they all refuse to budge, believing he'd better off staying away from Ami until he is more stable. He disagrees, reminding them that she's his responsibility and insisting that he's the only one who can help her, something he admits he would've done earlier if he was less selfish and passive. All the girls disagree with the idea of him being useless, each reminding him of all he's done for them – He dryly quips how nice it is that everyone but the person closest to him has benefited from his existence. Nevertheless, everyone refuses to let Sensei leave, even as he insists that Ami's constant calls indicate she needs him. Sana points out how he's yet to answer any of them, showing how reluctant he truly is to be alone with her. After some emotional manipulation from Rin and Sana, he concedes, being dragged along with the group as they make their way to Koi Cafe . Upon arriving, he's soon given a coffee, but barely touches it as his mind wanders back to his dreams. He's snapped out of his idle thinking by Rin, with Sana asking for details on his \"black outs\". He describes them as a mix of hallucinations and blocking out time, a detail Futaba and Molly find intriguing in their own ways. Rin compares this with her depression, explaining that for her, time seems to become entirely meaningless, leaving her waiting for something to snap her back to reality – Unfortunately, the only thing that could do that is time itself, which creates a paradox of waiting for time to heal the wound without any idea how much time is passing. Sensei finds this explanation relatable and apologizes for being too deep in his own problems to help her with hers , but she assures him that, outside of her being eternally bitter towards her ex , she handles her break-up well. Rin, along with Molly and Sana, quickly brings Sensei up to date on their recent Christmas party , with Futaba stepping in once Rin and Molly begin to bicker. He's surprised to hear his name was still put down for the class' Secret Santa , prompting Rin to insist they all believed he'd return someday, even if waiting was tough due to how much they depend on him. He can believe that, with the exception of Rin herself, but she assures him that she missed him just as much. Moving on, Rin invites him to hang out with her more now that she's single again, an idea Sensei passes on as moving around is exceedingly exhausting for him. The girls all hope that, at the very least, they'll be able to visit him while he weathers his sadness at home. The hangout continues into the afternoon, and all the while Sensei's phone continues to buzz away.",
+        "participating_characters": [
+            "Sensei",
+            "Rin Rokuhara",
+            "Molly MacCormack",
+            "Futaba Fukuyama",
+            "Sana Sakakibara"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Anthem of the Heart",
+            "event_script_names": "rinspring1",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "rinandthegang"
+        ],
+        "music_tracks": [
+            "fallishere.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.37."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Ever Fallen In Love",
+        "next_event": "Voices of a Distant Star"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "event_id": "hotel_rooms",
+    "event_title": "Hotel Rooms",
+    "url": "https://www.lessonsinlove.wiki/index.php?title=Hotel_Rooms",
+    "event_type": "Event",
+    "primary_character": "Niki Nakayama",
+    "chapter": "Chapter 2",
+    "interactivity": {
+        "requirements": "Saturday 15 Niki Affection You must have seen or permanently missed the following Events: Seen \" Thousands, If Not Millions \" from Niki Nakayama",
+        "to_get_this_event": "Call Niki in the night",
+        "to_miss_this_event": "This event is not missable.",
+        "choices": [],
+        "effects": [
+            "+1 Niki Affection"
+        ]
+    },
+    "progression": {
+        "locations": [
+            "Hotel"
+        ],
+        "synopsis": "Niki is busy, but agrees to meet Sensei at a hotel after her concert. They talk about her casual-mode appearance, the hardships of the idol industry, and loneliness. They end up kissing. Niki finds that he is still able to make her happy, although she doesn't want to go too far yet, and postpones any returning of the favor. She falls asleep afterwards — Sensei thinks about staying the night, but is dissuaded by a barrage of texts from Ami .",
+        "participating_characters": [
+            "Sensei",
+            "Niki Nakayama"
+        ],
+        "trivia": []
+    },
+    "technical_information": {
+        "event_references": {
+            "event_default_name": "Hotel Rooms",
+            "event_script_names": "nikidate15",
+            "event_missed_name": "This event is not missable."
+        },
+        "backgrounds": [
+            "nikihotel"
+        ],
+        "music_tracks": [
+            "love.mp3"
+        ],
+        "changelog": [
+            "This Event was added in Update 0.20p1."
+        ]
+    },
+    "navigation": {
+        "previous_event": "Thousands, If Not Millions",
+        "next_event": "Sisters"
+    }
+}
